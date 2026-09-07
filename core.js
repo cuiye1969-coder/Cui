@@ -5,6 +5,22 @@ const fresh=()=>({version:1,senses:{},units:{},mistakes:{},favorites:[],grammarF
 const dayKey=(date=new Date())=>[date.getFullYear(),String(date.getMonth()+1).padStart(2,'0'),String(date.getDate()).padStart(2,'0')].join('-');
 const shuffle=(a,rng=Math.random)=>{a=[...a];for(let i=a.length-1;i>0;i--){let j=Math.floor(rng()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;};
 const normalize=s=>String(s).trim().normalize('NFC').replace(/\s+/g,' ').replace(/[.!?。！？]+$/,'').toLocaleLowerCase('de');
+const searchFold=s=>normalize(s).replace(/ä/g,'ae').replace(/ö/g,'oe').replace(/ü/g,'ue').replace(/ß/g,'ss');
+const editDistance=(a,b)=>{a=[...a];b=[...b];let prev=Array.from({length:b.length+1},(_,i)=>i);for(let i=0;i<a.length;i++){const next=[i+1];for(let j=0;j<b.length;j++)next[j+1]=Math.min(next[j]+1,prev[j+1]+1,prev[j]+(a[i]===b[j]?0:1));prev=next;}return prev[b.length];};
+function searchRank(word,query){
+ const raw=normalize(query),q=searchFold(query);if(!q)return 0;
+ const fold=x=>searchFold(x),lemma=[word.lemma,word.id,word.article?word.article+' '+word.lemma:''].filter(Boolean).map(fold),forms=[...(word.present||[]),word.past,word.participle,word.plural,word.comparative,word.superlative,...Object.values(word.conjugation||{}).flat(),...(word.sourceForms||[]).map(f=>f.form)].filter(Boolean).map(fold),meanings=word.senses.flatMap(s=>[s.zh,s.pattern]).filter(Boolean).map(fold),examples=word.senses.map(s=>s.example).filter(Boolean).map(fold);
+ if(lemma.includes(q))return 0;
+ if(forms.includes(q))return 1;
+ const prefix=(xs,base)=>{const hits=xs.filter(x=>x.startsWith(q));return hits.length?base+Math.min(...hits.map(x=>(x.length-q.length)/Math.max(1,x.length))):Infinity;};
+ let score=Math.min(prefix(lemma,10),prefix(forms,20));if(Number.isFinite(score))return score;
+ const inside=(xs,base)=>{const hits=xs.map(x=>x.indexOf(q)).filter(i=>i>=0);return hits.length?base+Math.min(...hits):Infinity;};
+ score=Math.min(inside(lemma,30),inside(forms,40),inside(meanings,50),inside(examples,60));if(Number.isFinite(score))return score;
+ if(/[^a-zäöüß]/i.test(raw)||q.length<2)return Infinity;
+ const pool=[...lemma,...forms].filter(x=>x.length);let similarity=0;for(const x of pool){const target=x.length>q.length+4?x.slice(0,q.length+4):x;similarity=Math.max(similarity,1-editDistance(q,target)/Math.max(q.length,target.length));}
+ const threshold=q.length<=3?.6:q.length<=5?.5:.42;return similarity>=threshold?100+(1-similarity)*100:Infinity;
+}
+function rankWords(words,query){const q=normalize(query);if(!q)return [...words];const ranked=words.map((word,index)=>({word,index,score:searchRank(word,q)})).filter(x=>Number.isFinite(x.score));const exactLemma=ranked.filter(x=>x.score===0),exactForm=ranked.filter(x=>x.score===1),chosen=exactLemma.length?exactLemma:exactForm.length?exactForm:ranked;return chosen.sort((a,b)=>a.score-b.score||a.word.lemma.localeCompare(b.word.lemma,'de')||a.index-b.index).map(x=>x.word);}
 function makeCore(data){
  const words=Object.fromEntries(data.words.map(w=>[w.id,w])),units=Object.fromEntries(data.units.map(u=>[u.id,u])),senses={};
  data.words.forEach(w=>w.senses.forEach(s=>senses[s.id]={...s,word:w}));
@@ -50,5 +66,5 @@ function makeCore(data){
  const ls=input.settings?.wordLevels;if(Array.isArray(ls)&&ls.some(l=>levels.includes(l)))out.settings.wordLevels=[...new Set(ls.filter(l=>levels.includes(l)))];if([10,20,30,50].includes(input.settings?.wordCount))out.settings.wordCount=input.settings.wordCount;if(['both','de-zh','zh-de'].includes(input.settings?.wordMode))out.settings.wordMode=input.settings.wordMode;if(Number.isInteger(input.settings?.reviewHour)&&input.settings.reviewHour>=0&&input.settings.reviewHour<=23)out.settings.reviewHour=input.settings.reviewHour;if(typeof input.settings?.profileName==='string')out.settings.profileName=input.settings.profileName.trim().slice(0,30)||'小八';if(typeof input.settings?.profileAvatar==='string'&&['学','八','德','☆','●','☀'].includes(input.settings.profileAvatar))out.settings.profileAvatar=input.settings.profileAvatar;if(typeof input.settings?.profileAvatarData==='string'&&input.settings.profileAvatarData.startsWith('data:image/')&&input.settings.profileAvatarData.length<=1400000)out.settings.profileAvatarData=input.settings.profileAvatarData;return out;}
  return {words,units,senses,focus,progress,passed,course,due,nextReview,setReviewHour,rate,practice,checkAnswer,accepted,bank,questions,grade,remaining,pace,estimate,validate};
 }
-root.WortwegCore={makeCore,fresh,dayKey,shuffle,normalize,levels};
+root.WortwegCore={makeCore,fresh,dayKey,shuffle,normalize,searchFold,searchRank,rankWords,levels};
 })(typeof window==='undefined'?globalThis:window);
