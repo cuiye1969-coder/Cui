@@ -351,16 +351,20 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abhaben",
             "Angst haben",
-            "der Fall hat sich",
-            "Glück haben",
-            "haben können"
+            "anhaben",
+            "aufhaben",
+            "der Fall hat sich"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Habe"
+            "Habe",
+            "habhaft",
+            "häbig",
+            "Habseligkeit"
           ]
         }
       ],
@@ -712,7 +716,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "erlernen"
+            "anlernen",
+            "dazulernen",
+            "erlernen",
+            "hinzulernen",
+            "nachlernen"
           ]
         }
       ],
@@ -888,11 +896,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abmachen",
             "Angst machen",
+            "anmachen",
             "aufmachen",
-            "Augen machen",
-            "ausmachen",
-            "mitmachen"
+            "Augen machen"
           ]
         }
       ],
@@ -1210,20 +1218,20 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "ackern",
             "handeln",
-            "schaffen",
-            "werken",
-            "wirken",
-            "funktionieren"
+            "hackeln",
+            "malochen",
+            "rabotten"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "abarbeiten",
             "Arbeit",
-            "Arbeiter",
-            "bearbeiten",
-            "erarbeiten"
+            "arbeitend",
+            "Arbeiter"
           ]
         }
       ],
@@ -1242,29 +1250,14 @@ window.WORTWEG_DATA = {
           "zh": "行动，作为"
         },
         {
-          "word": "schaffen",
-          "label": "schaffen",
-          "zh": "创造，制作，生产，设立；使得"
-        },
-        {
-          "word": "werken",
-          "label": "werken",
-          "zh": "工作"
-        },
-        {
-          "word": "wirken",
-          "label": "wirken",
-          "zh": "做、从事"
-        },
-        {
-          "word": "funktionieren",
-          "label": "funktionieren",
-          "zh": "有用，起作用，正常运作"
-        },
-        {
           "word": "Arbeit",
           "label": "Arbeit",
           "zh": "工作"
+        },
+        {
+          "word": "Arbeiter",
+          "label": "Arbeiter",
+          "zh": "工人，员工，雇员"
         }
       ]
     },
@@ -1552,6 +1545,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Kunft",
             "willkommen",
             "Abkommen",
             "Einkommen"
@@ -1561,9 +1555,9 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "kommend",
+            "abhandenkommen",
             "abkommen",
-            "ankommen",
-            "aufkommen"
+            "ankommen"
           ]
         }
       ],
@@ -1595,11 +1589,6 @@ window.WORTWEG_DATA = {
           "word": "ankommen",
           "label": "ankommen",
           "zh": "到达"
-        },
-        {
-          "word": "aufkommen",
-          "label": "aufkommen",
-          "zh": "兴起，流行；出现"
         }
       ]
     },
@@ -1777,11 +1766,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abgehen",
             "angehen",
-            "ausgehen",
-            "begehen",
-            "durchgehen",
-            "eingehen"
+            "aufgehen",
+            "auseinandergehen",
+            "ausgehen"
           ]
         }
       ],
@@ -1955,11 +1944,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Fahrbahn",
-            "Fahrer",
-            "Fahrt",
-            "Fahrzeug",
-            "radfahren"
+            "abfahren",
+            "Abfuhr",
+            "anfahren",
+            "auffahren",
+            "ausfahren"
           ]
         }
       ],
@@ -1971,28 +1960,7 @@ window.WORTWEG_DATA = {
         "B2"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Fahrbahn",
-          "label": "Fahrbahn",
-          "zh": "车道"
-        },
-        {
-          "word": "Fahrer",
-          "label": "Fahrer",
-          "zh": "司机、驾驶"
-        },
-        {
-          "word": "Fahrt",
-          "label": "Fahrt",
-          "zh": "旅行、旅程、行驶"
-        },
-        {
-          "word": "Fahrzeug",
-          "label": "Fahrzeug",
-          "zh": "车辆"
-        }
-      ]
+      "associations": []
     },
     {
       "lemma": "sprechen",
@@ -2137,17 +2105,19 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Sprache",
+            "sprachlich",
+            "sprachlos",
             "Spruch"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "absprechen",
             "ansprechen",
             "aussprechen",
             "Bände sprechen",
-            "besprechen",
-            "entsprechen"
+            "besprechen"
           ]
         }
       ],
@@ -2461,17 +2431,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "erbrechen",
             "übergeben",
             "brechen",
             "kotzen",
-            "trinken",
-            "fressen"
+            "trinken"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "fressen"
+            "abessen",
+            "anessen",
+            "aufessen",
+            "ausessen",
+            "Bittessen"
           ]
         }
       ],
@@ -2503,16 +2477,6 @@ window.WORTWEG_DATA = {
           "word": "trinken",
           "label": "trinken",
           "zh": "喝"
-        },
-        {
-          "word": "fressen",
-          "label": "fressen",
-          "zh": "（动物）吃、狼吞虎咽、消耗"
-        },
-        {
-          "word": "fressen",
-          "label": "fressen",
-          "zh": "（动物）吃、狼吞虎咽、消耗"
         }
       ]
     },
@@ -2826,8 +2790,8 @@ window.WORTWEG_DATA = {
             "abnehmen",
             "annehmen",
             "aufnehmen",
-            "benehmen",
-            "einnehmen"
+            "ausnehmen",
+            "benehmen"
           ]
         }
       ],
@@ -3019,10 +2983,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "abgeben",
+            "achtgeben",
             "Acht geben",
             "angeben",
-            "aufgeben",
-            "ausgeben"
+            "aufgeben"
           ]
         }
       ],
@@ -3196,11 +3160,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "absehen",
             "ansehen",
             "aufsehen",
             "aussehen",
-            "einsehen",
-            "fernsehen"
+            "besehen"
           ]
         }
       ],
@@ -3222,16 +3186,6 @@ window.WORTWEG_DATA = {
           "word": "aussehen",
           "label": "aussehen",
           "zh": "看来、看上去、看起来、…的样子 (后接 wi"
-        },
-        {
-          "word": "einsehen",
-          "label": "einsehen",
-          "zh": "理解；接受；意识到，认识到"
-        },
-        {
-          "word": "fernsehen",
-          "label": "fernsehen",
-          "zh": "看电视"
         }
       ]
     },
@@ -3375,7 +3329,9 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Könner"
+          ]
         }
       ],
       "verbClass": "irregular",
@@ -3523,7 +3479,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/23/De-müssen.ogg/De-müssen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-müssen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "durchmüssen",
+            "wegmüssen",
+            "weitermüssen",
+            "zurückmüssen"
+          ]
+        }
+      ],
       "verbClass": "irregular",
       "levels": [
         "A1",
@@ -3820,7 +3786,10 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "hinaufwollen",
+            "hinauswollen"
+          ]
         }
       ],
       "verbClass": "irregular",
@@ -4121,6 +4090,7 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "möglich",
+            "übermögen",
             "vermögen",
             "Vermögen"
           ]
@@ -4287,10 +4257,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "erwerben",
-            "in die Mangel nehmen",
-            "verkaufen",
-            "stehlen",
-            "Kauf"
+            "erstehen",
+            "anschaffen",
+            "vorknöpfen",
+            "in die Mangel nehmen"
           ]
         }
       ],
@@ -4307,21 +4277,6 @@ window.WORTWEG_DATA = {
           "word": "erwerben",
           "label": "erwerben",
           "zh": "获得、购买、赢取、赚到、学到"
-        },
-        {
-          "word": "verkaufen",
-          "label": "verkaufen",
-          "zh": "出售，卖出（将物品或商品以金钱交换而转让）"
-        },
-        {
-          "word": "stehlen",
-          "label": "stehlen",
-          "zh": "偷窃、偷; 悄悄离开、溜走"
-        },
-        {
-          "word": "Kauf",
-          "label": "Kauf",
-          "zh": "购买、收买"
         }
       ]
     },
@@ -4605,9 +4560,9 @@ window.WORTWEG_DATA = {
           "words": [
             "befragen",
             "antworten",
+            "abfragen",
             "anfragen",
-            "befragen",
-            "Frage"
+            "ausfragen"
           ]
         }
       ],
@@ -4629,11 +4584,6 @@ window.WORTWEG_DATA = {
           "word": "anfragen",
           "label": "anfragen",
           "zh": "v. 要求，请求"
-        },
-        {
-          "word": "Frage",
-          "label": "Frage",
-          "zh": "问题（询问）"
         }
       ]
     },
@@ -4775,8 +4725,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "antwortend",
             "beantworten",
-            "verantworten"
+            "einantworten",
+            "rückantworten"
           ]
         }
       ],
@@ -4793,11 +4745,6 @@ window.WORTWEG_DATA = {
           "word": "beantworten",
           "label": "beantworten",
           "zh": "回答，答复"
-        },
-        {
-          "word": "verantworten",
-          "label": "verantworten",
-          "zh": "对……负责，承担……的后果"
         }
       ]
     },
@@ -5378,8 +5325,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "aufhelfen",
+            "aushelfen",
+            "behelfen",
             "Helfer",
-            "Hilfe"
+            "Helferin"
           ]
         }
       ],
@@ -5396,11 +5346,6 @@ window.WORTWEG_DATA = {
           "word": "Helfer",
           "label": "Helfer",
           "zh": "pl.Helfern 帮手，壁助，佴，伙，伙"
-        },
-        {
-          "word": "Hilfe",
-          "label": "Hilfe",
-          "zh": "帮助"
         }
       ]
     },
@@ -5547,8 +5492,8 @@ window.WORTWEG_DATA = {
             "andenken",
             "ausdenken",
             "bedenken",
-            "gedenken",
-            "nachdenken"
+            "dazudenken",
+            "durchdenken"
           ]
         }
       ],
@@ -5559,18 +5504,7 @@ window.WORTWEG_DATA = {
         "B2"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "gedenken",
-          "label": "gedenken",
-          "zh": "纪念，铭记"
-        },
-        {
-          "word": "nachdenken",
-          "label": "nachdenken",
-          "zh": "思索，思考，考虑 [接 über (+ 宾格"
-        }
-      ]
+      "associations": []
     },
     {
       "lemma": "bringen",
@@ -5710,11 +5644,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abbringen",
             "anbringen",
             "aufbringen",
-            "einbringen",
-            "erbringen",
-            "mitbringen"
+            "ausbringen",
+            "Bringschuld"
           ]
         }
       ],
@@ -5725,18 +5659,7 @@ window.WORTWEG_DATA = {
         "B2"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "einbringen",
-          "label": "einbringen",
-          "zh": "引进、引入、收进、储入、带来（收益）、（会议"
-        },
-        {
-          "word": "mitbringen",
-          "label": "mitbringen",
-          "zh": "带来，领来（人）"
-        }
-      ]
+      "associations": []
     },
     {
       "lemma": "kennen",
@@ -5878,8 +5801,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "auskennen",
             "bekennen",
             "erkennen",
+            "verkennen",
             "Kenntnis"
           ]
         }
@@ -6044,7 +5969,7 @@ window.WORTWEG_DATA = {
             "kennen",
             "annehmen",
             "glauben",
-            "bewusst"
+            "wissentlich"
           ]
         }
       ],
@@ -6070,11 +5995,6 @@ window.WORTWEG_DATA = {
           "word": "glauben",
           "label": "glauben",
           "zh": "相信；认为"
-        },
-        {
-          "word": "bewusst",
-          "label": "bewusst",
-          "zh": "知道的、意识到的、有意识的、清醒的"
         }
       ]
     },
@@ -6218,10 +6138,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Bleibe",
-            "bleiben lassen",
-            "draußen bleiben",
-            "drinnen bleiben"
+            "abbleiben",
+            "anbleiben",
+            "aufbleiben",
+            "ausbleiben",
+            "Bleibe"
           ]
         }
       ],
@@ -6578,9 +6499,9 @@ window.WORTWEG_DATA = {
           "words": [
             "ablegen",
             "anlegen",
-            "belegen",
-            "einlegen",
-            "Karten legen"
+            "auflegen",
+            "auslegen",
+            "Bauernlegen"
           ]
         }
       ],
@@ -6599,11 +6520,6 @@ window.WORTWEG_DATA = {
           "word": "anlegen",
           "label": "anlegen",
           "zh": "创建，创造"
-        },
-        {
-          "word": "belegen",
-          "label": "belegen",
-          "zh": "证实，支撑"
         }
       ]
     },
@@ -6749,8 +6665,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "anliegen",
-            "unterliegen",
-            "vorliegen"
+            "aufliegen",
+            "daliegen",
+            "darniederliegen",
+            "durchliegen"
           ]
         }
       ],
@@ -6765,11 +6683,6 @@ window.WORTWEG_DATA = {
           "word": "anliegen",
           "label": "anliegen",
           "zh": "v. 非常适合，非常合身"
-        },
-        {
-          "word": "unterliegen",
-          "label": "unterliegen",
-          "zh": "失败，被打败 [接 与格 「被某人某物」] "
         }
       ]
     },
@@ -7058,8 +6971,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "abwarten",
+            "aufwarten",
             "erwarten",
-            "Wartung"
+            "Wartung",
+            "Wärter"
           ]
         }
       ],
@@ -7693,10 +7608,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "einverstanden",
+            "einverständlich",
             "Einverständnis",
-            "nur Bahnhof verstehen",
-            "Verstand",
-            "verstanden"
+            "missverstehen",
+            "nur Bahnhof verstehen"
           ]
         }
       ],
@@ -7713,11 +7628,6 @@ window.WORTWEG_DATA = {
           "word": "einverstanden",
           "label": "einverstanden",
           "zh": "同意的、允许的"
-        },
-        {
-          "word": "Verstand",
-          "label": "Verstand",
-          "zh": "理性、智慧、理解力"
         }
       ]
     },
@@ -7859,13 +7769,19 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Vergleich",
-            "vergleichbar"
+            "abgleichen",
+            "Äpfel mit Birnen vergleichen",
+            "begleichen",
+            "unvergleichbar",
+            "unvergleichlich"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "Vergleicher",
+            "Vergleichung",
+            "vergleichend",
             "verglichen"
           ]
         }
@@ -7876,16 +7792,6 @@ window.WORTWEG_DATA = {
       ],
       "associationTopic": "关联词与词族",
       "associations": [
-        {
-          "word": "Vergleich",
-          "label": "Vergleich",
-          "zh": "对比、比较"
-        },
-        {
-          "word": "vergleichbar",
-          "label": "vergleichbar",
-          "zh": "adj. 可比的，类似的，可对照的"
-        },
         {
           "word": "verglichen",
           "label": "verglichen",
@@ -8034,9 +7940,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Bewerb",
             "Bewerber",
             "Bewerbung",
-            "beworben"
+            "bewerbend"
           ]
         }
       ],
@@ -8373,13 +8280,20 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "lasch",
+            "lässig"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "belassen",
-            "bleiben lassen",
-            "einlassen",
-            "entlassen",
-            "erlassen"
+            "ablassen",
+            "alleinlassen",
+            "anlassen",
+            "auflassen",
+            "auslassen"
           ]
         }
       ],
@@ -8389,18 +8303,7 @@ window.WORTWEG_DATA = {
         "B2"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "entlassen",
-          "label": "entlassen",
-          "zh": "允许离去、释放"
-        },
-        {
-          "word": "erlassen",
-          "label": "erlassen",
-          "zh": "（及物）公布，发表，颁布（法律、法案、法规、"
-        }
-      ]
+      "associations": []
     },
     {
       "lemma": "empfehlen",
@@ -8536,7 +8439,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "empfehlenswert"
+            "empfehlend",
+            "anempfehlen",
+            "weiterempfehlen",
+            "empfehlenswert",
+            "empfehlenswürdig"
           ]
         }
       ],
@@ -9128,10 +9035,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "haltbar",
+            "haltlos",
             "abhalten",
             "anhalten",
-            "aufhalten",
-            "behalten"
+            "aufhalten"
           ]
         }
       ],
@@ -9152,11 +9059,6 @@ window.WORTWEG_DATA = {
           "word": "aufhalten",
           "label": "aufhalten",
           "zh": "耽搁、逗留"
-        },
-        {
-          "word": "behalten",
-          "label": "behalten",
-          "zh": "留下、保存、保持、维持、记住"
         }
       ]
     },
@@ -9312,6 +9214,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Tracht",
             "Trage",
             "Träger",
             "Vertrag"
@@ -9320,11 +9223,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "tragbar",
             "Trage",
             "Träger",
-            "beitragen",
-            "betragen",
-            "eintragen"
+            "abtragen",
+            "antragen"
           ]
         }
       ],
@@ -9348,16 +9251,6 @@ window.WORTWEG_DATA = {
           "word": "Trage",
           "label": "Trage",
           "zh": "担架，延伸器"
-        },
-        {
-          "word": "beitragen",
-          "label": "beitragen",
-          "zh": "作出贡献"
-        },
-        {
-          "word": "betragen",
-          "label": "betragen",
-          "zh": "（及物） 总计为"
         }
       ]
     },
@@ -9525,9 +9418,9 @@ window.WORTWEG_DATA = {
           "words": [
             "abziehen",
             "anziehen",
+            "aufziehen",
             "ausziehen",
-            "beziehen",
-            "durchziehen"
+            "beziehen"
           ]
         }
       ],
@@ -10140,13 +10033,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "enthaupten",
             "überhaupt"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "Behaupter",
             "Behauptung",
+            "behauptend",
             "behauptet"
           ]
         }
@@ -10473,11 +10369,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "bemannt",
             "Bergmann",
-            "Ehemann",
-            "Geschäftsmann",
-            "Hauptmann",
-            "Kaufmann"
+            "Blödmann",
+            "Buhmann",
+            "Ehemann"
           ]
         }
       ],
@@ -10493,16 +10389,6 @@ window.WORTWEG_DATA = {
           "word": "Ehemann",
           "label": "Ehemann",
           "zh": "丈夫"
-        },
-        {
-          "word": "Hauptmann",
-          "label": "Hauptmann",
-          "zh": "上尉（男性〔也用于女性〕或未指定性别）；比较"
-        },
-        {
-          "word": "Kaufmann",
-          "label": "Kaufmann",
-          "zh": "简写：Kfm. pl.Kaufmanne"
         }
       ]
     },
@@ -10533,7 +10419,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/De-Frau.ogg/De-Frau.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Frau.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Frauenarzt",
+            "Frauenbewegung",
+            "Frauenheilkunde",
+            "Frauenheld",
+            "Frauenkrankheit"
+          ]
+        }
+      ],
       "levels": [
         "A1",
         "A2",
@@ -10572,9 +10469,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Kindergarten",
-            "Kinderwagen",
-            "Kindheit"
+            "Kindbett",
+            "Kinderausweis",
+            "Kinderbett",
+            "Kinderfrau",
+            "Kindergarten"
           ]
         }
       ],
@@ -10650,8 +10549,8 @@ window.WORTWEG_DATA = {
             "Handbuch",
             "Hörbuch",
             "Jahrbuch",
-            "Lehrbuch",
-            "Tagebuch"
+            "Jugendbuch",
+            "Kinderbuch"
           ]
         }
       ],
@@ -10720,7 +10619,22 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e9/De-Tisch.ogg/De-Tisch.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Tisch.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Nachtisch",
+            "Tischlampe"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Tischler",
+            "auftischen"
+          ]
+        }
+      ],
       "levels": [
         "A1",
         "A2"
@@ -10789,17 +10703,19 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Sessel",
+            "Hocker",
+            "Mobiliar",
             "Tisch"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "den Stuhl vor die Tür setzen",
-            "fast vom Stuhl fallen",
-            "Heiliger Stuhl",
-            "heißer Stuhl",
-            "Rollstuhl"
+            "Arbeitsstuhl",
+            "Armstuhl",
+            "Bauernstuhl",
+            "Behandlungsstuhl",
+            "Beichtstuhl"
           ]
         }
       ],
@@ -10870,10 +10786,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "schulen",
-            "Schuljahr",
-            "Schulung",
-            "Schulzeit"
+            "Schulabbrecher",
+            "Schulabbruch",
+            "Schulabgang",
+            "Schulabgänger",
+            "Schulabgangsalter"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "schulisch"
           ]
         }
       ],
@@ -11066,11 +10989,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Frageadverb",
             "Fragebogen",
-            "fraglich",
-            "beantworten",
-            "bleibt",
-            "offen"
+            "Fragefürwort",
+            "Fragelust",
+            "Fragepronomen"
           ]
         }
       ],
@@ -11240,10 +11163,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "allezeit",
+            "beizeiten",
             "derzeit",
-            "jederzeit",
-            "zeitlich",
-            "zeitweise"
+            "jederzeit"
           ]
         }
       ],
@@ -11514,13 +11437,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "zügig"
+            "zügig",
+            "Zugzwang"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Aufzug"
+            "auf den Zug aufspringen",
+            "Aufzug",
+            "Fernzug",
+            "Luftzug",
+            "Schnellzug"
           ]
         }
       ],
@@ -11587,8 +11515,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Busbahnhof",
+            "Busbetriebshof",
+            "Busfahren",
             "Busfahrer",
-            "Bushaltestelle"
+            "Busfahrerin"
           ]
         }
       ],
@@ -11660,18 +11591,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Wodka",
             "Fluss",
             "Bach",
             "Strom",
-            "Teich",
-            "See"
+            "Teich"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Hochwasser",
-            "Trinkwasser"
+            "Abwasser",
+            "Augenwasser",
+            "Brackwasser",
+            "Brunnenwasser",
+            "Eiswasser"
           ]
         }
       ],
@@ -11739,7 +11673,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/47/De-Brot.ogg/De-Brot.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Brot.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Butterbrot",
+            "Johannisbrot",
+            "Knäckebrot",
+            "Rosinenbrot",
+            "Roggenbrot"
+          ]
+        }
+      ],
       "levels": [
         "A1",
         "A2",
@@ -11808,8 +11753,19 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "der Apfel fällt nicht weit vom Stamm",
-            "ein Apfel und ein Ei"
+            "Äpfel und Birnen",
+            "Apfelbaum",
+            "Apfelessig",
+            "Apfelgarten",
+            "apfelgrün"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "apfelartig",
+            "apfelig",
+            "veräppeln"
           ]
         }
       ],
@@ -11859,10 +11815,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "anfreunden",
+            "befreunden",
             "befreundet",
-            "freundlich",
-            "Freundschaft",
-            "kleiner Freund"
+            "entfreunden"
           ]
         }
       ],
@@ -11878,16 +11834,6 @@ window.WORTWEG_DATA = {
           "word": "befreundet",
           "label": "befreundet",
           "zh": "adj. 友好的，亲切的，合得来的"
-        },
-        {
-          "word": "freundlich",
-          "label": "freundlich",
-          "zh": "友好的"
-        },
-        {
-          "word": "Freundschaft",
-          "label": "Freundschaft",
-          "zh": "谊、友谊、交谊、交情、友好、亲善关系"
         }
       ]
     },
@@ -12075,7 +12021,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/De-Geld.ogg/De-Geld.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Geld.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Geldautomat",
+            "Geldentwertung",
+            "geldgeil",
+            "Geldgier",
+            "geldhungrig"
+          ]
+        }
+      ],
       "levels": [
         "B1",
         "B2"
@@ -12312,11 +12269,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Verabredung",
+            "Fälligkeitstag",
+            "Stichtag",
             "Zeitpunkt",
-            "bestimmen",
-            "ausmachen",
-            "einhalten",
-            "Terminal"
+            "bestimmen"
           ]
         }
       ],
@@ -12386,13 +12343,20 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Arznei",
+            "ärztlich",
+            "Arzttum",
             "Doktor"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Zahnarzt"
+            "Arztfrau",
+            "Arzthelfer",
+            "Arzthilfe",
+            "Ärztekammer",
+            "Ärztekollegium"
           ]
         }
       ],
@@ -12518,10 +12482,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "regelmäßig",
-            "regeln",
-            "regelrecht",
-            "Regelung"
+            "Faustregel",
+            "Regelanfrage",
+            "regelbar",
+            "Regelblutung",
+            "Regelfall"
           ]
         }
       ],
@@ -12529,23 +12494,7 @@ window.WORTWEG_DATA = {
         "B1"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "regelmäßig",
-          "label": "regelmäßig",
-          "zh": "规则的 （符合规则的，不构成例外的）"
-        },
-        {
-          "word": "regeln",
-          "label": "regeln",
-          "zh": "v. 整顿，调整，修改，改造"
-        },
-        {
-          "word": "Regelung",
-          "label": "Regelung",
-          "zh": "规则、规章、规定"
-        }
-      ]
+      "associations": []
     },
     {
       "lemma": "Aufgabe",
@@ -12580,8 +12529,16 @@ window.WORTWEG_DATA = {
           "words": [
             "Abgabe",
             "Angabe",
-            "Übergabe",
-            "Vergabe"
+            "Beigabe",
+            "Mitgabe",
+            "Übergabe"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Lebensaufgabe",
+            "Hausaufgabe"
           ]
         }
       ],
@@ -12684,7 +12641,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/De-Fenster.ogg/De-Fenster.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Fenster.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "fensterartig",
+            "Fensterbank",
+            "Fensterbrett",
+            "fensterförmig",
+            "Fensterglas"
+          ]
+        }
+      ],
       "levels": [
         "B1"
       ],
@@ -12810,7 +12778,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5e/De-Flasche.ogg/De-Flasche.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Flasche.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bierflasche",
+            "Blechflasche",
+            "flaschenartig",
+            "Flaschenglas",
+            "Flaschenhals"
+          ]
+        }
+      ],
       "associationTopic": "饮品",
       "associations": [
         {
@@ -12943,7 +12922,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Nachbarschaft"
+            "Nachbarschaft",
+            "Nachbartisch",
+            "Gruppennachbar",
+            "Periodennachbar",
+            "Sitznachbar"
           ]
         }
       ],
@@ -12989,10 +12972,19 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "studentisch"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
+            "Studenten-Weltbund",
             "Studenten-WG",
-            "Studentin"
+            "Studenten-Wohngemeinschaft",
+            "Studentenalbum",
+            "Studentenamt"
           ]
         }
       ],
@@ -13143,9 +13135,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Arbeitsstelle",
             "Baustelle",
             "Haltestelle",
-            "Tankstelle"
+            "Nullstelle",
+            "Schwachstelle"
           ]
         }
       ],
@@ -13160,11 +13154,6 @@ window.WORTWEG_DATA = {
           "word": "Haltestelle",
           "label": "Haltestelle",
           "zh": "停靠站"
-        },
-        {
-          "word": "Tankstelle",
-          "label": "Tankstelle",
-          "zh": "加油站"
         }
       ]
     },
@@ -13195,9 +13184,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Bundesliga-Erfahrung",
-            "Internet-Erfahrung",
-            "Management-Erfahrung"
+            "Alltagserfahrung",
+            "Arbeitserfahrung",
+            "Auslandserfahrung",
+            "Anschauung",
+            "Berufserfahrung"
           ]
         }
       ],
@@ -13229,7 +13220,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0e/De-Entscheidung.ogg/De-Entscheidung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Entscheidung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Entscheidungsproblem"
+          ]
+        }
+      ],
       "levels": [
         "B2"
       ],
@@ -13265,6 +13263,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Lebenswelt",
             "Umfang",
             "Umgebung"
           ]
@@ -13272,7 +13271,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Umweltschutz"
+            "Umweltaktivist",
+            "Umweltarchäologie",
+            "Umweltaspekt",
+            "Umweltauflage",
+            "Umweltauswirkung"
           ]
         }
       ],
@@ -13427,9 +13430,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Grundlage",
             "Grundstück",
-            "zugrunde",
-            "Grund und Boden",
-            "sinken"
+            "Grundstückssteuer",
+            "Grundzustand",
+            "Meeresgrund"
           ]
         }
       ],
@@ -13503,6 +13506,8 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "meiner Meinung nach",
+            "Meinungsbild",
+            "Meinungsforscher",
             "Meinungsfreiheit"
           ]
         }
@@ -13572,6 +13577,16 @@ window.WORTWEG_DATA = {
         "source": "https://commons.wikimedia.org/wiki/File:De-Antrag.ogg"
       },
       "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Antragsbogen",
+            "Antragsdelikt",
+            "Antragsfrist",
+            "Ausreiseantrag",
+            "Heiratsantrag"
+          ]
+        },
         {
           "label": "词族与派生词",
           "words": [
@@ -13710,7 +13725,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "verantwortlich"
+            "verantwortlich",
+            "verantwortungsbewusst"
           ]
         }
       ],
@@ -13809,7 +13825,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9e/De-Beitrag.ogg/De-Beitrag.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Beitrag.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gastbeitrag"
+          ]
+        }
+      ],
       "levels": [
         "B2"
       ],
@@ -13861,15 +13884,18 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "verfügbar",
-            "verfügen"
+            "verfügen",
+            "Verfügende"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "verfügungsberechtigt",
+            "Verfügungsgeschäft",
+            "Verfügungsgewalt",
             "zur Verfügung haben",
-            "zur Verfügung stehen",
-            "zur Verfügung stellen"
+            "zur Verfügung stehen"
           ]
         }
       ],
@@ -13915,7 +13941,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/38/De-Entwicklung.ogg/De-Entwicklung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Entwicklung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Entwicklungsland",
+            "Entwicklungsroman",
+            "Softwareentwicklung",
+            "Unterentwicklung"
+          ]
+        }
+      ],
       "levels": [
         "B2"
       ],
@@ -13978,7 +14014,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b4/De-Ergebnis.ogg/De-Ergebnis.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Ergebnis.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Ergebniskosmetik",
+            "Ergebnisliste",
+            "ergebnisoffen",
+            "Ergebnistabelle"
+          ]
+        }
+      ],
       "levels": [
         "B2"
       ],
@@ -14133,6 +14179,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "gernhaben",
             "gern haben",
             "gut und gern"
           ]
@@ -14175,10 +14222,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "eine Nummer zu groß für jemanden",
+            "großäugig",
             "Großbritannien",
-            "Großer Bär",
-            "Großer Osten",
-            "Großer Wagen"
+            "Großbuchstabe",
+            "Großdemonstration"
           ]
         },
         {
@@ -14187,8 +14234,8 @@ window.WORTWEG_DATA = {
             "Größe",
             "Größte",
             "vergrößern",
-            "großartig",
-            "größtenteils"
+            "Vergrößerung",
+            "großartig"
           ]
         }
       ],
@@ -14246,11 +14293,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "klein haben",
-            "klein hacken",
-            "Kleinigkeit",
-            "klein machen",
-            "klein schneiden"
+            "Gänseklein",
+            "Hühnerklein",
+            "Kleinkram",
+            "kleinlich",
+            "Kleinbuchstabe"
           ]
         }
       ],
@@ -14310,11 +14357,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abgenutzt",
+            "betagt",
             "Eltern",
             "erfahren",
-            "früher",
-            "lieber",
-            "toll"
+            "früher"
           ]
         },
         {
@@ -14322,7 +14369,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Alter",
             "Alte",
-            "Alter"
+            "Alter",
+            "altern",
+            "ältlich"
           ]
         }
       ],
@@ -14395,14 +14444,18 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Junge",
-            "Jünger"
+            "Jünger",
+            "Jungfer"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "Jungbrunnen",
+            "Jungengesicht",
             "Jungfrau",
-            "jüngst"
+            "Junggeselle",
+            "Jüngling"
           ]
         }
       ],
@@ -14461,9 +14514,9 @@ window.WORTWEG_DATA = {
           "words": [
             "erneuern",
             "Neuanfang",
+            "neuartig",
             "Neuauflage",
-            "Neubau",
-            "Neue Deutsche Härte"
+            "Neuausrichtung"
           ]
         }
       ],
@@ -14479,11 +14532,6 @@ window.WORTWEG_DATA = {
           "word": "Neuauflage",
           "label": "Neuauflage",
           "zh": "新的表现形式"
-        },
-        {
-          "word": "Neubau",
-          "label": "Neubau",
-          "zh": "新建筑，新楼"
         }
       ]
     },
@@ -14518,10 +14566,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "beschönigen",
+            "bildschön",
+            "Bitteschön",
             "Dankeschön",
-            "schönen",
-            "Schönheit",
-            "wunderschön"
+            "formschön"
           ]
         }
       ],
@@ -14531,23 +14580,7 @@ window.WORTWEG_DATA = {
         "B1"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "schönen",
-          "label": "schönen",
-          "zh": "使（布料等）颜色鲜艳"
-        },
-        {
-          "word": "Schönheit",
-          "label": "Schönheit",
-          "zh": "美丽，美貌"
-        },
-        {
-          "word": "wunderschön",
-          "label": "wunderschön",
-          "zh": "adj. 极美的"
-        }
-      ]
+      "associations": []
     },
     {
       "lemma": "schnell",
@@ -14574,7 +14607,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/23/De-schnell.ogg/De-schnell.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-schnell.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "blitzschnell",
+            "Schnelligkeit",
+            "Schnellspanner",
+            "Schnellzug",
+            "sekundenschnell"
+          ]
+        }
+      ],
       "levels": [
         "A1",
         "A2"
@@ -14718,7 +14762,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/68/De-at-teuer.ogg/De-at-teuer.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-teuer.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Teuro"
+          ]
+        }
+      ],
       "levels": [
         "A1",
         "A2",
@@ -14756,11 +14807,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "lahm",
-            "fit",
-            "begeistert",
-            "ein bisschen",
-            "sehr"
+            "schläfrig",
+            "ermüdet",
+            "ruhebedürftig",
+            "übermüdet",
+            "übernächtigt"
           ]
         }
       ],
@@ -14771,23 +14822,7 @@ window.WORTWEG_DATA = {
         "B2"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "lahm",
-          "label": "lahm",
-          "zh": "adj. adv. 跛的，瘸的，一瘸一拐的，"
-        },
-        {
-          "word": "begeistert",
-          "label": "begeistert",
-          "zh": "热情的、兴奋的、热烈的、兴致很高的"
-        },
-        {
-          "word": "sehr",
-          "label": "sehr",
-          "zh": "很、非常、极其"
-        }
-      ]
+      "associations": []
     },
     {
       "lemma": "hoch",
@@ -14818,19 +14853,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Anhöhe",
             "erhöhen",
             "höchst",
             "höchstens",
-            "Höhe",
-            "Hoheit"
+            "Höhe"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Hochschule",
-            "Hochwasser",
-            "Hochzeit"
+            "Dreikäsehoch",
+            "Hochachtung",
+            "hochachtungsvoll",
+            "Hochadel",
+            "Hochaltar"
           ]
         }
       ],
@@ -14859,16 +14896,6 @@ window.WORTWEG_DATA = {
           "word": "Höhe",
           "label": "Höhe",
           "zh": "高度；海拔"
-        },
-        {
-          "word": "Hochschule",
-          "label": "Hochschule",
-          "zh": "高校、高等学校、大学"
-        },
-        {
-          "word": "Hochzeit",
-          "label": "Hochzeit",
-          "zh": "婚礼"
         }
       ]
     },
@@ -14964,13 +14991,16 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Gewicht",
-            "wiegen"
+            "wiegen",
+            "wägen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Wichtigkeit"
+            "Wichtigkeit",
+            "wichtigmachen",
+            "wichtigtun"
           ]
         }
       ],
@@ -15088,7 +15118,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Schwierigkeit"
+            "Schwierigkeit",
+            "schwären"
           ]
         }
       ],
@@ -15124,11 +15155,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "baldmöglichst",
+            "baldestmöglich",
+            "bestmöglich",
             "ermöglichen",
-            "möglicherweise",
-            "Möglichkeit",
-            "möglichst",
-            "unmöglich"
+            "möglicherweise"
           ]
         }
       ],
@@ -15147,21 +15178,6 @@ window.WORTWEG_DATA = {
           "word": "möglicherweise",
           "label": "möglicherweise",
           "zh": "也许、可能"
-        },
-        {
-          "word": "Möglichkeit",
-          "label": "Möglichkeit",
-          "zh": "可能性；机会"
-        },
-        {
-          "word": "möglichst",
-          "label": "möglichst",
-          "zh": "尽可能地、尽量地"
-        },
-        {
-          "word": "unmöglich",
-          "label": "unmöglich",
-          "zh": "不可能的、不可想象的、不像话的、不适宜的"
         }
       ]
     },
@@ -15245,7 +15261,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/De-wesentlich.ogg/De-wesentlich.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-wesentlich.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Wesentlichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -15445,11 +15468,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "mitspielen",
-            "Spiel",
-            "Spieler",
-            "spielerisch",
-            "verspielt"
+            "abspielen",
+            "anspielen",
+            "bespielen",
+            "einspielen",
+            "mitspielen"
           ]
         }
       ],
@@ -15466,16 +15489,6 @@ window.WORTWEG_DATA = {
           "word": "mitspielen",
           "label": "mitspielen",
           "zh": "v. 参加，一起玩，共同起作用"
-        },
-        {
-          "word": "Spiel",
-          "label": "Spiel",
-          "zh": "游戏"
-        },
-        {
-          "word": "Spieler",
-          "label": "Spieler",
-          "zh": "竞赛者、选手、玩家、演员、赌徒"
         }
       ]
     },
@@ -15798,11 +15811,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "fahnden",
+            "durchstöbern",
             "finden",
-            "aufsuchen",
-            "Besuch",
-            "besuchen",
-            "durchsuchen"
+            "absuchen",
+            "Ansuchen"
           ]
         }
       ],
@@ -15817,16 +15830,6 @@ window.WORTWEG_DATA = {
           "word": "finden",
           "label": "finden",
           "zh": "找到"
-        },
-        {
-          "word": "Besuch",
-          "label": "Besuch",
-          "zh": "拜访、上门、访问、参观、探望、视察、巡视、做"
-        },
-        {
-          "word": "besuchen",
-          "label": "besuchen",
-          "zh": "拜访；参观"
         }
       ]
     },
@@ -16118,6 +16121,7 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "eröffnen",
+            "Öffner",
             "Öffnung"
           ]
         }
@@ -16283,9 +16287,9 @@ window.WORTWEG_DATA = {
           "words": [
             "abschließen",
             "anschließen",
+            "aufschließen",
             "beschließen",
-            "erschließen",
-            "verschließen"
+            "einschließen"
           ]
         }
       ],
@@ -16455,13 +16459,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "abholen"
+            "abholen",
+            "zurückholen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Wiederholung"
+            "Wiederholer",
+            "Wiederholung",
+            "wiederholend",
+            "wiedergeholt"
           ]
         }
       ],
@@ -17052,11 +17060,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "fortbewegen",
             "gehen",
             "marschieren",
             "rennen",
-            "spazieren",
-            "fließen"
+            "schreiten"
           ]
         }
       ],
@@ -17078,16 +17086,6 @@ window.WORTWEG_DATA = {
           "word": "rennen",
           "label": "rennen",
           "zh": "奔跑"
-        },
-        {
-          "word": "spazieren",
-          "label": "spazieren",
-          "zh": "漫步，闲逛，散步"
-        },
-        {
-          "word": "fließen",
-          "label": "fließen",
-          "zh": "流，流动"
         }
       ]
     },
@@ -17244,10 +17242,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "antreffen",
+            "auftreffen",
             "betreffen",
             "den Nagel auf den Kopf treffen",
-            "eintreffen",
-            "ins Schwarze treffen"
+            "eintreffen"
           ]
         }
       ],
@@ -17426,10 +17425,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abschreiben",
             "anschreiben",
+            "aufschreiben",
             "beschreiben",
-            "sage und schreibe",
-            "Schreiber"
+            "mitschreiben"
           ]
         }
       ],
@@ -17451,11 +17451,6 @@ window.WORTWEG_DATA = {
           "word": "beschreiben",
           "label": "beschreiben",
           "zh": "描述"
-        },
-        {
-          "word": "Schreiber",
-          "label": "Schreiber",
-          "zh": "作家；作者 (男性或未指定性别)"
         }
       ]
     },
@@ -17611,11 +17606,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "aufspüren",
+            "aufstöbern",
             "entdecken",
             "denken",
-            "einschätzen",
-            "glauben",
-            "meinen"
+            "einschätzen"
           ]
         }
       ],
@@ -17637,16 +17632,6 @@ window.WORTWEG_DATA = {
           "word": "denken",
           "label": "denken",
           "zh": "想；思考"
-        },
-        {
-          "word": "glauben",
-          "label": "glauben",
-          "zh": "相信；认为"
-        },
-        {
-          "word": "meinen",
-          "label": "meinen",
-          "zh": "想、意图、意味着、计划"
         }
       ]
     },
@@ -17933,9 +17918,9 @@ window.WORTWEG_DATA = {
           "words": [
             "teilnehmen",
             "zusammen sein",
-            "Sprung",
-            "Kirche",
-            "Schule"
+            "visitieren",
+            "frequentieren",
+            "fernbleiben"
           ]
         }
       ],
@@ -17951,21 +17936,6 @@ window.WORTWEG_DATA = {
           "word": "teilnehmen",
           "label": "teilnehmen",
           "zh": "参加"
-        },
-        {
-          "word": "Sprung",
-          "label": "Sprung",
-          "zh": "部门、分会、分支、网点、枝"
-        },
-        {
-          "word": "Kirche",
-          "label": "Kirche",
-          "zh": "教堂"
-        },
-        {
-          "word": "Schule",
-          "label": "Schule",
-          "zh": "学校"
         }
       ]
     },
@@ -18251,7 +18221,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Tanz"
+            "Tanz",
+            "tänzeln",
+            "Tanzbein",
+            "Tanzverbot"
           ]
         }
       ],
@@ -19138,7 +19111,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "angehören"
+            "angehören",
+            "dazugehören",
+            "hergehören",
+            "hingehören",
+            "weggehören"
           ]
         }
       ],
@@ -19440,6 +19417,9 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "anpassen",
+            "einpassen",
+            "Passform",
+            "passgenau",
             "aufpassen"
           ]
         }
@@ -19600,6 +19580,12 @@ window.WORTWEG_DATA = {
             "Fehl",
             "Fehler"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "verfehlen"
+          ]
         }
       ],
       "verbClass": "weak",
@@ -19753,9 +19739,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "beschenken",
             "Geschenk",
-            "verschenken",
-            "Schenk"
+            "herschenken",
+            "Schenkung",
+            "verschenken"
           ]
         }
       ],
@@ -20056,8 +20044,8 @@ window.WORTWEG_DATA = {
           "words": [
             "Erzähler",
             "Erzählung",
-            "erzählt",
-            "vom Pferd erzählen"
+            "erzählend",
+            "erzählt"
           ]
         }
       ],
@@ -20221,10 +20209,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "verschicken",
-            "Geschick",
-            "geschickt",
-            "Schicksal"
+            "abschicken",
+            "anschicken",
+            "ausschicken",
+            "beschicken",
+            "dreinschicken"
           ]
         }
       ],
@@ -20234,13 +20223,7 @@ window.WORTWEG_DATA = {
         "B1"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "geschickt",
-          "label": "geschickt",
-          "zh": "适合的、熟练的、灵巧的、机灵的、有天分的、"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "sitzen",
@@ -20381,9 +20364,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "besitzen",
-            "Sitz",
-            "Sitzung"
+            "absitzen",
+            "aufsitzen",
+            "aussitzen",
+            "beieinandersitzen",
+            "beisammensitzen"
           ]
         }
       ],
@@ -20392,23 +20377,7 @@ window.WORTWEG_DATA = {
         "B2"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "besitzen",
-          "label": "besitzen",
-          "zh": "拥有、占有、享有"
-        },
-        {
-          "word": "Sitz",
-          "label": "Sitz",
-          "zh": "座位"
-        },
-        {
-          "word": "Sitzung",
-          "label": "Sitzung",
-          "zh": "会议、开会、开庭"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "setzen",
@@ -20714,8 +20683,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Wäsche",
-            "Waschmaschine"
+            "abwaschen",
+            "aufwaschen",
+            "auswaschen",
+            "durchwaschen",
+            "Gewäsch"
           ]
         }
       ],
@@ -20724,13 +20696,7 @@ window.WORTWEG_DATA = {
         "A2"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Wäsche",
-          "label": "Wäsche",
-          "zh": "洗涤、洗衣、洗涤的衣物、洗矿"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "erinnern",
@@ -21304,7 +21270,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Beginner",
             "Beginn",
+            "beginnend",
             "begonnen"
           ]
         }
@@ -21465,7 +21433,11 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Vergessener",
+            "vergesslich",
+            "unvergesslich"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -21758,12 +21730,15 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "anstellen",
-            "einstellen"
+            "einstellen",
+            "zustellen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "abbestellen",
+            "Besteller",
             "Bestellung",
             "Haus bestellen"
           ]
@@ -22083,6 +22058,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "ankommend",
             "angekommen"
           ]
         }
@@ -22385,7 +22361,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "benennen"
+            "benennen",
+            "ernennen",
+            "nennbar",
+            "Nennbetrag",
+            "nennenswert"
           ]
         }
       ],
@@ -22672,14 +22652,19 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Brand"
+            "Brand",
+            "Branntwein",
+            "brinnen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Brenner",
-            "verbrennen"
+            "abbrennen",
+            "anbrennen",
+            "brennbar",
+            "brennend",
+            "Brenner"
           ]
         }
       ],
@@ -22690,11 +22675,6 @@ window.WORTWEG_DATA = {
           "word": "Brand",
           "label": "Brand",
           "zh": "火、火焰、火灾"
-        },
-        {
-          "word": "verbrennen",
-          "label": "verbrennen",
-          "zh": "v. 烧，烧掉，烧伤，烧坏，烧尽，烧毁，火葬"
         }
       ]
     },
@@ -22836,16 +22816,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "besuchen"
+            "besuchen",
+            "ersuchen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "Versucher",
             "Versuchung",
-            "versucht",
-            "versucht",
-            "sein Glück versuchen"
+            "versuchend",
+            "versucht"
           ]
         }
       ],
@@ -22859,11 +22840,6 @@ window.WORTWEG_DATA = {
           "word": "besuchen",
           "label": "besuchen",
           "zh": "拜访；参观"
-        },
-        {
-          "word": "versucht",
-          "label": "versucht",
-          "zh": "企图的、尝试的、未遂的"
         },
         {
           "word": "versucht",
@@ -23433,6 +23409,8 @@ window.WORTWEG_DATA = {
           "words": [
             "zulassen",
             "gestatten",
+            "genehmigen",
+            "herausnehmen",
             "leisten"
           ]
         }
@@ -23896,16 +23874,18 @@ window.WORTWEG_DATA = {
             "Anbau",
             "Bauer",
             "Bauten",
-            "Gebäude"
+            "Gebäude",
+            "Gitarrenbauer"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "abbauen",
+            "anbauen",
             "aufbauen",
             "ausbauen",
-            "Bau",
-            "Bauer"
+            "Bau"
           ]
         }
       ],
@@ -23940,11 +23920,6 @@ window.WORTWEG_DATA = {
           "word": "Bau",
           "label": "Bau",
           "zh": "建筑、建筑物、大楼"
-        },
-        {
-          "word": "Bauer",
-          "label": "Bauer",
-          "zh": "农民、农夫"
         }
       ]
     },
@@ -24661,9 +24636,17 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Briefbeschwerer"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
+            "Beschwerung",
             "Beschwerde",
+            "beschwerend",
             "beschwert"
           ]
         }
@@ -24982,9 +24965,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "absagen",
+            "ansagen",
+            "aufsagen",
             "aussagen",
-            "sage und schreibe",
-            "versagen"
+            "besagen"
           ]
         }
       ],
@@ -25006,11 +24990,6 @@ window.WORTWEG_DATA = {
           "word": "aussagen",
           "label": "aussagen",
           "zh": "目击作证、作证"
-        },
-        {
-          "word": "versagen",
-          "label": "versagen",
-          "zh": "拒绝、失败、不听使唤、出毛病、否认、禁止"
         }
       ]
     },
@@ -25598,6 +25577,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Beherrscher",
+            "Beherrschung",
+            "beherrschend",
             "beherrscht"
           ]
         }
@@ -26044,6 +26026,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Beeinflusser",
+            "Beeinflussung",
+            "beeinflussend",
             "beeinflusst"
           ]
         }
@@ -26473,7 +26458,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Feststellung"
+            "Feststellung",
+            "Feststellbremse"
           ]
         }
       ],
@@ -26626,7 +26612,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Durchführer",
             "Durchführung",
+            "durchführend",
             "durchgeführt"
           ]
         }
@@ -26957,7 +26945,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/De-Auto.ogg/De-Auto.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Auto.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Autostraße",
+            "Autoverkehr",
+            "Autotürschloss",
+            "Autotür",
+            "Autohaus"
+          ]
+        }
+      ],
       "levels": [
         "A1",
         "A2",
@@ -27028,9 +27027,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Arbeitszimmer",
             "Badezimmer",
-            "Schlafzimmer",
-            "Wohnzimmer"
+            "Esszimmer",
+            "Frauenzimmer",
+            "Gästezimmer"
           ]
         }
       ],
@@ -27097,7 +27098,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Kindergarten"
+            "Bauerngarten",
+            "Biergarten",
+            "Biogarten",
+            "Blumengarten",
+            "Dachgarten"
           ]
         }
       ],
@@ -27202,7 +27207,20 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Schluss"
+            "aufschlüsseln",
+            "Schluss",
+            "Schlüsselabgabe",
+            "Schlüsselaufbewahrung",
+            "Schlüsselausgabe"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "entschlüsseln",
+            "verschlüsseln",
+            "schlüsselartig",
+            "schlüssellos"
           ]
         }
       ],
@@ -27306,8 +27324,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "namens",
-            "namentlich"
+            "Namedropping",
+            "Namenänderung",
+            "Namendeutung",
+            "Namenforschung",
+            "Namengeber"
           ]
         }
       ],
@@ -27317,18 +27338,7 @@ window.WORTWEG_DATA = {
         "B1"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "namens",
-          "label": "namens",
-          "zh": "名叫"
-        },
-        {
-          "word": "namentlich",
-          "label": "namentlich",
-          "zh": "adj. 具名的，指出姓名的，特别的"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Familie",
@@ -27356,7 +27366,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f3/De-Familie.OGG/De-Familie.OGG.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Familie.OGG"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Familienabend",
+            "Familienalbum",
+            "Familienalltag",
+            "Familienanamnese",
+            "Familienangehörige"
+          ]
+        }
+      ],
       "levels": [
         "A1",
         "B1",
@@ -27424,9 +27445,18 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Gevatter"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
             "Vater-Mutter-Kind",
+            "Vaterbruder",
+            "Vaterfigur",
+            "Vaterhaus",
             "Vaterland"
           ]
         }
@@ -27501,7 +27531,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Schwester",
-            "Genosse"
+            "Nonne",
+            "Genosse",
+            "Gevatter",
+            "Landsmann"
           ]
         }
       ],
@@ -27574,7 +27607,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Krankenschwester"
+            "Kinderschwester",
+            "Krankenschwester",
+            "Ordensschwester",
+            "schwesterlich"
           ]
         }
       ],
@@ -27716,7 +27752,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "rund um die Uhr",
-            "Uhrzeit"
+            "Uhrenfeder",
+            "Uhrglasnagel",
+            "Uhrmacher",
+            "Uhrwerk"
           ]
         }
       ],
@@ -27724,13 +27763,7 @@ window.WORTWEG_DATA = {
         "A1"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Uhrzeit",
-          "label": "Uhrzeit",
-          "zh": "时间、小时、时期"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Woche",
@@ -27762,9 +27795,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Wochenende",
-            "wochenlang",
-            "wöchentlich"
+            "Arbeitswoche",
+            "Extrawoche",
+            "Ferienwoche",
+            "Kalenderwoche",
+            "Karwoche"
           ]
         }
       ],
@@ -27837,7 +27872,9 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "monatelang",
-            "monatlich"
+            "monatlich",
+            "Vormonat",
+            "Monatsgehalt"
           ]
         }
       ],
@@ -27920,10 +27957,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Frühjahr",
+            "Geschäftsjahr",
             "Halbjahr",
-            "Schuljahr",
-            "Vorjahr",
-            "Baujahr"
+            "Haushaltsjahr",
+            "Kalenderjahr"
           ]
         }
       ],
@@ -27991,7 +28028,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/De-at-Geschenk.ogg/De-at-Geschenk.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Geschenk.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abschiedsgeschenk",
+            "Geburtstagsgeschenk",
+            "Weihnachtsgeschenk"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -28208,7 +28254,26 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b9/De-at-Fehler.ogg/De-at-Fehler.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Fehler.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Fehlbetrag",
+            "Fehlentscheidung",
+            "Fehlverhalten"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abbildungsfehler",
+            "Fehleranzeige",
+            "Fehlerbeseitigung",
+            "fehlerfrei",
+            "Fehlergrenze"
+          ]
+        }
+      ],
       "associationTopic": "学习",
       "associations": [
         {
@@ -28269,7 +28334,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bd/De-Prüfung.ogg/De-Prüfung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Prüfung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Prüfungsangst",
+            "Prüfungskommission",
+            "Produktprüfung"
+          ]
+        }
+      ],
       "levels": [
         "A2",
         "B2"
@@ -28561,9 +28635,22 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Lösungsansatz",
+            "Lösungsantwort",
+            "Lösungsdruck",
+            "Lösungsheft",
+            "Lösungsmittel"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "Auflösung"
+            "Ablösung",
+            "Auflösung",
+            "Auslösung",
+            "Einlösung"
           ]
         }
       ],
@@ -28664,11 +28751,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Differenz",
-            "Gegensatz",
-            "Kontrast",
-            "Ungleichheit",
-            "Ähnlichkeit"
+            "Abweichung",
+            "Andersartigkeit",
+            "Anomalie",
+            "Antagonismus",
+            "Differenz"
           ]
         }
       ],
@@ -28678,21 +28765,6 @@ window.WORTWEG_DATA = {
           "word": "Differenz",
           "label": "Differenz",
           "zh": "差异，差别"
-        },
-        {
-          "word": "Gegensatz",
-          "label": "Gegensatz",
-          "zh": "比较、对照、对照物"
-        },
-        {
-          "word": "Kontrast",
-          "label": "Kontrast",
-          "zh": "对比，反差，对照，（屏幕，图像）对比度"
-        },
-        {
-          "word": "Ähnlichkeit",
-          "label": "Ähnlichkeit",
-          "zh": "相似，类似"
         }
       ]
     },
@@ -28788,8 +28860,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Berichterstellung",
             "Berichterstattung",
+            "Berichtsstand",
+            "Berichtsvorlage",
             "berichten"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "berichtsartig",
+            "berichtsförmig",
+            "Berichterstatter",
+            "Wetterbericht",
+            "Medienbericht"
           ]
         }
       ],
@@ -28856,7 +28941,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/De-Zukunft.ogg/De-Zukunft.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Zukunft.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Zukunftsangst",
+            "Zukunftsaussichten",
+            "Zukunftserwartung",
+            "Zukunftsforscher",
+            "Zukunftsmusik"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -28884,7 +28980,18 @@ window.WORTWEG_DATA = {
           ]
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abbiegemöglichkeit",
+            "Abfahrtsmöglichkeit",
+            "Abhörmöglichkeit",
+            "Ablagemöglichkeit",
+            "Absatzmöglichkeit"
+          ]
+        }
+      ],
       "levels": [
         "B1",
         "B2"
@@ -28920,7 +29027,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/De-Aussage.ogg/De-Aussage.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Aussage.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "aussagefähig",
+            "Aussagenlogik",
+            "Fehlaussage",
+            "Nullaussage"
+          ]
+        }
+      ],
       "levels": [
         "B2"
       ],
@@ -29111,7 +29228,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/De-Erkenntnis.ogg/De-Erkenntnis.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Erkenntnis.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "erkenntnislos",
+            "Erkenntnisinteresse",
+            "Erkenntnistheorie",
+            "Erkenntnisgewinn"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -29170,7 +29297,26 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/De-Einfluss.ogg/De-Einfluss.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Einfluss.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Einflussbereich",
+            "Einflussgröße",
+            "Einflussmöglichkeit",
+            "Einflussverlust",
+            "Machteinfluss"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "einflusslos",
+            "einflussarm",
+            "einflussreich"
+          ]
+        }
+      ],
       "levels": [
         "B2"
       ],
@@ -29259,7 +29405,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/48/De-billig.ogg/De-billig.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-billig.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "spottbillig"
+          ]
+        }
+      ],
       "levels": [
         "A1",
         "A2",
@@ -29494,11 +29647,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "-freundlich",
-            "Moskau-freundlich",
-            "Trump-freundlich",
-            "USA-freundlich",
-            "Washington-freundlich"
+            "abschleppfreundlich",
+            "aktionärsfreundlich",
+            "altersfreundlich",
+            "anwenderfreundlich",
+            "arbeitgeberfreundlich"
           ]
         }
       ],
@@ -29536,7 +29689,8 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "gesunden",
-            "Gesundheit"
+            "Gesundheit",
+            "Gesundbrunnen"
           ]
         }
       ],
@@ -29586,7 +29740,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/De-stark.ogg/De-stark.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-stark.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "affenstark"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -29622,13 +29783,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Schwäche"
+            "Schwäche",
+            "Schwächling",
+            "schwächlich",
+            "schwächeln"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Schwachsinn"
+            "Schwachkopf",
+            "Schwachsinn",
+            "Schwachstelle"
           ]
         }
       ],
@@ -29672,11 +29838,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "gleißend",
             "weiß",
             "intelligent",
             "klug",
-            "dunkel",
-            "dumm"
+            "weißlich"
           ]
         }
       ],
@@ -29696,16 +29862,6 @@ window.WORTWEG_DATA = {
           "word": "klug",
           "label": "klug",
           "zh": "聪明的、精明的"
-        },
-        {
-          "word": "dunkel",
-          "label": "dunkel",
-          "zh": "暗"
-        },
-        {
-          "word": "dumm",
-          "label": "dumm",
-          "zh": "笨的、愚蠢的、幼稚的、单纯的"
         }
       ]
     },
@@ -29740,9 +29896,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "angenehm",
+            "behaglich",
             "gemütlich",
-            "faul",
-            "es sich bequem machen"
+            "kommod",
+            "faul"
           ]
         }
       ],
@@ -30276,11 +30433,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "beinahe",
-            "beiseite",
-            "Beispiel",
-            "dabei",
-            "nebenbei"
+            "anbei",
+            "Beiboot",
+            "Beifahrer",
+            "Beifang",
+            "beinahe"
           ]
         }
       ],
@@ -30294,21 +30451,6 @@ window.WORTWEG_DATA = {
           "word": "beinahe",
           "label": "beinahe",
           "zh": "几乎、差不多"
-        },
-        {
-          "word": "beiseite",
-          "label": "beiseite",
-          "zh": "adv. 在一边，到一边，旁边"
-        },
-        {
-          "word": "Beispiel",
-          "label": "Beispiel",
-          "zh": "例子"
-        },
-        {
-          "word": "nebenbei",
-          "label": "nebenbei",
-          "zh": "附带的"
         }
       ]
     },
@@ -30546,7 +30688,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "am",
-            "ans"
+            "ans",
+            "anhin",
+            "wohlan",
+            "wolan"
           ]
         }
       ],
@@ -30687,8 +30832,8 @@ window.WORTWEG_DATA = {
             "allerdings",
             "andererseits",
             "dagegen",
-            "hingegen",
-            "Gegensatz"
+            "dahingegen",
+            "demgegenüber"
           ]
         }
       ],
@@ -30713,16 +30858,6 @@ window.WORTWEG_DATA = {
           "word": "dagegen",
           "label": "dagegen",
           "zh": "然而，另一方面"
-        },
-        {
-          "word": "hingegen",
-          "label": "hingegen",
-          "zh": "与之相反、反之、而"
-        },
-        {
-          "word": "Gegensatz",
-          "label": "Gegensatz",
-          "zh": "比较、对照、对照物"
         }
       ]
     },
@@ -30823,8 +30958,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "gesternabend",
             "gestern abend",
             "gestern Abend",
+            "gestrig",
             "von gestern"
           ]
         }
@@ -31053,8 +31190,9 @@ window.WORTWEG_DATA = {
           "words": [
             "durchaus",
             "durcheinander",
-            "durchweg",
-            "hindurch"
+            "Durchhaus",
+            "durchhin",
+            "durchweg"
           ]
         }
       ],
@@ -31072,11 +31210,6 @@ window.WORTWEG_DATA = {
           "word": "durcheinander",
           "label": "durcheinander",
           "zh": "混乱的，乱七八糟的"
-        },
-        {
-          "word": "hindurch",
-          "label": "hindurch",
-          "zh": "穿过，经过，透过（空间）"
         }
       ]
     },
@@ -31112,9 +31245,9 @@ window.WORTWEG_DATA = {
           "words": [
             "dagegen",
             "entgegen",
-            "gegeneinander",
-            "Gegensatz",
-            "Gegenstand"
+            "entgegnen",
+            "Gegenantrag",
+            "gegeneinander"
           ]
         }
       ],
@@ -31137,11 +31270,6 @@ window.WORTWEG_DATA = {
           "word": "gegeneinander",
           "label": "gegeneinander",
           "zh": "互相、彼此相对、对抗"
-        },
-        {
-          "word": "Gegensatz",
-          "label": "Gegensatz",
-          "zh": "比较、对照、对照物"
         }
       ]
     },
@@ -31177,9 +31305,9 @@ window.WORTWEG_DATA = {
           "words": [
             "über-",
             "überall",
-            "Überfall",
-            "Übergewicht",
-            "überhaupt"
+            "Überangebot",
+            "Übereinkunft",
+            "Überfall"
           ]
         }
       ],
@@ -31199,11 +31327,6 @@ window.WORTWEG_DATA = {
           "word": "Überfall",
           "label": "Überfall",
           "zh": "意外的暴力攻击，尤其是"
-        },
-        {
-          "word": "überhaupt",
-          "label": "überhaupt",
-          "zh": "从整体上看，一般地说"
         }
       ]
     },
@@ -31346,8 +31469,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Zwischenfall",
-            "Zwischenzeit",
-            "inzwischen"
+            "Zwischenlösung",
+            "Zwischenmahlzeit",
+            "Zwischenraum",
+            "Zwischenzeit"
           ]
         },
         {
@@ -31366,11 +31491,6 @@ window.WORTWEG_DATA = {
           "word": "Zwischenzeit",
           "label": "Zwischenzeit",
           "zh": "pl.Zwischenzeiten 同时，在"
-        },
-        {
-          "word": "inzwischen",
-          "label": "inzwischen",
-          "zh": "这期间，后来，现在，此刻已……（将当前状态与"
         },
         {
           "word": "dazwischen",
@@ -32419,7 +32539,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3a/De-at-gegenüber.ogg/De-at-gegenüber.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-gegenüber.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "demgegenüber"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -32456,14 +32583,19 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Kopfhörer",
+            "Kopfkino",
+            "Stahlkopfforelle",
             "Kopf-an-Kopf-Rennen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Hinterkopf",
-            "Kopfhörer"
+            "-köpfig",
+            "verkopft",
+            "Briefkopf",
+            "Brückenkopf",
+            "Dummkopf"
           ]
         }
       ],
@@ -32813,6 +32945,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "annoch",
             "dennoch",
             "immer noch",
             "noch einmal"
@@ -33195,7 +33328,10 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "bejahen",
+            "jein"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -33298,6 +33434,7 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "einmalig",
+            "mehrmalig",
             "mehrmals",
             "niemals",
             "oftmals"
@@ -33944,6 +34081,7 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "leben wie Gott in Frankreich",
+            "in Saus und Braus leben",
             "auf großem Fuß leben",
             "hinter dem Mond leben",
             "leben und leben lassen"
@@ -33952,10 +34090,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "erleben",
-            "überleben",
-            "zusammenleben",
-            "lebendig"
+            "ableben",
+            "aufleben",
+            "ausleben",
+            "beleben",
+            "einleben"
           ]
         }
       ],
@@ -34076,23 +34215,7 @@ window.WORTWEG_DATA = {
         "B2"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "erleben",
-          "label": "erleben",
-          "zh": "体验，经历"
-        },
-        {
-          "word": "überleben",
-          "label": "überleben",
-          "zh": "（在...中）幸存，活下来"
-        },
-        {
-          "word": "lebendig",
-          "label": "lebendig",
-          "zh": "adj. 活着的，有生气的，生动的，活泼的"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Macht",
@@ -34255,11 +34378,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "geradlinig",
             "eben",
             "just",
             "knapp",
-            "eben",
-            "ausgerechnet"
+            "eben"
           ]
         }
       ],
@@ -34279,11 +34402,6 @@ window.WORTWEG_DATA = {
           "word": "eben",
           "label": "eben",
           "zh": "平的、平坦的"
-        },
-        {
-          "word": "ausgerechnet",
-          "label": "ausgerechnet",
-          "zh": "算好的、计划好的"
         }
       ]
     },
@@ -34420,25 +34538,15 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Weiße",
-            "weißen",
-            "Weißrussland"
+            "Deckweiß",
+            "Edelweiß",
+            "schwarzweiß",
+            "Weißbier"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Weiße",
-          "label": "Weiße",
-          "zh": "白色、洁白、白人"
-        },
-        {
-          "word": "weißen",
-          "label": "weißen",
-          "zh": "漂白、弄白"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "wirklich",
@@ -35078,26 +35186,15 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "aus der Welt",
+            "Gedankenwelt",
+            "Lebenswelt",
             "nicht die Welt",
-            "Weltanschauung",
-            "Weltbild",
-            "Weltkrieg"
+            "Weltall"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Weltbild",
-          "label": "Weltbild",
-          "zh": "pl.Weltbilder 世界观，世界认识"
-        },
-        {
-          "word": "Weltkrieg",
-          "label": "Weltkrieg",
-          "zh": "pl.Weltkriegs 世界大战"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "genau",
@@ -35751,24 +35848,13 @@ window.WORTWEG_DATA = {
             "im Grunde",
             "im Grunde genommen",
             "in Wirklichkeit",
-            "tatsächlich",
-            "wirklich"
+            "intrinsisch",
+            "inhärent"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "tatsächlich",
-          "label": "tatsächlich",
-          "zh": "真的吗？"
-        },
-        {
-          "word": "wirklich",
-          "label": "wirklich",
-          "zh": "真实的、实际的、实际上"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Erste",
@@ -35839,7 +35925,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/32/DE-zurück.ogg/DE-zurück.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:DE-zurück.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "zurücke"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -35975,8 +36068,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Zusammenfluss",
             "Zusammenfassung",
-            "Zusammensetzung"
+            "Zusammenrückung",
+            "Zusammensetzung",
+            "zusammenziehen"
           ]
         }
       ],
@@ -36107,19 +36203,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abfällig",
+            "anfällig",
+            "beifällig",
             "fallen",
-            "falls",
-            "zufällig"
+            "falls"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
             "Abfall",
+            "Anfall",
             "Ausfall",
-            "Beifall",
-            "Durchfall",
-            "Einzelfall"
+            "Baufall",
+            "Bedarfsfall"
           ]
         }
       ],
@@ -36136,11 +36234,6 @@ window.WORTWEG_DATA = {
           "zh": "假如、如果"
         },
         {
-          "word": "zufällig",
-          "label": "zufällig",
-          "zh": "随机的；随便的"
-        },
-        {
           "word": "Abfall",
           "label": "Abfall",
           "zh": "废物，垃圾"
@@ -36149,11 +36242,6 @@ window.WORTWEG_DATA = {
           "word": "Ausfall",
           "label": "Ausfall",
           "zh": "取消，解除，遗失，失败，垮台，出击，突围"
-        },
-        {
-          "word": "Beifall",
-          "label": "Beifall",
-          "zh": "掌声，鼓掌"
         }
       ]
     },
@@ -36363,7 +36451,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Meinung"
+            "Meinung",
+            "vermeinen"
           ]
         }
       ],
@@ -36683,10 +36772,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Heimspiel",
-            "spielen",
-            "Spielraum",
-            "verspielt"
+            "Federballspiel",
+            "Fesselspiel",
+            "Fußballspiel",
+            "Glücksspiel",
+            "Handballspiel"
           ]
         }
       ],
@@ -36971,9 +37061,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Leidenschaft",
             "Neigung",
-            "Sex",
-            "Abneigung",
-            "Hass"
+            "Beischlaf",
+            "Geschlechtsakt",
+            "Koitus"
           ]
         }
       ],
@@ -37198,7 +37288,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Vorgeschichte"
+            "geschichtlich",
+            "Geschichtling",
+            "Entstehungsgeschichte",
+            "Erdgeschichte",
+            "Forschungsgeschichte"
           ]
         }
       ],
@@ -37296,8 +37390,8 @@ window.WORTWEG_DATA = {
             "dahin",
             "daraufhin",
             "dorthin",
-            "hinab",
-            "hinauf"
+            "fernerhin",
+            "fernhin"
           ]
         }
       ],
@@ -37317,11 +37411,6 @@ window.WORTWEG_DATA = {
           "word": "dorthin",
           "label": "dorthin",
           "zh": "那边、朝那边"
-        },
-        {
-          "word": "hinauf",
-          "label": "hinauf",
-          "zh": "往上"
         }
       ]
     },
@@ -37446,8 +37535,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "hinbekommen",
-            "mitbekommen"
+            "bekommend",
+            "abbekommen",
+            "aufbekommen"
           ]
         }
       ],
@@ -37565,13 +37655,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/bekommen#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。本词有多个助动词用法，请结合具体义项核对 haben / sein。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "mitbekommen",
-          "label": "mitbekommen",
-          "zh": "临走时获得；(作为嫁妆) 获得"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "weit",
@@ -37806,19 +37890,15 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "plan",
-            "ungleich",
-            "Ebene"
+            "uneben",
+            "gewellt",
+            "hügelig",
+            "uneben"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Ebene",
-          "label": "Ebene",
-          "zh": "平原"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "gewesen",
@@ -37906,14 +37986,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Polizist"
+            "Politesse",
+            "Polizist",
+            "Polizistin",
+            "Polizeiagentin",
+            "Polizeiärztin"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
             "Anti-Terror-Polizei",
-            "Bundespolizei"
+            "Antiterrorpolizei",
+            "Autobahnpolizei",
+            "Bahnhofspolizei",
+            "Bahnpolizei"
           ]
         }
       ],
@@ -38546,10 +38633,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Abstand",
+            "Adelsstand",
             "Anstand",
             "Aufstand",
-            "Rückstand",
-            "Ruhestand"
+            "Ausstand"
           ]
         },
         {
@@ -38575,16 +38662,6 @@ window.WORTWEG_DATA = {
           "word": "Aufstand",
           "label": "Aufstand",
           "zh": "暴动、起义"
-        },
-        {
-          "word": "Rückstand",
-          "label": "Rückstand",
-          "zh": "剩余物，残渣，废料，废物，下脚料，余料，零头"
-        },
-        {
-          "word": "Ruhestand",
-          "label": "Ruhestand",
-          "zh": "pl.Ruhestande 退休，退役"
         },
         {
           "word": "ständig",
@@ -38696,6 +38773,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "beispielhaft",
             "beispielsweise",
             "zum Beispiel"
           ]
@@ -38767,9 +38845,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "zureichend",
+            "ungenügend",
             "unzureichend",
-            "genügen",
-            "genügend"
+            "Genüge",
+            "genügen"
           ]
         }
       ],
@@ -38779,11 +38859,6 @@ window.WORTWEG_DATA = {
           "word": "genügen",
           "label": "genügen",
           "zh": "足够"
-        },
-        {
-          "word": "genügend",
-          "label": "genügend",
-          "zh": "充足的、足够的"
         }
       ]
     },
@@ -38919,8 +38994,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "unmittelbar",
-            "persönlich",
-            "indirekt"
+            "gradewegs",
+            "geradewegs",
+            "geradlinig",
+            "schnurstracks"
           ]
         }
       ],
@@ -38930,16 +39007,6 @@ window.WORTWEG_DATA = {
           "word": "unmittelbar",
           "label": "unmittelbar",
           "zh": "直接的"
-        },
-        {
-          "word": "persönlich",
-          "label": "persönlich",
-          "zh": "个人地"
-        },
-        {
-          "word": "indirekt",
-          "label": "indirekt",
-          "zh": "间接的"
         }
       ]
     },
@@ -39009,7 +39076,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "echtgolden",
+            "Echtheit",
             "echt jetzt",
+            "echtsilbern",
             "in echt"
           ]
         }
@@ -39237,17 +39307,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "abends"
+            "abends",
+            "allabendlich"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "abendlich",
+            "Abendbrot",
             "Abendessen",
             "abendessen",
-            "Feierabend",
-            "gestern abend",
-            "gestern Abend"
+            "Abendgebet"
           ]
         }
       ],
@@ -39349,7 +39420,20 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "musikalisch",
-            "Musiker"
+            "Musikant",
+            "Musiker",
+            "Musikus",
+            "musizieren"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Musikerziehung",
+            "Musikfreund",
+            "Musikhaus",
+            "Musiklehrer",
+            "Musiklexikon"
           ]
         }
       ],
@@ -39436,11 +39520,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "in Bälde",
             "in Kürze",
             "demnächst",
             "gleich",
-            "sofort",
-            "beinahe"
+            "sofort"
           ]
         }
       ],
@@ -39460,11 +39544,6 @@ window.WORTWEG_DATA = {
           "word": "sofort",
           "label": "sofort",
           "zh": "立即、马上、现在"
-        },
-        {
-          "word": "beinahe",
-          "label": "beinahe",
-          "zh": "几乎、差不多"
         }
       ]
     },
@@ -39534,9 +39613,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Aspekt",
             "Lage",
+            "Lokalität",
             "Position",
-            "Platz",
-            "Punkt"
+            "Platz"
           ]
         }
       ],
@@ -39561,11 +39640,6 @@ window.WORTWEG_DATA = {
           "word": "Platz",
           "label": "Platz",
           "zh": "广场"
-        },
-        {
-          "word": "Punkt",
-          "label": "Punkt",
-          "zh": "点"
         }
       ]
     },
@@ -39806,13 +39880,20 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Handen",
+            "zuhanden"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
+            "abhanden kommen",
             "alle Hände voll zu tun haben",
-            "Hand in Hand",
-            "Handball",
-            "Handbuch",
-            "Handgelenk"
+            "aushändigen",
+            "behende",
+            "Hand in Hand"
           ]
         }
       ],
@@ -39942,7 +40023,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/De-damals.ogg/De-damals.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-damals.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "damalig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -40132,7 +40220,8 @@ window.WORTWEG_DATA = {
             "gesellschaftlich",
             "Gesellschafter",
             "Aktiengesellschaft",
-            "Fluggesellschaft"
+            "Fluggesellschaft",
+            "Gesellschaft mit beschränkter Haftung"
           ]
         }
       ],
@@ -40574,10 +40663,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "bekanntheitsfördernd",
+            "weltbekannt",
+            "Bekanntheit",
             "bekanntlich",
-            "Bekanntschaft",
-            "Bekannter",
-            "Bekannte"
+            "Bekanntschaft"
           ]
         }
       ],
@@ -40592,16 +40682,6 @@ window.WORTWEG_DATA = {
           "word": "Bekanntschaft",
           "label": "Bekanntschaft",
           "zh": "结识、认识、相识、相熟、友谊、交往、熟人、朋"
-        },
-        {
-          "word": "Bekannter",
-          "label": "Bekannter",
-          "zh": "熟人，朋友"
-        },
-        {
-          "word": "Bekannte",
-          "label": "Bekannte",
-          "zh": "熟人、朋友"
         }
       ]
     },
@@ -40669,10 +40749,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "herab",
+            "herauf",
             "herein",
             "daher",
-            "woher",
-            "seither"
+            "dorther"
           ]
         }
       ],
@@ -40687,16 +40767,6 @@ window.WORTWEG_DATA = {
           "word": "daher",
           "label": "daher",
           "zh": "从那里"
-        },
-        {
-          "word": "woher",
-          "label": "woher",
-          "zh": "从哪里；从何处"
-        },
-        {
-          "word": "seither",
-          "label": "seither",
-          "zh": "自那时以来、其后"
         }
       ]
     },
@@ -40803,8 +40873,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Arbeitsgruppe",
-            "Zielgruppe"
+            "Aldehydgruppe",
+            "Alkoxygruppe",
+            "Altersgruppe",
+            "Aminogruppe",
+            "Arbeitsgruppe"
           ]
         }
       ],
@@ -40814,11 +40887,6 @@ window.WORTWEG_DATA = {
           "word": "Arbeitsgruppe",
           "label": "Arbeitsgruppe",
           "zh": "pl.Arbeitsgruppen 工作组"
-        },
-        {
-          "word": "Zielgruppe",
-          "label": "Zielgruppe",
-          "zh": "目标群体，目标受众"
         }
       ]
     },
@@ -40866,7 +40934,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0e/De-Deutsch.ogg/De-Deutsch.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Deutsch.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Amtsdeutsch",
+            "Barossadeutsch",
+            "Baseldeutsch",
+            "Beamtendeutsch",
+            "Behördendeutsch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -41046,6 +41125,7 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Ding",
+            "Geraffel",
             "Zeug",
             "Gegenstand"
           ]
@@ -41134,10 +41214,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Schwein",
+            "Massel",
+            "Dusel",
             "Fortuna",
-            "Wohl",
-            "Zufriedenheit",
-            "Pech"
+            "Wohl"
           ]
         }
       ],
@@ -41261,7 +41341,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fb/De-Folge.ogg/De-Folge.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Folge.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abfolge",
+            "Erbfolge",
+            "folgerichtig",
+            "Zeichenfolge"
+          ]
+        }
+      ],
       "levels": [
         "A1",
         "A2",
@@ -41444,7 +41534,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/De-Film.ogg/De-Film.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Film.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abenteuerfilm",
+            "Actionfilm",
+            "Filmschauspieler",
+            "Filmstar",
+            "Horrorfilm"
+          ]
+        }
+      ],
       "associationTopic": "媒体",
       "associations": [
         {
@@ -41832,9 +41933,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Ampelregierung",
             "Bundesregierung",
+            "Kantonsregierung",
             "Landesregierung",
-            "Regierungschef"
+            "Marionettenregierung"
           ]
         }
       ],
@@ -42242,18 +42345,19 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "mit anderen Worten",
-            "Passwort",
-            "Sprichwort",
-            "Wörterbuch",
-            "zu Wort kommen"
+            "Anfangswort",
+            "Bastardwort",
+            "Bestimmungswort",
+            "Erbwort",
+            "Fragewort"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
             "Antwort",
-            "wörtlich"
+            "wörtlich",
+            "wortlos"
           ]
         }
       ],
@@ -42433,6 +42537,7 @@ window.WORTWEG_DATA = {
             "Jugendlicher",
             "Junge",
             "Kind",
+            "Mädchenname",
             "Mädel"
           ]
         }
@@ -42873,10 +42978,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Auswahl",
-            "Bundestagswahl",
-            "Kommunalwahl",
-            "Landtagswahl",
-            "wahlweise"
+            "Berufswahl",
+            "Vorauswahl",
+            "Abwahl",
+            "Briefwahl"
           ]
         }
       ],
@@ -43457,7 +43562,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/De-Angst.ogg/De-Angst.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Angst.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Angsthase",
+            "ängstlich",
+            "Flugangst",
+            "Höhenangst",
+            "Platzangst"
+          ]
+        }
+      ],
       "associationTopic": "感受",
       "associations": [
         {
@@ -43633,10 +43749,22 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "kriegführend",
+            "Kriegführung",
+            "kriegsähnlich",
+            "Kriegsanfang",
+            "Kriegsangst"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
+            "bekriegen",
             "kriegen",
-            "Krieger"
+            "Krieger",
+            "kriegerisch"
           ]
         }
       ],
@@ -43705,7 +43833,9 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "erfolglos",
-            "erfolgreich"
+            "erfolgreich",
+            "erfolgversprechend",
+            "erfolgswirksam"
           ]
         }
       ],
@@ -43784,7 +43914,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Tagung"
+            "Tagung",
+            "vertagen"
           ]
         }
       ],
@@ -43975,10 +44106,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "sauber",
+            "unverdorben",
             "unschuldig",
             "frei",
-            "pur",
-            "schmutzig"
+            "pur"
           ]
         }
       ],
@@ -44079,19 +44210,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abtöten",
+            "Selbsttöten",
+            "Sichselbsttöten",
             "tot",
-            "Tote",
-            "toter",
-            "Toter",
-            "töten"
+            "Tote"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "Gnadentod",
+            "Sprachtod",
+            "todbringend",
             "Tal des Todes",
-            "Todesstrafe",
-            "tödlich"
+            "Todesahnung"
           ]
         }
       ],
@@ -44101,21 +44234,6 @@ window.WORTWEG_DATA = {
           "word": "tot",
           "label": "tot",
           "zh": "死"
-        },
-        {
-          "word": "töten",
-          "label": "töten",
-          "zh": "杀，杀害，杀死"
-        },
-        {
-          "word": "Todesstrafe",
-          "label": "Todesstrafe",
-          "zh": "死刑"
-        },
-        {
-          "word": "tödlich",
-          "label": "tödlich",
-          "zh": "adj. adv. 致命的，丧命的，极端的，"
         }
       ]
     },
@@ -44267,6 +44385,16 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "rollen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abrollen",
+            "Bandrolle",
+            "Biskuitrolle",
+            "Buchrolle",
+            "Drahtrolle"
           ]
         }
       ],
@@ -44901,8 +45029,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abzahlen",
+            "anzahlen",
+            "auszahlen",
             "bezahlen",
-            "Zahlung"
+            "draufzahlen"
           ]
         }
       ],
@@ -45030,11 +45161,6 @@ window.WORTWEG_DATA = {
           "word": "bezahlen",
           "label": "bezahlen",
           "zh": "支付"
-        },
-        {
-          "word": "Zahlung",
-          "label": "Zahlung",
-          "zh": "支付"
         }
       ]
     },
@@ -45075,8 +45201,8 @@ window.WORTWEG_DATA = {
             "Führer",
             "Führerschein",
             "Führung",
-            "ausführen",
-            "durchführen"
+            "abführen",
+            "anführen"
           ]
         }
       ],
@@ -45212,11 +45338,6 @@ window.WORTWEG_DATA = {
           "word": "Führung",
           "label": "Führung",
           "zh": "领导，指挥"
-        },
-        {
-          "word": "durchführen",
-          "label": "durchführen",
-          "zh": "实施；开展"
         }
       ]
     },
@@ -45333,11 +45454,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "anreden",
             "ausreden",
-            "überreden",
-            "Gerede",
-            "Rede",
-            "Redner"
+            "bauchreden",
+            "bereden",
+            "daherreden"
           ]
         }
       ],
@@ -45460,16 +45581,6 @@ window.WORTWEG_DATA = {
           "word": "ausreden",
           "label": "ausreden",
           "zh": "说完"
-        },
-        {
-          "word": "Rede",
-          "label": "Rede",
-          "zh": "讲话、言语、演讲"
-        },
-        {
-          "word": "Redner",
-          "label": "Redner",
-          "zh": "pl.Rednern 演说者，演说家，演讲人"
         }
       ]
     },
@@ -45611,9 +45722,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Parteitag",
-            "Linkspartei",
-            "Volkspartei"
+            "parteiisch",
+            "parteilos",
+            "Parteianhänger",
+            "Parteiausschluss",
+            "Parteienstaat"
           ]
         }
       ],
@@ -45732,7 +45845,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "einen schlechten Tag haben",
-            "schlechthin"
+            "schlechthin",
+            "Schlechtigkeit",
+            "schlechtmachen",
+            "Schlechtsein"
           ]
         }
       ],
@@ -45871,7 +45987,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/De-Video.ogg/De-Video.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Video.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Videofilm",
+            "Videospiel"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -46124,7 +46248,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f6/De-August.ogg/De-August.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-August.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Augustabend",
+            "Augustfeier",
+            "Augustferien",
+            "Augustheu",
+            "Augustmorgen"
+          ]
+        }
+      ],
       "associationTopic": "月份",
       "associations": [
         {
@@ -46439,7 +46574,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "systematisch"
+            "systematisch",
+            "Systematik"
           ]
         }
       ],
@@ -46613,9 +46749,18 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "schöpfen"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "erschaffen"
+            "erschaffen",
+            "schaffend",
+            "Schaffensdrang",
+            "Schaffenskraft"
           ]
         }
       ],
@@ -46777,7 +46922,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/64/De-gemeinsam.ogg/De-gemeinsam.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-gemeinsam.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gemeinsamkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -47649,7 +47801,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "höhere Tochter"
+            "höhere Tochter",
+            "Tochtersprache"
           ]
         }
       ],
@@ -47755,7 +47908,14 @@ window.WORTWEG_DATA = {
           "label": "属格"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gruppensex"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -47821,7 +47981,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "stundenlang"
+            "Stundenhotel",
+            "Stundenkilometer",
+            "stundenlang",
+            "stündlich"
           ]
         }
       ],
@@ -47909,11 +48072,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Einzahl",
             "ganze Zahl",
             "gerade Zahl",
-            "Mehrzahl",
-            "zahlen",
-            "zählen"
+            "Gesamtzahl",
+            "Mehrzahl"
           ]
         }
       ],
@@ -47923,16 +48086,6 @@ window.WORTWEG_DATA = {
           "word": "Mehrzahl",
           "label": "Mehrzahl",
           "zh": "大多数，大部分"
-        },
-        {
-          "word": "zahlen",
-          "label": "zahlen",
-          "zh": "付款"
-        },
-        {
-          "word": "zählen",
-          "label": "zählen",
-          "zh": "数、计数、计算、点数"
         }
       ]
     },
@@ -47991,7 +48144,8 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "erhöhen",
-            "hoch"
+            "hoch",
+            "überhöhen"
           ]
         }
       ],
@@ -48065,23 +48219,28 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "jemanden als etwas titulieren",
+            "jemanden titulieren",
+            "Titulieren",
+            "titulieren",
+            "tituliert"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "Eishockey-Titel",
-            "titeln",
-            "Titelverteidiger",
-            "Untertitel"
+            "Abteilungstitel",
+            "Adelstitel",
+            "Albumtitel",
+            "Amtstitel",
+            "Arbeitstitel"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Untertitel",
-          "label": "Untertitel",
-          "zh": "小标题"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Mitarbeiter",
@@ -48520,9 +48679,16 @@ window.WORTWEG_DATA = {
           "words": [
             "Sprach-",
             "sprach-",
+            "Sprach-Hüter",
             "Sprach-Spektrum",
-            "Sprachgebrauch",
-            "Absprache"
+            "Sprachabbau"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "sprachlich",
+            "sprachlos"
           ]
         }
       ],
@@ -49212,7 +49378,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Mengenangabe",
+            "Mengenbegrenzung",
+            "Mengenbeschränkung",
+            "Mengenbezeichnung",
+            "Mengeneinheit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -49535,7 +49712,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/48/De-Saison.ogg/De-Saison.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Saison.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Hauptsaison",
+            "Nebensaison",
+            "Vorsaison"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -49706,7 +49892,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/De-Gefühl.ogg/De-Gefühl.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Gefühl.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "gefühlsarm",
+            "gefühlsbetont",
+            "gefühlsblind",
+            "Gefühlsregung",
+            "gefühlsselig"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gefühligkeit",
+            "gefühllos"
+          ]
+        }
+      ],
       "associationTopic": "感受",
       "associations": [
         {
@@ -49888,11 +50092,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Achterbahn",
             "Autobahn",
+            "bahnbrechend",
             "bahnen",
-            "Bahnhof",
-            "Bahnsteig",
-            "Eisenbahn"
+            "Bahnfahrt"
           ]
         }
       ],
@@ -50165,7 +50369,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "keine Antwort ist auch eine Antwort"
+            "Antworttendenz",
+            "Antwortsatz",
+            "keine Antwort ist auch eine Antwort",
+            "Briefantwort",
+            "Drahtantwort"
           ]
         }
       ],
@@ -50284,7 +50492,9 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "vergleichen",
-            "vergleichbar"
+            "vergleichbar",
+            "unvergleichbar",
+            "unvergleichlich"
           ]
         }
       ],
@@ -50396,11 +50606,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Athletenherz",
+            "beherzt",
+            "Bruderherz",
             "Hand aufs Herz",
-            "Herz-Jesu-Bild",
-            "Herzinfarkt",
-            "herzlich",
-            "zu Herzen nehmen"
+            "Herz-Jesu-Bild"
           ]
         }
       ],
@@ -50635,7 +50845,15 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Äquatornähe",
+            "Bürgernähe"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -51271,11 +51489,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Abluft",
             "an die Luft gehen",
             "aus der Luft greifen",
             "in die Luft fliegen",
-            "in die Luft sprengen",
-            "in freier Luft"
+            "in die Luft sprengen"
           ]
         }
       ],
@@ -51579,9 +51797,20 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Kulturbereich",
+            "Kulturbeutel",
+            "Kulturbolschewismus",
+            "Kulturerbe",
+            "Kulturgeschichte"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "kulturell"
+            "kulturell",
+            "Unkultur"
           ]
         }
       ],
@@ -51768,9 +51997,21 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Wirtschaftsflüchtling",
+            "Wirtschaftskrise",
+            "Wirtschaftsminister",
+            "Wirtschaftswissenschaft",
+            "Wirtschaftswunder"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "wirtschaftlich"
+            "wirtschaftlich",
+            "Wirtschaftslage",
+            "Wirtschaftsstudent"
           ]
         }
       ],
@@ -52453,9 +52694,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "mein Vater erklärt mir jeden Sonntag unsere neun Planeten",
-            "sonntags",
-            "Thomas-Sonntag"
+            "Adventsonntag",
+            "Adventssonntag",
+            "Blutsonntag",
+            "Christkönigsfest",
+            "Christkönigssonntag"
           ]
         }
       ],
@@ -52574,6 +52817,12 @@ window.WORTWEG_DATA = {
             "kritisch",
             "kritisieren"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "kritiklos"
+          ]
         }
       ],
       "levels": [
@@ -52651,7 +52900,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/De-Opfer.ogg/De-Opfer.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Opfer.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bauernopfer",
+            "Brandopfer",
+            "Opfertier",
+            "Sühneopfer",
+            "Tieropfer"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -52763,8 +53023,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "körperlich",
-            "Körperverletzung"
+            "Antikörper",
+            "archimedischer Körper",
+            "Beleuchtungskörper",
+            "Brennkörper",
+            "Feuerwerkskörper"
           ]
         }
       ],
@@ -52853,6 +53116,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Anrede",
             "Ausrede"
           ]
         }
@@ -52911,7 +53175,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "ander",
             "anders",
+            "anderleuts",
             "andererseits"
           ]
         }
@@ -53393,7 +53659,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dd/De-at-Nachrichten.ogg/De-at-Nachrichten.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Nachrichten.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Abendnachrichten",
+            "Kurznachrichten",
+            "Nachrichtendienst",
+            "Nachrichtenkorrespondent",
+            "Nachrichtensendung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -53437,7 +53714,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/86/De-Bevölkerung.ogg/De-Bevölkerung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Bevölkerung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Bevölkerungsabnahme",
+            "Bevölkerungsexplosion",
+            "Bevölkerungspyramide",
+            "Bevölkerungswachstum",
+            "Bevölkerungszunahme"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -53525,6 +53813,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Scheißtyp",
             "Type"
           ]
         }
@@ -53733,6 +54022,16 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Leuchten"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Himmelslicht",
+            "Lichtblick",
+            "Lichtbrechung",
+            "lichtempfindlich",
+            "lichten"
           ]
         }
       ],
@@ -54048,6 +54347,12 @@ window.WORTWEG_DATA = {
           "words": [
             "Politik"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Oppositionspolitiker"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -54107,8 +54412,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Finanzmarkt",
             "Flohmarkt",
-            "Marktplatz"
+            "Kapitalmarkt",
+            "Marktplatz",
+            "vermarkten"
           ]
         }
       ],
@@ -54354,13 +54662,18 @@ window.WORTWEG_DATA = {
           "words": [
             "Abbildung",
             "Fortbildung",
+            "Umbildung",
             "Weiterbildung"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Berufsausbildung"
+            "ausbildungsartig",
+            "ausbildungsmäßig",
+            "ausbildungslos",
+            "Ausbildungsbetrieb",
+            "Ausbildungseinrichtung"
           ]
         }
       ],
@@ -54662,7 +54975,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "halb"
+            "halb",
+            "halbieren"
           ]
         }
       ],
@@ -54913,7 +55227,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/De-at-Bedeutung.ogg/De-at-Bedeutung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Bedeutung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "bedeutungsähnlich",
+            "Bedeutungsangabe",
+            "bedeutungsarm",
+            "Bedeutungsbeziehung",
+            "Bedeutungserklärung"
+          ]
+        }
+      ],
       "associationTopic": "学习",
       "associations": [
         {
@@ -55148,10 +55473,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Einser",
+            "Einmaleins",
             "einzig",
-            "einzeln",
-            "einst",
-            "eins a"
+            "einzeln"
           ]
         }
       ],
@@ -55161,11 +55486,6 @@ window.WORTWEG_DATA = {
           "word": "einzig",
           "label": "einzig",
           "zh": "仅仅，只"
-        },
-        {
-          "word": "einst",
-          "label": "einst",
-          "zh": "曾，曾经"
         }
       ]
     },
@@ -55309,6 +55629,12 @@ window.WORTWEG_DATA = {
         "source": "https://commons.wikimedia.org/wiki/File:De-Präsident.ogg"
       },
       "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "präsidiabel"
+          ]
+        },
         {
           "label": "词族与派生词",
           "words": [
@@ -55708,7 +56034,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "kräftigen"
+            "kräftigen",
+            "verkraften"
           ]
         }
       ],
@@ -55779,7 +56106,14 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Bürgerschaft"
+            "Bürgerschaft",
+            "Bürgerwehr"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "bürgerlich"
           ]
         }
       ],
@@ -55892,8 +56226,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Arbeitskampf",
             "kämpfen",
-            "Kämpfer"
+            "Kämpfer",
+            "Kampfkraft",
+            "kampffähig"
           ]
         }
       ],
@@ -56197,7 +56534,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Speed-Wochenende"
+            "Adventswochenende",
+            "Alpenwochenende",
+            "Aprilwochenende",
+            "Augustwochenende",
+            "Dezemberwochenende"
           ]
         }
       ],
@@ -56320,42 +56661,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Nachdruck",
-            "Stich",
-            "Ausdruck",
-            "Drucker",
-            "Eindruck"
+            "Wasserdruck",
+            "Staudruck",
+            "Gasdruck",
+            "Luftdruck",
+            "Partialdruck"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Nachdruck",
-          "label": "Nachdruck",
-          "zh": "重点，强调，突出"
-        },
-        {
-          "word": "Stich",
-          "label": "Stich",
-          "zh": "针，刺，戳，叮"
-        },
-        {
-          "word": "Ausdruck",
-          "label": "Ausdruck",
-          "zh": "表达，表现"
-        },
-        {
-          "word": "Drucker",
-          "label": "Drucker",
-          "zh": "打印机，印刷机，印表机"
-        },
-        {
-          "word": "Eindruck",
-          "label": "Eindruck",
-          "zh": "印象、印记、影响"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "entfernt",
@@ -56551,15 +56866,19 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Schau",
+            "schauend",
             "geschaut",
-            "anschauen",
-            "da schau her"
+            "abschauen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Schauer"
+            "Schauer",
+            "Schauung",
+            "beschauen",
+            "erschauen",
+            "verschauen"
           ]
         }
       ],
@@ -56682,11 +57001,6 @@ window.WORTWEG_DATA = {
           "word": "Schau",
           "label": "Schau",
           "zh": "陈列，展览，展示"
-        },
-        {
-          "word": "anschauen",
-          "label": "anschauen",
-          "zh": "注视、凝视、查看"
         }
       ]
     },
@@ -56731,11 +57045,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abfallen",
+            "anfallen",
             "auffallen",
             "ausfallen",
-            "einfallen",
-            "entfallen",
-            "Fall"
+            "befallen"
           ]
         }
       ],
@@ -56861,21 +57175,6 @@ window.WORTWEG_DATA = {
           "word": "ausfallen",
           "label": "ausfallen",
           "zh": "出击，突袭"
-        },
-        {
-          "word": "einfallen",
-          "label": "einfallen",
-          "zh": "被...想起，被...想到"
-        },
-        {
-          "word": "entfallen",
-          "label": "entfallen",
-          "zh": "落下，掉下"
-        },
-        {
-          "word": "Fall",
-          "label": "Fall",
-          "zh": "案例；例子；案件；病例；个案；个例"
         }
       ]
     },
@@ -57295,7 +57594,9 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Wähler",
-            "auswählen"
+            "wählbar",
+            "abwählen",
+            "anwählen"
           ]
         }
       ],
@@ -57423,11 +57724,6 @@ window.WORTWEG_DATA = {
           "word": "Wähler",
           "label": "Wähler",
           "zh": "名词（阳）：选民"
-        },
-        {
-          "word": "auswählen",
-          "label": "auswählen",
-          "zh": "选择、选取、选上"
         }
       ]
     },
@@ -57677,11 +57973,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Presseschau",
+            "Schaubude",
+            "Schauobjekt",
             "Schauspiel",
-            "Schauspieler",
-            "Tagesschau",
-            "zur Schau stellen",
-            "zur Schau tragen"
+            "Schauspieler"
           ]
         }
       ],
@@ -57696,11 +57992,6 @@ window.WORTWEG_DATA = {
           "word": "Schauspieler",
           "label": "Schauspieler",
           "zh": "演员"
-        },
-        {
-          "word": "Tagesschau",
-          "label": "Tagesschau",
-          "zh": "pl.Tagesschauen 每日新闻，每"
         }
       ]
     },
@@ -57787,7 +58078,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "anbieten"
+            "Heiratsangebot",
+            "Platzangebot",
+            "Sonderangebot",
+            "Stellenangebot",
+            "Überangebot"
           ]
         }
       ],
@@ -58132,10 +58427,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Bedrohung",
+            "Bedrängnis",
             "Gefährdung",
-            "Krise",
-            "Risiko",
-            "Unsicherheit"
+            "Gefährlichkeit",
+            "Krise"
           ]
         }
       ],
@@ -58155,16 +58450,6 @@ window.WORTWEG_DATA = {
           "word": "Krise",
           "label": "Krise",
           "zh": "风波、危机、危险"
-        },
-        {
-          "word": "Risiko",
-          "label": "Risiko",
-          "zh": "风险、危险"
-        },
-        {
-          "word": "Unsicherheit",
-          "label": "Unsicherheit",
-          "zh": "不确定、不安全、不安全感"
         }
       ]
     },
@@ -58310,7 +58595,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/De-Wahrheit.ogg/De-Wahrheit.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Wahrheit.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "bewahrheiten",
+            "Halbwahrheit",
+            "ungeschminkte Wahrheit",
+            "Unwahrheit",
+            "wahrheitlich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -58443,10 +58739,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Rote",
-            "rote Karte",
-            "roter Faden",
-            "Rote Meer"
+            "erröten",
+            "infrarot",
+            "puterrot",
+            "Rotarmist"
           ]
         }
       ],
@@ -58549,8 +58845,8 @@ window.WORTWEG_DATA = {
             "Ansatz",
             "Absatz",
             "Aufsatz",
-            "Einsatz",
-            "Ersatz"
+            "Aussatz",
+            "Bausatz"
           ]
         }
       ],
@@ -58786,8 +59082,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "DDR-Nationalmannschaft",
-            "Nationalmannschaft"
+            "Ablösungsmannschaft",
+            "Achtermannschaft",
+            "Bedienungsmannschaft",
+            "Bootsmannschaft",
+            "Deckmannschaft"
           ]
         }
       ],
@@ -58890,8 +59189,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abändern",
+            "Änderer",
             "Änderung",
-            "verändern"
+            "umändern"
           ]
         }
       ],
@@ -59014,11 +59315,6 @@ window.WORTWEG_DATA = {
           "word": "Änderung",
           "label": "Änderung",
           "zh": "变化，改变"
-        },
-        {
-          "word": "verändern",
-          "label": "verändern",
-          "zh": "改变，更改"
         }
       ]
     },
@@ -59358,7 +59654,9 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Chefin",
-            "Boss"
+            "Boss",
+            "Ältester",
+            "Oberhaupt"
           ]
         }
       ],
@@ -59656,7 +59954,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Ähnlichkeit"
+            "ähneln",
+            "Ähnlichkeit",
+            "blutähnlich",
+            "unähnlich"
           ]
         }
       ],
@@ -59720,6 +60021,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Dollarmünze",
+            "Dollarnote",
+            "Dollarschein",
             "US-Dollar"
           ]
         }
@@ -60182,10 +60486,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "anfänglich",
+            "zeitig",
             "frühzeitig",
-            "vorzeitig",
-            "rechtzeitig",
-            "spät"
+            "verfrüht",
+            "vorzeitig"
           ]
         }
       ],
@@ -60198,11 +60502,6 @@ window.WORTWEG_DATA = {
           "word": "frühzeitig",
           "label": "frühzeitig",
           "zh": "提早的"
-        },
-        {
-          "word": "rechtzeitig",
-          "label": "rechtzeitig",
-          "zh": "准时的、及时的、按时的"
         }
       ]
     },
@@ -60247,7 +60546,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/De-at-Gebäude.ogg/De-at-Gebäude.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Gebäude.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bürogebäude",
+            "Fabrikgebäude",
+            "Gerichtsgebäude",
+            "Hauptgebäude",
+            "Nebengebäude"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -60622,7 +60932,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "in die Gleiche bringen"
+            "Gleichenfeier",
+            "in die Gleiche bringen",
+            "Tagundnachtgleiche"
           ]
         }
       ],
@@ -60787,8 +61099,8 @@ window.WORTWEG_DATA = {
             "Druck",
             "Zwang",
             "Macht",
-            "gewaltig",
-            "gewaltsam"
+            "Gewaltanwendung",
+            "Gewaltausbruch"
           ]
         }
       ],
@@ -60808,11 +61120,6 @@ window.WORTWEG_DATA = {
           "word": "Macht",
           "label": "Macht",
           "zh": "力量、影响"
-        },
-        {
-          "word": "gewaltig",
-          "label": "gewaltig",
-          "zh": "巨大的，庞大的"
         }
       ]
     },
@@ -61012,7 +61319,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/De-Reise.ogg/De-Reise.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Reise.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Reiseandenken",
+            "Reisebüro",
+            "Reiseführer",
+            "Reiseleiter",
+            "Reiselust"
+          ]
+        }
+      ],
       "associationTopic": "旅游",
       "associations": [
         {
@@ -61346,11 +61664,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "ungelogen",
             "wirklich",
             "wahr",
-            "anständig",
-            "brav",
-            "fair"
+            "wahrhaftig",
+            "wahrheitsgemäß"
           ]
         }
       ],
@@ -61360,11 +61678,6 @@ window.WORTWEG_DATA = {
           "word": "wirklich",
           "label": "wirklich",
           "zh": "真实的、实际的、实际上"
-        },
-        {
-          "word": "brav",
-          "label": "brav",
-          "zh": "正直的、老实的"
         }
       ]
     },
@@ -61644,10 +61957,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "beerdigen",
+            "Erdapfel",
             "Erdbeben",
-            "erden",
-            "Erdgas",
-            "seltene Erde"
+            "Erdbeere",
+            "Erdbirne"
           ]
         }
       ],
@@ -61750,9 +62064,19 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Morgenstund hat Gold im Mund"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "golden"
+            "Altgold",
+            "goldartig",
+            "Goldbarren",
+            "golden",
+            "goldgelb"
           ]
         }
       ],
@@ -61842,6 +62166,7 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "starten",
+            "startbereit",
             "am Start sein"
           ]
         }
@@ -61899,7 +62224,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Uni"
+            "Uni",
+            "Universitätsabschluss",
+            "Universitätsbibliothek",
+            "Universitätsbuchhandlung",
+            "Universitätsdozent"
           ]
         }
       ],
@@ -62075,20 +62404,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Härte",
-            "Hartmann",
-            "Hartmut"
+            "beinhart",
+            "eisenhart",
+            "erhärten",
+            "knallhart",
+            "knochhart"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Härte",
-          "label": "Härte",
-          "zh": "硬度、强度、严重性"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Englisch",
@@ -62180,6 +62505,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Denglisch",
+            "Negerenglisch",
             "Neger-Englisch"
           ]
         }
@@ -63169,17 +63496,20 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "frei",
-            "freilich"
+            "Freiarbeit",
+            "Freibank",
+            "Freibauer",
+            "Freibecken"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "-freiheit",
-            "freiheit-",
-            "Freiheitsstrafe",
-            "Meinungsfreiheit",
-            "Pressefreiheit"
+            "Abbildungsfreiheit",
+            "Abschlussfreiheit",
+            "Abschlußfreiheit",
+            "Anfallsfreiheit",
+            "Angstfreiheit"
           ]
         }
       ],
@@ -64027,7 +64357,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "lieb",
-            "Liebe"
+            "Liebe",
+            "liebenswert",
+            "liebenswürdig",
+            "liebhaben"
           ]
         }
       ],
@@ -64379,13 +64712,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Planung"
+            "Planung",
+            "planvoll",
+            "Planwirtschaft",
+            "Planzeicnung"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "planen"
+            "planen",
+            "planlos"
           ]
         }
       ],
@@ -64495,7 +64832,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bf/De-regelmäßig.ogg/De-regelmäßig.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-regelmäßig.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Regelmäßigkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -64641,7 +64985,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6b/De-Auswahl.ogg/De-Auswahl.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Auswahl.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Auswahlkriterium",
+            "Auswahlmannschaft",
+            "Kuchenauswahl",
+            "Landesauswahl",
+            "Themenauswahl"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -64692,8 +65047,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "EU-Vertrag",
-            "Nato-Vertrag"
+            "Abrüstungsvertrag",
+            "Abzahlungsvertrag",
+            "Altvertrag",
+            "Anleihevertrag",
+            "Anstellungsvertrag"
           ]
         }
       ],
@@ -64807,7 +65165,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/De-Versuch.ogg/De-Versuch.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Versuch.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Attentatsversuch",
+            "Bestechungsversuch",
+            "Einbruchsversuch",
+            "Erpressungsversuch",
+            "Fahrversuch"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "versuchsweise"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -64917,13 +65292,23 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Hundebesitzerin",
+            "Hundefängerin",
+            "Hundefreundin",
+            "Hundefrisörin",
+            "Hundeführerin"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
             "auf den Hund kommen",
             "da liegt der Hund begraben",
             "den Letzten beißen die Hunde",
-            "vor die Hunde gehen",
-            "Warnung vor dem Hunde"
+            "hundeartig",
+            "Hundebesitzer"
           ]
         }
       ],
@@ -65305,6 +65690,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abgrenzen",
+            "ausgrenzen",
             "begrenzen"
           ]
         }
@@ -65538,7 +65925,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/De-Größe.ogg/De-Größe.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Größe.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Lebensgröße",
+            "Kleidergröße",
+            "Körpergröße",
+            "Übergröße"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -65610,7 +66007,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/De-Karte.ogg/De-Karte.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Karte.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Eintrittskarte",
+            "Fahrkarte",
+            "Karteikarte",
+            "Landkarte",
+            "Lochkarte"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -66023,9 +66431,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "ausbaden",
             "Bad",
-            "Badewanne",
-            "Badezimmer"
+            "Badeanstalt",
+            "Badeanzug",
+            "Badebetrieb"
           ]
         }
       ],
@@ -66148,16 +66558,6 @@ window.WORTWEG_DATA = {
           "word": "Bad",
           "label": "Bad",
           "zh": "沐浴、浴、澡"
-        },
-        {
-          "word": "Badewanne",
-          "label": "Badewanne",
-          "zh": "浴缸"
-        },
-        {
-          "word": "Badezimmer",
-          "label": "Badezimmer",
-          "zh": "浴室、洗澡间"
         }
       ]
     },
@@ -66534,8 +66934,19 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abgrenzen",
+            "ausgrenzen",
             "begrenzen",
+            "eingrenzen",
             "grenzen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Obergrenze",
+            "Untergrenze",
+            "Zonengrenze"
           ]
         }
       ],
@@ -66662,8 +67073,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "herunterladen",
             "hochladen",
-            "einladen"
+            "abladen",
+            "aufladen",
+            "entladen"
           ]
         }
       ],
@@ -66781,13 +67195,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/laden#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "einladen",
-          "label": "einladen",
-          "zh": "邀请"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Position",
@@ -66998,7 +67406,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "anständig"
+            "anständig",
+            "beständig",
+            "geständig",
+            "randständig",
+            "verständig"
           ]
         }
       ],
@@ -67093,7 +67505,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Bestand"
+            "Bestand",
+            "beständig",
+            "Beständigkeit",
+            "unbeständig",
+            "Unbeständigkeit"
           ]
         }
       ],
@@ -67415,10 +67831,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "amüsant",
+            "belustigend",
+            "humorvoll",
             "komisch",
-            "witzig",
-            "fröhlich",
-            "gelaunt"
+            "witzig"
           ]
         }
       ],
@@ -67433,11 +67849,6 @@ window.WORTWEG_DATA = {
           "word": "witzig",
           "label": "witzig",
           "zh": "adj. adv. 诙谐的，机智的，幽默的"
-        },
-        {
-          "word": "fröhlich",
-          "label": "fröhlich",
-          "zh": "欢乐的，愉快的，高兴的，喜悦的"
         }
       ]
     },
@@ -67635,7 +68046,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/De-Kaffee2.ogg/De-Kaffee2.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Kaffee2.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Abeokuta-Kaffee",
+            "Abeokutakaffee",
+            "Arabica-Kaffee",
+            "Arabicakaffee",
+            "Automatenkaffee"
+          ]
+        }
+      ],
       "levels": [
         "A2",
         "B1"
@@ -67753,6 +68175,16 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "kontaktieren"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Blickkontakt",
+            "Funkkontakt",
+            "Gesprächskontakt",
+            "Kontaktaufnahme",
+            "Kontaktperson"
           ]
         }
       ],
@@ -67873,7 +68305,7 @@ window.WORTWEG_DATA = {
             "Werkzeug",
             "Geld",
             "Durchschnitt",
-            "Arzneimittel"
+            "Mittelwert"
           ]
         }
       ],
@@ -68015,13 +68447,17 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Verkauf",
-            "verkauft"
+            "verkaufend",
+            "verkauft",
+            "abkaufen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Verkäufer"
+            "Verkäufer",
+            "Verkaufung",
+            "verkäuflich"
           ]
         }
       ],
@@ -68443,11 +68879,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Betrübnis",
+            "Jammer",
             "Kummer",
             "Sorge",
-            "Qual",
-            "Freude",
-            "Glück"
+            "Marter"
           ]
         }
       ],
@@ -68462,16 +68898,6 @@ window.WORTWEG_DATA = {
           "word": "Sorge",
           "label": "Sorge",
           "zh": "关照、照顾、关心、谨慎"
-        },
-        {
-          "word": "Freude",
-          "label": "Freude",
-          "zh": "快乐、欢乐、高兴"
-        },
-        {
-          "word": "Glück",
-          "label": "Glück",
-          "zh": "运气、好运、福佑"
         }
       ]
     },
@@ -68621,6 +69047,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Mitgliederabstimmung",
+            "Mitgliederausschluss",
+            "Mitgliederbefragung",
+            "Mitgliederliste",
             "Mitgliederversammlung"
           ]
         }
@@ -68700,6 +69130,16 @@ window.WORTWEG_DATA = {
         "source": "https://commons.wikimedia.org/wiki/File:De-Technik2.ogg"
       },
       "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Abbildungstechnik",
+            "Anlagentechnik",
+            "Automatisierungstechnik",
+            "Bautechnik",
+            "Brennstoffzellentechnik"
+          ]
+        },
         {
           "label": "词族与派生词",
           "words": [
@@ -69000,11 +69440,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Augapfel",
             "Augen machen",
-            "große Augen machen",
-            "im Auge behalten",
-            "ins Auge fassen",
-            "schöne Augen machen"
+            "Augenbraue",
+            "Augenfleck",
+            "Augenhöhle"
           ]
         }
       ],
@@ -69148,7 +69588,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "um Himmels willen"
+            "Erdenhimmel",
+            "Gotteshimmel",
+            "Himmelbett",
+            "Himmelsachse",
+            "Himmelsäquator"
           ]
         }
       ],
@@ -69256,6 +69700,16 @@ window.WORTWEG_DATA = {
             "Wein",
             "Wasser",
             "Oktoberfest"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bierbrauer",
+            "Bierbrauerin",
+            "Bierbrauerei",
+            "Bierdose",
+            "bierernst"
           ]
         }
       ],
@@ -69383,7 +69837,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e5/De-tief.ogg/De-tief.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-tief.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "knietief",
+            "Tiefschlang",
+            "Tiefsee"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -69449,14 +69912,18 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Amtsgericht",
-            "Gerichtshof",
-            "richten",
-            "Richter"
+            "Arbeitsgericht",
+            "Berufungsgericht",
+            "Gerichtsbeschluss",
+            "Gerichtsdiener"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "gerichtlich",
+            "Gerichtsbarkeit",
+            "Jüngstes Gericht",
             "mit jemandem ins Gericht gehen"
           ]
         }
@@ -69467,21 +69934,6 @@ window.WORTWEG_DATA = {
           "word": "Amtsgericht",
           "label": "Amtsgericht",
           "zh": "地方法庭，地方法院"
-        },
-        {
-          "word": "Gerichtshof",
-          "label": "Gerichtshof",
-          "zh": "法庭"
-        },
-        {
-          "word": "richten",
-          "label": "richten",
-          "zh": "对准、校准、聚焦"
-        },
-        {
-          "word": "Richter",
-          "label": "Richter",
-          "zh": "法官"
         }
       ]
     },
@@ -69613,7 +70065,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "betreiben",
-            "Betriebsrat"
+            "Abfallwirtschaftsbetrieb",
+            "Abfüllbetrieb",
+            "Abmelkbetrieb",
+            "Abpackbetrieb"
           ]
         }
       ],
@@ -69974,7 +70429,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Jahrtausend",
             "Jahrzehnt"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Jahrhundertwende",
+            "Jahrhundertende",
+            "Jahrhundertanfang",
+            "Jahrhundertmitte",
+            "Vierteljahrhundert"
           ]
         }
       ],
@@ -70316,9 +70782,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Fußball",
-            "Fußballer",
-            "Fußgänger"
+            "barfuß",
+            "fußbreit",
+            "füßeln",
+            "fußen",
+            "fußgerecht"
           ]
         }
       ],
@@ -70412,7 +70880,12 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Sterbealter",
+            "Sterbensforschung",
+            "Sterbejahr",
+            "sterbenskrank"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -70599,10 +71072,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "abholen",
+            "ausholen",
             "einholen",
             "erholen",
-            "wiederholen",
-            "überholen"
+            "herbeiholen"
           ]
         }
       ],
@@ -70730,11 +71203,6 @@ window.WORTWEG_DATA = {
           "word": "erholen",
           "label": "erholen",
           "zh": "复原、康复、休养、恢复健康"
-        },
-        {
-          "word": "wiederholen",
-          "label": "wiederholen",
-          "zh": "重复；复习"
         }
       ]
     },
@@ -70901,8 +71369,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "anbieten",
-            "gebieten",
-            "verbieten"
+            "aufbieten",
+            "Bieter",
+            "darbieten",
+            "entbieten"
           ]
         }
       ],
@@ -71025,16 +71495,6 @@ window.WORTWEG_DATA = {
           "word": "anbieten",
           "label": "anbieten",
           "zh": "出价、投标"
-        },
-        {
-          "word": "gebieten",
-          "label": "gebieten",
-          "zh": "要求"
-        },
-        {
-          "word": "verbieten",
-          "label": "verbieten",
-          "zh": "禁止"
         }
       ]
     },
@@ -71122,7 +71582,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/De-stets.ogg/De-stets.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-stets.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "stet"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -71575,7 +72042,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/De-at-Kilometer.ogg/De-at-Kilometer.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Kilometer.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Kubikkilometer",
+            "Quadratkilometer",
+            "Stundenkilometer"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -71645,7 +72121,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6b/De-Version.ogg/De-Version.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Version.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Versionsverwaltung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -71854,7 +72337,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f5/De-Gespräch.ogg/De-Gespräch.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Gespräch.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gesprächsabbruch",
+            "Gesprächsanfang",
+            "Gesprächsangebot",
+            "Gesprächsatmosphäre",
+            "Gesprächsende"
+          ]
+        }
+      ],
       "levels": [
         "B2"
       ],
@@ -72262,6 +72756,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "hierhin",
             "dorthin",
             "wohin",
             "daher"
@@ -72678,8 +73173,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Nordsee",
-            "Ostsee"
+            "Alpensee",
+            "Binnensee",
+            "Hochsee",
+            "Irische See",
+            "Nordsee"
           ]
         }
       ],
@@ -72787,7 +73285,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "guter Dinge"
+            "dinglich",
+            "Dings",
+            "Dingens",
+            "Dingsbums",
+            "Dingsda"
           ]
         }
       ],
@@ -72849,7 +73351,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Schiedsrichter"
+            "richterlich",
+            "Richterschaft",
+            "Richteramt",
+            "Richterbeschluss",
+            "Richterentscheidung"
           ]
         }
       ],
@@ -72864,11 +73370,6 @@ window.WORTWEG_DATA = {
           "word": "Gericht",
           "label": "Gericht",
           "zh": "法庭"
-        },
-        {
-          "word": "Schiedsrichter",
-          "label": "Schiedsrichter",
-          "zh": "裁判（男性或未知性别）"
         }
       ]
     },
@@ -72965,7 +73466,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dd/De-beschäftigt.ogg/De-beschäftigt.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-beschäftigt.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "teilzeitbeschäftigt",
+            "unterbeschäftigt",
+            "vielbeschäftigt",
+            "vollzeitbeschäftigt"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -73117,7 +73628,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/De-Inhalt.ogg/De-Inhalt.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Inhalt.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Inhaltsverzeichnis"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -73199,9 +73717,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Rucksack",
-            "rückwärts",
-            "zurück"
+            "Buckel",
+            "Handrücken",
+            "hinterrücks",
+            "Messerrücken",
+            "Nasenrücken"
           ]
         }
       ],
@@ -73780,7 +74300,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/De-Minute.ogg/De-Minute.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Minute.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "minutengenau",
+            "Minutengericht",
+            "minutenlang",
+            "Minutentakt",
+            "minutenweise"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "minütlich"
+          ]
+        }
+      ],
       "associationTopic": "时间",
       "associations": [
         {
@@ -73925,9 +74462,18 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Funktionalität"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "funktionieren"
+            "Funktionenraum",
+            "funktionieren",
+            "Funktionsstörung",
+            "Funktionswort"
           ]
         }
       ],
@@ -74050,7 +74596,26 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Kontrollbox",
+            "Kontrollkästchen",
+            "Kontrollnummer",
+            "Kontrollposten",
+            "Kontrollraum"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "kontrollartig",
+            "kontrollmäßig",
+            "kontrolllos"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -74460,6 +75025,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "ausersehen",
             "Aussicht"
           ]
         },
@@ -74688,7 +75254,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/De-Literatur.ogg/De-Literatur.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Literatur.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "literarisch"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Literaturabteilung",
+            "Literaturangebot",
+            "Literaturausgabe",
+            "Literaturauswahl",
+            "Literaturbesprechung"
+          ]
+        }
+      ],
       "associationTopic": "文化",
       "associations": [
         {
@@ -74771,7 +75354,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Kunst",
-            "schöne Künste"
+            "Künstlerbedarf",
+            "Künstlerfarbe",
+            "Künstlermillieu",
+            "Künstlername"
           ]
         }
       ],
@@ -74847,7 +75433,15 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Diskutant",
+            "Diskutantin"
+          ]
+        }
+      ],
       "levels": [
         "B2"
       ],
@@ -74983,6 +75577,7 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "unzufrieden",
+            "zufriedenstellen",
             "Zufriedenheit"
           ]
         }
@@ -75126,7 +75721,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bc/De-passieren.ogg/De-passieren.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-passieren.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "passierbar",
+            "Passierschein",
+            "Passierstelle"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -75348,7 +75952,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e0/De-at-Geburtstag.ogg/De-at-Geburtstag.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Geburtstag.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Geburtstagsfeier",
+            "Geburtstagsfest",
+            "Geburtstagsgeschenk",
+            "Geburtstagskarte",
+            "Geburtstagskind"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -76111,24 +76726,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Feuerwehr",
-            "Feuerwerk"
+            "Feuerball",
+            "feuerfest",
+            "Feuerlöscher",
+            "Feuerlöschmittel",
+            "feuern"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Feuerwehr",
-          "label": "Feuerwehr",
-          "zh": "消防队、消防队员、消防车、救火车"
-        },
-        {
-          "word": "Feuerwerk",
-          "label": "Feuerwerk",
-          "zh": "pl.Feuerwerke 烟花，焰火"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Lachen",
@@ -76198,7 +76805,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/De-Telefon.ogg/De-Telefon.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Telefon.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Telefonanschluss",
+            "Telefonverbindung",
+            "Telefonzelle"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -76268,8 +76884,8 @@ window.WORTWEG_DATA = {
             "bescheuert",
             "blöd",
             "doof",
-            "dämlich",
-            "albern"
+            "idiotisch",
+            "dämlich"
           ]
         }
       ],
@@ -76416,6 +77032,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Verhinderer",
+            "Verhinderung",
+            "verhindernd",
             "verhindert"
           ]
         }
@@ -76752,7 +77371,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cc/De-Halle.ogg/De-Halle.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Halle.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Hallenbad",
+            "Leichenhalle",
+            "Spielhalle"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -77079,11 +77707,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abfeiern",
             "Abschied feiern",
             "bis in die Puppen feiern",
-            "den Anlass feiern",
-            "die Heilige Messe feiern",
-            "ein Comeback feiern"
+            "das Hochamt feiern",
+            "den Anlass feiern"
           ]
         }
       ],
@@ -77361,7 +77989,9 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "beruhigen",
-            "Ruhe"
+            "beunruhigen",
+            "Ruhe",
+            "ruhevoll"
           ]
         }
       ],
@@ -77729,7 +78359,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/De-Wetter.ogg/De-Wetter.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Wetter.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Wetteransager",
+            "Wetteraussichten",
+            "Wetterbericht",
+            "Wetterfrosch",
+            "Wetterhahn"
+          ]
+        }
+      ],
       "associationTopic": "天气",
       "associations": [
         {
@@ -77811,7 +78452,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/eb/De-Verlag.ogg/De-Verlag.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Verlag.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Verlagsleitung",
+            "Verlagswesen",
+            "Buchverlag",
+            "Zeitungsverlag"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -77971,8 +78622,8 @@ window.WORTWEG_DATA = {
             "Süden",
             "Norden",
             "Westen",
-            "Mittlerer Osten",
-            "Naher Osten"
+            "Ostasien",
+            "Mittlerer Osten"
           ]
         }
       ],
@@ -78110,8 +78761,8 @@ window.WORTWEG_DATA = {
             "auswirken",
             "Auswirkung",
             "bewirken",
-            "Mitwirkung",
-            "wirksam"
+            "einwirken",
+            "erwirken"
           ]
         }
       ],
@@ -78239,11 +78890,6 @@ window.WORTWEG_DATA = {
           "word": "bewirken",
           "label": "bewirken",
           "zh": "实现，造成，导致"
-        },
-        {
-          "word": "wirksam",
-          "label": "wirksam",
-          "zh": "有效的，有作用的"
         }
       ]
     },
@@ -78288,8 +78934,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Krankenhaus-Betriebswirtschaft",
+            "Krankenhaus-Fehlbelegung",
             "Krankenhaus-Management",
-            "Krankenhaus-Sekretär"
+            "Krankenhaus-Sekretär",
+            "Krankenhaus-Sekretärin"
           ]
         }
       ],
@@ -78727,9 +79376,9 @@ window.WORTWEG_DATA = {
           "words": [
             "auf den Mund gefallen",
             "den Mund verbrennen",
+            "Honigmund",
             "kein Blatt vor den Mund nehmen",
-            "Mündung",
-            "von der Hand in den Mund leben"
+            "Kindermund"
           ]
         }
       ],
@@ -79127,27 +79776,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Unrat",
             "Vorrat",
-            "Gerät",
-            "Große Rat",
-            "Hohe Rat",
-            "Ratgeber"
+            "Amtsrat",
+            "Amtsrätin",
+            "Familienrat"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Gerät",
-          "label": "Gerät",
-          "zh": "（可数）设备，装置，设施，器械，仪器"
-        },
-        {
-          "word": "Ratgeber",
-          "label": "Ratgeber",
-          "zh": "pl.Ratgebern 建议者，顾问"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "arm",
@@ -79283,7 +79921,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/86/De-Anschluss.ogg/De-Anschluss.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Anschluss.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Anschlusskabel",
+            "Anschlusstor",
+            "Hauptanschluss",
+            "Internetanschluss",
+            "Kabelanschluss"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -79333,9 +79982,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Behandler",
+            "Behandlerin",
             "behandeln",
             "handeln",
             "Handlung"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Behandlungsalgorithmus",
+            "Behandlungsfehler",
+            "Behandlungskosten",
+            "Behandlungsmöglichkeit",
+            "Behandlungspflicht"
           ]
         }
       ],
@@ -79459,10 +80120,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abhandeln",
             "behandeln",
             "Händler",
             "Handlung",
-            "verhandeln"
+            "misshandeln"
           ]
         }
       ],
@@ -79595,11 +80257,6 @@ window.WORTWEG_DATA = {
           "word": "Handlung",
           "label": "Handlung",
           "zh": "故事情节"
-        },
-        {
-          "word": "verhandeln",
-          "label": "verhandeln",
-          "zh": "谈判、磋商"
         }
       ]
     },
@@ -79665,6 +80322,12 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Konzeption"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "konzeptuell"
           ]
         }
       ],
@@ -79920,7 +80583,17 @@ window.WORTWEG_DATA = {
           "words": [
             "ansprechen",
             "sprechen",
-            "Spruch"
+            "Spruch",
+            "beanspruchen",
+            "Ausspruch"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "anspruchsvoll",
+            "anspruchsberechtigt",
+            "anspruchslos"
           ]
         }
       ],
@@ -80261,7 +80934,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/16/De-at-Wunsch.ogg/De-at-Wunsch.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Wunsch.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Wunschausstattung",
+            "Wunschdenken",
+            "Wunscherfüllung",
+            "Wunschgegner",
+            "wunschgemäß"
+          ]
+        }
+      ],
       "levels": [
         "A2",
         "B1",
@@ -80421,11 +81105,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "bösartig",
+            "boshaft",
             "falsch",
             "gefährlich",
-            "gemein",
-            "gnadenlos",
-            "negativ"
+            "gemein"
           ]
         }
       ],
@@ -80687,7 +81371,18 @@ window.WORTWEG_DATA = {
           "label": "指小词 中 · 中"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Dorfbach",
+            "Dorfbader",
+            "Dorfbahnhof",
+            "Dorfbewohner",
+            "Dorfbrunnen"
+          ]
+        }
+      ],
       "associationTopic": "城市",
       "associations": [
         {
@@ -80900,7 +81595,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e1/De-at-Lied.ogg/De-at-Lied.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Lied.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Liederabend",
+            "Liederbuch",
+            "Liederkranz",
+            "Liedertafel"
+          ]
+        }
+      ],
       "associationTopic": "文化",
       "associations": [
         {
@@ -80989,9 +81694,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Westeuropa",
+            "Westdeutschland",
+            "Westwind",
             "westlich",
-            "Süden",
-            "Norden"
+            "Süden"
           ]
         }
       ],
@@ -81006,11 +81713,6 @@ window.WORTWEG_DATA = {
           "word": "Süden",
           "label": "Süden",
           "zh": "南、南方"
-        },
-        {
-          "word": "Norden",
-          "label": "Norden",
-          "zh": "北方"
         }
       ]
     },
@@ -81506,11 +82208,19 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Farbe bekennen",
-            "-farben",
-            "Farben-",
-            "farben-",
-            "Fünf-Farben-Satz"
+            "Abschirmfarbe",
+            "Abtönfarbe",
+            "Acrylfarbe",
+            "Aderfarbe",
+            "Akzentfarbe"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "färben",
+            "farbig",
+            "farblich"
           ]
         }
       ],
@@ -81618,7 +82328,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Oberbürgermeister"
+            "Oberbürgermeister",
+            "Altbürgermeister"
           ]
         }
       ],
@@ -81681,7 +82392,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "gegnerfrei",
+            "Abtreibungsgegner",
+            "Atomgegner",
+            "Atomkraftgegner",
             "Brexit-Gegner"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "gegnerisch",
+            "Gegnerschaft"
           ]
         }
       ],
@@ -81755,7 +82477,8 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "heim",
-            "Heim"
+            "Heim",
+            "heimisch"
           ]
         }
       ],
@@ -81832,7 +82555,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Leitungsebene",
+            "Leitungsrohr",
+            "Leitungswasser",
+            "Überleitung",
+            "Umleitung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -82294,7 +83028,11 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Befindung",
+            "befindlich",
+            "Befund"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -82516,9 +83254,22 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Berufstraum",
+            "feuchter Traum",
+            "Kindheitstraum",
+            "Klartraum",
+            "Lebenstraum"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "träumen"
+            "träumen",
+            "Träumer",
+            "Träumerei",
+            "verträumt"
           ]
         }
       ],
@@ -82617,7 +83368,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/De-Meer.ogg/De-Meer.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Meer.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Meeresspiegel",
+            "Meerestier",
+            "Meerrettich",
+            "Meersalz",
+            "Meerschweinchen"
+          ]
+        }
+      ],
       "associationTopic": "自然",
       "associations": [
         {
@@ -82693,6 +83455,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Verwendungserlaubnis",
+            "Verwendungsmöglichkeit",
+            "Verwendungszweck",
             "verwenden"
           ]
         }
@@ -82769,8 +83534,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Verwirklichung",
             "Wirklichkeit",
             "Wirksamkeit"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "wirkungslos",
+            "wirkungsvoll"
           ]
         }
       ],
@@ -82838,7 +83611,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Kaiser von China"
+            "Kaiser von China",
+            "Kaiserkrone",
+            "kaiserlich",
+            "Kaiserreich",
+            "Kaisersemmel"
           ]
         }
       ],
@@ -82890,6 +83667,16 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "religiös"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Erlösungsreligion",
+            "Offenbarungsreligion",
+            "Religionsfreiheit",
+            "Religionsgemeinschaft",
+            "Religionsgeschichte"
           ]
         }
       ],
@@ -83326,7 +84113,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f1/De-herum.ogg/De-herum.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-herum.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "herumgehen",
+            "herumlaufen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -83478,18 +84273,23 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "gewiss"
+            "Gewissensbisse",
+            "Gewissensfreiheit",
+            "Gewissensgrund",
+            "Gewissenskonflikt",
+            "Gewissensnot"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "gewissenhaft",
+            "gewissenlos"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "gewiss",
-          "label": "gewiss",
-          "zh": "确定的"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Arme",
@@ -84357,7 +85157,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bilderbuchkarriere",
+            "Blitzkarriere",
+            "Musikerkarriere",
+            "Politikerkarriere",
+            "Schriftstellerkarriere"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -84610,7 +85421,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Verdienst"
+            "Verdiener",
+            "Verdienst",
+            "gutverdienend"
           ]
         }
       ],
@@ -84780,38 +85593,23 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "frei"
+            "frei",
+            "Fried"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "Arbeitsfrieden",
+            "befrieden",
             "befriedigen",
-            "Friedhof",
-            "friedlich",
-            "n",
-            "zufrieden"
+            "einfrieden",
+            "Friedensforschung"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Friedhof",
-          "label": "Friedhof",
-          "zh": "墓地、公墓"
-        },
-        {
-          "word": "friedlich",
-          "label": "friedlich",
-          "zh": "和平的，安宁的"
-        },
-        {
-          "word": "zufrieden",
-          "label": "zufrieden",
-          "zh": "满足的，满意的"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Mittwoch",
@@ -84859,7 +85657,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/86/De-Mittwoch.oga/De-Mittwoch.oga.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Mittwoch.oga"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Mittwochabend",
+            "mittwochabends",
+            "Mittwochmittag",
+            "mittwochmittags",
+            "Mittwochmorgen"
+          ]
+        }
+      ],
       "associationTopic": "星期",
       "associations": [
         {
@@ -84965,7 +85774,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/De-Ausstellung.ogg/De-Ausstellung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Ausstellung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Kunstausstellung"
+          ]
+        }
+      ],
       "associationTopic": "文化",
       "associations": [
         {
@@ -85122,7 +85938,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/De-entgegen.ogg/De-entgegen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-entgegen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "entgegenarbeiten",
+            "entgegenbewegen",
+            "entgegenbiegen",
+            "entgegenblicken",
+            "entgegenbringen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -85318,10 +86145,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Kranke",
-            "Krankheit",
-            "krank sein",
-            "krank werden",
-            "krank machen"
+            "Kranker",
+            "erkranken",
+            "kränklich",
+            "Krankheit"
           ]
         }
       ],
@@ -85405,9 +86232,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Ablauf",
             "Anlauf",
-            "Kreislauf",
-            "Laufbahn",
-            "laufen"
+            "Auflauf",
+            "Auslauf",
+            "Crosslauf"
           ]
         }
       ],
@@ -85417,21 +86244,6 @@ window.WORTWEG_DATA = {
           "word": "Ablauf",
           "label": "Ablauf",
           "zh": "程序，过程，流程，进程"
-        },
-        {
-          "word": "Kreislauf",
-          "label": "Kreislauf",
-          "zh": "pl.Kreislaufe 循环"
-        },
-        {
-          "word": "Laufbahn",
-          "label": "Laufbahn",
-          "zh": "跑道"
-        },
-        {
-          "word": "laufen",
-          "label": "laufen",
-          "zh": "跑；步行"
         }
       ]
     },
@@ -85564,9 +86376,9 @@ window.WORTWEG_DATA = {
           "words": [
             "scharf",
             "spitz",
+            "bockig",
             "heiß",
-            "cool",
-            "klasse"
+            "rattig"
           ]
         }
       ],
@@ -85786,7 +86598,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b7/De-Erklärung.ogg/De-Erklärung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Erklärung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "erklärungsbedürftig",
+            "Erklärungsbereitschaft",
+            "Erklärungshinweis",
+            "Erklärungsnot",
+            "Bedeutungserklärung"
+          ]
+        }
+      ],
       "levels": [
         "B2"
       ],
@@ -85899,6 +86722,7 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Einkaufszentrum",
+            "Kontrollzentrum",
             "Stadtzentrum"
           ]
         }
@@ -86091,7 +86915,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/de/De-Strecke.ogg/De-Strecke.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Strecke.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Durststrecke",
+            "Kurzstrecke",
+            "Langstrecke"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -86211,8 +87044,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Wissenschaftler",
-            "wissenschaftlich"
+            "Erfahrungswissenschaft",
+            "Geisteswissenschaft",
+            "Ingenieurwissenschaft",
+            "Literaturwissenschaft",
+            "Medienwissenschaft"
           ]
         }
       ],
@@ -86296,21 +87132,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "vonnöten",
             "benötigen",
-            "Notfall",
-            "notfalls",
-            "Notruf"
+            "Notdienst",
+            "Notdurft",
+            "notdürftig"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Notfall",
-          "label": "Notfall",
-          "zh": "紧急情况，紧急状态"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Wunder",
@@ -86418,7 +87249,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8a/De-Fahrer.ogg/De-Fahrer.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Fahrer.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Beifahrer",
+            "Fahrerflucht",
+            "Fahrerin",
+            "fahrerisch",
+            "Fahrerkabine"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -86805,8 +87647,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Live-Sendung",
-            "Express-Sendung"
+            "Erstsendung",
+            "Fernsehsendung",
+            "Gemeinschaftssendung",
+            "Kochsendung",
+            "Nachrichtensendung"
           ]
         }
       ],
@@ -86891,11 +87736,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Autohof",
             "Bahnhof",
             "Bauernhof",
             "Friedhof",
-            "Gerichtshof",
-            "höflich"
+            "Gasthof"
           ]
         }
       ],
@@ -86910,16 +87755,6 @@ window.WORTWEG_DATA = {
           "word": "Friedhof",
           "label": "Friedhof",
           "zh": "墓地、公墓"
-        },
-        {
-          "word": "Gerichtshof",
-          "label": "Gerichtshof",
-          "zh": "法庭"
-        },
-        {
-          "word": "höflich",
-          "label": "höflich",
-          "zh": "有礼貌的，客气的，殷勤的"
         }
       ]
     },
@@ -87058,9 +87893,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "erleiden",
+            "leidend",
             "Leid",
-            "Leidenschaft",
-            "leider"
+            "Leidenschaft"
           ]
         }
       ],
@@ -87192,11 +88028,6 @@ window.WORTWEG_DATA = {
           "word": "Leidenschaft",
           "label": "Leidenschaft",
           "zh": "狂热、热情"
-        },
-        {
-          "word": "leider",
-          "label": "leider",
-          "zh": "可惜、遗憾"
         }
       ]
     },
@@ -87289,7 +88120,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f8/De-vollkommen.ogg/De-vollkommen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-vollkommen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Vollkommenheit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -87449,7 +88287,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/De-Radio.ogg/De-Radio.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Radio.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Radiorekorder",
+            "Radioreporter",
+            "Radiosender",
+            "Radioübertragung"
+          ]
+        }
+      ],
       "associationTopic": "媒体",
       "associations": [
         {
@@ -87551,7 +88399,15 @@ window.WORTWEG_DATA = {
           "label": "最高级"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Überzeugtheit",
+            "Überzeugtsein"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -87666,7 +88522,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/61/De-Masse.ogg/De-Masse.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Masse.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "massenhaft",
+            "Massenkommunikation"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -87714,7 +88578,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/De-Einführung.ogg/De-Einführung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Einführung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Einführungsjahr"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -87798,7 +88669,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Meldung",
-            "anmelden"
+            "anmelden",
+            "abmelden",
+            "krankmelden",
+            "ummelden"
           ]
         }
       ],
@@ -87999,7 +88873,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/De-Stiftung.ogg/De-Stiftung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Stiftung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Anstiftung",
+            "Brandstiftung",
+            "Geldstiftung",
+            "Naturalstiftung",
+            "Stiftungsdatum"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -88238,7 +89123,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dd/De-Küche.ogg/De-Küche.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Küche.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "küchen-",
+            "Küchengarten",
+            "Küchengebrauch",
+            "Küchengeld",
+            "Küchenherd"
+          ]
+        }
+      ],
       "associationTopic": "住宅",
       "associations": [
         {
@@ -88307,6 +89203,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "vervollständigen",
             "Vollständigkeit"
           ]
         }
@@ -88392,8 +89289,19 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Außenschiff",
+            "Containerschiff",
+            "Fährschiff",
+            "Flussschiff",
+            "Frachtschiff"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
+            "schiffbar",
             "schiffen"
           ]
         }
@@ -88479,11 +89387,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Altengeneration",
+            "Altersgeneration",
             "Amerikaner-Generation",
-            "Ausländer-Generation",
-            "der ersten Generation",
-            "der zweiten Generation",
-            "Drei-Generationen-Haus"
+            "Amerikanergeneration",
+            "Ausländer-Generation"
           ]
         }
       ],
@@ -88774,11 +89682,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abfliegen",
+            "anfliegen",
             "auf die Nase fliegen",
             "auf die Schnauze fliegen",
-            "aus dem Rennen fliegen",
-            "einen fliegen lassen",
-            "Fliege"
+            "auffliegen"
           ]
         }
       ],
@@ -88896,13 +89804,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/fliegen#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。本词有多个助动词用法，请结合具体义项核对 haben / sein。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Fliege",
-          "label": "Fliege",
-          "zh": "苍蝇"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Stein",
@@ -89079,7 +89981,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "beruflich"
+            "beruflich",
+            "berufstätig"
           ]
         }
       ],
@@ -89740,6 +90643,16 @@ window.WORTWEG_DATA = {
           "words": [
             "PC"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "computer screen",
+            "Computeranimation",
+            "computeranimiert",
+            "Computerbildschirm",
+            "Computergehäuse"
+          ]
         }
       ],
       "associationTopic": "数字设备",
@@ -89828,7 +90741,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "zweifellos"
+            "Selbstzweifel",
+            "zweifelhaft",
+            "zweifellos",
+            "zweifelsfrei",
+            "zweifelsohne"
           ]
         }
       ],
@@ -90039,9 +90956,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Alarm schlagen",
             "zu Buche schlagen",
-            "ausschlaggebend",
-            "einschlagen",
-            "erschlagen"
+            "abschlagen",
+            "anschlagen",
+            "aufschlagen"
           ]
         }
       ],
@@ -90321,24 +91238,15 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Blaue",
-            "blauen"
+            "Blaualge",
+            "blauäugig",
+            "Blaubart",
+            "Blaubeere"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Blaue",
-          "label": "Blaue",
-          "zh": "蓝色，忧郁，忧伤"
-        },
-        {
-          "word": "blauen",
-          "label": "blauen",
-          "zh": "v. 变蓝"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Donnerstag",
@@ -90469,7 +91377,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3c/De-Reaktion.ogg/De-Reaktion.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Reaktion.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Reaktionszeit",
+            "Überreaktion"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -90542,27 +91458,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Nordpol",
+            "Nordeuropa",
             "Nordamerika",
             "Norddeutschland",
-            "Nordsee",
-            "nördlich",
-            "Osten"
+            "Nordsee"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "nördlich",
-          "label": "nördlich",
-          "zh": "北方的，向北的"
-        },
-        {
-          "word": "Osten",
-          "label": "Osten",
-          "zh": "东、东方"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Veranstaltung",
@@ -90812,7 +91717,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Erlebnis"
+            "Erlebnis",
+            "erlebnisreich"
           ]
         }
       ],
@@ -91144,7 +92050,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a2/De-Alkohol.ogg/De-Alkohol.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Alkohol.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Alk",
+            "Alkoholabhängigkeit",
+            "Alkoholflasche",
+            "Alkoholgehalt",
+            "Alkoholgeruch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -91241,10 +92158,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Bündel",
             "binden",
-            "Bündnis",
-            "einen Bund schließen",
-            "Verbund"
+            "Bundeslade",
+            "bündig",
+            "bündisch"
           ]
         },
         {
@@ -91266,11 +92184,6 @@ window.WORTWEG_DATA = {
           "zh": "打结子、系、结"
         },
         {
-          "word": "Bündnis",
-          "label": "Bündnis",
-          "zh": "联盟、结合、同盟、联合、同盟国、联邦、私党、"
-        },
-        {
           "word": "Bundesrepublik",
           "label": "Bundesrepublik",
           "zh": "联邦共和国"
@@ -91289,6 +92202,11 @@ window.WORTWEG_DATA = {
           "word": "Bundeskanzler",
           "label": "Bundeskanzler",
           "zh": "（德国、奥地利）联邦总理"
+        },
+        {
+          "word": "Bundeswehr",
+          "label": "Bundeswehr",
+          "zh": "德国联邦国防军"
         }
       ]
     },
@@ -91461,37 +92379,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Baseball",
-            "Basketball",
-            "Football",
-            "Fußball",
-            "Handball"
+            "Ballabgabe",
+            "Ballannahme",
+            "ballig",
+            "Ballmädchen",
+            "Ballschuh"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Basketball",
-          "label": "Basketball",
-          "zh": "篮球"
-        },
-        {
-          "word": "Football",
-          "label": "Football",
-          "zh": "美式足球（运动）"
-        },
-        {
-          "word": "Fußball",
-          "label": "Fußball",
-          "zh": "足球（运动）"
-        },
-        {
-          "word": "Handball",
-          "label": "Handball",
-          "zh": "手球 （运动）"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Dienstag",
@@ -91686,7 +92583,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/De-traurig.ogg/De-traurig.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-traurig.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Traurigkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -91899,6 +92803,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "vollendete Tatsache",
+            "Tatsachenverdrehung",
             "tatsächlich"
           ]
         }
@@ -92409,7 +93315,20 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Biowein",
+            "Franzwein",
+            "Glühwein",
+            "Landwein",
             "Rotwein"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "weinartig",
+            "weinhaltig",
+            "reinen Wein einschenken",
+            "Wasser predigen und Wein trinken"
           ]
         }
       ],
@@ -92547,7 +93466,14 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "allermeistens"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -92784,7 +93710,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Breitengrad",
+            "Breitenkreis",
+            "Breitenmaß",
+            "Breitenwirkung",
             "in die Breite gehen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Breitheit"
           ]
         }
       ],
@@ -92930,6 +93866,9 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "rege",
+            "regsam",
+            "abregen",
+            "anregen",
             "aufregen"
           ]
         }
@@ -93743,7 +94682,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4e/De-Feld.ogg/De-Feld.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Feld.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Feldstecher",
+            "Kornfeld",
+            "Feldwebel",
+            "Feldherr",
+            "Planfeld"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -94622,7 +95572,22 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/De-at-Pause.ogg/De-at-Pause.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Pause.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Pausenbrot",
+            "Pausenraum",
+            "Pausenhof"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "pausenlos"
+          ]
+        }
+      ],
       "associationTopic": "学校",
       "associations": [
         {
@@ -94750,11 +95715,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Christfest",
+            "Weihnachtsfest",
+            "Weihnachtstag",
             "Fest",
-            "Friedens",
-            "an",
-            "zu",
-            "nach"
+            "Friedens"
           ]
         }
       ],
@@ -94764,21 +95729,6 @@ window.WORTWEG_DATA = {
           "word": "Fest",
           "label": "Fest",
           "zh": "节日、宴会"
-        },
-        {
-          "word": "an",
-          "label": "an",
-          "zh": "在…旁；在接触面上"
-        },
-        {
-          "word": "zu",
-          "label": "zu",
-          "zh": "向；到"
-        },
-        {
-          "word": "nach",
-          "label": "nach",
-          "zh": "向；在…之后"
         }
       ]
     },
@@ -95083,7 +96033,14 @@ window.WORTWEG_DATA = {
           "label": "最高级"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Ursprünglichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -95253,7 +96210,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Baumwolle"
+            "Baumgarten",
+            "Baumgrenze",
+            "Baumhöhle",
+            "Baumkrone",
+            "baumlos"
           ]
         }
       ],
@@ -95331,7 +96292,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "vergeblich"
+            "vergeblich",
+            "angebend"
           ]
         }
       ],
@@ -96061,8 +97023,20 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Bergbahn",
             "Bergbau",
-            "der Glaube kann Berge versetzen"
+            "Bergfall",
+            "Berggipfel",
+            "Berggrat"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "bergig",
+            "berglos",
+            "bergab",
+            "bergauf"
           ]
         }
       ],
@@ -96369,7 +97343,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "etwas über die Bühne bringen"
+            "Arbeitsbühne",
+            "Bühnenanweisung",
+            "Bühnenarbeiter",
+            "Bühnenauftritt",
+            "Bühnenautor"
           ]
         }
       ],
@@ -96428,8 +97406,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Haustier",
-            "Tierheim",
-            "Tierschutz"
+            "Nagetier",
+            "Rentier",
+            "Riesentier",
+            "Tiergarten"
           ]
         }
       ],
@@ -96558,11 +97538,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "das Handtuch werfen",
-            "ein Auge auf jemanden werfen",
-            "entwerfen",
-            "in die Brust werfen",
-            "vorwerfen"
+            "abwerfen",
+            "anwerfen",
+            "aufwerfen",
+            "auswerfen",
+            "bewerfen"
           ]
         }
       ],
@@ -96760,7 +97740,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "theoretisch"
+            "Gruppentheorie",
+            "Theoretiker",
+            "theoretisch",
+            "theoretisieren"
           ]
         }
       ],
@@ -96826,7 +97809,18 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Erbschaftsstreit",
+            "Familienstreit",
+            "Gelehrtenstreit",
+            "Gerichtsstreit",
+            "Glaubensstreit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -96962,8 +97956,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Abendverkauf",
+            "Abverkauf",
+            "Alleinverkauf",
             "Außer-Haus-Verkauf",
-            "Verkäufer"
+            "Ausverkauf"
           ]
         }
       ],
@@ -97315,7 +98312,15 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Genosse",
-            "Genuss"
+            "Genuss",
+            "nießen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "genießbar",
+            "Genießer"
           ]
         }
       ],
@@ -97493,7 +98498,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/00/De-Standard.ogg/De-Standard.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Standard.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "standardisieren",
+            "Standardisierung",
+            "Standardabweichung",
+            "Standardsprache",
+            "Standarddeutsch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -98021,7 +99037,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/78/De-Umgang.ogg/De-Umgang.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Umgang.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "umgänglich",
+            "Umgangssprache"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -98071,24 +99095,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Politik",
-            "Politiker"
+            "arbeitsmarktpolitisch",
+            "außenpolitisch",
+            "bildungspolitisch",
+            "energiepolitisch",
+            "geldpolitisch"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Politik",
-          "label": "Politik",
-          "zh": "政治"
-        },
-        {
-          "word": "Politiker",
-          "label": "Politiker",
-          "zh": "政治家"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Verständnis",
@@ -98159,7 +99175,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Missverständnis"
+            "Missverständnis",
+            "Unverständnis",
+            "verständnislos",
+            "verständnisvoll"
           ]
         }
       ],
@@ -98282,7 +99301,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/47/De-at-Konzert.ogg/De-at-Konzert.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Konzert.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Cellokonzert",
+            "Flötenkonzert",
+            "Freilichtkonzert",
+            "Frühlingskonzert",
+            "Hauskonzert"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "konzertartig",
+            "konzertlich"
+          ]
+        }
+      ],
       "associationTopic": "文化",
       "associations": [
         {
@@ -98365,6 +99402,8 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "leeren",
+            "leerlaufen",
+            "nichtleer",
             "halb leer"
           ]
         }
@@ -99298,7 +100337,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e7/De-daneben.ogg/De-daneben.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-daneben.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "danebengehen",
+            "danebenliegen",
+            "danebenschießen",
+            "danebenstehen",
+            "danebensetzen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -99430,27 +100480,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Bundesrepublik",
-            "Dritte Republik",
-            "Erste Republik",
-            "Fünfte Republik",
-            "Republikaner"
+            "Adelsrepublik",
+            "Alpenrepublik",
+            "anti-republikanisch",
+            "antirepublikanisch",
+            "Baltenrepublik"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Bundesrepublik",
-          "label": "Bundesrepublik",
-          "zh": "联邦共和国"
-        },
-        {
-          "word": "Republikaner",
-          "label": "Republikaner",
-          "zh": "共和党人"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "verboten",
@@ -99693,7 +100732,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/De-gefährlich.ogg/De-gefährlich.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-gefährlich.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gefährlichkeit",
+            "gemeingefährlich",
+            "hochgefährlich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -99737,7 +100785,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/De-Beschreibung.ogg/De-Beschreibung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Beschreibung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Beschreibungsstil",
+            "Beschreibungsweise",
+            "Beschreibungswort",
+            "Bildbeschreibung",
+            "Landschaftsbeschreibung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -99821,18 +100880,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "witzig"
+            "Antiwitz",
+            "Blondinenwitz",
+            "gewitzt",
+            "Insiderwitz",
+            "Mantawitz"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "witzig",
-          "label": "witzig",
-          "zh": "adj. adv. 诙谐的，机智的，幽默的"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Eis",
@@ -99875,11 +100932,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Eiscreme",
+            "Speiseeis",
             "Wasser",
-            "Eishockey",
-            "eiskalt",
-            "kalt",
-            "lecker"
+            "Eisbahn",
+            "Eisbär"
           ]
         }
       ],
@@ -99959,7 +101016,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/38/De-at-Krankheit.ogg/De-at-Krankheit.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Krankheit.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Alterskrankheit",
+            "Ansteckungskrankheit",
+            "Bergkrankheit",
+            "Blutkrankheit",
+            "Darmkrankheit"
+          ]
+        }
+      ],
       "associationTopic": "医疗",
       "associations": [
         {
@@ -100025,9 +101093,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Gastgeber",
-            "Gasthaus",
-            "Gaststätte"
+            "Austauschgast",
+            "Badegast",
+            "Dauergast",
+            "Ehrengast",
+            "Fahrgast"
           ]
         }
       ],
@@ -100035,13 +101105,7 @@ window.WORTWEG_DATA = {
         "B2"
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Gastgeber",
-          "label": "Gastgeber",
-          "zh": "宴请者、主人、东道主"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "tätig",
@@ -100188,7 +101252,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "einrichtungsmäßig",
+            "Abschalteinrichtung",
+            "Augenspüleinrichtung",
+            "Ausbildungseinrichtung",
+            "Büroeinrichtung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -100619,7 +101694,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/89/De-Papier.ogg/De-Papier.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Papier.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Papierabfall",
+            "Papierausgabe",
+            "Papierblume",
+            "Papierbogen",
+            "Papierdeutsch"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "papierartig",
+            "papierlos"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -100691,7 +101784,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abnutzung",
+            "Ausnutzung",
+            "Datennutzung",
+            "Eigennutzung",
+            "Fremdnutzung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -100724,7 +101828,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/84/De-at-nachts.ogg/De-at-nachts.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-nachts.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "nachts ist es kälter als draußen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -101031,6 +102142,16 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Pflanze"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "anpflanzen",
+            "aufpflanzen",
+            "auspflanzen",
+            "bepflanzen",
+            "einpflanzen"
           ]
         }
       ],
@@ -101565,7 +102686,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a1/De-Keller.ogg/De-Keller.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Keller.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Bierkeller",
+            "Kellerassel",
+            "Kellerei",
+            "Kellerkind",
+            "Kellertreppe"
+          ]
+        }
+      ],
       "associationTopic": "住宅",
       "associations": [
         {
@@ -101931,7 +103063,18 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "ansehen",
+            "ansichtig",
             "Sicht"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Ansichtskarte",
+            "Ansichtssache",
+            "Vorderansicht",
+            "Rückansicht",
+            "Seitenansicht"
           ]
         }
       ],
@@ -102155,6 +103298,8 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Angst",
+            "enganliegend",
+            "engbefreundet",
             "Enge",
             "engen"
           ]
@@ -102267,7 +103412,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/De-Software.ogg/De-Software.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Software.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Firmware",
+            "Testware"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Softwarearchitektur",
+            "Softwaredesign",
+            "Softwaredokumentation",
+            "Softwareentwickler",
+            "Softwareentwurf"
+          ]
+        }
+      ],
       "associationTopic": "数字设备",
       "associations": [
         {
@@ -102365,10 +103528,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "defekt",
-            "zerstört",
-            "hin",
-            "erschöpft",
-            "fertig"
+            "entzwei",
+            "schadhaft",
+            "zerbrochen",
+            "zerstört"
           ]
         }
       ],
@@ -102378,21 +103541,6 @@ window.WORTWEG_DATA = {
           "word": "zerstört",
           "label": "zerstört",
           "zh": "毁坏的，被蓄意摧毁的"
-        },
-        {
-          "word": "hin",
-          "label": "hin",
-          "zh": "（空间、时间上）向那边、去、到"
-        },
-        {
-          "word": "erschöpft",
-          "label": "erschöpft",
-          "zh": "adj. 精疲力竭的"
-        },
-        {
-          "word": "fertig",
-          "label": "fertig",
-          "zh": "完成了的、结束了的、做好了的、安排好的、用光"
         }
       ]
     },
@@ -102464,8 +103612,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Abdach",
+            "abdachen",
             "aufs Dach bekommen",
-            "aufs Dach kriegen"
+            "aufs Dach kriegen",
+            "Autodach"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "bedachen",
+            "dachartig",
+            "dachförmig",
+            "dachlos",
+            "Obdach"
           ]
         }
       ],
@@ -102552,10 +103713,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "berechnen",
-            "Rechenschaft",
-            "Rechner",
-            "Rechnung"
+            "abrechnen",
+            "anrechnen",
+            "aufrechnen",
+            "ausrechnen",
+            "berechnen"
           ]
         }
       ],
@@ -102678,16 +103840,6 @@ window.WORTWEG_DATA = {
           "word": "berechnen",
           "label": "berechnen",
           "zh": "计算、估计、估算"
-        },
-        {
-          "word": "Rechner",
-          "label": "Rechner",
-          "zh": "计算器，计算机，估算者"
-        },
-        {
-          "word": "Rechnung",
-          "label": "Rechnung",
-          "zh": "账单"
         }
       ]
     },
@@ -102801,7 +103953,9 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Verlangung"
+          ]
         }
       ],
       "verbClass": "weak",
@@ -102993,6 +104147,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "anlasslos",
             "veranlassen"
           ]
         }
@@ -103092,11 +104247,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Südpol",
+            "Südeuropa",
             "Südamerika",
             "Süddeutschland",
-            "südlich",
-            "Osten",
-            "Westen"
+            "südlich"
           ]
         }
       ],
@@ -103106,16 +104261,6 @@ window.WORTWEG_DATA = {
           "word": "südlich",
           "label": "südlich",
           "zh": "南方的，南边的"
-        },
-        {
-          "word": "Osten",
-          "label": "Osten",
-          "zh": "东、东方"
-        },
-        {
-          "word": "Westen",
-          "label": "Westen",
-          "zh": "西、西方"
         }
       ]
     },
@@ -103201,7 +104346,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Ergebnis"
+            "Ergeber",
+            "Ergebnis",
+            "Ergebung",
+            "ergiebig"
           ]
         }
       ],
@@ -103533,8 +104681,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "unterrichten",
-            "Anweisung",
-            "Lehre"
+            "Unterrichtung",
+            "Einzelunterricht",
+            "Fernunterricht",
+            "Privatunterricht"
           ]
         }
       ],
@@ -103676,8 +104826,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Basiseinheit",
+            "Baueinheit",
+            "Einheitenzeichen",
             "einheitlich",
-            "Tag der Deutschen Einheit"
+            "Einheitsbrei"
           ]
         }
       ],
@@ -103745,24 +104898,25 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "wiegen",
-            "wichtig"
+            "gewichten",
+            "übergewichtig",
+            "untergewichtig",
+            "Ungleichgewicht"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "gewichtig",
+            "Gewichtheben",
             "Gleichgewicht",
-            "Übergewicht"
+            "Übergewicht",
+            "Untergewicht"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
       "associations": [
-        {
-          "word": "wichtig",
-          "label": "wichtig",
-          "zh": "重要"
-        },
         {
           "word": "Gleichgewicht",
           "label": "Gleichgewicht",
@@ -103868,7 +105022,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/De-Niveau.ogg/De-Niveau.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Niveau.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "niveaulos",
+            "niveauvoll"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -104124,10 +105286,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "der Mensch ist dem Menschen ein Wolf",
-            "großer böser Wolf",
-            "hungrig wie ein Wolf",
-            "Russischer Wolf"
+            "Ägyptischer Wolf",
+            "Aktenwolf",
+            "Arabischer Wolf",
+            "Äthiopischer Wolf",
+            "Beutelwolf"
           ]
         }
       ],
@@ -104443,7 +105606,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/De-Abteilung.ogg/De-Abteilung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Abteilung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abteilungsleiter"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -104541,11 +105711,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abverlangen",
+            "beanspruchen",
+            "einfordern",
             "verlangen",
-            "ablehnen",
-            "erfordern",
-            "Forderung",
-            "gefordert"
+            "ablehnen"
           ]
         }
       ],
@@ -104673,16 +105843,6 @@ window.WORTWEG_DATA = {
           "word": "ablehnen",
           "label": "ablehnen",
           "zh": "拒绝、谢绝"
-        },
-        {
-          "word": "erfordern",
-          "label": "erfordern",
-          "zh": "要求，需要"
-        },
-        {
-          "word": "Forderung",
-          "label": "Forderung",
-          "zh": "需要、需求、要求"
         }
       ]
     },
@@ -104896,6 +106056,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "bezeugen",
             "erzeugen",
             "Zeuge",
             "Zeugnis"
@@ -105621,12 +106782,20 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "in die Pflicht nehmen"
+            "in die Pflicht nehmen",
+            "pflichtbewusst",
+            "Pflichtbewusstsein",
+            "Pflichterfüllung",
+            "pflichtgemäß"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "pflichtig",
+            "pflichtmäßig",
+            "beipflichten",
+            "entpflichten",
             "verpflichten"
           ]
         }
@@ -105705,7 +106874,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/32/De-Hauptstadt.OGG/De-Hauptstadt.OGG.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Hauptstadt.OGG"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bundeshauptstadt",
+            "Welthauptstadt"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -105810,7 +106987,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f8/De-Fläche.ogg/De-Fläche.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Fläche.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Flächenausdehnung",
+            "Flächenberechnung",
+            "Flächenbrand",
+            "flächendeckend",
+            "flächengleich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -105952,7 +107140,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "nachmittags"
+            "nachmittäglich",
+            "nachmittags",
+            "Nachmittagskaffee",
+            "Nachmittagstee"
           ]
         }
       ],
@@ -106046,6 +107237,15 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "anzeigen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Heiratsanzeige",
+            "Kleinanzeige",
+            "Selbstanzeige",
+            "Strafanzeige"
           ]
         }
       ],
@@ -106177,8 +107377,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "ausbreiten",
             "Breite",
-            "verbreiten"
+            "Breitseite",
+            "verbreiten",
+            "verbreitern"
           ]
         }
       ],
@@ -106367,6 +107570,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "anscheinen",
+            "bescheinen",
             "erscheinen",
             "Schein",
             "scheinbar"
@@ -106845,9 +108050,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Anstrengung",
             "Belastung",
-            "Leichtigkeit",
-            "mühsam",
-            "geben"
+            "Bemühung",
+            "Beschwerlichkeit",
+            "Mühsal"
           ]
         }
       ],
@@ -106857,16 +108062,6 @@ window.WORTWEG_DATA = {
           "word": "Belastung",
           "label": "Belastung",
           "zh": "负荷、负载、负担"
-        },
-        {
-          "word": "mühsam",
-          "label": "mühsam",
-          "zh": "adj. adv. 辛苦的，艰难的，吃力的"
-        },
-        {
-          "word": "geben",
-          "label": "geben",
-          "zh": "给"
         }
       ]
     },
@@ -107007,7 +108202,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/De-Temperatur.ogg/De-Temperatur.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Temperatur.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Temperaturänderung",
+            "Temperaturanzeige",
+            "Temperaturanstieg",
+            "Temperaturmesser",
+            "Temperaturregler"
+          ]
+        }
+      ],
       "associationTopic": "天气",
       "associations": [
         {
@@ -107090,7 +108296,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f7/De-großartig.ogg/De-großartig.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-großartig.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Großartigkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -107203,15 +108416,20 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Schauspiel",
-            "Schauspiel-"
+            "Schauspiel-",
+            "schauspielen",
+            "Schauspielen",
+            "Schauspielerei"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Hollywood-Schauspieler",
-            "Methoden-Schauspieler",
-            "US-Schauspieler"
+            "Amateurschauspieler",
+            "Berufsschauspieler",
+            "Bollywood-Schauspieler",
+            "Bollywoodschauspieler",
+            "Bühnenschauspieler"
           ]
         }
       ],
@@ -107356,7 +108574,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Wettbewerber",
+            "wettbewerbsfähig",
+            "Wettbewerbsfähigkeit",
+            "wettbewerbswidrig",
+            "Sportwettbewerb"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -107533,8 +108762,16 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Norden",
-            "Nordsee",
-            "nördlich"
+            "Nordersonne",
+            "nordisch",
+            "Nordkap",
+            "Nordlicht"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "nordwärts"
           ]
         }
       ],
@@ -107544,11 +108781,6 @@ window.WORTWEG_DATA = {
           "word": "Norden",
           "label": "Norden",
           "zh": "北方"
-        },
-        {
-          "word": "nördlich",
-          "label": "nördlich",
-          "zh": "北方的，向北的"
         }
       ]
     },
@@ -107630,7 +108862,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/De-einst.ogg/De-einst.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-einst.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "einstig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -108530,7 +109769,8 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Übersetzen",
-            "Übertragung"
+            "Übertragung",
+            "Zeichensetzung"
           ]
         }
       ],
@@ -108753,11 +109993,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "rotieren",
             "spinnen",
+            "verdrillen",
             "schlagen",
-            "Dreh",
-            "Drehbuch",
-            "ein Ding drehen"
+            "abdrehen"
           ]
         }
       ],
@@ -108880,16 +110120,6 @@ window.WORTWEG_DATA = {
           "word": "schlagen",
           "label": "schlagen",
           "zh": "打，击，敲，锤，夯，撞"
-        },
-        {
-          "word": "Dreh",
-          "label": "Dreh",
-          "zh": "旋转，转动"
-        },
-        {
-          "word": "Drehbuch",
-          "label": "Drehbuch",
-          "zh": "剧本"
         }
       ]
     },
@@ -108915,7 +110145,23 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Kodex",
+            "kodieren",
+            "Ziffer",
+            "Geheimschrift"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Binärcode"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -108962,9 +110208,21 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Debatter",
+            "debattieren",
+            "Debattierer"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "Brexit-Debatte"
+            "Asyldebatte",
+            "Brexit-Debatte",
+            "Budgetdebatte",
+            "Bundestagsdebatte",
+            "Föderalismusdebatte"
           ]
         }
       ],
@@ -109164,7 +110422,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "ohne"
+            "ohne",
+            "ohnedies"
           ]
         }
       ],
@@ -109225,18 +110484,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Bundestagswahl"
+            "Bundestagsabgeordneter",
+            "Bundestagsausschuss",
+            "Bundestagsfraktion",
+            "Bundestagskandidat",
+            "Bundestagspräsident"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Bundestagswahl",
-          "label": "Bundestagswahl",
-          "zh": "议会选举，（德国）联邦议院选举"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Bewohner",
@@ -109623,21 +110880,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "ehrlich",
-            "Ehrlichkeit",
-            "Ehrgeiz",
-            "ehrenamtlich"
+            "Ehrerbietung",
+            "ehrbar",
+            "Ehrenmord",
+            "ehrenwert",
+            "Ehrwürdigkeit"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "ehrlich",
-          "label": "ehrlich",
-          "zh": "诚实的、可靠的、正直的、清白的、（Ehrli"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Mord",
@@ -109668,9 +110920,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Mordanklage",
+            "Mordanschlag",
+            "Morddrohung",
             "morden",
-            "Mörder",
-            "Völkermord"
+            "Mörder"
           ]
         }
       ],
@@ -109788,7 +111042,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cc/De-Spur.ogg/De-Spur.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Spur.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "einspurig",
+            "Spurensicherung",
+            "Spurvermessung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -110125,7 +111388,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Festkörper",
             "Flüssigkeit"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "gasförmig",
+            "Gaspedal",
+            "Gaswerk",
+            "Nervengas",
+            "Treibhausgas"
           ]
         }
       ],
@@ -110220,7 +111494,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "schmecken"
+            "schmecken",
+            "schmackhaft",
+            "Geschmacksstoff"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "geschmacklich",
+            "geschmacklos"
           ]
         }
       ],
@@ -110275,7 +111558,14 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "wehtun"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -110579,7 +111869,27 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/De-Schwanz.ogg/De-Schwanz.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Schwanz.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "langschwänzig",
+            "Leierschwanz",
+            "neunschwänzige Katze",
+            "schwänzeln"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Schwalbenschwanz",
+            "Schwanzmensch",
+            "Plastikschwanz",
+            "Schwanzlutscher",
+            "schwanzgesteuert"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -110617,19 +111927,15 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "hunderte",
-            "Jahrhundert"
+            "aberhundert",
+            "achthundert",
+            "dreihundert",
+            "fünfhundert"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Jahrhundert",
-          "label": "Jahrhundert",
-          "zh": "世纪 （时间度量单位，等同于一百年）"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "erschienen",
@@ -110887,7 +112193,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ce/De-at-Gemeinschaft.ogg/De-at-Gemeinschaft.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Gemeinschaft.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "gemeinschaftlich",
+            "Gemeinschaftsarbeit",
+            "gemeinschaftsartig",
+            "Gemeinschaftsaufgabe",
+            "gemeinschaftsbildend"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -111065,18 +112382,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Schlafzimmer"
+            "Halbschlaf",
+            "Mittagsschlaf",
+            "Nachtschlaf",
+            "Schlafanzug",
+            "Schläfenlappen"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Schlafzimmer",
-          "label": "Schlafzimmer",
-          "zh": "卧室，寝室"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "rufen",
@@ -111350,7 +112665,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Fahrzeugbau",
+            "Fahrzeugbrief",
+            "Fahrzeugdaten",
+            "Fahrzeugdepot",
+            "Fahrzeugdichte"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -111491,10 +112817,22 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Wechselbalg",
+            "Wechselschaltung",
+            "Wechselstrom",
+            "Wechselschlag",
+            "Wechselstube"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "verwechseln",
-            "Wechsel"
+            "Wechsler",
+            "abwechseln",
+            "auswechseln",
+            "einwechseln"
           ]
         }
       ],
@@ -111612,18 +112950,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/wechseln#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "verwechseln",
-          "label": "verwechseln",
-          "zh": "弄混，搞错"
-        },
-        {
-          "word": "Wechsel",
-          "label": "Wechsel",
-          "zh": "变化、改变、变迁、交替"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "auftreten",
@@ -111999,10 +113326,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "nie",
-            "unendlich",
-            "immer und ewig",
-            "andauernd",
-            "endlich"
+            "endend",
+            "immerwährend",
+            "fortwährend",
+            "unendlich"
           ]
         }
       ],
@@ -112017,11 +113344,6 @@ window.WORTWEG_DATA = {
           "word": "unendlich",
           "label": "unendlich",
           "zh": "无穷的，无尽的，无限的"
-        },
-        {
-          "word": "endlich",
-          "label": "endlich",
-          "zh": "最后，最终，终于"
         }
       ]
     },
@@ -112106,7 +113428,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "auffällig"
+            "abfällig",
+            "anfällig",
+            "auffällig",
+            "beifällig",
+            "hinfällig"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "überzufällig",
+            "Zufälligkeit"
           ]
         }
       ],
@@ -112202,7 +113535,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/De-Musiker.ogg/De-Musiker.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Musiker.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Amateurmusiker",
+            "Barockmusiker",
+            "Berufsmusiker",
+            "Gitarrenmusiker",
+            "Hobbymusiker"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -112291,7 +113635,8 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Bedeutung",
-            "bedeutend"
+            "bedeutend",
+            "bedeutsam"
           ]
         }
       ],
@@ -112926,7 +114271,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Finanzkrise"
+            "Absatzkrise",
+            "Agrarkrise",
+            "Asienkrise",
+            "Bankenkrise",
+            "Berlinkrise"
           ]
         }
       ],
@@ -113071,14 +114420,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "verzeihen"
+            "verzeihen",
+            "verziehen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "Verzichter",
+            "Verzichtung",
             "Verzicht",
-            "verzichtet"
+            "verzichtend"
           ]
         }
       ],
@@ -113820,8 +115172,17 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "ehe man sichs versieht"
+          ]
+        },
+        {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Versehung",
+            "versehend"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -114010,10 +115371,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Gefängnisstrafe",
             "Geldstrafe",
-            "Strafrecht",
-            "Straftat",
-            "Todesstrafe"
+            "Haftstrafe",
+            "Körperstrafe",
+            "Leibstrafe"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "straflos",
+            "sträflich"
           ]
         }
       ],
@@ -114023,16 +115392,6 @@ window.WORTWEG_DATA = {
           "word": "Geldstrafe",
           "label": "Geldstrafe",
           "zh": "刑事罚款"
-        },
-        {
-          "word": "Straftat",
-          "label": "Straftat",
-          "zh": "犯罪行为"
-        },
-        {
-          "word": "Todesstrafe",
-          "label": "Todesstrafe",
-          "zh": "死刑"
         }
       ]
     },
@@ -114103,7 +115462,23 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e2/De-Mist.ogg/De-Mist.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Mist.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Mistwetter"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "ausmisten",
+            "Mistkerl",
+            "Miststück",
+            "Mistvieh"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -114496,8 +115871,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Lebensbeginn",
             "Tod",
-            "Geburtstag"
+            "Geburtsdatum",
+            "Geburtstag",
+            "Geburtsort"
           ]
         }
       ],
@@ -114589,7 +115967,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Baumwolle"
+            "Angorawolle",
+            "Baumwolle",
+            "Wolldecke"
           ]
         }
       ],
@@ -115339,7 +116719,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ca/De-Frühstück.ogg/De-Frühstück.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Frühstück.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bauernfrühstück",
+            "Frühstückspause",
+            "Gabelfrühstück",
+            "Katerfrühstück",
+            "frühstücken"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -115601,8 +116992,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "in den Sternen stehen",
-            "Schwarzes Loch"
+            "Abendstern",
+            "Allerstern",
+            "Augenstern",
+            "bestirnt",
+            "Blauer Riese"
           ]
         }
       ],
@@ -115660,6 +117054,14 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "wohnen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "einwohnerarm",
+            "einwohnerreich",
+            "Einwohnerzahl"
           ]
         }
       ],
@@ -115754,7 +117156,12 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "关联词",
-          "words": []
+          "words": [
+            "Wildcamping",
+            "Wildente",
+            "Wildfang",
+            "Wildgans"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -115805,18 +117212,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Veränderung"
+            "Abänderung",
+            "Änderungsantrag",
+            "Änderungsbereich",
+            "Änderungsgrad",
+            "Änderungsmöglichkeit"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Veränderung",
-          "label": "Veränderung",
-          "zh": "变化、改变、变样、变异、多样化"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "betroffen",
@@ -115863,7 +117268,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/De-betroffen.ogg/De-betroffen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-betroffen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Betroffenheit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -115914,6 +117326,7 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "keine Ursache",
+            "ursächlich",
             "verursachen"
           ]
         }
@@ -116252,7 +117665,14 @@ window.WORTWEG_DATA = {
           "words": [
             "ernst",
             "Ernst",
+            "ernstig",
             "im Ernst"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Ernsthaftigkeit"
           ]
         }
       ],
@@ -116447,7 +117867,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/De-Übersicht.ogg/De-Übersicht.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Übersicht.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Auftragsübersicht",
+            "Bedeutungsübersicht",
+            "Beitragsüberschrift",
+            "Beziehungsübersicht",
+            "Einsatzübersicht"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "übersichtlich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -116844,7 +118281,9 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Vergebung"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -117304,9 +118743,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Flughafen",
-            "Flugplatz",
-            "Flugzeug"
+            "Flugbahn",
+            "Flugbegleiter",
+            "Flugbild",
+            "Fluggast",
+            "Flughafen"
           ]
         }
       ],
@@ -117316,11 +118757,6 @@ window.WORTWEG_DATA = {
           "word": "Flughafen",
           "label": "Flughafen",
           "zh": "机场"
-        },
-        {
-          "word": "Flugzeug",
-          "label": "Flugzeug",
-          "zh": "飞机、飞行器、班机"
         }
       ]
     },
@@ -117748,7 +119184,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Bundesrepublik Deutschland",
-            "Bundesrepublik Nigeria"
+            "Bundesrepublik Jugoslawien",
+            "Bundesrepublik Nigeria",
+            "Bundesrepublik Somalia",
+            "Bundesrepublik von Zentralamerika"
           ]
         }
       ],
@@ -117864,7 +119303,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "die Katze aus dem Sack lassen"
+            "Bengalkatze",
+            "Borneo-Goldkatze",
+            "Cheshire-Katze",
+            "die Katze aus dem Sack lassen",
+            "Eichkatze"
           ]
         }
       ],
@@ -118024,7 +119467,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/De-Pflege.ogg/De-Pflege.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Pflege.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "pflegebedürftig",
+            "pflegeleicht",
+            "pfleglich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -118139,17 +119591,18 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Staat",
+            "Statistiker",
             "statistisch"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "Agrarstatistik",
             "amtliche Statistik",
-            "Davis-Cup-Statistik",
-            "Eishockey-Statistik",
-            "Formel-E-Statistik",
-            "medizinische Statistik"
+            "Anwendungsstatistik",
+            "Arbeitskräftestatistik",
+            "Arbeitslosenstatistik"
           ]
         }
       ],
@@ -118432,9 +119885,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Armstellung",
             "Ausstellung",
+            "Durchstellung",
             "Einstellung",
-            "Stellungnahme"
+            "Fußstellung"
           ]
         }
       ],
@@ -118449,11 +119904,6 @@ window.WORTWEG_DATA = {
           "word": "Einstellung",
           "label": "Einstellung",
           "zh": "态度、架势、姿态"
-        },
-        {
-          "word": "Stellungnahme",
-          "label": "Stellungnahme",
-          "zh": "声明，表态"
         }
       ]
     },
@@ -118497,7 +119947,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f8/De-Geschwindigkeit.ogg/De-Geschwindigkeit.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Geschwindigkeit.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "geschwind",
+            "geschwindig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -119223,6 +120681,16 @@ window.WORTWEG_DATA = {
           "words": [
             "herkommen"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Herkunftsort",
+            "Herkunftsland",
+            "Herkunftsgebiet",
+            "Herkunftsnachweis",
+            "Herkunftsbezeichnung"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -119335,11 +120803,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "lieblich",
+            "herzallerliebst",
             "niedlich",
-            "bitter",
-            "sauer",
-            "Geschmack",
-            "süßen"
+            "possierlich",
+            "bitter"
           ]
         }
       ],
@@ -119349,21 +120817,6 @@ window.WORTWEG_DATA = {
           "word": "bitter",
           "label": "bitter",
           "zh": "苦的、有苦味的"
-        },
-        {
-          "word": "sauer",
-          "label": "sauer",
-          "zh": "酸的、酸味的"
-        },
-        {
-          "word": "Geschmack",
-          "label": "Geschmack",
-          "zh": "味觉、味道、滋味"
-        },
-        {
-          "word": "süßen",
-          "label": "süßen",
-          "zh": "v. 使……变甜，加糖"
         }
       ]
     },
@@ -119564,7 +121017,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/De-Hochzeit.ogg/De-Hochzeit.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Hochzeit.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Diamantenhochzeit",
+            "Elefantenhochzeit",
+            "Goldhochzeit",
+            "hochzeitlich",
+            "Hochzeitsfeier"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -119739,7 +121203,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Frohe Botschaft",
-            "Bote"
+            "Hiobsbotschaft",
+            "Kernbotschaft",
+            "Videobotschaft",
+            "Botschaftsangehöriger"
           ]
         },
         {
@@ -119885,7 +121352,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/De-Kuchen.ogg/De-Kuchen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Kuchen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Apfelkuchen",
+            "Aschenkuchen",
+            "Baumkuchen",
+            "Blechkuchen",
+            "Döppekuchen"
+          ]
+        }
+      ],
       "associationTopic": "食物",
       "associations": [
         {
@@ -119976,7 +121454,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/De-Zeitschrift.ogg/De-Zeitschrift.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Zeitschrift.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Sportzeitschrift",
+            "Wochenzeitschrift"
+          ]
+        }
+      ],
       "associationTopic": "媒体",
       "associations": [
         {
@@ -120090,9 +121576,19 @@ window.WORTWEG_DATA = {
       ],
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Häferlgucker"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "angucken"
+            "angucken",
+            "begucken",
+            "Gucker",
+            "Guckloch",
+            "hergucken"
           ]
         }
       ],
@@ -120384,10 +121880,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Ablage",
             "Anlage",
             "Auflage",
             "Grundlage",
-            "Niedergang"
+            "Notlage"
           ]
         }
       ],
@@ -120486,9 +121983,18 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "abändern",
+            "umändern"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
+            "Veränderer",
             "Veränderung",
+            "verändernd",
             "verändert"
           ]
         }
@@ -120656,7 +122162,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "überprüfen"
+            "nachprüfen",
+            "überprüfen",
+            "prüfbar",
+            "Prüfer",
+            "Prüfling"
           ]
         }
       ],
@@ -120863,8 +122373,16 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "zurückverfolgen",
+            "strafverfolgen"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
+            "Verfolger",
             "Verfolgung"
           ]
         }
@@ -121401,8 +122919,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Eisstadion",
             "EM-Stadion",
-            "WM-Stadion"
+            "Fußballstadion",
+            "Hallenstadion",
+            "Leichtathletikstadion"
           ]
         }
       ],
@@ -121504,9 +123025,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Vorrat",
             "anlegen",
+            "vereinigen",
             "versammeln",
-            "jagen",
-            "Autos"
+            "jagen"
           ]
         }
       ],
@@ -121852,21 +123373,28 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Burggrafenthum",
+            "Burggrafentum",
+            "Burggrafenwürde",
+            "Burggräfin",
+            "burggräflich"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "Gräfin",
-            "Grafschaft"
+            "Burggraf",
+            "Deichgraf",
+            "Freigraf",
+            "Gaugraf",
+            "gefürsteter Graf"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Gräfin",
-          "label": "Gräfin",
-          "zh": "伯爵夫人"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Motor",
@@ -122020,7 +123548,14 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Ordnung"
+            "Ordnung",
+            "ordnen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Ordentlichkeit"
           ]
         }
       ],
@@ -122082,11 +123617,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "einfältig",
             "dumm",
             "doof",
-            "ärgerlich",
-            "klug",
-            "Blödsinn"
+            "geistesschwach",
+            "ärgerlich"
           ]
         }
       ],
@@ -122101,16 +123636,6 @@ window.WORTWEG_DATA = {
           "word": "doof",
           "label": "doof",
           "zh": "蠢的、笨的、有智力障碍的"
-        },
-        {
-          "word": "klug",
-          "label": "klug",
-          "zh": "聪明的、精明的"
-        },
-        {
-          "word": "Blödsinn",
-          "label": "Blödsinn",
-          "zh": "废话，胡话，瞎话"
         }
       ]
     },
@@ -122681,9 +124206,20 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Absichtsbekundung",
+            "Absichtserklärung",
+            "Grundabsicht",
+            "Nebenabsicht"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "absichtlich"
+            "absichtlich",
+            "absichtslos",
+            "beabsichtigen"
           ]
         }
       ],
@@ -123023,6 +124559,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "hellwach",
+            "wachrütteln",
             "wach machen",
             "wach halten"
           ]
@@ -123078,10 +124616,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "rein",
+            "reinlich",
             "einwandfrei",
-            "hübsch",
-            "dreckig",
-            "schmutzig"
+            "fehlerfrei",
+            "tadellos"
           ]
         }
       ],
@@ -123095,11 +124633,6 @@ window.WORTWEG_DATA = {
           "word": "rein",
           "label": "rein",
           "zh": "纯净的，干净的"
-        },
-        {
-          "word": "hübsch",
-          "label": "hübsch",
-          "zh": "好看的、漂亮的、俊俏的、英俊的"
         }
       ]
     },
@@ -123249,10 +124782,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "am Hals haben",
-            "einen dicken Hals haben",
-            "einen langen Hals machen",
-            "Hals über Kopf",
-            "in den falschen Hals kriegen"
+            "Bubenhals",
+            "den Hals abdrehen",
+            "den Hals aus der Schlinge ziehen",
+            "einen dicken Hals haben"
           ]
         }
       ],
@@ -123350,7 +124883,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/68/De-Landschaft.ogg/De-Landschaft.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Landschaft.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Landschaftsgenetik",
+            "Landschaftsgärtner",
+            "Landschaftsmalerei",
+            "Landschaftsschutzgebiet"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -123400,7 +124943,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/12/De-Flugzeug.ogg/De-Flugzeug.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Flugzeug.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Flugzeugträger",
+            "Segelflugzeug",
+            "Ultraleichtflugzeug"
+          ]
+        }
+      ],
       "associationTopic": "交通",
       "associations": [
         {
@@ -123542,7 +125094,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "versichern"
+            "entsichern",
+            "absichern",
+            "versichern",
+            "zusichern"
           ]
         },
         {
@@ -123739,7 +125294,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Kleid"
+            "Kleid",
+            "Bekleidung"
           ]
         }
       ],
@@ -123833,7 +125389,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e5/De-Gefängnis.ogg/De-Gefängnis.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Gefängnis.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Gefängnisdirektor",
+            "Gefängnisgebäude",
+            "Gefängnisgeistlicher",
+            "Gefängnisinsasse",
+            "Gefängnisstrafe"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -123961,6 +125528,7 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Anführer",
+            "Entführer",
             "Führung"
           ]
         }
@@ -124071,7 +125639,18 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Zeichnung",
-            "Aufzeichnung"
+            "Aufzeichnung",
+            "Überzeichnung",
+            "Unterzeichnung"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bezeichnungstyp",
+            "Bezeichnungsschild",
+            "Bezeichnungsnummer",
+            "Bezeichnungswandel"
           ]
         }
       ],
@@ -124159,6 +125738,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Verschwinder",
+            "Verschwindung",
+            "verschwindend",
             "verschwindet"
           ]
         }
@@ -124312,7 +125894,14 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "diesbezüglich"
+            "diesbezüglich",
+            "rückbezüglich"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bezüglichkeit"
           ]
         }
       ],
@@ -124369,7 +125958,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/De-wunderbar.ogg/De-wunderbar.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-wunderbar.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "wunderbarlich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -124705,7 +126301,26 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ae/De-at-Hölle.ogg/De-at-Hölle.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Hölle.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "höllisch",
+            "Inferno",
+            "infernal"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Höllenbrand",
+            "Höllenbrut",
+            "Höllenfahrt",
+            "Höllenpein",
+            "Höllenqual"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -124741,9 +126356,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "flunkern",
+            "schwindeln",
             "täuschen",
-            "Lüge",
-            "Lügner"
+            "betrügen",
+            "Lüge"
           ]
         }
       ],
@@ -124921,6 +126538,13 @@ window.WORTWEG_DATA = {
           "words": [
             "Landwirt"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "landwirtschaftlich",
+            "Landwirtschaftsverband"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -125072,11 +126696,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abweisen",
+            "anweisen",
             "aufweisen",
-            "beweisen",
-            "erweisen",
-            "hinweisen",
-            "nachweisen"
+            "ausweisen",
+            "beweisen"
           ]
         }
       ],
@@ -125199,21 +126823,6 @@ window.WORTWEG_DATA = {
           "word": "aufweisen",
           "label": "aufweisen",
           "zh": "显出、表现、论证、表明、显示、显露、指明、指"
-        },
-        {
-          "word": "erweisen",
-          "label": "erweisen",
-          "zh": "证明、证实、表明"
-        },
-        {
-          "word": "hinweisen",
-          "label": "hinweisen",
-          "zh": "指示，预示，暗示"
-        },
-        {
-          "word": "nachweisen",
-          "label": "nachweisen",
-          "zh": "证实；证明"
         }
       ]
     },
@@ -125459,8 +127068,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "ausdauern",
             "Dauer",
-            "dauerhaft"
+            "dauerhaft",
+            "andauern"
           ]
         }
       ],
@@ -125757,11 +127368,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abgreifen",
             "angreifen",
-            "begreifen",
-            "eingreifen",
-            "ergreifen",
-            "um sich greifen"
+            "aufgreifen",
+            "ausgreifend",
+            "begreifen"
           ]
         }
       ],
@@ -125884,16 +127495,6 @@ window.WORTWEG_DATA = {
           "word": "angreifen",
           "label": "angreifen",
           "zh": "攻击，袭击；损伤，伤害"
-        },
-        {
-          "word": "eingreifen",
-          "label": "eingreifen",
-          "zh": "干涉、干预、介入"
-        },
-        {
-          "word": "ergreifen",
-          "label": "ergreifen",
-          "zh": "抓住，捕获"
         }
       ]
     },
@@ -125930,7 +127531,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/ff/De-enttäuscht.ogg/De-enttäuscht.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-enttäuscht.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "enttäuschen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -126127,10 +127735,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "lautlos",
             "still",
             "ruhig",
             "leicht",
-            "laut",
             "laut"
           ]
         }
@@ -126146,11 +127754,6 @@ window.WORTWEG_DATA = {
           "word": "leicht",
           "label": "leicht",
           "zh": "轻；容易"
-        },
-        {
-          "word": "laut",
-          "label": "laut",
-          "zh": "大声的，音量高的"
         },
         {
           "word": "laut",
@@ -126200,7 +127803,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "E-Business"
+            "Agrobusiness",
+            "E-Business",
+            "Showbusiness"
           ]
         }
       ],
@@ -126499,7 +128104,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Schnee von gestern"
+            "Apfelschnee",
+            "Birnenschnee",
+            "Hexenschnee",
+            "Schnee von gestern",
+            "Schneeball"
           ]
         }
       ],
@@ -126593,12 +128202,17 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "den Vogel zeigen",
-            "einen Vogel zeigen"
+            "der frühe Vogel fängt den Wurm",
+            "einen Vogel zeigen",
+            "vogelähnlich",
+            "Vogelart"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "vogelartig",
+            "Vogelei",
             "vögeln"
           ]
         }
@@ -126682,9 +128296,23 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Duftöl",
+            "Ölauge",
+            "Ölbaum",
+            "Ölberg",
+            "Ölhafen"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "Öl ins Feuer gießen"
+            "einölen",
+            "Öl ins Feuer gießen",
+            "ölen",
+            "ölig",
+            "Öltanker"
           ]
         }
       ],
@@ -126851,8 +128479,8 @@ window.WORTWEG_DATA = {
             "Material",
             "Materie",
             "Substanz",
-            "Gewebe",
-            "Tuch"
+            "Textil",
+            "Textilie"
           ]
         }
       ],
@@ -126867,16 +128495,6 @@ window.WORTWEG_DATA = {
           "word": "Materie",
           "label": "Materie",
           "zh": "pl.Materien 事，事情，材料，物质"
-        },
-        {
-          "word": "Gewebe",
-          "label": "Gewebe",
-          "zh": "纺织品。布。编织。网。网状编织法。质地。（医"
-        },
-        {
-          "word": "Tuch",
-          "label": "Tuch",
-          "zh": "布 （围巾，头巾，毯子，毛巾等）"
         }
       ]
     },
@@ -126933,7 +128551,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1c/De-Bezirk.ogg/De-Bezirk.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Bezirk.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Bezirksamt",
+            "Bezirksausschuss",
+            "Bezirksregierung",
+            "Regierungsbezirk",
+            "Stadtbezirk"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -127058,7 +128687,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "bemerkbar"
+            "hörbar",
+            "fühlbar",
+            "bemerkbar",
+            "wahrnehmbar"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Sichtbarkeit",
+            "sichtbarlich"
           ]
         }
       ],
@@ -127153,7 +128792,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c2/De-Therapie.ogg/De-Therapie.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Therapie.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "therapieren"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -127942,9 +129588,9 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "daheim",
+            "Heimarbeit",
             "Heimat",
-            "heimlich",
-            "Heimweg"
+            "heimbegeben"
           ]
         }
       ],
@@ -127959,11 +129605,6 @@ window.WORTWEG_DATA = {
           "word": "Heimat",
           "label": "Heimat",
           "zh": "家乡，故乡，家园，祖国"
-        },
-        {
-          "word": "heimlich",
-          "label": "heimlich",
-          "zh": "秘密的，隐秘的，隐蔽的，私下的，悄悄的"
         }
       ]
     },
@@ -128033,7 +129674,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Absatzstrategie",
+            "Abwehrstrategie",
+            "Abzugsstrategie",
+            "Aktienstrategie",
+            "Angriffsstrategie"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -128184,6 +129836,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Stromstärke",
             "Lautstärke"
           ]
         }
@@ -128297,7 +129950,21 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/De-Klinik.ogg/De-Klinik.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Klinik.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "klinisch"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abtreibungsklinik",
+            "Nervenklinik"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -128789,7 +130456,18 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Strandanzug",
+            "Strandbad",
+            "Strandburg",
+            "Stranddistel",
+            "stranden"
+          ]
+        }
+      ],
       "associationTopic": "旅游",
       "associations": [
         {
@@ -128887,10 +130565,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "undurchdringlich",
             "lose",
             "nüchtern",
             "Dichte",
-            "dicht machen"
+            "Dichtheit"
           ]
         }
       ],
@@ -128983,7 +130662,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/14/De-vorsichtig.ogg/De-vorsichtig.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-vorsichtig.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "achtsam",
+            "unachtsam",
+            "unvorsichtig",
+            "übervorsichtig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -129061,7 +130750,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/De-günstig.ogg/De-günstig.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-günstig.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "begünstigen",
+            "missgünstig",
+            "preisgünstig",
+            "vergünstigen",
+            "verkehrsgünstig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -129519,7 +131219,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Einfluss"
+            "Abfluss",
+            "Einfluss",
+            "Zufluss",
+            "Nebenfluss",
+            "Überfluss"
           ]
         }
       ],
@@ -129670,7 +131374,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Erhöher",
             "Erhöhung",
+            "erhöhend",
             "erhöht"
           ]
         }
@@ -129913,8 +131619,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Klimaangst",
             "Klimaanlage",
-            "Klimawandel"
+            "Klimanotstand",
+            "klimatisieren",
+            "Klimatisierung"
           ]
         }
       ],
@@ -130008,7 +131717,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Ausgestaltung",
-            "Umgestaltung"
+            "Gestaltungsdrang",
+            "Gestaltungsfähigkeit",
+            "Gestaltungsfreiheit",
+            "Gestaltungskraft"
           ]
         }
       ],
@@ -130141,7 +131853,9 @@ window.WORTWEG_DATA = {
           "words": [
             "denkbar",
             "bemerkbar",
-            "sichtbar"
+            "fühlbar",
+            "sichtbar",
+            "hörbar"
           ]
         }
       ],
@@ -130282,9 +131996,9 @@ window.WORTWEG_DATA = {
           "words": [
             "eng",
             "deutlich",
-            "streng",
-            "heiß",
-            "stumpf"
+            "pikant",
+            "beißend",
+            "streng"
           ]
         }
       ],
@@ -130304,11 +132018,6 @@ window.WORTWEG_DATA = {
           "word": "streng",
           "label": "streng",
           "zh": "严格的、严厉的"
-        },
-        {
-          "word": "heiß",
-          "label": "heiß",
-          "zh": "热"
         }
       ]
     },
@@ -130421,7 +132130,27 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/00/De-Gehirn.ogg/De-Gehirn.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Gehirn.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Großhirn",
+            "Kleinhirn",
+            "Zwischenhirn",
+            "Hirnstamm",
+            "Gehirnhaut"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gehirnblutung",
+            "Gehirnerschütterung",
+            "Gehirnschlag",
+            "Gehirnwäsche"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -130500,7 +132229,15 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Handel"
+            "Handel",
+            "Handlungsbevollmächtigter",
+            "Handlungsgehilfe"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "handlungsmäßig"
           ]
         }
       ],
@@ -130790,7 +132527,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/De-Konkurrenz.ogg/De-Konkurrenz.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Konkurrenz.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "konkurrenzfähig",
+            "konkurrenzieren",
+            "konkurrenzlos",
+            "konkurrenzneidisch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -131105,11 +132852,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Abschlag",
             "Anschlag",
-            "Niederschlag",
-            "Schlaganfall",
-            "Schläger",
-            "Schlager"
+            "Aufschlag",
+            "Ausschlag",
+            "Befreiungsschlag"
           ]
         }
       ],
@@ -131119,21 +132866,6 @@ window.WORTWEG_DATA = {
           "word": "Anschlag",
           "label": "Anschlag",
           "zh": "袭击，攻击，谋杀"
-        },
-        {
-          "word": "Niederschlag",
-          "label": "Niederschlag",
-          "zh": "沉淀物"
-        },
-        {
-          "word": "Schlaganfall",
-          "label": "Schlaganfall",
-          "zh": "中风"
-        },
-        {
-          "word": "Schlager",
-          "label": "Schlager",
-          "zh": "①流行音乐，流行歌曲，②畅销商品，热门货"
         }
       ]
     },
@@ -131313,9 +133045,21 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "gegenwartsbezogen",
+            "Gegenwartsfilm",
+            "Gegenwartsform",
+            "Gegenwartskunde",
+            "Gegenwartssprache"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "gegenwärtig"
+            "gegenwärtig",
+            "vollendete Gegenwart",
+            "Vergegenwärtigung"
           ]
         }
       ],
@@ -131558,10 +133302,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "betreiben",
-            "dahin treiben",
-            "Getriebe",
-            "Trieb"
+            "abtreiben",
+            "antreiben",
+            "auftreiben",
+            "austreiben",
+            "betreiben"
           ]
         }
       ],
@@ -131729,7 +133474,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/54/De-Autobahn.ogg/De-Autobahn.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Autobahn.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Autobahnauffahrt",
+            "Autobahnausfahrt",
+            "Autobahnknoten",
+            "Autobahnraststätte",
+            "Datenautobahn"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -131795,14 +133551,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "bewahren"
+            "bewahren",
+            "verwahrlosen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "verwahren",
             "Wahrer",
-            "Wart"
+            "Wahrerin",
+            "Wahrung"
           ]
         }
       ],
@@ -131924,13 +133683,7 @@ window.WORTWEG_DATA = {
         "source": "https://commons.wikimedia.org/wiki/File:De-wahren.ogg"
       },
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Wart",
-          "label": "Wart",
-          "zh": "守卫、监护人、保护人、监工、看守、瞭望塔上的"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Turnier",
@@ -132412,10 +134165,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Langeweile",
+            "langweilen",
             "langweilig",
             "Minute",
-            "Moment",
-            "Nu"
+            "Moment"
           ]
         }
       ],
@@ -132440,11 +134193,6 @@ window.WORTWEG_DATA = {
           "word": "Moment",
           "label": "Moment",
           "zh": "一下子，一会"
-        },
-        {
-          "word": "Nu",
-          "label": "Nu",
-          "zh": "仅用于im Nu (“现在，立即”)"
         }
       ]
     },
@@ -132506,7 +134254,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "seinem Affen Zucker geben"
+            "Fruchtzucker",
+            "Kandelzucker",
+            "Kandiszucker",
+            "Kristallzucker",
+            "Malzzucker"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "zuckerig",
+            "zuckrig",
+            "zuckern",
+            "zuckerhaltig",
+            "zuckerartig"
           ]
         }
       ],
@@ -132722,7 +134484,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Töter",
             "Tötung",
+            "tötend",
             "getötet"
           ]
         }
@@ -132967,6 +134731,16 @@ window.WORTWEG_DATA = {
             "Wissen",
             "Wissenschaft"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Agrarwissenschaftler",
+            "Alethowissenschaftler",
+            "Altertumswissenschaftler",
+            "Arbeitswissenschaftler",
+            "Atmosphärenwissenschaftler"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -133122,7 +134896,14 @@ window.WORTWEG_DATA = {
           "label": "属格"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gründüngung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -133263,7 +135044,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0f/De-herzlich.ogg/De-herzlich.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-herzlich.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Herzlichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -133380,6 +135168,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Nachdenker",
+            "nachdenkend",
             "nachdenklich"
           ]
         }
@@ -134232,11 +136022,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abfassen",
             "anfassen",
+            "auffassen",
             "befassen",
-            "Fass",
-            "unfassbar",
-            "Fassung"
+            "durchfassen"
           ]
         }
       ],
@@ -134364,16 +136154,6 @@ window.WORTWEG_DATA = {
           "word": "befassen",
           "label": "befassen",
           "zh": "花费时间精力做某事、使烦恼"
-        },
-        {
-          "word": "Fass",
-          "label": "Fass",
-          "zh": "木桶，大桶"
-        },
-        {
-          "word": "unfassbar",
-          "label": "unfassbar",
-          "zh": "难以觉察的，不可想像的，不可理解的，不可思议"
         }
       ]
     },
@@ -134439,9 +136219,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Model-Schönheit",
-            "TV-Schönheit",
-            "YouTube-Schönheit"
+            "Badeschönheit",
+            "Berufsschönheit",
+            "Büroschönheit",
+            "Dorfschönheit",
+            "Felsenschönheit"
           ]
         }
       ],
@@ -134515,6 +136297,7 @@ window.WORTWEG_DATA = {
           "words": [
             "schenken",
             "wegnehmen",
+            "spendabel",
             "Spende"
           ]
         }
@@ -134929,7 +136712,9 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Verbringung"
+          ]
         }
       ],
       "verbClass": "mixed",
@@ -135308,7 +137093,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Langeweile"
+            "stinklangweilig",
+            "Langweiler",
+            "Langeweile",
+            "langweilen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Langweiligkeit"
           ]
         }
       ],
@@ -135470,8 +137264,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Eiweiß",
-            "Tee-Ei"
+            "eiförmig",
+            "Eidotter",
+            "Eigelb",
+            "Eiklar",
+            "Eiweiß"
           ]
         }
       ],
@@ -135548,7 +137345,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/De-Abenteuer.ogg/De-Abenteuer.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Abenteuer.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "abenteuerlich",
+            "abenteuerlustig",
+            "Abenteuerroman",
+            "Abenteurer",
+            "Abenteurerin"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -135796,6 +137604,12 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Reaktion"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "überreagieren"
           ]
         }
       ],
@@ -136051,7 +137865,20 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Fangnetz",
+            "Fischernetz",
+            "Werkstoff",
             "Werkstatt"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Netzwerkkabel",
+            "Netzwerkanschluss",
+            "neuronales Netzwerk",
+            "Netzwerkverbindung",
+            "Agentennetzwerk"
           ]
         }
       ],
@@ -136105,7 +137932,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/De-at-Format.ogg/De-at-Format.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Format.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Hochformat",
+            "Querformat"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -136421,7 +138256,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Luftwaffe"
+            "Atomwaffe",
+            "Kernwaffe",
+            "Luftwaffe",
+            "Nuklearwaffe",
+            "Schußwaffe"
           ]
         }
       ],
@@ -136473,7 +138312,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/De-Wachstum.ogg/De-Wachstum.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Wachstum.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Wachstumsschub",
+            "Wachstumsverzögerung",
+            "Wachstumsstörung",
+            "Wurzelwachstum",
+            "Blätterwachstum"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -136596,6 +138446,16 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "denken"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gedankenexperiment",
+            "Gedankenfreiheit",
+            "Gedankenschnell",
+            "Gedankenstrich",
+            "Gedankenwelt"
           ]
         }
       ],
@@ -137259,7 +139119,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "gut",
-            "frisch"
+            "frisch",
+            "Übelkeit",
+            "übelgesinnt",
+            "übellaunig"
           ]
         }
       ],
@@ -137393,7 +139256,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/De-dick.ogg/De-dick.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-dick.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "dicklich",
+            "dickstielig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -137511,7 +139382,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/De-Chat.ogg/De-Chat.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Chat.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "chatten"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -137812,7 +139690,24 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Umfangserweiterung",
+            "Umfangslänge",
+            "Umfangswert",
+            "Umfangswinkel"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "umfangreich",
+            "umfangsmäßig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -137868,7 +139763,14 @@ window.WORTWEG_DATA = {
           "label": "属格"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "müllartig"
+          ]
+        }
+      ],
       "associationTopic": "环境",
       "associations": [
         {
@@ -138236,7 +140138,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f3/De-Brust.ogg/De-Brust.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Brust.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Brüstung",
+            "Armbrust",
+            "Brustbein",
+            "Brustbild",
+            "Brustfell"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -138605,11 +140518,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abrichten",
+            "Anrichte",
             "anrichten",
-            "ausrichten",
-            "berichten",
-            "einrichten",
-            "Einrichtung"
+            "aufrichten",
+            "ausrichten"
           ]
         }
       ],
@@ -138732,21 +140645,6 @@ window.WORTWEG_DATA = {
           "word": "ausrichten",
           "label": "ausrichten",
           "zh": "使对齐、调整"
-        },
-        {
-          "word": "berichten",
-          "label": "berichten",
-          "zh": "报道；汇报"
-        },
-        {
-          "word": "einrichten",
-          "label": "einrichten",
-          "zh": "建立，设立"
-        },
-        {
-          "word": "Einrichtung",
-          "label": "Einrichtung",
-          "zh": "建立、成立"
         }
       ]
     },
@@ -139339,7 +141237,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f0/De-Absatz.ogg/De-Absatz.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Absatz.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Absatzanfang",
+            "Absatzende",
+            "Absatzmitte",
+            "Absatzmarkt",
+            "absatzweise"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -139491,7 +141400,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/83/De-Hammer.ogg/De-Hammer.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Hammer.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "behämmert",
+            "Gummihammer",
+            "hammerhart",
+            "hämmern",
+            "Presslufthammer"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -139543,6 +141463,8 @@ window.WORTWEG_DATA = {
           "words": [
             "komisch",
             "absurd",
+            "redikulös",
+            "lachhaft",
             "gering"
           ]
         }
@@ -139765,8 +141687,19 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "diskutierend",
             "diskutiert",
+            "Diskution",
             "Diskussion"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Diskutierer",
+            "Diskutiererin",
+            "Diskutiererei",
+            "Diskutierung"
           ]
         }
       ],
@@ -139955,7 +141888,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Bibel"
+            "Bibel",
+            "Bibliographie",
+            "Bibliothekar",
+            "Bibliothekarin"
           ]
         }
       ],
@@ -140394,11 +142330,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "durchziehen",
-            "Rauch",
-            "Raucher",
-            "Zigarette",
-            "Pfeife"
+            "qualmen",
+            "paffen",
+            "dampfen",
+            "kiffen",
+            "barzen"
           ]
         }
       ],
@@ -140516,18 +142452,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/rauchen#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Rauch",
-          "label": "Rauch",
-          "zh": "烟、烟雾"
-        },
-        {
-          "word": "Zigarette",
-          "label": "Zigarette",
-          "zh": "烟、纸烟、香烟"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Koalition",
@@ -140944,9 +142869,9 @@ window.WORTWEG_DATA = {
           "words": [
             "wenig",
             "klein",
+            "unbedeutend",
             "groß",
-            "viel",
-            "Beitrag"
+            "viel"
           ]
         }
       ],
@@ -140971,11 +142896,6 @@ window.WORTWEG_DATA = {
           "word": "viel",
           "label": "viel",
           "zh": "多"
-        },
-        {
-          "word": "Beitrag",
-          "label": "Beitrag",
-          "zh": "贡献"
         }
       ]
     },
@@ -141223,7 +143143,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Annahme"
+            "Annahme",
+            "annehmbar",
+            "Annehmlichkeit",
+            "unannehmlich",
+            "Angenommenes Damengambit"
           ]
         }
       ],
@@ -141543,19 +143467,15 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Achtung",
-            "Vorsicht ist die Mutter der Weisheit",
-            "vorsichtig"
+            "Obacht",
+            "Vorsicht ist besser als Nachsicht",
+            "Vorsicht ist die Mutter der Porzellankiste",
+            "Vorsicht ist die Mutter der Weisheit"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "vorsichtig",
-          "label": "vorsichtig",
-          "zh": "谨慎的、小心的"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Bestes",
@@ -142102,7 +144022,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Datenbank",
-            "Datenschutz"
+            "Datenschutz",
+            "Datenspeicher",
+            "Eckdaten",
+            "Messdaten"
           ]
         }
       ],
@@ -142368,7 +144291,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/De-Paket.ogg/De-Paket.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Paket.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Paketbombe"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -142418,7 +144348,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "auf der Hut sein"
+            "Obhut",
+            "auf der Hut sein",
+            "hüten",
+            "behüten"
           ]
         }
       ],
@@ -142571,8 +144504,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abblättern",
+            "Blätterteig",
             "blättern",
-            "kein Blatt vor den Mund nehmen"
+            "Blattlaus",
+            "Deckblatt"
           ]
         }
       ],
@@ -142685,19 +144621,23 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Krankenversicherung",
-            "Rentenversicherung"
+            "Arbeitsunfähigkeitsversicherung",
+            "Ausbildungsversicherung",
+            "Aussteuerversicherung",
+            "Autoversicherung",
+            "Berufsunfähigkeitsversicherung"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "versicherungsartig",
+            "versicherungslos"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Krankenversicherung",
-          "label": "Krankenversicherung",
-          "zh": "医疗保险，医保"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Front",
@@ -143147,7 +145087,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/De-at-beenden.ogg/De-at-beenden.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-beenden.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "beendigen",
+            "verenden"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -143840,7 +145788,15 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "aufwendig"
+            "aufwenden",
+            "aufwendig",
+            "Aufwendung"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Mehraufwand"
           ]
         }
       ],
@@ -144081,7 +146037,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fa/De-löschen.ogg/De-löschen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-löschen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "ablöschen",
+            "auslöschen",
+            "durstlöschend",
+            "erlöschen",
+            "Feuerlöscher"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -144686,7 +146653,9 @@ window.WORTWEG_DATA = {
         },
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Akzeptierung"
+          ]
         }
       ],
       "verbClass": "weak",
@@ -144928,7 +146897,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Wasserversorgung"
+            "Altersversorgung",
+            "Beamtenversorgung",
+            "Eigenversorgung",
+            "Elektrizitätsversorgung",
+            "Energieversorgung"
           ]
         }
       ],
@@ -144991,7 +146964,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/De-at-Schwerpunkt.ogg/De-at-Schwerpunkt.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Schwerpunkt.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "schwerpunktmäßig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -145036,7 +147016,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/De-Rente.ogg/De-Rente.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Rente.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Altersrente",
+            "Frührente",
+            "Invalidenrente",
+            "Mütterrente",
+            "Sozialrente"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -145196,7 +147187,27 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/De-Jäger.ogg/De-Jäger.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Jäger.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Jägerbataillon",
+            "jägergrün",
+            "Jägerhut",
+            "Jägerhütte",
+            "Jägerlatein"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Jägerei",
+            "Jägerin",
+            "jägerisch",
+            "Jägerschaft"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -145933,7 +147944,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/De-hinweg.ogg/De-hinweg.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-hinweg.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "hinwegschauen",
+            "hinwegsehen",
+            "hinwegsetzen",
+            "hinwegtun"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -146013,6 +148034,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Bauchschmerz",
+            "Gliederschmerz",
+            "Kopfschmerz",
+            "Mittelschmerz",
             "schmerzhaft"
           ]
         }
@@ -146268,11 +148293,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "rechtens",
             "angemessen",
             "gut",
             "passend",
-            "angepasst",
-            "ungerecht"
+            "angepasst"
           ]
         }
       ],
@@ -146297,11 +148322,6 @@ window.WORTWEG_DATA = {
           "word": "angepasst",
           "label": "angepasst",
           "zh": "成比例的，相称的，合适的，适应的"
-        },
-        {
-          "word": "ungerecht",
-          "label": "ungerecht",
-          "zh": "adj. adv. 不公正的，不公平的"
         }
       ]
     },
@@ -146407,6 +148427,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "ausbreiten",
             "verbreiten"
           ]
         }
@@ -146841,9 +148862,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Hauptstadt",
-            "Hauptstraße",
-            "tatsächlich"
+            "Ansichtssache",
+            "Hauptbühne",
+            "Hauptfrage",
+            "Hauptgeschehen",
+            "Hauptprodukt"
           ]
         },
         {
@@ -146855,21 +148878,6 @@ window.WORTWEG_DATA = {
       ],
       "associationTopic": "关联词与词族",
       "associations": [
-        {
-          "word": "Hauptstadt",
-          "label": "Hauptstadt",
-          "zh": "首都"
-        },
-        {
-          "word": "Hauptstraße",
-          "label": "Hauptstraße",
-          "zh": "主街"
-        },
-        {
-          "word": "tatsächlich",
-          "label": "tatsächlich",
-          "zh": "真的吗？"
-        },
         {
           "word": "hauptsächlich",
           "label": "hauptsächlich",
@@ -146993,7 +149001,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e9/De-Schatz.ogg/De-Schatz.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Schatz.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Schatzamt",
+            "Schatzfund",
+            "Schatzgräber",
+            "Schatzgrube",
+            "Schatzinsel"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -147102,9 +149121,21 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Braunkohle",
+            "Eierkohle",
+            "Holzkohle",
+            "Kohleabbau",
+            "Kohleförderung"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "Köhler"
+            "kohlenartig",
+            "Köhler",
+            "verkohlen"
           ]
         }
       ],
@@ -147199,6 +149230,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "bestärken",
             "jemandem den Rücken stärken",
             "Stärkung",
             "verstärken"
@@ -147688,7 +149720,15 @@ window.WORTWEG_DATA = {
           "label": "最高级"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Verrücktheit",
+            "Verrückter"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -147901,25 +149941,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "bewahren",
-            "kennen",
-            "verraten"
+            "Amtsgeheimnis",
+            "Bankgeheimnis",
+            "Briefgeheimnis",
+            "Geschäftsgeheimnis",
+            "Staatsgeheimnis"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "kennen",
-          "label": "kennen",
-          "zh": "认识；熟悉"
-        },
-        {
-          "word": "verraten",
-          "label": "verraten",
-          "zh": "背叛，出卖"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Android",
@@ -148110,9 +150141,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Feier-",
             "Feierabend",
-            "feierlich",
-            "feiern",
-            "Feiern"
+            "Feierei",
+            "feierfreudig",
+            "Feierlaune"
           ]
         }
       ],
@@ -148122,11 +150153,6 @@ window.WORTWEG_DATA = {
           "word": "Feierabend",
           "label": "Feierabend",
           "zh": "下班时间，收工"
-        },
-        {
-          "word": "feiern",
-          "label": "feiern",
-          "zh": "庆祝，庆贺，开宴会"
         }
       ]
     },
@@ -148554,6 +150580,16 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Außenfläche",
+            "Flächenbrand",
+            "Flächenland",
+            "Innenfläche",
+            "Oberflächenbehandlung"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
             "oberflächlich"
@@ -148744,7 +150780,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "St-Thomas-Weber"
+            "Alektoweber",
+            "Augenbrauenweber",
+            "Baglafechtweber",
+            "Ballmanweber",
+            "Bandweber"
           ]
         }
       ],
@@ -149492,7 +151532,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7e/De-Spannung.ogg/De-Spannung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Spannung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Spannungsabfall",
+            "Spannungserhöhung",
+            "Spannungsmessgerät",
+            "Spannungsstoß",
+            "Spannungswandler"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bespannung",
+            "Verspannung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -149654,6 +151712,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "anschießen",
+            "aufschießen",
+            "beschießen",
+            "danebenschießen",
             "erschießen"
           ]
         }
@@ -149923,32 +151985,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "verknallt",
+            "verschossen",
             "hin und weg sein",
-            "geliebt",
-            "verheiratet",
-            "glücklich",
-            "mächtig"
+            "schwärmen",
+            "geliebt"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "verheiratet",
-          "label": "verheiratet",
-          "zh": "已婚的"
-        },
-        {
-          "word": "glücklich",
-          "label": "glücklich",
-          "zh": "终于，总算"
-        },
-        {
-          "word": "mächtig",
-          "label": "mächtig",
-          "zh": "强大的，有权势的，有力的"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "angegriffen",
@@ -150077,7 +152123,16 @@ window.WORTWEG_DATA = {
           "words": [
             "wahnsinnig",
             "Unsinn",
-            "Blödsinn"
+            "Blödsinn",
+            "Feinsinn",
+            "Geschmackssinn"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Wahnsinnsgedanke",
+            "Wahnsinnsidee"
           ]
         }
       ],
@@ -150466,7 +152521,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1c/De-Veränderung.ogg/De-Veränderung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Veränderung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Abänderung",
+            "Klimaveränderung",
+            "Lageveränderung",
+            "Lebensveränderung",
+            "Umänderung"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "veränderungslos"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -150548,7 +152620,14 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "beglückwünschen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -150842,7 +152921,28 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e4/De-Flügel.ogg/De-Flügel.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Flügel.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Flügelaltar",
+            "Flügelhorn",
+            "Flügelweite",
+            "Flügelkleide",
+            "Flügelrad"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "flügeln",
+            "geflügelt",
+            "beflügeln",
+            "überflügeln",
+            "flügellos"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -151071,6 +153171,16 @@ window.WORTWEG_DATA = {
             "Monat",
             "Montag"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Halbmond",
+            "Mondkalender",
+            "mondlos",
+            "Mondschein",
+            "Neumond"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -151291,7 +153401,7 @@ window.WORTWEG_DATA = {
             "Stapel",
             "alle",
             "auf",
-            "häufig"
+            "ein Häufchen Elend"
           ]
         }
       ],
@@ -151311,11 +153421,6 @@ window.WORTWEG_DATA = {
           "word": "auf",
           "label": "auf",
           "zh": "在…上；到…上"
-        },
-        {
-          "word": "häufig",
-          "label": "häufig",
-          "zh": "常见的，频繁的"
         }
       ]
     },
@@ -151392,7 +153497,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c6/De-Haushalt.ogg/De-Haushalt.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Haushalt.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Haushalter",
+            "Haushälter",
+            "haushälterisch",
+            "haushaltlich",
+            "haushalts-"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -151610,7 +153726,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Feld-Wald-und-Wiesen-Dichter"
+            "Barockdichter",
+            "Bühnendichter",
+            "Dialektdichter",
+            "Dichterader",
+            "Dichterbiographie"
           ]
         }
       ],
@@ -151667,7 +153787,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/De-Stahl.ogg/De-Stahl.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Stahl.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Edelstahl",
+            "Stahlbeton",
+            "Stahlwerk",
+            "Stahlhütte",
+            "Stahlhelm"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -151791,7 +153922,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Krankenhaus"
+            "Rathaustreppe",
+            "Rathaustür",
+            "Rathausuhr",
+            "Ratsherr",
+            "Ratsversammlung"
           ]
         }
       ],
@@ -151959,7 +154094,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Bewertungsansatz",
+            "Bewertungsgrundlage",
+            "Bewertungsgrundsatz",
+            "Bewertungskriterium",
+            "Bewertungsmaßstab"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -152051,6 +154197,8 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Betreiber",
+            "Betreibung",
+            "betreibend",
             "betrieben"
           ]
         }
@@ -152894,10 +155042,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abspielen",
             "begeben",
             "geschehen",
-            "passieren",
-            "stattfinden"
+            "ereignen",
+            "passieren"
           ]
         }
       ],
@@ -153025,11 +155174,6 @@ window.WORTWEG_DATA = {
           "word": "passieren",
           "label": "passieren",
           "zh": "发生 [助动词 sein]"
-        },
-        {
-          "word": "stattfinden",
-          "label": "stattfinden",
-          "zh": "举行、发生、出现"
         }
       ]
     },
@@ -153493,19 +155637,26 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Sprachgebrauch",
-            "Brauch"
+            "Gebrauchsanweisung",
+            "Gebrauchsgegenstand",
+            "Gebrauchsliteratur",
+            "Gebrauchswert",
+            "Dienstgebrauch"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "gebräuchig",
+            "gebräuchlich",
+            "gebrauchlos",
+            "gebrauchsam",
+            "gebrauchsfähig"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Brauch",
-          "label": "Brauch",
-          "zh": "礼仪、习惯、风俗、传统、例行公事"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Mobile",
@@ -153631,7 +155782,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "rosa"
+            "Ackerrose",
+            "Albarose",
+            "Alpenrose",
+            "Apfelrose",
+            "Bauernrose"
           ]
         }
       ],
@@ -153912,7 +156067,15 @@ window.WORTWEG_DATA = {
           "label": "最高级"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Peinlichkeit",
+            "überpeinlich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -153956,7 +156119,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/De-Kindheit.ogg/De-Kindheit.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Kindheit.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Kindheitserinnerungen",
+            "Kindheitserlebnis",
+            "Kindheitstraum",
+            "Kindheitstrauma"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -154075,7 +156248,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "halbe Miete"
+            "halbe Miete",
+            "mietfrei",
+            "Mietvertrag"
           ]
         }
       ],
@@ -154122,7 +156297,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bambusstock",
+            "Bienenstock",
+            "Bildstock",
+            "Billardstock",
+            "Blindenstock"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -154227,7 +156413,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/De-Branche.ogg/De-Branche.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Branche.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Branchenbuch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -154406,7 +156599,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Herzogin"
+            "Herzogin",
+            "Herzogtum",
+            "Erzherzog",
+            "Großherzog",
+            "Herzogswürde"
           ]
         }
       ],
@@ -154635,7 +156832,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/De-Lebensmittel.OGG/De-Lebensmittel.OGG.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Lebensmittel.OGG"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Biolebensmittel",
+            "Lebensmittelabteilung",
+            "Lebensmittelanalyse",
+            "Lebensmittelbereitstellung",
+            "Lebensmittelbeschaffung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -155237,11 +157445,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Fisch muss schwimmen",
-            "Fische",
-            "Fischen",
-            "fischen",
-            "Fischer"
+            "Anemonenfisch",
+            "Clownfisch",
+            "Doktorfisch",
+            "Elefantenrüsselfisch",
+            "Fisch muss schwimmen"
           ]
         }
       ],
@@ -155365,8 +157573,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Sozialdemokrat",
+            "sozialisieren",
             "Sozialismus",
-            "Soziologie"
+            "Sozialparasit",
+            "Sozialschmarotzer"
           ]
         }
       ],
@@ -155376,11 +157587,6 @@ window.WORTWEG_DATA = {
           "word": "Sozialismus",
           "label": "Sozialismus",
           "zh": "社会主义"
-        },
-        {
-          "word": "Soziologie",
-          "label": "Soziologie",
-          "zh": "社会学"
         }
       ]
     },
@@ -155473,7 +157679,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Präsentant",
             "Präsentation",
+            "Präsentator",
             "repräsentieren"
           ]
         }
@@ -155801,7 +158009,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/83/De-Krone.ogg/De-Krone.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Krone.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Korona"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Baumkrone",
+            "Bügelkrone",
+            "Dachkrone",
+            "Dornenkrone",
+            "Eisenkrone"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -155945,7 +158170,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ad/De-Salz.ogg/De-Salz.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Salz.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "salzig",
+            "Salzstange",
+            "Meersalz",
+            "Steinsalz",
+            "Streusalz"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -156071,14 +158307,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Naturwissenschaft",
             "Chemie",
-            "Biologie"
+            "Biologie",
+            "Astronomie",
+            "Meteorologie"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Physiker"
+            "physikalisch",
+            "Physiker",
+            "Astrophysik",
+            "Atomphysik",
+            "Festkörperphysik"
           ]
         }
       ],
@@ -156140,10 +158383,18 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Obst",
-            "Kartoffel",
-            "Knoblauch",
-            "Mais",
-            "Paprika"
+            "Artischocke",
+            "Avocado",
+            "Blaukraut",
+            "Blumenkohl"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gemüsebeet",
+            "Gemüsegarten",
+            "Gemüsesuppe"
           ]
         }
       ],
@@ -156303,6 +158554,14 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Wärme"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "erhitzen",
+            "hitzig",
+            "überhitzen"
           ]
         }
       ],
@@ -157066,7 +159325,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Trennung"
+            "abtrennen",
+            "auftrennen",
+            "auseinandertrennen",
+            "durchtrennen",
+            "heraustrennen"
           ]
         }
       ],
@@ -157184,13 +159447,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/trennen#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Trennung",
-          "label": "Trennung",
-          "zh": "分开、分离、拆开、分解、断开"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "streng",
@@ -157249,7 +159506,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/De-at-streng.ogg/De-at-streng.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-streng.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "anstrengen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -157313,7 +159577,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "im Chor"
+            "Bachchor",
+            "Bergmannschor",
+            "chorartig",
+            "Chorauftritt",
+            "Chordirigent"
           ]
         }
       ],
@@ -157381,27 +159649,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "ärgerlich",
-            "beleidigt",
-            "verärgert",
-            "süß",
-            "an-"
+            "säuerlich",
+            "gesäuert",
+            "herb",
+            "gegoren",
+            "stichig"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "beleidigt",
-          "label": "beleidigt",
-          "zh": "生气地，愠怒地"
-        },
-        {
-          "word": "süß",
-          "label": "süß",
-          "zh": "甜的、甜味的"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Enge",
@@ -157866,7 +160123,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Allwetterreifen",
+            "Anhängerreifen",
+            "Autoreifen",
+            "bereifen",
+            "Ersatzreifen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -158202,9 +160470,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Exehefrau",
             "Ex-Ehefrau",
+            "Nochehefrau",
             "Noch-Ehefrau",
-            "Scheiß-Ehefrau"
+            "Scheißehefrau"
           ]
         }
       ],
@@ -158264,7 +160534,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Entdecker",
             "Entdeckung",
+            "Entdecker",
             "Entdeckung"
           ]
         }
@@ -158608,6 +160880,14 @@ window.WORTWEG_DATA = {
           "words": [
             "Ausland"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Ausländerei",
+            "ausländerfeindlich",
+            "Ausländerin"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -158703,7 +160983,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "aufzeigen"
+            "aufzeigen",
+            "bezeigen",
+            "vorzeigen"
           ]
         },
         {
@@ -158711,6 +160993,7 @@ window.WORTWEG_DATA = {
           "words": [
             "Anzeiger",
             "Anzeige",
+            "anzeigend",
             "angezeigt"
           ]
         }
@@ -159013,7 +161296,9 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "entscheiden",
-            "bedeutend"
+            "bedeutend",
+            "vermutend",
+            "entmutigend"
           ]
         }
       ],
@@ -159066,7 +161351,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/78/De-at_Neubau.ogg/De-at_Neubau.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at_Neubau.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Neubauwohnung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -159161,7 +161453,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "durchschnittlich"
+            "durchschnittlich",
+            "Altersdurchschnitt",
+            "Bevölkerungsdurchschnitt",
+            "Bewertungsdurchschnitt",
+            "Branchendurchschnitt"
           ]
         }
       ],
@@ -159506,8 +161802,8 @@ window.WORTWEG_DATA = {
             "aneinander",
             "aufeinander",
             "auseinander",
-            "durcheinander",
-            "gegeneinander"
+            "beieinander",
+            "durcheinander"
           ]
         }
       ],
@@ -159532,11 +161828,6 @@ window.WORTWEG_DATA = {
           "word": "durcheinander",
           "label": "durcheinander",
           "zh": "混乱的，乱七八糟的"
-        },
-        {
-          "word": "gegeneinander",
-          "label": "gegeneinander",
-          "zh": "互相、彼此相对、对抗"
         }
       ]
     },
@@ -159596,7 +161887,18 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "appetitlich",
+            "wohlschmeckend",
+            "adrett",
+            "Lerckerbissen",
+            "Leckerei"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -159659,8 +161961,8 @@ window.WORTWEG_DATA = {
             "ausprobieren",
             "testen",
             "versuchen",
-            "kosten",
-            "ausprobieren"
+            "abschmecken",
+            "kosten"
           ]
         }
       ],
@@ -159798,11 +162100,6 @@ window.WORTWEG_DATA = {
           "word": "kosten",
           "label": "kosten",
           "zh": "价钱为"
-        },
-        {
-          "word": "ausprobieren",
-          "label": "ausprobieren",
-          "zh": "vt. 试验，测试"
         }
       ]
     },
@@ -159875,6 +162172,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Gipfelbesteigung",
+            "Gipfelpunkt",
+            "Gipfeltreffen",
+            "Berggipfel",
             "Spitze"
           ]
         }
@@ -159932,7 +162233,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/De-strecken.ogg/De-strecken.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-strecken.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "erstrecken"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -160113,6 +162421,12 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Prinz"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Negerprinzessin"
           ]
         }
       ],
@@ -160541,7 +162855,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6c/De-at-Mathematik.ogg/De-at-Mathematik.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Mathematik.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Ethnomathematik"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -160602,7 +162923,14 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Technik"
+            "Technik",
+            "technologisch"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Hochtechnologie"
           ]
         }
       ],
@@ -160664,6 +162992,15 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Zubehör"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Behördensprache",
+            "Behördenwillkür",
+            "behördlich",
+            "Landesbehörde"
           ]
         }
       ],
@@ -160827,7 +163164,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ec/De-at-Befehl.ogg/De-at-Befehl.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Befehl.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "befehlen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -160969,7 +163313,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ae/De-intensiv.ogg/De-intensiv.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-intensiv.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Intensivstation"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -161033,7 +163384,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "zum Weinen bringen"
+            "Weiner",
+            "Weinerei",
+            "weinerig",
+            "weinerlich"
           ]
         }
       ],
@@ -161504,7 +163858,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ad/De-gebieten.ogg/De-gebieten.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-gebieten.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Gebieter"
+          ]
+        }
+      ],
       "verbClass": "strong",
       "type": "不规则变化（强变化）",
       "conjugation": {
@@ -162040,10 +164401,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "abbrechen",
-            "Bruch",
-            "prägen",
-            "unterbrechen",
-            "verbrechen"
+            "anbrechen",
+            "aufbrechen",
+            "ausbrechen",
+            "bahnbrechend"
           ]
         }
       ],
@@ -162166,11 +164527,6 @@ window.WORTWEG_DATA = {
           "word": "abbrechen",
           "label": "abbrechen",
           "zh": "折断"
-        },
-        {
-          "word": "Bruch",
-          "label": "Bruch",
-          "zh": "破裂、爆裂"
         }
       ]
     },
@@ -162665,13 +165021,19 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Verräter"
+            "Verräter",
+            "Verräterin",
+            "Verräterei",
+            "verräterisch"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Verrat"
+            "Verrat",
+            "Verratende",
+            "Verratender",
+            "verratend"
           ]
         }
       ],
@@ -162867,7 +165229,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/De-Wahrscheinlichkeit.ogg/De-Wahrscheinlichkeit.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Wahrscheinlichkeit.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "wahrscheinlichkeitlich",
+            "Wahrscheinlichkeitstheorie"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -163167,6 +165537,12 @@ window.WORTWEG_DATA = {
           "words": [
             "kennen"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "kenntnisreich"
+          ]
         }
       ],
       "levels": [
@@ -163231,12 +165607,19 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Polizei"
+            "Polizei",
+            "Polizeifrau",
+            "polizeilich",
+            "Polizeimann"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "Autobahnpolizist",
+            "Cyberpolizist",
+            "Dorfpolizist",
+            "Expolizist",
             "FBI-Polizist"
           ]
         }
@@ -163368,7 +165751,15 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Ehre"
+            "Ehre",
+            "entehren"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "beehren",
+            "verehren"
           ]
         }
       ],
@@ -163566,7 +165957,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "einverständlich",
+            "unmissverständlich",
             "verständigen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "verständlicherweise",
+            "Verständlichkeit"
           ]
         }
       ],
@@ -163611,7 +166011,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/LL-Q188_(deu)-Sebastian_Wallroth-Konferenz.wav/LL-Q188_(deu)-Sebastian_Wallroth-Konferenz.wav.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:LL-Q188_(deu)-Sebastian_Wallroth-Konferenz.wav"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "konferieren"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -164181,6 +166588,13 @@ window.WORTWEG_DATA = {
       ],
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Trockeneis",
+            "Trockenschrank"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
             "trocknen"
@@ -164425,9 +166839,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "einholen",
+            "verwahren",
+            "beschirmen",
             "enthalten",
-            "geborgen",
-            "verbergen"
+            "preisgeben"
           ]
         }
       ],
@@ -164550,11 +166965,6 @@ window.WORTWEG_DATA = {
           "word": "enthalten",
           "label": "enthalten",
           "zh": "包括、涵盖"
-        },
-        {
-          "word": "verbergen",
-          "label": "verbergen",
-          "zh": "隐藏，藏起"
         }
       ]
     },
@@ -165142,6 +167552,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Investitur",
             "Investor"
           ]
         },
@@ -165420,7 +167831,17 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "symbolisch",
+            "Desktopsymbol",
+            "Nazisymbol",
+            "Statussymbol"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -166000,7 +168421,15 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Wahnsinn"
+            "Wahnsinn",
+            "Irrsinn",
+            "Trübsinn"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "unsinnig"
           ]
         }
       ],
@@ -166230,7 +168659,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ed/De-Sekunde.ogg/De-Sekunde.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Sekunde.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Halbsekunde",
+            "Schaltsekunde",
+            "Sekundenbruchteil",
+            "sekundengenau",
+            "sekundenlang"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "sekündlich"
+          ]
+        }
+      ],
       "associationTopic": "时间",
       "associations": [
         {
@@ -166324,7 +168770,26 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ad/De-Kleid.ogg/De-Kleid.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Kleid.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Kleiderablagel",
+            "Kleiderbügel",
+            "Kleiderbürste",
+            "Kleideretikette",
+            "Kleidergeschäft"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "kleidsam",
+            "kleiderlos",
+            "Kledage"
+          ]
+        }
+      ],
       "associationTopic": "衣服",
       "associations": [
         {
@@ -166434,7 +168899,21 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/De-beschränkt.ogg/De-beschränkt.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-beschränkt.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Gesellschaft mit beschränkter Haftung",
+            "verschränkt"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Beschränktheit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -166549,6 +169028,13 @@ window.WORTWEG_DATA = {
             "tauschen",
             "austauschen"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Austauschstudent",
+            "Austauschstudentin"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -166628,6 +169114,16 @@ window.WORTWEG_DATA = {
         "source": "https://commons.wikimedia.org/wiki/File:De-Grab.ogg"
       },
       "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Grabbeigabe",
+            "Grabeskirche",
+            "Grabesstille",
+            "Grabesritter",
+            "Grabhügel"
+          ]
+        },
         {
           "label": "词族与派生词",
           "words": [
@@ -166987,7 +169483,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Muster ohne Wert"
+            "Abplättmuster",
+            "Argumentationsmuster",
+            "Ärztemuster",
+            "Aufbügelmuster",
+            "Ausfallmuster"
           ]
         }
       ],
@@ -167222,13 +169722,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "zerstörbar",
+            "Zerstörer",
             "Zerstörung"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Zerstörung"
+            "Zerstörer",
+            "Zerstörung",
+            "zerstörend"
           ]
         }
       ],
@@ -167824,9 +170328,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Durchlauf",
+            "Ereignisablauf",
+            "Gesprächsablauf",
             "Kreislauf",
-            "Umlauf",
-            "Verlauf"
+            "Überlauf"
           ]
         }
       ],
@@ -167836,11 +170342,6 @@ window.WORTWEG_DATA = {
           "word": "Kreislauf",
           "label": "Kreislauf",
           "zh": "pl.Kreislaufe 循环"
-        },
-        {
-          "word": "Verlauf",
-          "label": "Verlauf",
-          "zh": "经过、进程"
         }
       ]
     },
@@ -167953,6 +170454,16 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "schlachten"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Kesselschlacht",
+            "Kissenschlacht",
+            "Schlachtplan",
+            "Schlachtschiff",
+            "Schneeballschlacht"
           ]
         }
       ],
@@ -168526,7 +171037,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "begleitet"
+            "begleitend",
+            "begleitet",
+            "Begleiterscheinung",
+            "Begleitfahrzeug"
           ]
         }
       ],
@@ -168731,7 +171245,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "vermittelnd",
             "vermittelt",
+            "übermitteln",
             "vermeiden"
           ]
         },
@@ -168907,7 +171423,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/De-at-dreimal.ogg/De-at-dreimal.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-dreimal.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "dreimalig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -168960,6 +171483,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "geistiges Eigentum",
             "Eigentümer"
           ]
         }
@@ -169015,7 +171539,14 @@ window.WORTWEG_DATA = {
           "label": "最高级"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Unbekanntheit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -169215,6 +171746,12 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "vorwerfen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "vorwurfsvoll"
           ]
         }
       ],
@@ -169443,7 +171980,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Beleg"
+            "Belag",
+            "Beleg",
+            "belegtes Brot"
           ]
         }
       ],
@@ -169608,7 +172147,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Warenabkommen",
+            "Warenabsatz",
+            "Warenabschluss",
+            "Warenangebot",
+            "Warenannahme"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -170352,9 +172902,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Sender",
             "Sendung",
-            "Nachricht",
-            "Brief",
-            "Paket"
+            "absenden",
+            "versenden",
+            "zusenden"
           ]
         }
       ],
@@ -170482,21 +173032,6 @@ window.WORTWEG_DATA = {
           "word": "Sendung",
           "label": "Sendung",
           "zh": "发送、寄出、投递、包裹"
-        },
-        {
-          "word": "Nachricht",
-          "label": "Nachricht",
-          "zh": "消息"
-        },
-        {
-          "word": "Brief",
-          "label": "Brief",
-          "zh": "信"
-        },
-        {
-          "word": "Paket",
-          "label": "Paket",
-          "zh": "包裹，邮包"
         }
       ]
     },
@@ -170615,9 +173150,19 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Wotan"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "wütend"
+            "Arbeitswut",
+            "Kampfeswut",
+            "Organisationswut",
+            "Sammelwut",
+            "Tollwut"
           ]
         }
       ],
@@ -170759,8 +173304,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "breitschultrig",
+            "schmalschultrig",
             "schultern",
-            "die kalte Schulter zeigen"
+            "Schulterband",
+            "Schulterklappe"
           ]
         }
       ],
@@ -170855,7 +173403,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/De-Laune.ogg/De-Laune.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Laune.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "launenhaft",
+            "launisch",
+            "launig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -171219,7 +173776,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/53/De-Knochen.ogg/De-Knochen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Knochen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Knöchel",
+            "Musikantenknochen",
+            "Penisknochen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -171464,7 +174030,15 @@ window.WORTWEG_DATA = {
           "words": [
             "Grundlage",
             "Grundsatz",
-            "Grundgesetz"
+            "Grundgesetz",
+            "Grundzustand",
+            "Wiesengrund"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Grundstücksgrenze"
           ]
         }
       ],
@@ -171905,11 +174479,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Deck",
-            "Decke",
-            "Deckel",
-            "Deckung",
-            "entdecken"
+            "abdecken",
+            "aufdecken",
+            "bedecken",
+            "bedecktsamig",
+            "Dachdecker"
           ]
         }
       ],
@@ -172027,33 +174601,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/decken#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Deck",
-          "label": "Deck",
-          "zh": "（船的）甲板。"
-        },
-        {
-          "word": "Decke",
-          "label": "Decke",
-          "zh": "覆盖物"
-        },
-        {
-          "word": "Deckel",
-          "label": "Deckel",
-          "zh": "盖、盖子、罩子、封面、书皮、套"
-        },
-        {
-          "word": "Deckung",
-          "label": "Deckung",
-          "zh": "pl.Deckungen 盖，顶，抵押品，保"
-        },
-        {
-          "word": "entdecken",
-          "label": "entdecken",
-          "zh": "（首次）发现，发觉；看到，找到"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "power",
@@ -172802,6 +175350,12 @@ window.WORTWEG_DATA = {
           "words": [
             "arm"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Armutszeugnis"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -173417,7 +175971,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Fahrwerksabstimmung",
+            "Feinabstimmung",
+            "Kampfabstimmung",
+            "Kontenabstimmung",
+            "Probeabstimmung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -173501,7 +176066,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Traum"
+            "Tagträumer",
+            "Traum",
+            "Träumer",
+            "Träumerei"
           ]
         }
       ],
@@ -173724,18 +176292,23 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Anordnung"
+            "Verordnungsänderung",
+            "Verordnungsblatt",
+            "Verordnungsdurchsetzung",
+            "Verordnungserlass",
+            "Verordnungsermächtigung"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "verordnungsartig",
+            "verordnungsmäßig"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Anordnung",
-          "label": "Anordnung",
-          "zh": "排列、整理、安排"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Muslime",
@@ -173887,9 +176460,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Exehemann",
             "Ex-Ehemann",
+            "Nochehemann",
             "Noch-Ehemann",
-            "Scheiß-Ehemann"
+            "Scheißehemann"
           ]
         }
       ],
@@ -173981,7 +176556,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c6/De-blind.ogg/De-blind.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-blind.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "blinder Passagier",
+            "farbenblind",
+            "nachtblind"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -174215,6 +176799,14 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "umsetzen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Umsatzflaute",
+            "Umsatzsteuer",
+            "Umsatztief"
           ]
         }
       ],
@@ -174776,6 +177368,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Ersteller",
             "Erstellung"
           ]
         }
@@ -175013,7 +177606,15 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "bemängeln",
+            "mangelhaft"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -175364,10 +177965,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "ehelichen",
             "hochzeiten",
             "trauen",
-            "scheiden",
-            "Heirat"
+            "vermählen",
+            "scheiden"
           ]
         }
       ],
@@ -175499,11 +178101,6 @@ window.WORTWEG_DATA = {
           "word": "scheiden",
           "label": "scheiden",
           "zh": "离婚、结束婚姻"
-        },
-        {
-          "word": "Heirat",
-          "label": "Heirat",
-          "zh": "婚姻；结婚，婚礼"
         }
       ]
     },
@@ -175543,9 +178140,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abfangen",
             "anfangen",
-            "Fang",
-            "gefangen"
+            "auffangen",
+            "befangen",
+            "einfangen"
           ]
         }
       ],
@@ -175668,16 +178267,6 @@ window.WORTWEG_DATA = {
           "word": "anfangen",
           "label": "anfangen",
           "zh": "开始"
-        },
-        {
-          "word": "Fang",
-          "label": "Fang",
-          "zh": "捕捞，捕捉，逮，迨，逮"
-        },
-        {
-          "word": "gefangen",
-          "label": "gefangen",
-          "zh": "被捕的、被抓的、被监禁的、被俘虏的、被囚的、"
         }
       ]
     },
@@ -175797,8 +178386,8 @@ window.WORTWEG_DATA = {
             "hoch",
             "weit",
             "Seil",
-            "Wasser",
-            "Brunnen"
+            "Fallschirm",
+            "Bungee"
           ]
         }
       ],
@@ -175931,16 +178520,6 @@ window.WORTWEG_DATA = {
           "word": "Seil",
           "label": "Seil",
           "zh": "绳"
-        },
-        {
-          "word": "Wasser",
-          "label": "Wasser",
-          "zh": "水"
-        },
-        {
-          "word": "Brunnen",
-          "label": "Brunnen",
-          "zh": "井"
         }
       ]
     },
@@ -176198,9 +178777,9 @@ window.WORTWEG_DATA = {
           "words": [
             "angebracht",
             "angemessen",
+            "annehmbar",
             "entsprechend",
-            "genau",
-            "ideal"
+            "genau"
           ]
         }
       ],
@@ -176397,7 +178976,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Absperrkette",
+            "Abwehrkette",
+            "Ahnenkette",
+            "Alpenkette",
+            "Aminosäurekette"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -176582,6 +179172,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Expertentum",
             "Expertise"
           ]
         }
@@ -176671,17 +179262,20 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "unterzeichnen",
-            "Zeichen"
+            "abzeichnen",
+            "anzeichnen",
+            "aufzeichnen",
+            "auszeichnen",
+            "durchzeichnen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "Zeichner",
+            "Zeichnerin",
             "Zeichnung",
-            "gezeichnet",
-            "bezeichnen",
-            "verzeichnen"
+            "zeichnend"
           ]
         }
       ],
@@ -176801,29 +179395,9 @@ window.WORTWEG_DATA = {
       "associationTopic": "关联词与词族",
       "associations": [
         {
-          "word": "Zeichen",
-          "label": "Zeichen",
-          "zh": "符号、记号"
-        },
-        {
           "word": "Zeichnung",
           "label": "Zeichnung",
           "zh": "pl.Zeichnungen 素描，绘画，图"
-        },
-        {
-          "word": "gezeichnet",
-          "label": "gezeichnet",
-          "zh": "绘制的"
-        },
-        {
-          "word": "bezeichnen",
-          "label": "bezeichnen",
-          "zh": "标明、说明、表示、做上标记"
-        },
-        {
-          "word": "verzeichnen",
-          "label": "verzeichnen",
-          "zh": "v. 记录，登记，注册，备忘，引用，索引，列"
         }
       ]
     },
@@ -177052,7 +179626,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/99/De-Überwachung.ogg/De-Überwachung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Überwachung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Überwachungsanlage",
+            "Überwachungsdienst",
+            "Überwachungsfirma",
+            "Überwachungskamera",
+            "Überwachungsmaßnahme"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -177113,14 +179698,19 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Sammlung"
+            "Sammlung",
+            "Ansammlung",
+            "Einsammlung"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Generalversammlung",
-            "Mitgliederversammlung"
+            "Arbeiterversammlung",
+            "Arbeitnehmerversammlung",
+            "Betriebsversammlung",
+            "Bundesversammlung",
+            "Bürgerversammlung"
           ]
         }
       ],
@@ -177193,7 +179783,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/64/De-Zunge.ogg/De-Zunge.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Zunge.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Zungenbrecher",
+            "Zungenkuss",
+            "Zungenlaut",
+            "züngeln"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -177278,7 +179878,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/De-Staatsanwaltschaft.ogg/De-Staatsanwaltschaft.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Staatsanwaltschaft.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Oberstaatsanwaltschaft",
+            "staatsanwaltschaftlich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -178197,6 +180805,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Freizeitbeschäftigung",
+            "Liebhaberei",
+            "Steckenpferd",
             "Arbeit",
             "Beruf"
           ]
@@ -178266,9 +180877,9 @@ window.WORTWEG_DATA = {
           "words": [
             "aufhalten",
             "ausmachen",
+            "beeinträchtigen",
             "behindern",
-            "Störung",
-            "zerstören"
+            "Störung"
           ]
         }
       ],
@@ -178401,11 +181012,6 @@ window.WORTWEG_DATA = {
           "word": "Störung",
           "label": "Störung",
           "zh": "扰乱、混乱、杂乱、风波、骚动、冲突、干涉"
-        },
-        {
-          "word": "zerstören",
-          "label": "zerstören",
-          "zh": "（及物）破坏，消灭，摧毁，毁坏"
         }
       ]
     },
@@ -178925,7 +181531,15 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Psyche",
-            "psychisch"
+            "psychisch",
+            "psychologisch",
+            "Psychologe"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Parapsychologie"
           ]
         }
       ],
@@ -179029,7 +181643,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Kritik",
             "kritisieren",
-            "kritisch"
+            "kritisch",
+            "Kritikermeinung",
+            "Kritikerpreis"
           ]
         }
       ],
@@ -179076,7 +181692,15 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Höchstbietender",
+            "zweithöchst"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -179148,6 +181772,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Untersucher",
             "Untersuchung"
           ]
         }
@@ -179370,7 +181995,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/27/De-Frühling.OGG/De-Frühling.OGG.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Frühling.OGG"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Alpenfrühling",
+            "Arabischer Frühling",
+            "Frühlingsabend",
+            "Frühlingsblüher",
+            "Frühlingsblume"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -179511,7 +182147,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Lügenpresse"
+            "Lügenbande",
+            "Lügenbaron",
+            "Lügenbericht",
+            "Lügenbold",
+            "Lügenbotschaft"
           ]
         }
       ],
@@ -179662,7 +182302,15 @@ window.WORTWEG_DATA = {
           "label": "最高级"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Besorgtheit",
+            "unbesorgt"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -179753,7 +182401,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1c/De-glatt.ogg/De-glatt.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-glatt.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "aalglatt",
+            "glatt wie ein Aal",
+            "Glatteis",
+            "glätten"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -179813,7 +182471,21 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/63/De-at-Börse.ogg/De-at-Börse.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Börse.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Geldbörse"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Aktienbörse",
+            "Terminbörse"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -179919,7 +182591,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/De-Metall.ogg/De-Metall.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Metall.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Alkalimetall",
+            "Edelmetall",
+            "Metallrohr"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -180075,7 +182756,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e7/De-Genehmigung.ogg/De-Genehmigung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Genehmigung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Aufenthaltsgenehmigung",
+            "Ausfuhrgenehmigung",
+            "Ausreisegenehmigung",
+            "Einreisegenehmigung",
+            "Durchreisegenehmigung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -180896,7 +183588,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9a/De-Modus.ogg/De-Modus.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Modus.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Einzelspielermodus",
+            "Mehrspielermodus"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -181058,7 +183758,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/De-at-Märchen.ogg/De-at-Märchen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Märchen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Ammenmärchen",
+            "Kunstmärchen",
+            "Märchenbuch",
+            "märchenhaft",
+            "Märchenland"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -181132,7 +183843,26 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/62/De-Ereignis.ogg/De-Ereignis.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Ereignis.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Ereignisabfolge",
+            "Ereignisfernsehen",
+            "Ereigniskette",
+            "Ereignisablauf",
+            "Einzelereignis"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Ereignishorizont",
+            "ereignisreich",
+            "ereignislos"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -181206,7 +183936,16 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Betreuungen",
+            "Betreuungsangebot",
+            "Kinderbetreuung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -181307,7 +184046,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e7/De-engen.ogg/De-engen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-engen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "beengen"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -181463,7 +184209,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/96/De-Lee.ogg/De-Lee.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Lee.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "leewärts",
+            "Leeseite"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -182165,19 +184919,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Eigenregie",
             "in eigener Regie",
-            "Regisseur"
+            "in Eigenregie",
+            "Regieanweisung",
+            "Regiearbeit"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Regisseur",
-          "label": "Regisseur",
-          "zh": "导演、舞台指导"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Kongress",
@@ -182291,19 +185042,22 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Umschlag",
-            "Vorschlag"
+            "Abschlag",
+            "Aufschlag",
+            "Fehlschlag",
+            "Rückschlag",
+            "Tiefschlag"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Brandanschlag"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Vorschlag",
-          "label": "Vorschlag",
-          "zh": "建议；提议"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Tendenz",
@@ -182607,11 +185361,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "zanken",
             "vertragen",
+            "versöhnen",
             "einigen",
-            "teilen",
-            "ständig",
-            "bestreiten"
+            "teilen"
           ]
         }
       ],
@@ -182744,16 +185498,6 @@ window.WORTWEG_DATA = {
           "word": "teilen",
           "label": "teilen",
           "zh": "划分，分开，分担"
-        },
-        {
-          "word": "ständig",
-          "label": "ständig",
-          "zh": "永久的，持久的"
-        },
-        {
-          "word": "bestreiten",
-          "label": "bestreiten",
-          "zh": "议论、辩论、反驳、驳斥、驳倒、否认、抨击、盘"
         }
       ]
     },
@@ -182850,7 +185594,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Frucht",
-            "Gemüse"
+            "Gemüse",
+            "Fallobst",
+            "Obstanbau",
+            "Obstbau"
           ]
         }
       ],
@@ -182903,10 +185650,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Gepäck",
-            "Pack",
-            "Päckchen",
-            "Packung"
+            "abpacken",
+            "anpacken",
+            "aufpacken",
+            "auspacken",
+            "bepacken"
           ]
         }
       ],
@@ -183024,18 +185772,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/packen#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Gepäck",
-          "label": "Gepäck",
-          "zh": "行李、皮箱、旅行带"
-        },
-        {
-          "word": "Packung",
-          "label": "Packung",
-          "zh": "pl.Packungen 包装，包装物，（技"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "verstecken",
@@ -183350,7 +186087,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/De-Skandal.ogg/De-Skandal.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Skandal.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Skandalnudel"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -183744,7 +186488,23 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/05/De-Pech.ogg/De-Pech.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Pech.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "pekig"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Pechblende",
+            "Pechnelke",
+            "Pechsträhne",
+            "Pechvogel"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -183823,7 +186583,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Übung macht den Meister"
+            "Bodenübung",
+            "Dehnungsübung",
+            "Entspannungsübung",
+            "Fingerübung",
+            "Geduldsübung"
           ]
         }
       ],
@@ -183952,7 +186716,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "sich den Magen verderben"
+            "Magenbeschwerde",
+            "Magenentzündung",
+            "Mageninhalt",
+            "Magenkrankheit",
+            "Magenkrebs"
           ]
         }
       ],
@@ -184005,7 +186773,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Journalistin"
+            "Journalistin",
+            "journalistisch"
           ]
         }
       ],
@@ -184255,7 +187024,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "detailliert"
+            "detailliert",
+            "detailgenau",
+            "detailgetreu",
+            "detailreich"
           ]
         }
       ],
@@ -184396,7 +187168,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/46/De-Treffer.ogg/De-Treffer.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Treffer.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Volltreffer"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -185426,8 +188205,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Flussufer",
             "über die Ufer treten",
-            "anderes Ufer"
+            "anderes Ufer",
+            "Uferdamm"
           ]
         }
       ],
@@ -185757,7 +188538,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Ben"
+            "Ben",
+            "Benni"
           ]
         }
       ],
@@ -186330,7 +189112,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a1/De-wirtschaftlich.ogg/De-wirtschaftlich.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-wirtschaftlich.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Wirtschaftlichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -186436,6 +189225,7 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Meter",
+            "Dezimeter",
             "Kilometer",
             "Millimeter"
           ]
@@ -186505,6 +189295,15 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "duschen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Duschgel",
+            "Duschkabine",
+            "Duschkopf",
+            "Duschvorhang"
           ]
         }
       ],
@@ -186729,7 +189528,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/12/De-Persönlichkeit.ogg/De-Persönlichkeit.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Persönlichkeit.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Herrscherpersönlichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -186790,7 +189596,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c1/De-kompliziert.ogg/De-kompliziert.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-kompliziert.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "hochkompliziert",
+            "unkompliziert"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -186862,7 +189676,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "in Berufung gehen"
+            "in Berufung gehen",
+            "Berufungsgericht",
+            "Berufungsrecht"
           ]
         }
       ],
@@ -186955,7 +189771,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c5/De-Auskunft.OGG/De-Auskunft.OGG.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Auskunft.OGG"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Auskunftei"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -187233,7 +190056,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0b/De-Kühlschrank.ogg/De-Kühlschrank.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Kühlschrank.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Kühlfach",
+            "Kühlregal",
+            "Küchenschrank"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -187815,7 +190647,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/11/De-Fuchs.ogg/De-Fuchs.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Fuchs.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "fuchsig",
+            "fuchsartig",
+            "fuchsen",
+            "fuchsteufelswild"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -188376,6 +191218,15 @@ window.WORTWEG_DATA = {
             "Botschaft",
             "Bote"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Kulturbotschafter",
+            "Markenbotschafter",
+            "Sonderbotschafter",
+            "Werbebotschafter"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -188467,11 +191318,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Berufsdoktor",
             "der Onkel Doktor",
             "die Tante Doktor",
-            "Doktor beider Rechte",
-            "Doktor der Medizin",
-            "Doktor der Naturwissenschaften"
+            "Doktorand",
+            "Doktorarbeit"
           ]
         }
       ],
@@ -188532,10 +191383,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "ermorden",
             "Ermordung",
             "Mord",
             "morden",
             "Morden"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Auftragsmörder",
+            "Baummörder",
+            "Brudermörder",
+            "Caesar-Mörder",
+            "Caesarmörder"
           ]
         }
       ],
@@ -188764,7 +191626,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/De-Gitarre2.ogg/De-Gitarre2.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Gitarre2.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Gitarrenakkord",
+            "Gitarrenart",
+            "Gitarrenbau",
+            "Gitarrenbauer",
+            "Gitarrenbuch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -188874,7 +191747,16 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Kreditgefährdung",
+            "Kreditschädigung",
+            "Kreditwürdigkeit"
+          ]
+        }
+      ],
       "associationTopic": "经济",
       "associations": [
         {
@@ -189081,7 +191963,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/De-at-Klavier.ogg/De-at-Klavier.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Klavier.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Harfenklavier",
+            "Klavierabend",
+            "Klavierbegleitung",
+            "Klavierhocker",
+            "Klavierkonzert"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "klavierartig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -189166,7 +192065,9 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Daumen drücken",
-            "den grünen Daumen haben"
+            "Däumling",
+            "den grünen Daumen haben",
+            "Däumchen drehen"
           ]
         }
       ],
@@ -189841,7 +192742,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "heiße Schokolade"
+            "schokoladen",
+            "heiße Schokolade",
+            "Schokoladeneis",
+            "Schokoladenzigarette",
+            "Eisschokolade"
           ]
         }
       ],
@@ -189920,7 +192825,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f8/De-Ausgang.OGG/De-Ausgang.OGG.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Ausgang.OGG"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Ausgangslage",
+            "Ausgangstür",
+            "Notausgang",
+            "Kirchenausgang",
+            "Gartenausgang"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -190189,6 +193105,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Abnehmer",
+            "Abnehmung",
             "Abnahme"
           ]
         }
@@ -190373,6 +193291,12 @@ window.WORTWEG_DATA = {
         "source": "https://commons.wikimedia.org/wiki/File:De-abseits.ogg"
       },
       "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "allerseits"
+          ]
+        },
         {
           "label": "词族与派生词",
           "words": []
@@ -190598,10 +193522,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Besatzer",
+            "Besatzerin",
             "Besatzung",
             "besetzen",
-            "besetzt",
-            "besitzen"
+            "besetzt"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bandbesetzung",
+            "Baumbesetzung",
+            "Besetzungsausgabe",
+            "Besetzungsbüro",
+            "Besetzungschef"
           ]
         }
       ],
@@ -190621,11 +193556,6 @@ window.WORTWEG_DATA = {
           "word": "besetzt",
           "label": "besetzt",
           "zh": "被占的、占线的"
-        },
-        {
-          "word": "besitzen",
-          "label": "besitzen",
-          "zh": "拥有、占有、享有"
         }
       ]
     },
@@ -190987,7 +193917,14 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Interpret",
             "interpretieren"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Fehlinterpretation"
           ]
         }
       ],
@@ -191067,7 +194004,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/59/De-Wohnzimmer.ogg/De-Wohnzimmer.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Wohnzimmer.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Wohnzimmereinrichtung",
+            "Wohnzimmerfenster",
+            "Wohnzimmerlampe",
+            "Wohnzimmermöbel",
+            "Wohnzimmerschrank"
+          ]
+        }
+      ],
       "associationTopic": "住宅",
       "associations": [
         {
@@ -191332,6 +194280,15 @@ window.WORTWEG_DATA = {
           "words": [
             "entwickeln"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Entwicklerin",
+            "Hardwareentwickler",
+            "Softwareentwickler",
+            "Spieleentwickler"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -191510,7 +194467,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Regenbogen"
+            "bogenförmig",
+            "Bogenschießen",
+            "Bogenschütze",
+            "bogenweise",
+            "Geigenbogen"
           ]
         }
       ],
@@ -191646,7 +194607,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Treppenhaus"
+            "Rolltreppe",
+            "Treppenwitz",
+            "Treppenhaus",
+            "Treppenstufe"
           ]
         }
       ],
@@ -191723,7 +194687,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/33/De-at-Schlafzimmer.ogg/De-at-Schlafzimmer.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Schlafzimmer.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Beischlaf",
+            "Büroschlaf",
+            "Dämmerschlaf",
+            "Dornröschenschlaf",
+            "Halbschlaf"
+          ]
+        }
+      ],
       "associationTopic": "住宅",
       "associations": [
         {
@@ -192293,7 +195268,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "öffentliche Angelegenheit"
+            "Berufsangelegenheit",
+            "Finanzangelegenheit",
+            "Geschäftsangelegenheit",
+            "öffentliche Angelegenheit",
+            "Privatangelegenheit"
           ]
         }
       ],
@@ -193203,7 +196182,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f1/De-Reichweite.ogg/De-Reichweite.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Reichweite.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "reichweitenstark"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -193308,9 +196294,16 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "fundieren"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "offener Fonds"
+            "offener Fonds",
+            "geschlossener Fonds"
           ]
         }
       ],
@@ -193883,7 +196876,8 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "-mächtig",
-            "mächtigen"
+            "mächtigen",
+            "Mächtigkeit"
           ]
         }
       ],
@@ -194026,8 +197020,8 @@ window.WORTWEG_DATA = {
             "Anführer",
             "Boss",
             "Chef",
-            "Herr",
-            "Herrscher"
+            "Gebieter",
+            "Herr"
           ]
         }
       ],
@@ -194047,11 +197041,6 @@ window.WORTWEG_DATA = {
           "word": "Herr",
           "label": "Herr",
           "zh": "先生"
-        },
-        {
-          "word": "Herrscher",
-          "label": "Herrscher",
-          "zh": "统治者，统帅，支配者"
         }
       ]
     },
@@ -194534,8 +197523,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "aufzwingen",
+            "bezwingen",
+            "erzwingen",
             "Zwang",
-            "zwingend"
+            "Zwingburg"
           ]
         }
       ],
@@ -195001,7 +197993,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/LL-Q188_(deu)-Sebastian_Wallroth-Konzentration.wav/LL-Q188_(deu)-Sebastian_Wallroth-Konzentration.wav.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:LL-Q188_(deu)-Sebastian_Wallroth-Konzentration.wav"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Konzentrat",
+            "konzentrationsfähig",
+            "Konzentrationsfähigkeit",
+            "Konzentrationslager",
+            "Konzentrationsmangel"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -195395,7 +198398,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Hinweis"
+            "Hinweis",
+            "Hinweiser",
+            "Hinweisung"
           ]
         }
       ],
@@ -195730,7 +198735,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "alte",
-            "geile"
+            "dreckige",
+            "geile",
+            "herumschlampen",
+            "Schlamperin"
           ]
         }
       ],
@@ -195908,7 +198916,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/De-Fresse.ogg/De-Fresse.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Fresse.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Hackfresse"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -195954,7 +198969,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1a/De-Sportler.ogg/De-Sportler.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Sportler.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Profisportler"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -196187,7 +199209,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/De-at-wahnsinnig.ogg/De-at-wahnsinnig.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-wahnsinnig.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "blödsinnig",
+            "unsinnig",
+            "feinsinnig"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "größenwahnsinnig",
+            "Wahnsinnigwerden",
+            "wahnsinnigerweise"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -196292,7 +199331,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Pressemitteilung"
+            "Hausmitteilung",
+            "Kurzmitteilung",
+            "Pressemitteilung",
+            "Veränderungsmitteilung"
           ]
         }
       ],
@@ -196411,7 +199453,16 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Programmierhandbuch",
+            "Wartungshandbuch",
+            "Lüftungshandbuch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -196479,7 +199530,27 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Weiterbeförderung",
+            "Weiterführung",
+            "Weitergabe",
+            "Weiterleitung"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Weiterbildungsangebot",
+            "Weiterbildungsberatung",
+            "Weiterbildungseinrichtung",
+            "Weiterbildungsgeld",
+            "Weiterbildungsinstitut"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -196553,7 +199624,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/De-Winkel.ogg/De-Winkel.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Winkel.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Winkeladvokat",
+            "Winkelmaß",
+            "Winkelmesser",
+            "Winkelspinne",
+            "Winkelzug"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "anwinkeln",
+            "winkelig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -196607,8 +199696,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Erdrauch",
+            "rauchblau",
             "rauchen",
-            "Raucher"
+            "Raucher",
+            "räuchern"
           ]
         }
       ],
@@ -196831,9 +199923,22 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Tafelberg",
+            "Tafeldecke",
+            "Tafelgast",
+            "Tafelrunde",
+            "Tafeltraube"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
+            "tafelartig",
+            "tafelförmig",
             "tafeln",
+            "Getäfel",
             "die Tafel aufheben"
           ]
         }
@@ -197399,21 +200504,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Seitensprung",
-            "Ursprung",
-            "Vorsprung",
-            "Sprung ins kalte Wasser"
+            "Absprung",
+            "Aufsprung",
+            "Blasensprung",
+            "Bocksprung",
+            "Daumensprung"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Ursprung",
-          "label": "Ursprung",
-          "zh": "起源，根源，由来"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Vorgänger",
@@ -197537,7 +200637,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Leiter",
             "Leitung",
-            "ableiten"
+            "Blitzableiter",
+            "Leitsystem",
+            "Leitplanke"
           ]
         }
       ],
@@ -197751,9 +200853,16 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "umkämpfen"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
             "Bekämpfung",
+            "Bekämpfer",
             "bekämpft"
           ]
         }
@@ -197940,9 +201049,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abschmecken",
             "probieren",
             "kosten",
-            "Geschmack"
+            "Geschmack",
+            "Geschmackssinn"
           ]
         }
       ],
@@ -198938,7 +202049,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Zugabe"
+            "Zugabe",
+            "Zugeber",
+            "Zugebung"
           ]
         }
       ],
@@ -199097,7 +202210,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/63/De-Budget.ogg/De-Budget.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Budget.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "budgetieren"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -199212,7 +202332,27 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/De-at-Schicht.ogg/De-at-Schicht.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Schicht.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Schichtarbeit",
+            "Schichtarbeiter",
+            "Schichtdienst",
+            "Schichtwechsel"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Außenschicht",
+            "Dampfschicht",
+            "Eisschicht",
+            "Frühschicht",
+            "Lackschicht"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -199289,22 +202429,24 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "zwei"
+            "zwanzigeckig",
+            "zwanzigköpfig",
+            "zwanzigmal",
+            "zwanzigminütig",
+            "zwanzigstündig"
           ]
         },
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Zwanziger",
+            "Zwanzigstel",
+            "zwanzigfach"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "zwei",
-          "label": "zwei",
-          "zh": "二"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "veröffentlichen",
@@ -199366,6 +202508,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Veröffentlicher",
             "Veröffentlichung"
           ]
         }
@@ -199556,8 +202699,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "behauptend",
             "behauptet",
-            "überhaupt"
+            "überhaupt",
+            "Enthauptung",
+            "Falschbehauptung"
           ]
         }
       ],
@@ -199632,7 +202778,18 @@ window.WORTWEG_DATA = {
           "label": "助动词"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "anblicken",
+            "aufblicken",
+            "ausblicken",
+            "durchblicken",
+            "erblicken"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -199853,7 +203010,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Tischtennis"
+            "Tennisarm",
+            "Tennisball",
+            "Tennismatch",
+            "Tennisplatz",
+            "Tennisschläger"
           ]
         }
       ],
@@ -199941,7 +203102,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Superstar"
+            "superschön",
+            "supertoll",
+            "supergeil",
+            "Superbenzin",
+            "Superoxid"
           ]
         }
       ],
@@ -200089,7 +203254,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "ursprünglich"
+            "ursprünglich",
+            "Ursprungsort",
+            "Ursprungsland",
+            "Ursprungsgebiet",
+            "Ursprungsbezeichnung"
           ]
         }
       ],
@@ -200137,10 +203306,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "sorgen",
+            "ängstigen",
             "achten",
-            "hoffen",
-            "lieben",
-            "befürchten"
+            "ehrfürchtig",
+            "hoffen"
           ]
         }
       ],
@@ -200268,16 +203437,6 @@ window.WORTWEG_DATA = {
           "word": "hoffen",
           "label": "hoffen",
           "zh": "希望"
-        },
-        {
-          "word": "lieben",
-          "label": "lieben",
-          "zh": "爱"
-        },
-        {
-          "word": "befürchten",
-          "label": "befürchten",
-          "zh": "担心，害怕"
         }
       ]
     },
@@ -200340,7 +203499,18 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Lautgestalt",
+            "Schattengestalt",
+            "Traumgestalt",
+            "Heldengestalt",
+            "Lichtgestalt"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -200837,7 +204007,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/De-herrlich.ogg/De-herrlich.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-herrlich.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Herrlichkeit",
+            "verherrlichen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -201041,7 +204219,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/De-Beute.ogg/De-Beute.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Beute.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Beutetier",
+            "erbeuten",
+            "ausbeuten",
+            "Jagdbeute",
+            "Diebesbeute"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -201136,8 +204325,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "leeren",
+            "auffüllen",
+            "abfüllen",
             "ausfüllen",
-            "erfüllen"
+            "befüllen"
           ]
         }
       ],
@@ -201260,11 +204451,6 @@ window.WORTWEG_DATA = {
           "word": "leeren",
           "label": "leeren",
           "zh": "v. 腾空，空出来，倒空"
-        },
-        {
-          "word": "erfüllen",
-          "label": "erfüllen",
-          "zh": "充满、装满"
         }
       ]
     },
@@ -201389,8 +204575,20 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Guss"
+          ]
+        },
+        {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "abgießen",
+            "angießen",
+            "ausgießen",
+            "begießen",
+            "eingießen"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -201553,7 +204751,15 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Wahnsinn"
+            "Feinsinn",
+            "Wahnsinn",
+            "Geschmackssinn"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "blödsinnig"
           ]
         }
       ],
@@ -202200,7 +205406,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/LL-Q188_(deu)-Lucas_Werkmeister-Scheibe.wav/LL-Q188_(deu)-Lucas_Werkmeister-Scheibe.wav.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:LL-Q188_(deu)-Lucas_Werkmeister-Scheibe.wav"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Fensterscheibe",
+            "Glasscheibe"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -202983,7 +206197,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/De-Kalender.ogg/De-Kalender.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Kalender.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Kalenderblatt",
+            "Kalendermonat",
+            "Kalendertag",
+            "kalendertäglich",
+            "Kalenderwoche"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -203083,7 +206308,20 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/32/De-eingeschränkt.ogg/De-eingeschränkt.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-eingeschränkt.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "verschränkt"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Eingeschränktheit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -203182,7 +206420,11 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Texter",
+            "textend",
+            "getextet"
+          ]
         }
       ],
       "verbClass": "weak",
@@ -203527,7 +206769,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/De-at-Medium.ogg/De-at-Medium.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Medium.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Massenmedien"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -203575,7 +206824,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c5/De-Soldat.ogg/De-Soldat.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Soldat.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Sold"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Artilleriesoldat",
+            "Bausoldat",
+            "Fußsoldat",
+            "Kindersoldat",
+            "Marinesoldat"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -204497,11 +207763,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Spritzer",
             "Wein",
-            "Blut",
-            "Öl",
-            "Schweiß",
-            "Wasser"
+            "Schwall",
+            "Tropf",
+            "tropfenförmig"
           ]
         }
       ],
@@ -204511,26 +207777,6 @@ window.WORTWEG_DATA = {
           "word": "Wein",
           "label": "Wein",
           "zh": "葡萄酒"
-        },
-        {
-          "word": "Blut",
-          "label": "Blut",
-          "zh": "血"
-        },
-        {
-          "word": "Öl",
-          "label": "Öl",
-          "zh": "油"
-        },
-        {
-          "word": "Schweiß",
-          "label": "Schweiß",
-          "zh": "汗水，汗"
-        },
-        {
-          "word": "Wasser",
-          "label": "Wasser",
-          "zh": "水"
         }
       ]
     },
@@ -204591,11 +207837,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Verletzter",
+            "Verwundete",
             "behandeln",
             "bergen",
-            "retten",
-            "versorgen",
-            "kümmern"
+            "retten"
           ]
         }
       ],
@@ -204610,16 +207856,6 @@ window.WORTWEG_DATA = {
           "word": "bergen",
           "label": "bergen",
           "zh": "发现、发掘、揭露"
-        },
-        {
-          "word": "versorgen",
-          "label": "versorgen",
-          "zh": "照料、料理、供给、供养"
-        },
-        {
-          "word": "kümmern",
-          "label": "kümmern",
-          "zh": "照顾、照料、担心、忧虑、注意、关心"
         }
       ]
     },
@@ -204688,7 +207924,7 @@ window.WORTWEG_DATA = {
             "einfach",
             "normal",
             "gewöhnlich",
-            "allgemein"
+            "vulgär"
           ]
         }
       ],
@@ -204713,11 +207949,6 @@ window.WORTWEG_DATA = {
           "word": "gewöhnlich",
           "label": "gewöhnlich",
           "zh": "通常"
-        },
-        {
-          "word": "allgemein",
-          "label": "allgemein",
-          "zh": "一般的，总的"
         }
       ]
     },
@@ -204758,10 +207989,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "ergeben",
+            "getreu",
+            "loyal",
             "zuverlässig",
-            "bleiben",
-            "Hund",
-            "Kunde"
+            "beständig"
           ]
         }
       ],
@@ -204776,21 +208007,6 @@ window.WORTWEG_DATA = {
           "word": "zuverlässig",
           "label": "zuverlässig",
           "zh": "可靠地，值得信赖地"
-        },
-        {
-          "word": "bleiben",
-          "label": "bleiben",
-          "zh": "停留；保持"
-        },
-        {
-          "word": "Hund",
-          "label": "Hund",
-          "zh": "狗"
-        },
-        {
-          "word": "Kunde",
-          "label": "Kunde",
-          "zh": "男顾客"
         }
       ]
     },
@@ -204839,8 +208055,18 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "schwül"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
+            "knastschwul",
+            "lesbischwul",
+            "LesBiSchwul",
+            "schwul-lesbisch",
             "Schwule"
           ]
         }
@@ -204945,7 +208171,20 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8a/De-Diagnose.ogg/De-Diagnose.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Diagnose.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "diagnostizieren"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Fehldiagnose"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -205017,6 +208256,14 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Schlauch"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Schläue",
+            "Schlaufuchs",
+            "unschlau"
           ]
         }
       ],
@@ -205601,24 +208848,26 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "zeugen",
-            "Zeugnis"
+            "Zeugenaussage",
+            "Zeugenbestechung",
+            "Zeugenstand",
+            "Zeugenvernehmung",
+            "bezeugen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Augenzeuge",
+            "Belastungszeuge",
+            "Blutzeuge",
+            "Christuszeuge",
+            "Entlastungszeuge"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "zeugen",
-          "label": "zeugen",
-          "zh": "引起、产生、生成、生育"
-        },
-        {
-          "word": "Zeugnis",
-          "label": "Zeugnis",
-          "zh": "证词"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Basketball",
@@ -205662,7 +208911,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ef/De-Basketball.ogg/De-Basketball.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Basketball.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Basketballspieler",
+            "Basketballer",
+            "Basketballspielerin",
+            "Basketballerin",
+            "Basketballfeld"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -205814,6 +209074,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "vermessen",
             "vermeiden"
           ]
         },
@@ -206146,7 +209407,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/De-Orchester.ogg/De-Orchester.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Orchester.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Orchesterbegleitung",
+            "Orchesterchef",
+            "Orchesterinstrument",
+            "Orchestergraben",
+            "Orchestermusiker"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "orchestrieren",
+            "orchestral"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -206175,7 +209454,14 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Ausführlichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -206242,7 +209528,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Asylbewerber"
+            "Asylanstalt",
+            "Asylant",
+            "Asylbetrüger",
+            "Asylbewerber",
+            "Asylforderer"
           ]
         }
       ],
@@ -206348,7 +209638,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Kühlschrank"
+            "Gefrierschrank",
+            "Geldschrank",
+            "Kleiderschrank",
+            "Kühlschrank",
+            "Panzerschrank"
           ]
         }
       ],
@@ -207124,6 +210418,14 @@ window.WORTWEG_DATA = {
           "words": [
             "genießen"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "genusssüchtig",
+            "genüsslich",
+            "Hochgenuss"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -207395,8 +210697,8 @@ window.WORTWEG_DATA = {
             "versteckt",
             "geheim",
             "verborgen",
-            "öffentlich",
-            "offensichtlich"
+            "klammheimlich",
+            "öffentlich"
           ]
         }
       ],
@@ -207416,11 +210718,6 @@ window.WORTWEG_DATA = {
           "word": "öffentlich",
           "label": "öffentlich",
           "zh": "公开的、公共的、公众的"
-        },
-        {
-          "word": "offensichtlich",
-          "label": "offensichtlich",
-          "zh": "显然，明显地"
         }
       ]
     },
@@ -208076,7 +211373,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/51/De-Panzer.ogg/De-Panzer.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Panzer.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Panzerwagen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bergepanzer",
+            "Beutepanzer",
+            "Dampfpanzer",
+            "Europanzer",
+            "Flakpanzer"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -208465,7 +211779,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Kandidatur"
+            "Kandidaten-Casting",
+            "Kandidatenantrag",
+            "Kandidatenaufstellung",
+            "Kandidatencasting",
+            "Kandidatendebatte"
           ]
         }
       ],
@@ -208586,6 +211904,16 @@ window.WORTWEG_DATA = {
           "words": [
             "Streich",
             "Strich"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "abstreichen",
+            "anstreichen",
+            "aufstreichen",
+            "draufstreichen",
+            "durchstreichen"
           ]
         }
       ],
@@ -208862,6 +212190,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Festhalter",
+            "Festhaltung",
+            "festhaltend",
             "festgehalten"
           ]
         }
@@ -209095,6 +212426,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Glücksfall",
             "Unfall",
             "Überfall"
           ]
@@ -209167,7 +212499,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d7/De-Missbrauch.ogg/De-Missbrauch.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Missbrauch.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "missbrauchen",
+            "Missbraucher"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -209393,15 +212733,18 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "ablegen",
-            "überlegen",
-            "verlegen",
-            "Anlage"
+            "auflegen",
+            "beilegen",
+            "nachlegen",
+            "überlegen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
             "Anleger",
+            "Anlegung",
+            "anlegend",
             "angelegt"
           ]
         }
@@ -209530,16 +212873,6 @@ window.WORTWEG_DATA = {
           "word": "überlegen",
           "label": "überlegen",
           "zh": "占上风的，更厉害的，更好的，更优的"
-        },
-        {
-          "word": "verlegen",
-          "label": "verlegen",
-          "zh": "羞愧的，尴尬的，害羞的；惊慌的"
-        },
-        {
-          "word": "Anlage",
-          "label": "Anlage",
-          "zh": "公园、花园"
         },
         {
           "word": "Anleger",
@@ -209878,7 +213211,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "verschieben"
+            "abschieben",
+            "anschieben",
+            "aufschieben",
+            "dazwischenschieben",
+            "einschieben"
           ]
         }
       ],
@@ -209996,13 +213333,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/schieben#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "verschieben",
-          "label": "verschieben",
-          "zh": "取代、替换、代替"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Aufruf",
@@ -211189,7 +214520,19 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Nationalsozialismus"
+            "Cüplisozialismus",
+            "Kathedersozialismus",
+            "Nationalsozialismus",
+            "Realsozialismus",
+            "Salonsozialismus"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Sozialist",
+            "Sozialistin",
+            "sozialistisch"
           ]
         }
       ],
@@ -211235,7 +214578,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/De-Pflanze.ogg/De-Pflanze.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Pflanze.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Gewächs"
+          ]
+        }
+      ],
       "associationTopic": "自然",
       "associations": [
         {
@@ -211309,7 +214659,23 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/De-Benzin.ogg/De-Benzin.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Benzin.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Benzoe",
+            "Benzol",
+            "Benzen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Benzinkutsche",
+            "Benzintank"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -211342,7 +214708,14 @@ window.WORTWEG_DATA = {
           "label": "strong · nominative · masculine · 单数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gesetzlichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -211485,8 +214858,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Erinnerungsvermögen",
             "Andenken",
-            "Gedenken"
+            "Gedenken",
+            "Gedächtnisgottesdienst",
+            "Gedächtnismesse"
           ]
         }
       ],
@@ -211730,7 +215106,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/23/De-at-Toilette.ogg/De-at-Toilette.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Toilette.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Baustellentoilette",
+            "Damentoilette",
+            "Frauentoilette",
+            "Herrentoilette",
+            "Männertoilette"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -211833,7 +215220,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b5/De-Zusammenfassung.ogg/De-Zusammenfassung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Zusammenfassung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "zusammenfassen",
+            "zusammenfassend"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -211867,7 +215262,14 @@ window.WORTWEG_DATA = {
           "label": "strong · nominative · masculine · 单数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Problemlosigkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -211929,7 +215331,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "bei Nacht und Nebel"
+            "Abkühlungsnebel",
+            "Bergnebel",
+            "Berührungsnebel",
+            "Bodennebel",
+            "Dampfnebel"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "nebeln",
+            "Nebelung",
+            "vernebeln",
+            "nebelhaft",
+            "nebelartig"
           ]
         }
       ],
@@ -212032,20 +215448,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Alteisen",
+            "Brecheisen",
+            "Bügeleisen",
             "ein heißes Eisen",
-            "Eisenbahn",
-            "in die Eisen gehen"
+            "Eisenader"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Eisenbahn",
-          "label": "Eisenbahn",
-          "zh": "铁路，铁道"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Gramm",
@@ -212542,9 +215954,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "abheben",
+            "anheben",
             "aufheben",
-            "beheben",
-            "erheben"
+            "ausheben",
+            "beheben"
           ]
         }
       ],
@@ -212672,11 +216085,6 @@ window.WORTWEG_DATA = {
           "word": "Hebel",
           "label": "Hebel",
           "zh": "杠杆"
-        },
-        {
-          "word": "erheben",
-          "label": "erheben",
-          "zh": "举起、抬起、升高、提升、耸立"
         }
       ]
     },
@@ -212915,6 +216323,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Krach",
+            "Tumult",
+            "Getöse",
             "Ruhe",
             "Stille"
           ]
@@ -213009,11 +216420,19 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "zutrauen",
+            "anvertrauen"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
             "Trauer",
-            "getraut",
-            "vertrauen"
+            "Trauung",
+            "trauend",
+            "getraut"
           ]
         }
       ],
@@ -213136,11 +216555,6 @@ window.WORTWEG_DATA = {
           "word": "Trauer",
           "label": "Trauer",
           "zh": "悲痛，哀悼，服丧，丧期"
-        },
-        {
-          "word": "vertrauen",
-          "label": "vertrauen",
-          "zh": "相信、信任、信赖"
         }
       ]
     },
@@ -213383,7 +216797,18 @@ window.WORTWEG_DATA = {
           "label": "masculine"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Altsängerin",
+            "Bühnensängerin",
+            "Chorsängerin",
+            "Frontsängerin",
+            "Hintergrundsängerin"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -213789,23 +217214,25 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "zwingen"
+            "Arbeitszwang",
+            "Aufenthaltszwang",
+            "Badeanzugzwang",
+            "Badekappenzwang",
+            "Ehezwang"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "zwangsläufig"
+            "zwanghaft",
+            "zwanglos",
+            "zwangsläufig",
+            "zwangsweise"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
       "associations": [
-        {
-          "word": "zwingen",
-          "label": "zwingen",
-          "zh": "强制，强迫，迫使"
-        },
         {
           "word": "zwangsläufig",
           "label": "zwangsläufig",
@@ -213890,7 +217317,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/De-Hit.ogg/De-Hit.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Hit.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Hitliste",
+            "Hitparade",
+            "hitverdächtig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -214194,7 +217630,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "es sich gemütlich machen"
+            "es sich gemütlich machen",
+            "Gemütlichkeit"
           ]
         }
       ],
@@ -214309,11 +217746,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "vernunftvoll",
             "bedacht",
-            "anständig",
-            "emotional",
-            "dumm",
-            "blind"
+            "vorausschauend",
+            "verantwortungsvoll",
+            "einsichtig"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Vernünftigkeit"
           ]
         }
       ],
@@ -214323,21 +217766,6 @@ window.WORTWEG_DATA = {
           "word": "bedacht",
           "label": "bedacht",
           "zh": "深思熟虑的，不急躁的，系统的，谨慎的"
-        },
-        {
-          "word": "emotional",
-          "label": "emotional",
-          "zh": "感情的，情绪的"
-        },
-        {
-          "word": "dumm",
-          "label": "dumm",
-          "zh": "笨的、愚蠢的、幼稚的、单纯的"
-        },
-        {
-          "word": "blind",
-          "label": "blind",
-          "zh": "瞎的，失明的"
         }
       ]
     },
@@ -214391,7 +217819,14 @@ window.WORTWEG_DATA = {
             "westlich",
             "östlich",
             "südlich",
+            "nordwärts",
             "Norden"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "nördlichste Stadt Italiens"
           ]
         }
       ],
@@ -214460,7 +217895,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/39/De-nützlich.ogg/De-nützlich.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-nützlich.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Nützlichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -214558,7 +218000,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b9/De-Metal.ogg/De-Metal.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Metal.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Heavy Metal"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -214727,7 +218176,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "begraben"
+            "aufgraben",
+            "ausgraben",
+            "begraben",
+            "eingraben"
           ]
         }
       ],
@@ -214916,7 +218368,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/De-at-Gedicht.ogg/De-at-Gedicht.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Gedicht.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gedichtsammlung",
+            "Spottgedicht"
+          ]
+        }
+      ],
       "associationTopic": "文化",
       "associations": [
         {
@@ -215018,7 +218478,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/De-Bronze.ogg/De-Bronze.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Bronze.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "bronzefarben",
+            "Bronzezeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -215080,7 +218548,19 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "in den Staub treten",
-            "sich aus dem Staub machen"
+            "sich aus dem Staub machen",
+            "Hausstaub",
+            "Sternenstaub"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "staubabweisend",
+            "staubbedeckt",
+            "staubfein",
+            "staubfrei",
+            "staubig"
           ]
         }
       ],
@@ -215173,7 +218653,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "freiwillig",
-            "willen"
+            "willen",
+            "willenlos",
+            "willens",
+            "Willensäußerung"
           ]
         }
       ],
@@ -215269,7 +218752,9 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "spüren",
-            "empfindlich"
+            "empfindlich",
+            "empfindsam",
+            "Empfindung"
           ]
         }
       ],
@@ -216237,11 +219722,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "ausgewachsen",
             "fertig",
-            "groß",
-            "reif",
-            "selbständig",
-            "Erwachsene"
+            "flügge",
+            "geschlechtsreif",
+            "groß"
           ]
         }
       ],
@@ -216256,16 +219741,6 @@ window.WORTWEG_DATA = {
           "word": "groß",
           "label": "groß",
           "zh": "大"
-        },
-        {
-          "word": "reif",
-          "label": "reif",
-          "zh": "成熟的"
-        },
-        {
-          "word": "selbständig",
-          "label": "selbständig",
-          "zh": "adj. 独立的，自主的"
         }
       ]
     },
@@ -216379,7 +219854,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/15/De-vermissen.ogg/De-vermissen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-vermissen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Vermisstenanzeige",
+            "Vermisster"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -216668,11 +220151,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "gescheit",
             "schlau",
             "intelligent",
             "weise",
-            "gebildet",
-            "gelehrt"
+            "gebildet"
           ]
         }
       ],
@@ -216692,11 +220175,6 @@ window.WORTWEG_DATA = {
           "word": "gebildet",
           "label": "gebildet",
           "zh": "有文化的、有教养的"
-        },
-        {
-          "word": "gelehrt",
-          "label": "gelehrt",
-          "zh": "博学的、有学问的、深奥的、需要动脑的、研究性"
         }
       ]
     },
@@ -217411,7 +220889,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/De-maßgeblich.ogg/De-maßgeblich.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-maßgeblich.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Maßgeblichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -218253,7 +221738,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "verstoßen"
+            "abstoßen",
+            "anstoßen",
+            "aufstoßen",
+            "ausstoßen",
+            "durchstoßen"
           ]
         }
       ],
@@ -218371,13 +221860,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/stoßen#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。本词有多个助动词用法，请结合具体义项核对 haben / sein。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "verstoßen",
-          "label": "verstoßen",
-          "zh": "驱逐，赶走"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Mitleid",
@@ -218488,13 +221971,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "der Apfel fällt nicht weit vom Stamm",
-            "Stammtisch"
+            "Bakterienstamm",
+            "Baumstamm",
+            "Bergstamm",
+            "Buchenstamm",
+            "der Apfel fällt nicht weit vom Stamm"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "stämmig",
             "stammen"
           ]
         }
@@ -218736,8 +222223,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abwärts",
             "aufwärts",
-            "auswärts"
+            "auswärts",
+            "einwärts",
+            "nordwärts"
           ]
         }
       ],
@@ -218790,13 +222280,20 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "zurückziehen"
+            "zurückgewinnen",
+            "zurückholen",
+            "zurückziehen",
+            "abkehren",
+            "bekehren"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "zurückgekehrt"
+            "Zurückkehrer",
+            "Zurückkehrung",
+            "Zurückkehr",
+            "zurückkehrend"
           ]
         }
       ],
@@ -218972,11 +222469,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "pusten",
+            "prusten",
             "spielen",
             "wehen",
-            "stürmen",
-            "französisch",
-            "Blase"
+            "stürmen"
           ]
         }
       ],
@@ -219099,11 +222596,6 @@ window.WORTWEG_DATA = {
           "word": "spielen",
           "label": "spielen",
           "zh": "玩；进行游戏"
-        },
-        {
-          "word": "Blase",
-          "label": "Blase",
-          "zh": "泡泡，气泡"
         }
       ]
     },
@@ -219675,7 +223167,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/De-Fürst.ogg/De-Fürst.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Fürst.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Fürst der Finsternis",
+            "fürstlich",
+            "Fürstentum"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -220279,7 +223780,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/De-faul.ogg/De-faul.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-faul.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "auf der faulen Haut liegen",
+            "stinkfaul",
+            "faulig",
+            "faulen",
+            "Faultier"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -220312,7 +223824,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/De-unterbrochen.ogg/De-unterbrochen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-unterbrochen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "ununterbrochen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -220817,7 +224336,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/De-Sehnsucht.ogg/De-Sehnsucht.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Sehnsucht.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "sehnen",
+            "sehnlich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -220850,27 +224377,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "küssen",
-            "Stirn",
-            "dicker",
-            "kurzer",
-            "langer"
+            "Bussi",
+            "Schmatz",
+            "Küsschen",
+            "Küsslein",
+            "Küssi"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "küssen",
-          "label": "küssen",
-          "zh": "吻，接吻，亲吻"
-        },
-        {
-          "word": "Stirn",
-          "label": "Stirn",
-          "zh": "额头 （常作情绪的显现标志）"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Leder",
@@ -221199,9 +224715,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "anschließen",
+            "gutheißen",
             "billigen",
-            "ablehnen",
-            "Zustimmung"
+            "beipflichten",
+            "beistimmen"
           ]
         }
       ],
@@ -221329,16 +224846,6 @@ window.WORTWEG_DATA = {
           "word": "billigen",
           "label": "billigen",
           "zh": "批准，同意，赞成"
-        },
-        {
-          "word": "ablehnen",
-          "label": "ablehnen",
-          "zh": "拒绝、谢绝"
-        },
-        {
-          "word": "Zustimmung",
-          "label": "Zustimmung",
-          "zh": "同意、赞成、批准、接受"
         }
       ]
     },
@@ -221504,9 +225011,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "gepflegt",
-            "Pflege",
-            "Pfleger"
+            "Altenpflege",
+            "Altenpflegerin",
+            "einpflegen",
+            "Entbindungspflege",
+            "erpflegen"
           ]
         }
       ],
@@ -221624,18 +225133,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/pflegen#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "gepflegt",
-          "label": "gepflegt",
-          "zh": "受照顾的、得到护理的、精心照料的、修剪过的"
-        },
-        {
-          "word": "Pflege",
-          "label": "Pflege",
-          "zh": "关心"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Italiener",
@@ -221942,7 +225440,14 @@ window.WORTWEG_DATA = {
           "label": "最高级"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Betrunkenheit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -222079,7 +225584,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "fieberhaft",
+            "Fiebermittel",
+            "fiebern",
+            "fiebersenkend",
+            "Fiebertraum"
+          ]
+        }
+      ],
       "associationTopic": "医疗",
       "associations": [
         {
@@ -222160,6 +225676,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "fristgerecht",
+            "fristlos",
             "kurzfristig",
             "langfristig",
             "mittelfristig"
@@ -222255,6 +225773,12 @@ window.WORTWEG_DATA = {
           "words": [
             "werben"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "gewerbsmäßig"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -222319,7 +225843,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b6/De-Dreier.ogg/De-Dreier.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Dreier.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "flotter Dreier"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -222406,7 +225937,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "hinunter"
+            "hinunter",
+            "herauf"
           ]
         },
         {
@@ -222580,7 +226112,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7c/De-Paradies.ogg/De-Paradies.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Paradies.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Badeparadies",
+            "Einkaufsparadies",
+            "Ferienparadies",
+            "Inselparadies",
+            "Kinderparadies"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -222674,7 +226217,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/De-dünn.ogg/De-dünn.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-dünn.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "hauchdünn",
+            "verdünnen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -224753,7 +228304,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/63/De-Flotte.ogg/De-Flotte.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Flotte.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Flottenadmiral"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -224797,7 +228355,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/De-Entdeckung.ogg/De-Entdeckung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Entdeckung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Abdeckung",
+            "Aufdeckung",
+            "Überdeckung",
+            "Verdeckung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -224850,7 +228418,14 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Russe",
+            "Russin",
             "Russland"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "antirussisch"
           ]
         }
       ],
@@ -224993,7 +228568,15 @@ window.WORTWEG_DATA = {
           "label": "最高级"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Fröhlichkeit",
+            "feuchtfröhlich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -226185,9 +229768,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abhauen",
             "flüchten",
-            "bleiben",
-            "Flucht"
+            "verdünnisieren",
+            "verdrücken",
+            "ausharren"
           ]
         }
       ],
@@ -226310,16 +229895,6 @@ window.WORTWEG_DATA = {
           "word": "flüchten",
           "label": "flüchten",
           "zh": "溜走、逃走、逃跑"
-        },
-        {
-          "word": "bleiben",
-          "label": "bleiben",
-          "zh": "停留；保持"
-        },
-        {
-          "word": "Flucht",
-          "label": "Flucht",
-          "zh": "逃窜、逃逸、逃走、逃跑"
         }
       ]
     },
@@ -226706,6 +230281,13 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "bemerkenswert"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Merkwürdigkeit",
+            "merkwürdigerweise"
           ]
         }
       ],
@@ -227542,9 +231124,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Geschäftsvorfall",
+            "Reisevorfall",
+            "Sicherheitsvorfall",
             "Abfall",
-            "Durchfall",
-            "Zwischenfall"
+            "Anfall"
           ]
         }
       ],
@@ -227721,6 +231305,16 @@ window.WORTWEG_DATA = {
           "words": [
             "vertreiben"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Vertriebscontrolling",
+            "Vertriebskanal",
+            "Vertriebskompetenz",
+            "Vertriebspartner",
+            "Vertriebsprozess"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -227801,7 +231395,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/De-Bildschirm.ogg/De-Bildschirm.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Bildschirm.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bildschirmauflösung",
+            "Bildschirmbreite",
+            "Bildschirmdurchmesser",
+            "Bildschirmformat",
+            "Bildschirmfoto"
+          ]
+        }
+      ],
       "associationTopic": "数字设备",
       "associations": [
         {
@@ -228001,7 +231606,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Anstellung",
-            "Aufstellung"
+            "Aufstellung",
+            "Unterstellung",
+            "Überstellung",
+            "Verstellung"
           ]
         }
       ],
@@ -228256,7 +231864,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/De-Lücke.ogg/De-Lücke.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Lücke.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "lückenhaft",
+            "lückenlos"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -228414,7 +232030,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "berücksichtigen"
+            "berücksichtigen",
+            "rücksichtslos",
+            "Rücksichtsnahme",
+            "Rücksichtsnehmen",
+            "rücksichtsvoll"
           ]
         }
       ],
@@ -228485,7 +232105,18 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Immobilie",
-            "mobil"
+            "mobil",
+            "Mobiliar"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Büromöbel",
+            "Küchenmöbel",
+            "Möbelbauer",
+            "Möbelgeschäft",
+            "Möbelherstellung"
           ]
         }
       ],
@@ -228941,7 +232572,10 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Angeber",
+            "Angeberei"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -229667,7 +233301,19 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "atmen"
+            "atmen",
+            "Atmung",
+            "Atmungsorgan"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "atemberaubend",
+            "Atembeschwerde",
+            "atemlos",
+            "Atemnot",
+            "Atemzug"
           ]
         }
       ],
@@ -230888,7 +234534,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/De-grauen.ogg/De-grauen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-grauen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Morgengrauen"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -231078,7 +234731,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d7/De-Lizenz2.ogg/De-Lizenz2.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Lizenz2.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Lizenzausgabe",
+            "Lizenzeinnahme",
+            "Lizenzentzug",
+            "Lizenzerteilung",
+            "Lizenzfahrer"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -231625,7 +235289,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/78/De-Schwangerschaft.ogg/De-Schwangerschaft.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Schwangerschaft.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Schwangerschaftsabbruch",
+            "Schwangerschaftsbeginn",
+            "Schwangerschaftsende",
+            "Schwangerschaftstest",
+            "Schwangerschaftszeit"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "schwangerschaftsartig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -231714,6 +235395,8 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Anhörung",
+            "Anhörer",
+            "anhörend",
             "angehört"
           ]
         }
@@ -231901,7 +235584,8 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Hersteller",
-            "Herstellung"
+            "Herstellung",
+            "wiederherstellen"
           ]
         }
       ],
@@ -232116,7 +235800,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/De-Amtszeit.ogg/De-Amtszeit.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Amtszeit.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Amtsantritt",
+            "Amtsdauer",
+            "Amtsende",
+            "Amtsenthebung",
+            "Amtsniederlegung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -232538,7 +236233,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f1/De-Historiker.ogg/De-Historiker.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Historiker.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Historikerin",
+            "Kunsthistoriker",
+            "Medienhistoriker",
+            "Rechtshistoriker",
+            "Zeithistoriker"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -232585,7 +236291,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "zumindest"
+            "Mindestgröße",
+            "Mindestmaß",
+            "zumindest",
+            "Arbeitslohn",
+            "Dumpinglohn"
           ]
         }
       ],
@@ -232647,11 +236357,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Chef-Ingenieur",
-            "Diplom-Ingenieur",
-            "Elektronik-Ingenieur",
-            "Informatik-Ingenieur",
-            "Ingenieur-"
+            "Agraringenieur",
+            "Agraringenieurwesen",
+            "Anforderungsingenieur",
+            "Anwendungsingenieur",
+            "Applikationsingenieur"
           ]
         }
       ],
@@ -232687,7 +236397,14 @@ window.WORTWEG_DATA = {
           "label": "strong · nominative · masculine · 单数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "hochverarbeitet"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -232732,7 +236449,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/86/De-Werkzeug.ogg/De-Werkzeug.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Werkzeug.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Werkzeuggebrauch",
+            "Werkzeugkasten",
+            "Werkzeugkiste",
+            "Werkzeugmacher",
+            "Werkzeugmaschine"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -233365,7 +237093,18 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "abzugsfähig",
+            "anpassungsfähig",
+            "arbeitsfähig",
+            "beschlussfähig",
+            "betriebsfähig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -234136,7 +237875,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/De-einfallen.ogg/De-einfallen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-einfallen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Einfall"
+          ]
+        }
+      ],
       "verbClass": "strong",
       "type": "不规则变化（强变化）",
       "conjugation": {
@@ -234824,7 +238570,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Riss"
+            "abreißen",
+            "anreißen",
+            "aufreißen",
+            "durchreißen",
+            "einreißen"
           ]
         }
       ],
@@ -234942,13 +238692,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/reißen#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。本词有多个助动词用法，请结合具体义项核对 haben / sein。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Riss",
-          "label": "Riss",
-          "zh": "pl.Risse 扯裂，撕裂，断裂，裂缝，裂"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Anpassen",
@@ -235469,6 +239213,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Stirnseite",
             "die Stirn bieten"
           ]
         }
@@ -235714,6 +239459,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "begreiflich",
+            "erklärlich",
+            "fassbar",
+            "fasslich",
             "verständlich"
           ]
         }
@@ -235913,7 +239662,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/De-Tasse.ogg/De-Tasse.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Tasse.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Barttasse",
+            "Brausetasse",
+            "Cappuccinotasse",
+            "Duschtasse",
+            "Espressotasse"
+          ]
+        }
+      ],
       "associationTopic": "饮品",
       "associations": [
         {
@@ -236111,13 +239871,21 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "关联词",
-          "words": []
+          "words": [
+            "anbacken",
+            "aufbacken",
+            "durchbacken",
+            "fertigbacken"
+          ]
         },
         {
           "label": "词族与派生词",
           "words": [
             "Bäcker",
-            "Bäckerei"
+            "Backer",
+            "Bäckerei",
+            "Backerei",
+            "Gebäck"
           ]
         }
       ],
@@ -236467,7 +240235,18 @@ window.WORTWEG_DATA = {
           "label": "feminine"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Amtshauptmann",
+            "Bezirkshauptmann",
+            "Deichhauptmann",
+            "Feuerwehrhauptmann",
+            "Hauptmännin"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -236575,7 +240354,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/De-Garage.ogg/De-Garage.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Garage.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Parkgarage"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -236623,7 +240409,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Mittelalter",
-            "Neuzeit"
+            "Jugendalter",
+            "Zeitabschnitt",
+            "Zeitansage",
+            "Zeitverlust"
           ]
         }
       ],
@@ -236633,11 +240422,6 @@ window.WORTWEG_DATA = {
           "word": "Mittelalter",
           "label": "Mittelalter",
           "zh": "黑暗时代"
-        },
-        {
-          "word": "Neuzeit",
-          "label": "Neuzeit",
-          "zh": "现代"
         }
       ]
     },
@@ -237162,7 +240946,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/De-at-verlegen.ogg/De-at-verlegen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-verlegen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Verlegenheit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -237781,8 +241572,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "valide",
             "ungültig",
-            "Gültigkeit"
+            "Gültigkeit",
+            "Ungültigkeit"
           ]
         }
       ],
@@ -238131,9 +241924,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Kuss",
             "geben",
+            "knutschen",
             "schlagen",
-            "Hand",
-            "auf"
+            "Hand"
           ]
         }
       ],
@@ -238271,11 +242064,6 @@ window.WORTWEG_DATA = {
           "word": "Hand",
           "label": "Hand",
           "zh": "手"
-        },
-        {
-          "word": "auf",
-          "label": "auf",
-          "zh": "在…上；到…上"
         }
       ]
     },
@@ -238356,7 +242144,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Spender"
+            "Spendenaffäre",
+            "Spendenaktion",
+            "Spendenaufkommen",
+            "Spendenaufruf",
+            "Spendenbereitschaft"
           ]
         }
       ],
@@ -239002,7 +242794,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/De-at-Erfindung.ogg/De-at-Erfindung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Erfindung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Erfindungsgabe"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -239328,7 +243127,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/57/De-Denkmal.ogg/De-Denkmal.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Denkmal.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Baudenkmal",
+            "Bodendenkmal",
+            "Denkmalsturz",
+            "Industriedenkmal",
+            "Kriegerdenkmal"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -239372,7 +243182,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d4/De-Explosion.ogg/De-Explosion.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Explosion.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Atombombenexplosion",
+            "Bombenexplosion",
+            "Sekundärexplosion",
+            "Staubexplosion",
+            "Supernovaexplosion"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -239548,7 +243369,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Verbrechen"
+            "Verbrechen",
+            "verbrecherisch"
           ]
         }
       ],
@@ -239961,7 +243783,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8a/De-Abbau.ogg/De-Abbau.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Abbau.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Abbauen",
+            "Abbauerscheinung",
+            "Abbaugebiet",
+            "Abbaugelände",
+            "Abbaugenehmigung"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "abbaumäßig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -240519,7 +244358,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/De-allmählich2.ogg/De-allmählich2.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-allmählich2.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Allmählichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -240896,18 +244742,22 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "blasen"
+            "Blasenbildung",
+            "Blasencreme",
+            "Blasenentzündung",
+            "Blasenerkrankung",
+            "Blasenkrankheit"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "blasig"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "blasen",
-          "label": "blasen",
-          "zh": "吹"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "demonstrieren",
@@ -241536,16 +245386,18 @@ window.WORTWEG_DATA = {
           "words": [
             "Einbrecher",
             "Einbau",
+            "Einbindung",
             "Abbruch",
-            "Aufbruch",
-            "Durchbruch"
+            "Aufbruch"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
             "Einbruch der Dunkelheit",
-            "Einbruch der Nacht"
+            "Einbruch der Nacht",
+            "Wassereinbruch",
+            "Einbruchsloch"
           ]
         }
       ],
@@ -241560,11 +245412,6 @@ window.WORTWEG_DATA = {
           "word": "Abbruch",
           "label": "Abbruch",
           "zh": "拆除、拆卸、拆毁、损害"
-        },
-        {
-          "word": "Durchbruch",
-          "label": "Durchbruch",
-          "zh": "pl.Durchbruche 突破，断裂，漏"
         }
       ]
     },
@@ -241786,7 +245633,14 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "baustellenbedingt"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -242010,7 +245864,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "heilige Kuh"
+            "Blindekuh",
+            "Elefantenkuh",
+            "heilige Kuh",
+            "Hirschkuh",
+            "Kuhdorf"
           ]
         }
       ],
@@ -242093,7 +245951,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/35/De-sorgfältig.ogg/De-sorgfältig.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-sorgfältig.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Sorgfältigkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -242305,6 +246170,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "identitär",
             "Identität"
           ]
         }
@@ -242882,7 +246748,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/De-fließen.ogg/De-fließen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-fließen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "abfließen",
+            "ausfließen",
+            "durchfließen",
+            "einfließen",
+            "Fließtext"
+          ]
+        }
+      ],
       "verbClass": "strong",
       "type": "不规则变化（强变化）",
       "conjugation": {
@@ -243120,7 +246997,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3e/De-mitbringen.ogg/De-mitbringen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-mitbringen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Mitbringsel"
+          ]
+        }
+      ],
       "verbClass": "mixed",
       "type": "混合变化（半规则）",
       "conjugation": {
@@ -243327,6 +247211,14 @@ window.WORTWEG_DATA = {
           "words": [
             "Ruhm"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "berühmt-berüchtigt",
+            "Berühmtheit",
+            "weltberühmt"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -243396,7 +247288,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/De-Mantel.ogg/De-Mantel.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Mantel.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Baumwollmantel",
+            "Erdmantel",
+            "Fahrradmantel",
+            "Lodenmantel",
+            "Pelzmantel"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "mantelartig",
+            "ummanteln"
+          ]
+        }
+      ],
       "associationTopic": "衣服",
       "associations": [
         {
@@ -243565,7 +247475,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "strafbar"
+            "abstrafen",
+            "strafbar",
+            "straffrei",
+            "Strafprozess",
+            "Strafverfahren"
           ]
         }
       ],
@@ -243892,7 +247806,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Atem"
+            "Atem",
+            "Atemzug",
+            "Atempause",
+            "Atmung"
           ]
         }
       ],
@@ -244077,7 +247994,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f1/De-durcheinander.ogg/De-durcheinander.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-durcheinander.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "durcheinanderbringen",
+            "durcheinandergehen",
+            "durcheinandergeraten"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -244176,7 +248102,9 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "aufgekommen"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -244423,8 +248351,8 @@ window.WORTWEG_DATA = {
             "Begrüßung",
             "begrüßen",
             "grüßen",
-            "Mit freundlichen Grüßen",
-            "ein Gruß aus der Küche"
+            "Grußform",
+            "Grußformel"
           ]
         }
       ],
@@ -244955,6 +248883,12 @@ window.WORTWEG_DATA = {
             "Abend",
             "Nacht"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "vormittags"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -245060,7 +248994,11 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Begeber",
+            "Begebung",
+            "begebend"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -245258,7 +249196,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "T-Hemd"
+            "Hemdenkragen",
+            "Hemdenbügel",
+            "Hemdknopf",
+            "Baumwollhemd",
+            "Leinenhemd"
           ]
         }
       ],
@@ -245761,7 +249703,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5f/De-gerissen.ogg/De-gerissen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-gerissen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gerissenheit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -246132,6 +250081,12 @@ window.WORTWEG_DATA = {
           "words": [
             "Herausgabe"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Herausgeberin"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -246231,7 +250186,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/De-Mythos.ogg/De-Mythos.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Mythos.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "mythenumwoben",
+            "mythisch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -246670,7 +250633,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4e/De-Semester.ogg/De-Semester.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Semester.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Anfangssemester",
+            "Auslandsemester",
+            "Auslandssemester",
+            "Erstsemester",
+            "Fachsemester"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -246771,7 +250745,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e9/De-emotional.ogg/De-emotional.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-emotional.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Emotion"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -246901,7 +250882,10 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "关联词",
-          "words": []
+          "words": [
+            "altitalienisch",
+            "neuitalienisch"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -246970,7 +250954,9 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Weitergeher"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -247164,7 +251150,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/72/De-Vorgang.ogg/De-Vorgang.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Vorgang.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Vorgangsablauf",
+            "Vorgangsmethode",
+            "Vorgangsmuster",
+            "Vorgangsweise",
+            "Stoffwechselvorgang"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -247234,7 +251231,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/15/De-Bundesrat.ogg/De-Bundesrat.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Bundesrat.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Reichsrat"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -247286,7 +251290,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c8/De-Idiot.ogg/De-Idiot.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Idiot.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Fachidiot",
+            "Halbidiot",
+            "idiotisch",
+            "Quadratidiot",
+            "Vollblutidiot"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -247324,7 +251339,14 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Europäerin"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -247610,7 +251632,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/De-Schwachsinn.ogg/De-Schwachsinn.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Schwachsinn.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "schwachsinnig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -248374,11 +252403,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Band",
-            "Bindung",
-            "Bund",
-            "verbinden",
-            "Verbindung"
+            "abbinden",
+            "anbinden",
+            "Angebinde",
+            "aufbinden",
+            "Ausbund"
           ]
         }
       ],
@@ -248496,28 +252525,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/binden#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Bindung",
-          "label": "Bindung",
-          "zh": "联系，连接，关系，附带关系"
-        },
-        {
-          "word": "Bund",
-          "label": "Bund",
-          "zh": "捆、束、扎"
-        },
-        {
-          "word": "verbinden",
-          "label": "verbinden",
-          "zh": "捆、裹"
-        },
-        {
-          "word": "Verbindung",
-          "label": "Verbindung",
-          "zh": "连接、联系"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Rhythmus",
@@ -248589,8 +252597,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "geschwind",
             "schnell",
-            "fest"
+            "fest",
+            "feststehend"
           ]
         }
       ],
@@ -249001,6 +253011,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Gewehrabzug",
+            "Luftabzug",
+            "Bildabzug",
+            "Truppenabzug",
             "abziehen"
           ]
         }
@@ -249158,10 +253172,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "schalten und walten",
             "abschalten",
             "ausschalten",
             "einschalten",
-            "Schalter"
+            "gleichschalten"
           ]
         }
       ],
@@ -249294,11 +253309,6 @@ window.WORTWEG_DATA = {
           "word": "einschalten",
           "label": "einschalten",
           "zh": "插入、打开（电）、接通、通电"
-        },
-        {
-          "word": "Schalter",
-          "label": "Schalter",
-          "zh": "开关、电源开关、转换开关"
         }
       ]
     },
@@ -249395,7 +253405,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "auf etwas Gift nehmen können"
+            "auf etwas Gift nehmen können",
+            "giftfrei",
+            "giftig",
+            "Gegengift",
+            "Giftpflanze"
           ]
         }
       ],
@@ -250042,7 +254056,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1d/De-Kacke.ogg/De-Kacke.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Kacke.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "abkacken",
+            "kackbraun",
+            "kacken",
+            "verkacken"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -251177,7 +255201,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Flüchtlingspolitik"
+            "Armutsflüchtling",
+            "Bootsflüchtling",
+            "Flüchtlingsansturm",
+            "Flüchtlingsarbeit",
+            "Flüchtlingsausweis"
           ]
         }
       ],
@@ -251261,11 +255289,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "im eigenen Saft",
-            "O-Saft",
-            "Saft-",
-            "-Saft",
-            "-saft"
+            "Agavendicksaft",
+            "Agavensaft",
+            "Ahornsaft",
+            "Aloeblattsaft",
+            "Aloe-Vera-Saft"
           ]
         }
       ],
@@ -251461,7 +255489,11 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Angehung",
+            "angehend",
+            "angegangen"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -251651,7 +255683,14 @@ window.WORTWEG_DATA = {
           "label": "助动词"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "wiederauftauchen"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -252223,7 +256262,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/De-hässlich.ogg/De-hässlich.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-hässlich.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Hässlichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -252264,7 +256310,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Journalist"
+            "Journalist",
+            "Journallie"
           ]
         }
       ],
@@ -252344,7 +256391,14 @@ window.WORTWEG_DATA = {
           "label": "最高级"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "unsportlich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -252411,9 +256465,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Diplomingenieur",
             "Ingenieur",
             "Technik",
+            "Technologe",
             "Technologie"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Technikerschule",
+            "Technikerteam"
           ]
         }
       ],
@@ -252883,6 +256946,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Ansprechung",
+            "ansprechend",
             "angesprochen",
             "Ansprechpartner"
           ]
@@ -253203,7 +257268,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/De-Busch.ogg/De-Busch.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Busch.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Böschung"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "bebuscht",
+            "Holunderbusch",
+            "Rosenbusch",
+            "Dornbusch",
+            "Buschland"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -253450,7 +257532,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Freitod",
+            "Selbsttötung",
             "Suizid",
+            "Entleibung",
             "begehen"
           ]
         }
@@ -253506,7 +257591,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/De-Laute.ogg/De-Laute.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Laute.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Lautenwerck"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -253667,11 +257759,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "behutsam",
+            "lau",
+            "mild",
             "ruhig",
-            "schwach",
-            "zart",
-            "brutal",
-            "grob"
+            "schonend"
           ]
         }
       ],
@@ -253681,16 +257773,6 @@ window.WORTWEG_DATA = {
           "word": "ruhig",
           "label": "ruhig",
           "zh": "安静的，宁静的"
-        },
-        {
-          "word": "schwach",
-          "label": "schwach",
-          "zh": "虚弱；弱"
-        },
-        {
-          "word": "grob",
-          "label": "grob",
-          "zh": "粗糙的"
         }
       ]
     },
@@ -254686,7 +258768,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/De-Bedingung.ogg/De-Bedingung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Bedingung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "bedingungslos"
+          ]
+        }
+      ],
       "levels": [
         "B2"
       ],
@@ -254774,7 +258863,15 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Mann",
-            "Männchen"
+            "Männchen",
+            "Männlein"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Männlichkeit",
+            "vermännlichen"
           ]
         }
       ],
@@ -254882,7 +258979,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6e/De-at-Brötchen.ogg/De-at-Brötchen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Brötchen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Fischbrötchen",
+            "Frühstücksbrötchen",
+            "Kaiserbrötchen",
+            "Mohnbrötchen",
+            "Semmelbrötchen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "brötchenartig",
+            "brötchenförmig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -254973,8 +259088,16 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Jungfer"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
+            "jungfräulich",
+            "Meerjungfrau",
             "zu etwas kommen wie die Jungfrau zum Kind"
           ]
         }
@@ -255100,7 +259223,20 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ae/De-Heizung.ogg/De-Heizung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Heizung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Heizen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Nachtspeicherheizung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -255217,7 +259353,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "weise"
+            "weise",
+            "weissagen"
           ]
         }
       ],
@@ -255427,24 +259564,26 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "zimmern"
+            "Zimmerei",
+            "Zimmergeselle",
+            "Zimmergesellin",
+            "Zimmermeister",
+            "Zimmermeisterin"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "da hat der Zimmermann das Loch gelassen"
+            "da hat der Zimmermann das Loch gelassen",
+            "die Axt im Haus ersetzt den Zimmermann",
+            "einen Zimmermann erkennt man an den Spänen",
+            "Freizeitzimmermann",
+            "Schiffszimmermann"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "zimmern",
-          "label": "zimmern",
-          "zh": "v. 做木匠活"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Gewerkschaft",
@@ -255539,6 +259678,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Befürchter",
+            "Befürchtung",
+            "befürchtend",
             "befürchtet"
           ]
         }
@@ -256288,7 +260430,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Gebet",
-            "gebeten"
+            "anbeten",
+            "herbeten",
+            "herunterbeten",
+            "nachbeten"
           ]
         }
       ],
@@ -256411,11 +260556,6 @@ window.WORTWEG_DATA = {
           "word": "Gebet",
           "label": "Gebet",
           "zh": "祷、祈、祈祷、祷告"
-        },
-        {
-          "word": "gebeten",
-          "label": "gebeten",
-          "zh": "要求的、请求的"
         }
       ]
     },
@@ -256470,7 +260610,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/De-Knopf.ogg/De-Knopf.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Knopf.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Knopfauge",
+            "Knopfdruck",
+            "Knopfgarnitur",
+            "Knopfleiste",
+            "Knopfloch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -257296,7 +261447,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Auflauf",
+            "Dauerlauf",
             "Lebensdauer",
+            "lebenslustig",
             "Lebensmittel"
           ]
         }
@@ -258020,7 +262174,9 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Ausfall",
-            "ausgefallen"
+            "ausfallend",
+            "ausgefallen",
+            "ausfällig"
           ]
         }
       ],
@@ -258226,7 +262382,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/De-Anzug.ogg/De-Anzug.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Anzug.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "anzüglich",
+            "Badeanzug",
+            "Schwimmanzug",
+            "Schlafanzug"
+          ]
+        }
+      ],
       "associationTopic": "衣服",
       "associations": [
         {
@@ -258352,7 +262518,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/De-aggressiv.ogg/De-aggressiv.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-aggressiv.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Aggressivität",
+            "Aggressor"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -258435,7 +262609,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Klappe"
+            "abklappen",
+            "aufklappen",
+            "ausklappen",
+            "einklappen",
+            "herunterklappen"
           ]
         }
       ],
@@ -258553,13 +262731,7 @@ window.WORTWEG_DATA = {
       "conjugationSource": "https://en.wiktionary.org/wiki/klappen#German",
       "conjugationNote": "词形来自开放词典。斜线表示已收录的并行形式，可能依词义、语体或地区使用；不是所有变体都能任意互换。“—”表示来源未提供此格形式。表中列主动语态；可分前缀和反身代词须结合真实句子的位置。",
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Klappe",
-          "label": "Klappe",
-          "zh": "苍蝇拍，阀，阀门，活门，瓣膜，折叠桌角，噼啪"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "klauen",
@@ -258989,7 +263161,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/51/De-Ringen.ogg/De-Ringen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Ringen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Ringer",
+            "Ringkampf",
+            "Ringkämpfer"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -259896,7 +264077,14 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "verzichten"
+            "verzichten",
+            "verzichtbar"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Amtsverzicht"
           ]
         }
       ],
@@ -260229,7 +264417,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Röhre"
+            "Fallrohr",
+            "Hörrohr",
+            "Ofenrohr",
+            "Röhre",
+            "Rohrkrepierer"
           ]
         }
       ],
@@ -260343,7 +264535,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/De-entgehen.ogg/De-entgehen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-entgehen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Entgang"
+          ]
+        }
+      ],
       "verbClass": "strong",
       "type": "不规则变化（强变化）",
       "conjugation": {
@@ -260623,7 +264822,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "schlagen",
-            "Hau"
+            "hieb",
+            "abhauen",
+            "behauen",
+            "einhauen"
           ]
         }
       ],
@@ -261674,7 +265876,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/De-Antrieb.ogg/De-Antrieb.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Antrieb.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "antreiben"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -261738,7 +265947,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ed/De-stillen.ogg/De-stillen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-stillen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "abstillen",
+            "stillbar",
+            "Stillzeit"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -262005,7 +266223,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Meister Lampe"
+            "Deckenlampe",
+            "Flurlampe",
+            "Halogenlampe",
+            "Küchenlampe",
+            "Lampenfieber"
           ]
         }
       ],
@@ -262087,7 +266309,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e5/De-Beobachter.ogg/De-Beobachter.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Beobachter.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Vogelbeobachter"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -262427,8 +266656,8 @@ window.WORTWEG_DATA = {
             "abgeben",
             "Angabe",
             "Aufgabe",
-            "Übergabe",
-            "Vergabe"
+            "Beigabe",
+            "Mitgabe"
           ]
         }
       ],
@@ -262448,16 +266677,6 @@ window.WORTWEG_DATA = {
           "word": "Aufgabe",
           "label": "Aufgabe",
           "zh": "任务；习题"
-        },
-        {
-          "word": "Übergabe",
-          "label": "Übergabe",
-          "zh": "递交，上交，转交，交出，交出，交货，交割，转"
-        },
-        {
-          "word": "Vergabe",
-          "label": "Vergabe",
-          "zh": "分配，分派，发错牌"
         }
       ]
     },
@@ -262909,7 +267128,9 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Verabschiedung"
+          ]
         }
       ],
       "verbClass": "weak",
@@ -265027,7 +269248,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/De-betten.ogg/De-betten.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-betten.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "aufbetten",
+            "einbetten"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -265447,7 +269676,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Aquiferspeicher",
+            "Arbeitsspeicher",
+            "Batteriespeicher",
+            "Bubblespeicher",
+            "Cloudspeicher"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -265568,7 +269808,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f5/De-Stichwort.ogg/De-Stichwort.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Stichwort.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "stichwortartig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -266452,7 +270699,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/98/De-Rundfunk.ogg/De-Rundfunk.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Rundfunk.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Kurzwellenrundfunk",
+            "Langwellenrundfunk",
+            "Mittelwellenrundfunk",
+            "Rundfunkanstalt",
+            "Rundfunkempfänger"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -266564,7 +270822,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Zahnarzt"
+            "Eckzahn",
+            "Fangzahn",
+            "Schneidezahn",
+            "Stoßzahn",
+            "verzahnen"
           ]
         }
       ],
@@ -266671,6 +270933,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Betreff",
             "betreffend"
           ]
         }
@@ -267091,10 +271354,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abgezeichnet",
             "aufgezeichnet",
+            "vorgezeichnet",
             "gekennzeichnet",
-            "bezeichnet",
-            "unterzeichnet"
+            "bezeichnet"
           ]
         }
       ],
@@ -267109,11 +271373,6 @@ window.WORTWEG_DATA = {
           "word": "bezeichnet",
           "label": "bezeichnet",
           "zh": "指定的，标明的"
-        },
-        {
-          "word": "unterzeichnet",
-          "label": "unterzeichnet",
-          "zh": "签署的、已签名的"
         }
       ]
     },
@@ -267441,6 +271700,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Feuchtgebiet",
             "Feuchtigkeit"
           ]
         }
@@ -267540,7 +271800,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "an den Nagel hängen",
-            "den Nagel auf den Kopf treffen"
+            "Daumennagel",
+            "den Nagel auf den Kopf treffen",
+            "Eisennagel",
+            "festnageln"
           ]
         }
       ],
@@ -267587,7 +271850,27 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/De-Sauerstoff.ogg/De-Sauerstoff.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Sauerstoff.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Kleiderstoff",
+            "Kohlensäure",
+            "Lesestoff",
+            "Salzsäure",
+            "Sauerklee"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Sauerstoffflasche",
+            "Sauerstoffmangel",
+            "Sauerstoffmaske",
+            "Sauerstoffzelt"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -268218,7 +272501,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "allein"
+            "allein",
+            "zweisam"
           ]
         },
         {
@@ -268908,7 +273192,21 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/De-Zorn.ogg/De-Zorn.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Zorn.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "zehren"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "zornig",
+            "zürnen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -269021,7 +273319,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/90/De-at-Filiale.ogg/De-at-Filiale.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Filiale.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Postfiliale"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -269622,7 +273927,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Adresszeile",
+            "Ausgangszeile",
+            "Befehlszeile",
+            "Betreffszeile",
+            "Betreffzeile"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -269724,7 +274040,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/De-Biologie.ogg/De-Biologie.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Biologie.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Astrobiologie",
+            "Exobiologie",
+            "Immunbiologie",
+            "Humanbiologie",
+            "Kosmobiologie"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -269879,7 +274206,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/50/De-Investition.ogg/De-Investition.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Investition.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Desinvestition"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -269924,7 +274258,15 @@ window.WORTWEG_DATA = {
           "label": "strong · nominative · masculine · 单数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "entstaatlichen",
+            "verstaatlichen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -270017,6 +274359,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Abszissenachse",
+            "Achsenmacht",
+            "Achsensymmetrie",
+            "Achsensystem",
             "Achse des Bösen"
           ]
         }
@@ -270083,7 +274429,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/De-zeitgleich.ogg/De-zeitgleich.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-zeitgleich.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Zeitgleichheit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -270142,7 +274495,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/De-Anführer.ogg/De-Anführer.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Anführer.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Anführerin"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -270211,7 +274571,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Beherrschen"
+            "Beherrschen",
+            "Beherrscher",
+            "Beherrschung",
+            "beherrschend"
           ]
         }
       ],
@@ -270587,7 +274950,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b5/De-Japaner.ogg/De-Japaner.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Japaner.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Japanerchen",
+            "Japanerlein",
+            "Japanerin"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -270869,7 +275241,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "beten",
-            "Bitten"
+            "Anrufung",
+            "Bitten",
+            "Fürbitte",
+            "Andacht"
           ]
         }
       ],
@@ -270934,7 +275309,10 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "tschüssikowski",
+            "tschömitö"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -271392,6 +275770,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Gefährder",
             "Gefährdung"
           ]
         }
@@ -271771,6 +276150,8 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "ausdrucken",
+            "bedrucken",
+            "nachdrucken",
             "Druck",
             "Drucker"
           ]
@@ -272000,7 +276381,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/De-gewährleisten.ogg/De-gewährleisten.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-gewährleisten.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gewährleistung"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -272286,7 +276674,9 @@ window.WORTWEG_DATA = {
           "words": [
             "Anschaffung",
             "Arbeit",
-            "Kauf"
+            "Broterwerb",
+            "Kauf",
+            "erwerbsmäßig"
           ]
         }
       ],
@@ -272349,10 +276739,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "verüben",
             "Straftat",
             "Verbrechen",
             "Sünde",
-            "feierlich"
+            "festlich"
           ]
         }
       ],
@@ -272732,7 +277123,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/55/De-Bindung.ogg/De-Bindung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Bindung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Bindungsabstand",
+            "Bindungsangst",
+            "Bindungsdissoziationsenergie",
+            "Bindungsdomäne",
+            "Bindungsenergie"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -273066,7 +277468,22 @@ window.WORTWEG_DATA = {
           "label": "属格"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Klimaschützer"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Klimaschutzabkommen",
+            "Klimaschutzgesetz",
+            "Klimaschutzziel"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -273343,7 +277760,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e1/De-Gesetzgeber.ogg/De-Gesetzgeber.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Gesetzgeber.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Ausgestaltungsgesetzgeber",
+            "Bundesgesetzgeber",
+            "Föderationsgesetzgeber",
+            "Landesgesetzgeber",
+            "Reichsgesetzgeber"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -273512,12 +277940,15 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "verbergend",
             "verborgen"
           ]
         },
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Verbergung"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -273902,8 +278333,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Abbild",
             "Bild",
-            "Bildung"
+            "Bildung",
+            "Umbildung"
           ]
         }
       ],
@@ -273969,7 +278402,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "südlich",
-            "nördlich"
+            "nördlich",
+            "nordwärts",
+            "südwärts",
+            "westwärts"
           ]
         }
       ],
@@ -274043,7 +278479,15 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Weib",
-            "Weibchen"
+            "Weibchen",
+            "Weiblein"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "verweiblichen",
+            "Weiblichkeit"
           ]
         }
       ],
@@ -274156,7 +278600,14 @@ window.WORTWEG_DATA = {
           "label": "strong · nominative · masculine · 单数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Vergeblichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -274239,12 +278690,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "überfallend",
+            "anfallen",
+            "abfallen",
             "auffallen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "Überfaller",
             "Überfall"
           ]
         }
@@ -274410,7 +278865,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/De-Flüssigkeit.ogg/De-Flüssigkeit.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Flüssigkeit.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Flüssigkeitshaushalt",
+            "Flüssigkeitskühlung",
+            "Flüssigkeitsmangel",
+            "Flüssigkeitsmaß",
+            "Flüssigkeitszufuhr"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -274471,6 +278937,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "enttäuschen",
             "enttäuschend"
           ]
         }
@@ -274521,7 +278988,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Fass ohne Boden"
+            "Bierfass",
+            "dem Fass den Boden ausschlagen",
+            "Fass ohne Boden",
+            "Fassbier",
+            "Fassbinder"
           ]
         }
       ],
@@ -274573,7 +279044,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Steuer"
+            "Steuer",
+            "steuerähnlich",
+            "Steuerjahr",
+            "steuerpflichtig"
           ]
         }
       ],
@@ -274911,7 +279385,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/De-Infektion.ogg/De-Infektion.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Infektion.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Infektionsgebiet",
+            "Infektionsgefahr",
+            "Infektionsrisiko",
+            "Infektionsschutz",
+            "Bakterieninfektion"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "infektionslos"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -275334,7 +279825,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1a/De-Leber.ogg/De-Leber.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Leber.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Leberkäse",
+            "Leberwurst",
+            "Lebertran",
+            "Leberegel",
+            "Lebermoos"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -275481,7 +279983,10 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Abschließer",
+            "Abgeschlossene"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -276072,6 +280577,8 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Anstellung",
+            "Ansteller",
+            "anstellend",
             "angestellt"
           ]
         }
@@ -276556,7 +281063,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d7/De-Schiedsrichter.ogg/De-Schiedsrichter.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Schiedsrichter.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Schiedsvertrag"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -276636,7 +281150,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/De-Wunde.ogg/De-Wunde.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Wunde.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "verwunden",
+            "Wundbrand",
+            "Wundstarrkrampf",
+            "wund",
+            "Platzwunde"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -277450,7 +281975,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/De-Tragödie.ogg/De-Tragödie.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Tragödie.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Tragöde"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -277656,7 +282188,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Autorenverzeichnis",
+            "Bücherverzeichnis",
+            "Heimverzeichnis",
+            "Inhaltsverzeichnis",
+            "Literaturverzeichnis"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -277846,8 +282389,20 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Zockerbude",
+            "Zockernatur"
+          ]
+        },
+        {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Zocker",
+            "Zockerei",
+            "abzocken",
+            "verzocken"
+          ]
         }
       ],
       "verbClass": "weak",
@@ -278006,7 +282561,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/De-Benutzer.ogg/De-Benutzer.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Benutzer.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Benutzerin",
+            "Benutzerfreundlichkeit",
+            "Benutzername"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -278228,6 +282792,8 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Brett vor dem Kopf",
+            "Brettchen",
+            "dicker Bretter bohren",
             "ein Brett vor dem Kopf haben",
             "einen Stein im Brett haben"
           ]
@@ -278288,8 +282854,20 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "abdrängen",
+            "aufdrängen",
+            "durchdrängen",
+            "wegdrängen",
+            "zurückdrängen"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
+            "Dränger",
+            "bedrängen",
             "verdrängen"
           ]
         }
@@ -278507,7 +283085,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f7/De-Abwesenheit.ogg/De-Abwesenheit.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Abwesenheit.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "abwesend"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -278585,6 +283170,14 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "dicht"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bevölkerungsdichte",
+            "Energiedichte",
+            "Schalldichte"
           ]
         }
       ],
@@ -278743,7 +283336,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f2/De-Schreiber.ogg/De-Schreiber.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Schreiber.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abschreiber",
+            "Accisenschreiber",
+            "Amtsschreiber",
+            "Analogwertschreiber",
+            "Anzeigenschreiber"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -278848,6 +283452,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Lokalzeitung",
+            "Tagesanfang",
+            "Tagesende",
+            "Tagesmitte",
             "Tagesschau"
           ]
         }
@@ -278966,7 +283574,15 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Rückwärtsgang",
+            "rückwärtsgewandt"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -279207,7 +283823,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Berg"
+            "Berg",
+            "Hochgebirge",
+            "Mittelgebirge"
           ]
         }
       ],
@@ -280117,6 +284735,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "ausrechnen",
+            "durchrechnen",
+            "einkalkulieren",
             "planen",
             "Berechnung"
           ]
@@ -280290,7 +284911,18 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "betonieren",
+            "Betonauto",
+            "Betonfertigteil",
+            "Betonmischer",
+            "Betonmischanlage"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -280582,7 +285214,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "flecken"
+            "beflecken",
+            "befleckt",
+            "flecken",
+            "fleckig",
+            "Fleckenschere"
           ]
         }
       ],
@@ -281372,6 +286008,12 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "schaffen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Erschaffung"
           ]
         }
       ],
@@ -282253,7 +286895,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/59/De-Gouverneur.ogg/De-Gouverneur.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Gouverneur.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Generalgouverneur",
+            "Militärgouverneur"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -282309,7 +286959,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Chefredakteur",
-            "Redaktion"
+            "Fernsehredakteur",
+            "Zeitungsredakteur",
+            "Redaktion",
+            "redigieren"
           ]
         }
       ],
@@ -282597,7 +287250,8 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Irren ist menschlich",
-            "Menschlichkeit"
+            "Menschlichkeit",
+            "vermenschlichen"
           ]
         }
       ],
@@ -282684,6 +287338,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Beruhiger",
+            "Beruhigung",
+            "beruhigend",
             "beruhigt"
           ]
         }
@@ -282856,27 +287513,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Aktive",
-            "Hugo",
-            "Joint",
-            "eine",
-            "rauchen"
+            "Kippe",
+            "Glimmstängel",
+            "Bufte",
+            "Ziese",
+            "Kolonialware"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Joint",
-          "label": "Joint",
-          "zh": "自制大麻的烟卷，烟卷，香烟"
-        },
-        {
-          "word": "rauchen",
-          "label": "rauchen",
-          "zh": "抽烟"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "fotografieren",
@@ -283088,7 +287734,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/De-Halbinsel.ogg/De-Halbinsel.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Halbinsel.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Balkanhalbinsel"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -283198,7 +287851,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7c/De-Außenpolitik.ogg/De-Außenpolitik.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Außenpolitik.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "außenpolitisch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -283306,7 +287966,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Kaninchenbau",
+            "Kaninchenbraten",
+            "Kaninchendraht",
+            "Kaninchenfell",
+            "Kaninchenfett"
+          ]
+        }
+      ],
       "associationTopic": "动物",
       "associations": [
         {
@@ -283450,7 +288121,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/De-Überfall.ogg/De-Überfall.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Überfall.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Banküberfall",
+            "Raubüberfall",
+            "überfallartig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -283862,7 +288542,23 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/De-gegenwärtig.ogg/De-gegenwärtig.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-gegenwärtig.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "auswärtig",
+            "landwärtig",
+            "seewärtig",
+            "seitwärtig"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gegenwärtigkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -284069,7 +288765,18 @@ window.WORTWEG_DATA = {
           "label": "属格"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Umweltbehörde",
+            "Umwelterhaltung",
+            "Regenschutz",
+            "Sonnenschutz",
+            "Schutzschirm"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -284263,7 +288970,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e4/De-fällig.ogg/De-fällig.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-fällig.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Fälligkeit",
+            "allfällig",
+            "augenfällig",
+            "überfällig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -284547,19 +289264,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Heilige",
-            "heiligen"
+            "sakral",
+            "göttlich",
+            "geweiht",
+            "unheilig",
+            "profan"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "heiligen",
-          "label": "heiligen",
-          "zh": "v. 使神圣化，使……圣洁，供神，奉献，视为"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Genie",
@@ -284701,6 +289415,15 @@ window.WORTWEG_DATA = {
         "source": "https://commons.wikimedia.org/wiki/File:De-gewöhnen.ogg"
       },
       "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "abgewöhnen",
+            "angewöhnen",
+            "umgewöhnen",
+            "verwöhnen"
+          ]
+        },
         {
           "label": "词族与派生词",
           "words": [
@@ -284917,7 +289640,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "verzweifelt"
+            "verzweifelnd",
+            "verzweifelt",
+            "Bezweiflung",
+            "Anzweiflung"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Verzweiflungstat",
+            "Verzweiflungsschlag"
           ]
         }
       ],
@@ -285115,9 +289848,9 @@ window.WORTWEG_DATA = {
           "words": [
             "heiß",
             "kalt",
+            "lau",
             "warm",
-            "Kühle",
-            "kühlen"
+            "abkühlen"
           ]
         }
       ],
@@ -285137,11 +289870,6 @@ window.WORTWEG_DATA = {
           "word": "warm",
           "label": "warm",
           "zh": "温暖"
-        },
-        {
-          "word": "kühlen",
-          "label": "kühlen",
-          "zh": "使冷却，使凉快"
         }
       ]
     },
@@ -285482,13 +290210,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Strahl",
             "strahlen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Ausstrahlung"
+            "Abstrahlung",
+            "Anstrahlung",
+            "Ausstrahlung",
+            "Bestrahlung",
+            "Durchstrahlung"
           ]
         }
       ],
@@ -285688,7 +290421,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a4/De-Mühle.ogg/De-Mühle.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Mühle.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gebetsmühle",
+            "Getreidemühle",
+            "Kaffeemühle",
+            "Mühlstein",
+            "Ölmühle"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -285725,7 +290469,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/98/De-Munition.ogg/De-Munition.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Munition.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Brandmunition",
+            "Leuchtmunition",
+            "Leuchtspurmunition",
+            "Munitionsbunker",
+            "Munitionsgürtel"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -285910,7 +290665,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/13/De-zwangsläufig.ogg/De-zwangsläufig.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-zwangsläufig.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Zwangsläufigkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -286148,7 +290910,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0e/De-Darsteller.ogg/De-Darsteller.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Darsteller.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Darstellerin",
+            "Hauptdarsteller",
+            "Kleindarsteller",
+            "Nebendarsteller"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -286220,9 +290992,21 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Fingerverletzung",
+            "Fußverletzung",
+            "Gesichtsverletzung",
+            "Kopfverletzung",
+            "Körpergröße"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
             "einfache Körperverletzung",
+            "fahrlässige Körperverletzung",
+            "Körperverletzung mit Todesfolge",
             "schwere Körperverletzung",
             "versuchte Körperverletzung"
           ]
@@ -286361,7 +291145,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/De-Radweg.ogg/De-Radweg.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Radweg.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Radschnellweg"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -286578,7 +291369,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/27/De-zugegeben.ogg/De-zugegeben.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-zugegeben.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "zugegebenermaßen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -286833,7 +291631,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/De-at-Zeugnis.ogg/De-at-Zeugnis.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Zeugnis.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Zeugnisheft",
+            "Zeugnisverweigerung",
+            "Zeugnisverweigerungsrecht"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -287090,7 +291897,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "wecken"
+            "wecken",
+            "aufwecken"
           ]
         }
       ],
@@ -287487,7 +292295,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/De-bewältigen.ogg/De-bewältigen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-bewältigen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bewältigung"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -287770,6 +292585,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "pausieren",
+            "rasten",
             "befindet",
             "stehen",
             "ausruhen"
@@ -288174,7 +292991,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/11/De-Absturz.ogg/De-Absturz.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Absturz.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "abstürzen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -288815,7 +293639,8 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Gunst",
-            "günstig"
+            "günstig",
+            "begünstigen"
           ]
         }
       ],
@@ -289187,7 +294012,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/De-Trost.ogg/De-Trost.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Trost.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "trösten",
+            "trostlos"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -289436,7 +294269,9 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "unterliegend"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -289667,7 +294502,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/16/De-Plakat.ogg/De-Plakat.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Plakat.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "plakatieren",
+            "plakativ",
+            "Plakatsäule"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -289949,7 +294793,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/De-Gastronomie.ogg/De-Gastronomie.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Gastronomie.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Gastronom",
+            "gastronomisch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -290119,7 +294971,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/79/De-Gürtel.ogg/De-Gürtel.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Gürtel.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Geldgürtel",
+            "Grüngürtel",
+            "Hosengürtel",
+            "Ledergürtel",
+            "Patronengürtel"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -290238,7 +295101,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Schauspiel-"
+            "Schauspiel-",
+            "Schauspielakademie",
+            "Schauspielausbildung",
+            "Schauspielberuf",
+            "Schauspielbühne"
           ]
         }
       ],
@@ -290504,6 +295371,12 @@ window.WORTWEG_DATA = {
           "words": [
             "nachvollziehen"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Nachvollziehbarkeit"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -290603,7 +295476,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/ff/De-sachlich.ogg/De-sachlich.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-sachlich.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "unsachlich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -290708,9 +295588,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "klug",
+            "verständig",
             "vernünftig",
-            "logisch",
-            "dumm"
+            "rational",
+            "logisch"
           ]
         }
       ],
@@ -290730,11 +295611,6 @@ window.WORTWEG_DATA = {
           "word": "logisch",
           "label": "logisch",
           "zh": "逻辑的，符合逻辑的"
-        },
-        {
-          "word": "dumm",
-          "label": "dumm",
-          "zh": "笨的、愚蠢的、幼稚的、单纯的"
         }
       ]
     },
@@ -290844,7 +295720,17 @@ window.WORTWEG_DATA = {
         }
       ],
       "sourceForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "gülden",
+            "goldig",
+            "goldfarben",
+            "goldartig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -290892,7 +295778,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/De-Ozean.ogg/De-Ozean.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Ozean.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "ozeanisch",
+            "Ozeanographie"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -290934,7 +295828,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fb/De-Stall.ogg/De-Stall.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Stall.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Stallbursche",
+            "Stallmeister"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -291179,7 +296081,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/De-Feierabend.ogg/De-Feierabend.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Feierabend.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Feierabendarbeit",
+            "Feierabendbier",
+            "Feierabendheim",
+            "Feierabendphilosoph",
+            "Feierabendverkehr"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -291555,13 +296468,16 @@ window.WORTWEG_DATA = {
           "words": [
             "Angriff",
             "begreifen",
+            "durchgreifen",
             "zugreifen"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "angreifbar",
             "Angreifer",
+            "angreifend",
             "angegriffen"
           ]
         }
@@ -292026,7 +296942,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "der Esel geht immer voran",
-            "der Esel nennt sich immer zuerst"
+            "der Esel nennt sich immer zuerst",
+            "ein Esel schilt den andern Langohr",
+            "Eselsbrücke",
+            "Goldesel"
           ]
         }
       ],
@@ -292134,32 +297053,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "verborgen",
-            "verdeckt",
-            "versteckt",
-            "bekannt",
-            "offen"
+            "diskret",
+            "mysteriös",
+            "rätselhaft",
+            "schleierhaft",
+            "verborgen"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "versteckt",
-          "label": "versteckt",
-          "zh": "隐藏的；潜伏的；暗示的"
-        },
-        {
-          "word": "bekannt",
-          "label": "bekannt",
-          "zh": "出名的，著名的，了解的"
-        },
-        {
-          "word": "offen",
-          "label": "offen",
-          "zh": "开放的、公开的"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Folter",
@@ -292276,8 +297179,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "maßvoll",
             "einigermaßen",
-            "reichlich"
+            "leidlich",
+            "übermäßig",
+            "unmäßig"
           ]
         }
       ],
@@ -292287,11 +297193,6 @@ window.WORTWEG_DATA = {
           "word": "einigermaßen",
           "label": "einigermaßen",
           "zh": "在某种程度上，以某种程度"
-        },
-        {
-          "word": "reichlich",
-          "label": "reichlich",
-          "zh": "丰富的、丰厚的、富裕的、富足的、绰绰有余的"
         }
       ]
     },
@@ -292370,7 +297271,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/21/De-Großstadt.OGG/De-Großstadt.OGG.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Großstadt.OGG"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "großstädtisch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -292516,7 +297424,23 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7b/De-Hauch.ogg/De-Hauch.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Hauch.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "hauchen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "hauchdünn",
+            "hauchig",
+            "Hauchlaut",
+            "Windhauch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -292581,6 +297505,8 @@ window.WORTWEG_DATA = {
           "words": [
             "kontrollieren",
             "beobachten",
+            "ausspähen",
+            "Totalüberwachung",
             "Überwachung"
           ]
         }
@@ -293261,7 +298187,23 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0b/De-Schale.ogg/De-Schale.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Schale.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Schellfisch"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "schälen",
+            "Schalentier",
+            "Schalenwild",
+            "verschalen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -293322,7 +298264,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Förster"
+            "aufforsten",
+            "Förster",
+            "Forsthaus",
+            "Forstwirtschaft",
+            "Forstwissenschaft"
           ]
         }
       ],
@@ -293462,7 +298408,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/De-Krankenversicherung.ogg/De-Krankenversicherung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Krankenversicherung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "krankenversichert"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -294374,6 +299327,15 @@ window.WORTWEG_DATA = {
           "words": [
             "after-"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Afterlecken",
+            "Afterlecker",
+            "Aftersausen",
+            "Afterschließer"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -294528,7 +299490,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "südlich",
-            "nördlich"
+            "nördlich",
+            "nordwärts",
+            "südwärts",
+            "westwärts"
           ]
         }
       ],
@@ -294712,7 +299677,23 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6f/De-harmlos.ogg/De-harmlos.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-harmlos.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "gefahrlos",
+            "einfältig",
+            "Arglosigkeit"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Harmlosigkeit",
+            "verharmlosen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -294883,7 +299864,14 @@ window.WORTWEG_DATA = {
           "label": "feminine"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "indianisch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -294917,7 +299905,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/De-wörtlich.oga/De-wörtlich.oga.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-wörtlich.oga"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "wortwörtlich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -295027,7 +300022,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bf/De-Akte.ogg/De-Akte.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Akte.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Aktenkoffer",
+            "Aktenordner",
+            "Aktentasche"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -295277,7 +300281,11 @@ window.WORTWEG_DATA = {
         },
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Verstoßer",
+            "Verstoßung",
+            "verstoßend"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -295466,6 +300474,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "umgreifen",
+            "umarmen",
+            "umschlingen",
             "umfassend"
           ]
         }
@@ -296624,6 +301635,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Ergreifung",
+            "ergreifend",
             "ergriffen"
           ]
         }
@@ -296778,7 +301791,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "ergänzen"
+            "anfügen",
+            "beifügen",
+            "ergänzen",
+            "Hinzufügung"
           ]
         }
       ],
@@ -297200,9 +302216,9 @@ window.WORTWEG_DATA = {
           "words": [
             "billig",
             "erbärmlich",
-            "mitgenommen",
-            "schwach",
-            "übel"
+            "geringwertig",
+            "halbwertig",
+            "hilfsbedürftig"
           ]
         }
       ],
@@ -297212,21 +302228,6 @@ window.WORTWEG_DATA = {
           "word": "billig",
           "label": "billig",
           "zh": "便宜"
-        },
-        {
-          "word": "mitgenommen",
-          "label": "mitgenommen",
-          "zh": "破烂的，褴褛的，撕烂的，穿破的，边角不平的"
-        },
-        {
-          "word": "schwach",
-          "label": "schwach",
-          "zh": "虚弱；弱"
-        },
-        {
-          "word": "übel",
-          "label": "übel",
-          "zh": "坏的，恶劣的"
         }
       ]
     },
@@ -297744,6 +302745,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "vermengen",
+            "verrühren",
+            "Mischer",
+            "Mischmaschine",
             "Mischung"
           ]
         }
@@ -298552,7 +303557,15 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Kampf"
+            "Kampf",
+            "Wettrennen",
+            "Wettstreit"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Wettkämpfer"
           ]
         }
       ],
@@ -298772,7 +303785,10 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "Wörterbuch-App",
-            "Wörterbuch-Portal"
+            "Wörterbuch-Portal",
+            "Wörterbuchabfrage",
+            "Wörterbuchabgleich",
+            "Wörterbuchangebot"
           ]
         }
       ],
@@ -298848,7 +303864,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/De-Überschrift.ogg/De-Überschrift.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Überschrift.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "überschreiben"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -299015,6 +304038,16 @@ window.WORTWEG_DATA = {
           "words": [
             "Beifall"
           ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abfallwirtschaft",
+            "Abfalleimer",
+            "Bauabfall",
+            "Bioabfall",
+            "Gartenabfall"
+          ]
         }
       ],
       "associationTopic": "环境",
@@ -299145,6 +304178,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "alttürkisch",
+            "türkeitürkisch",
+            "türkischstämmig",
             "türkische Pizza",
             "türkische Wurst"
           ]
@@ -299230,10 +304266,20 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "abbrechen",
+            "Abbrecher",
             "Abzug",
             "Abgang",
-            "Ablehnung",
-            "Durchbruch"
+            "Ablehnung"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gesprächsbbruch",
+            "Verbindungsabbruch",
+            "Abbruchunternehmen",
+            "Abbruchquote",
+            "Abbruchzahl"
           ]
         }
       ],
@@ -299253,11 +304299,6 @@ window.WORTWEG_DATA = {
           "word": "Abgang",
           "label": "Abgang",
           "zh": "离去；退场"
-        },
-        {
-          "word": "Durchbruch",
-          "label": "Durchbruch",
-          "zh": "pl.Durchbruche 突破，断裂，漏"
         }
       ]
     },
@@ -299347,7 +304388,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/De-Soziologie.ogg/De-Soziologie.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Soziologie.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Soziologe",
+            "soziologisch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -299654,7 +304703,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/De-Löwe.ogg/De-Löwe.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Löwe.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Löwenanteil",
+            "Löwenherz",
+            "Löwenmähne",
+            "löwenstark",
+            "Löwenstimme"
+          ]
+        }
+      ],
       "associationTopic": "动物",
       "associations": [
         {
@@ -299904,7 +304964,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/08/De-Streik.ogg/De-Streik.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Streik.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "streiken"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -300144,7 +305211,8 @@ window.WORTWEG_DATA = {
             "alle",
             "alles",
             "kein",
-            "Gesamtheit"
+            "Gesamtansicht",
+            "Gesamtaspekt"
           ]
         }
       ],
@@ -300232,11 +305300,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Abschlag",
             "Anschlag",
-            "Niedergang",
-            "Niederlage",
-            "Umschlag",
-            "Vorschlag"
+            "Aufschlag",
+            "Ausschlag",
+            "Durchschlag"
           ]
         }
       ],
@@ -300246,16 +305314,6 @@ window.WORTWEG_DATA = {
           "word": "Anschlag",
           "label": "Anschlag",
           "zh": "袭击，攻击，谋杀"
-        },
-        {
-          "word": "Niederlage",
-          "label": "Niederlage",
-          "zh": "失败，失利"
-        },
-        {
-          "word": "Vorschlag",
-          "label": "Vorschlag",
-          "zh": "建议；提议"
         }
       ]
     },
@@ -300310,11 +305368,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "abscheiden",
             "ausscheiden",
             "entscheiden",
-            "Scheidung",
-            "unterscheiden",
-            "verschieden"
+            "hinscheiden",
+            "Scheideanstalt"
           ]
         }
       ],
@@ -300442,21 +305500,6 @@ window.WORTWEG_DATA = {
           "word": "entscheiden",
           "label": "entscheiden",
           "zh": "决定"
-        },
-        {
-          "word": "Scheidung",
-          "label": "Scheidung",
-          "zh": "离婚"
-        },
-        {
-          "word": "unterscheiden",
-          "label": "unterscheiden",
-          "zh": "区分"
-        },
-        {
-          "word": "verschieden",
-          "label": "verschieden",
-          "zh": "不同地，相异地"
         }
       ]
     },
@@ -301446,7 +306489,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "abgehalten"
+            "Abhalter",
+            "Abhaltung",
+            "Abhalterei",
+            "abhaltend"
           ]
         }
       ],
@@ -301813,7 +306859,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "meiden"
+            "meiden",
+            "anstreben",
+            "aufstreben",
+            "bestreben",
+            "entgegenstreben"
           ]
         }
       ],
@@ -303134,7 +308184,11 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "关联词",
-          "words": []
+          "words": [
+            "Plattfuß",
+            "Platter",
+            "Plattbauchspinne"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -303299,7 +308353,18 @@ window.WORTWEG_DATA = {
           "label": "feminine"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Baumgärtner",
+            "Biogärtner",
+            "Blumengärtner",
+            "Chefgärtner",
+            "Duft- und Heilpflanzengärtner"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -303508,7 +308573,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "homosexuell"
+            "homosexuell",
+            "Homosexueller"
           ]
         }
       ],
@@ -303644,36 +308710,16 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Eigenschaft",
-            "Eigentum",
-            "eignen",
-            "eigens"
+            "eigenvector",
+            "Eigenvektor",
+            "eigenspace",
+            "Eigenraum",
+            "eigenvalue"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "Eigenschaft",
-          "label": "Eigenschaft",
-          "zh": "财产、财物、资产"
-        },
-        {
-          "word": "Eigentum",
-          "label": "Eigentum",
-          "zh": "所有权"
-        },
-        {
-          "word": "eignen",
-          "label": "eignen",
-          "zh": "适于、合适"
-        },
-        {
-          "word": "eigens",
-          "label": "eigens",
-          "zh": "特殊地，专门地 （只为该用途，该目的）"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "Siedlung",
@@ -303881,7 +308927,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/De-Gefecht.ogg/De-Gefecht.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Gefecht.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Wortgefecht"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -304193,7 +309246,7 @@ window.WORTWEG_DATA = {
             "merken",
             "wahrnehmen",
             "sagen",
-            "äußern"
+            "anmerken"
           ]
         }
       ],
@@ -304331,11 +309384,6 @@ window.WORTWEG_DATA = {
           "word": "sagen",
           "label": "sagen",
           "zh": "说；告诉"
-        },
-        {
-          "word": "äußern",
-          "label": "äußern",
-          "zh": "说出，表达"
         }
       ]
     },
@@ -304752,7 +309800,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/19/De-schräg.ogg/De-schräg.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-schräg.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Dachschräge",
+            "Schrägdach",
+            "Schräglage",
+            "Schrägschnitt",
+            "Schrägschrift"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -305816,7 +310875,12 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Vögler",
+            "Vögelung",
+            "vögelnd",
+            "gevögelt"
+          ]
         }
       ],
       "verbClass": "weak",
@@ -306189,7 +311253,24 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Salondame",
+            "Salonkommunismus",
+            "Salonlöwe",
+            "Salonmusik",
+            "Salontür"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "salonfähig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -306240,7 +311321,15 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Jahrhundert"
+            "Jahrfünft",
+            "Jahrhundert",
+            "Jahrtausend"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "jahrzehntelang"
           ]
         }
       ],
@@ -306317,6 +311406,15 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Christentum"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "antichristlich",
+            "Christlichkeit",
+            "frühchristlich",
+            "unchristlich"
           ]
         }
       ],
@@ -306450,12 +311548,14 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "verarbeitend",
             "verarbeitet"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
+            "Verarbeiter",
             "Verarbeitung"
           ]
         }
@@ -306627,7 +311727,18 @@ window.WORTWEG_DATA = {
           "label": "masculine"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Abtreibungsärztin",
+            "Amtsärztin",
+            "Anstaltsärztin",
+            "Assistenzärztin",
+            "Augenärztin"
+          ]
+        }
+      ],
       "associationTopic": "医疗",
       "associations": [
         {
@@ -306722,7 +311833,20 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9a/De-Austritt.ogg/De-Austritt.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Austritt.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "austreten"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Austrittszahlen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -306861,7 +311985,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/De-gemischt.ogg/De-gemischt.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-gemischt.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "rassengemischt"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -306921,13 +312052,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "huren"
+            "huren",
+            "herumhuren",
+            "Hurerei"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
-            "Hurensohn"
+            "Hurenbock",
+            "Hurensohn",
+            "Hurenkind",
+            "Hurenpass"
           ]
         }
       ],
@@ -306984,6 +312120,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Verwechsler",
+            "Verwechslung",
+            "verwechselnd",
             "verwechselt"
           ]
         }
@@ -307154,7 +312293,20 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/De-vorläufig.ogg/De-vorläufig.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-vorläufig.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "läufig"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Vorläufigkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -307502,7 +312654,27 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/90/De-Glocke.ogg/De-Glocke.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Glocke.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Alarmglocke",
+            "Altarglocke",
+            "Dunstglocke",
+            "Florettglocke",
+            "Glasglocke"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "glockenförmig",
+            "glockenhell",
+            "glockig",
+            "Glöckner"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -307593,6 +312765,7 @@ window.WORTWEG_DATA = {
           "words": [
             "Versicherer",
             "Versicherung",
+            "versichernd",
             "versichert"
           ]
         }
@@ -307774,7 +312947,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1e/De-at-Premierminister.ogg/De-at-Premierminister.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Premierminister.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Vizepremierminister"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -308442,7 +313622,9 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Abschaltung"
+          ]
         }
       ],
       "verbClass": "weak",
@@ -308739,7 +313921,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Einheit"
+            "Ausklang",
+            "Dreiklang",
+            "Einheit",
+            "Einhelligkeit",
+            "Einvernehmen"
           ]
         }
       ],
@@ -308941,7 +314127,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/05/De-Korb.ogg/De-Korb.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Korb.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Korbblüte",
+            "Korbblütler",
+            "Korbleger",
+            "Korbmacher",
+            "Korbflechter"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "korbartig",
+            "korbförmig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -309335,7 +314539,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/De-List.ogg/De-List.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-List.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "listig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -309408,7 +314619,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b5/De-Tankstelle.ogg/De-Tankstelle.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Tankstelle.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Tankstellennetz",
+            "Tankstellenpächter",
+            "Tankstellenshop"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -309973,7 +315193,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/De-Sahne.ogg/De-Sahne.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Sahne.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Sahnesoße",
+            "Sahnesteif",
+            "sahnig",
+            "Schlagsahne",
+            "Sacksahne"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -310139,7 +315370,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/62/De-Aluminium.ogg/De-Aluminium.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Aluminium.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Aluminiumfolie"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -310241,6 +315479,8 @@ window.WORTWEG_DATA = {
           "label": "词族与派生词",
           "words": [
             "beherrschen",
+            "geherrscht",
+            "herrschend",
             "Herrscher"
           ]
         }
@@ -310419,7 +315659,14 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "zusammenarbeitend",
             "Zusammenarbeit"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Zusammenarbeitung"
           ]
         }
       ],
@@ -310594,7 +315841,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Finanzbeamter",
             "Finanzminister",
+            "Finanzministerium",
             "Finanzierung"
           ]
         }
@@ -310659,7 +315908,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "internationaler Gerichtshof"
+            "Bundesgerichtshof",
+            "internationaler Gerichtshof",
+            "oberster Gerichtshof",
+            "Staatsgerichtshof",
+            "Volksgerichtshof"
           ]
         }
       ],
@@ -310824,7 +316077,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/85/De-Verschwörung.ogg/De-Verschwörung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Verschwörung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Verschwörungstheorie"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -310866,7 +316126,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Betaspektrum",
+            "Betastrahl",
+            "Betastrahlung",
+            "Betateilchen",
+            "Betazerfall"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -311247,7 +316518,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "klassisch"
+            "klassisch",
+            "Klassizismus"
           ]
         }
       ],
@@ -311460,6 +316732,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "anregen",
             "empfehlen",
             "Vorschlag"
           ]
@@ -312158,9 +317431,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Impetus",
             "Antrieb",
+            "Begierde",
             "Druck",
-            "drängen"
+            "Abscheu"
           ]
         }
       ],
@@ -312175,11 +317450,6 @@ window.WORTWEG_DATA = {
           "word": "Druck",
           "label": "Druck",
           "zh": "（物理）压力、压强"
-        },
-        {
-          "word": "drängen",
-          "label": "drängen",
-          "zh": "挤、压；赶、催促、催逼"
         }
       ]
     },
@@ -312270,7 +317540,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Einsicht"
+            "Einsicht",
+            "Einsichtigkeit"
           ]
         }
       ],
@@ -312619,7 +317890,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "heilig"
+            "heilig",
+            "Allerheiligen"
           ]
         }
       ],
@@ -312731,7 +318003,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/De-Gehör.ogg/De-Gehör.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Gehör.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gehörgang",
+            "Gehörsinn"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -315190,7 +320470,23 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/De-Bann.ogg/De-Bann.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Bann.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Bannbrief",
+            "Bannbulle",
+            "bannen",
+            "Bannkreis"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bannstrahl"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -315312,8 +320608,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Buchstabe",
-            "den Stab übergeben"
+            "Abstandsstab",
+            "Abtsstab",
+            "Amtsstab",
+            "Bischofsstab",
+            "Buchstabe"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "stabartig",
+            "stabförmig"
           ]
         }
       ],
@@ -315633,6 +320939,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "hörbar",
+            "fühlbar",
             "sichtbar"
           ]
         }
@@ -315892,7 +321200,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/De-Mütze.ogg/De-Mütze.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Mütze.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "bemützt"
+          ]
+        }
+      ],
       "associationTopic": "衣服",
       "associations": [
         {
@@ -316967,6 +322282,7 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Arbeitslose",
+            "Arbeitsloser",
             "Arbeitslosigkeit"
           ]
         }
@@ -317438,7 +322754,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2b/De-billigen.ogg/De-billigen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-billigen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Billigung",
+            "missbilligen",
+            "zubilligen"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -317708,7 +323033,11 @@ window.WORTWEG_DATA = {
         },
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Vertragung",
+            "vertragend",
+            "verträglich"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -318112,7 +323441,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/De-Cousin.ogg/De-Cousin.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Cousin.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Großcousin"
+          ]
+        }
+      ],
       "associationTopic": "家庭",
       "associations": [
         {
@@ -318486,6 +323822,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Kurzweil",
+            "langweilen",
+            "Langweiler",
             "langweilig"
           ]
         }
@@ -318558,10 +323897,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Ablauf",
+            "Auflauf",
+            "Durchlauf",
             "Kreislauf",
-            "Laufzeit",
-            "Umlauf",
-            "Verlauf"
+            "Laufgeschwindigkeit"
           ]
         }
       ],
@@ -318576,16 +323915,6 @@ window.WORTWEG_DATA = {
           "word": "Kreislauf",
           "label": "Kreislauf",
           "zh": "pl.Kreislaufe 循环"
-        },
-        {
-          "word": "Laufzeit",
-          "label": "Laufzeit",
-          "zh": "pl.Laufzeiten 运行时间，使用时"
-        },
-        {
-          "word": "Verlauf",
-          "label": "Verlauf",
-          "zh": "经过、进程"
         }
       ]
     },
@@ -318717,7 +324046,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "von der Stange"
+            "Stängel",
+            "von der Stange",
+            "Stangenware"
           ]
         }
       ],
@@ -318859,7 +324190,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/De-Hirsch.ogg/De-Hirsch.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Hirsch.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Hirschkuh",
+            "Hirschhorn",
+            "Hirschzecke",
+            "Damhirsch",
+            "Mähnenhirsch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -319000,7 +324342,11 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Überschreiter",
+            "Überschreitung",
+            "überschreitend"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -319534,7 +324880,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e4/De-Realschule.ogg/De-Realschule.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Realschule.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Oberrealschule"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -319637,7 +324990,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/De-at-Damm.ogg/De-at-Damm.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Damm.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Fahrdamm",
+            "Staudamm",
+            "Straßendamm",
+            "Knüppeldamm",
+            "Dammböschung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -319681,12 +325045,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Dreißigzahl",
+            "Dreißigeck",
+            "dreißigminütig",
+            "dreißigjährig",
             "drei"
           ]
         },
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Dreißiger",
+            "Dreißigstel",
+            "dreißigste",
+            "dreißigfach"
+          ]
         }
       ],
       "associationTopic": "关联词与词族",
@@ -319801,7 +325174,20 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/89/De-Anweisung.ogg/De-Anweisung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Anweisung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "anweisen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Gebrauchsanweisung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -319861,7 +325247,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/De-Einsamkeit.ogg/De-Einsamkeit.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Einsamkeit.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Waldeinsamkeit",
+            "Zweisamkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -320069,7 +325463,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/52/De-at-Gleis.ogg/De-at-Gleis.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Gleis.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abstellgleis",
+            "Bahngleis",
+            "entgleisen",
+            "Gegengleis",
+            "Gleisbett"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -320121,7 +325526,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Präzision"
+            "Präzision",
+            "präzisieren"
           ]
         }
       ],
@@ -320275,14 +325681,18 @@ window.WORTWEG_DATA = {
             "Ball",
             "Fuß",
             "Fußball",
-            "Fußball-"
+            "Fußball-",
+            "Fußballfeind"
           ]
         },
         {
           "label": "词族与派生词",
           "words": [
             "Fußballer-",
-            "fußballer-"
+            "fußballer-",
+            "Fußballerfrau",
+            "Fußballerfreund",
+            "Fußballergebnis"
           ]
         }
       ],
@@ -320464,7 +325874,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3b/De-Neid.ogg/De-Neid.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Neid.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Neidbau",
+            "Neider",
+            "neidlos",
+            "neidvoll"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -320578,7 +325998,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1e/De-Frucht.ogg/De-Frucht.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:de-Frucht.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "fruchtbar"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -320691,13 +326118,17 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "anlegen",
-            "überlegen",
-            "verlegen"
+            "auflegen",
+            "beilegen",
+            "nachlegen",
+            "offenlegen"
           ]
         },
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Ablage"
+          ]
         }
       ],
       "verbClass": "weak",
@@ -320819,16 +326250,6 @@ window.WORTWEG_DATA = {
           "word": "anlegen",
           "label": "anlegen",
           "zh": "创建，创造"
-        },
-        {
-          "word": "überlegen",
-          "label": "überlegen",
-          "zh": "占上风的，更厉害的，更好的，更优的"
-        },
-        {
-          "word": "verlegen",
-          "label": "verlegen",
-          "zh": "羞愧的，尴尬的，害羞的；惊慌的"
         }
       ]
     },
@@ -321687,7 +327108,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "Frechheit"
+            "Frechheit",
+            "Frechdachs",
+            "rotzfrech"
           ]
         }
       ],
@@ -321750,7 +327173,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5f/De-Getreide.ogg/De-Getreide.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Getreide.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Getreideacker",
+            "Getreideernte",
+            "Getreidefeld",
+            "Getreidemühle",
+            "Getreidesack"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -321956,11 +327390,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "jäh",
             "großartig",
+            "imponierend",
             "lang",
-            "allmählich",
-            "flach",
-            "sanft"
+            "raumgreifend"
           ]
         }
       ],
@@ -321975,21 +327409,6 @@ window.WORTWEG_DATA = {
           "word": "lang",
           "label": "lang",
           "zh": "长"
-        },
-        {
-          "word": "allmählich",
-          "label": "allmählich",
-          "zh": "逐渐的"
-        },
-        {
-          "word": "flach",
-          "label": "flach",
-          "zh": "平的、平坦的"
-        },
-        {
-          "word": "sanft",
-          "label": "sanft",
-          "zh": "温柔的，柔和的"
         }
       ]
     },
@@ -322166,10 +327585,20 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Gebälk",
+            "gebalkt"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "Wasser hat keine Balken",
-            "Wasser hat keinen Balken"
+            "Balkenblase",
+            "Balkenbrücke",
+            "Balkencode",
+            "Balkendecke",
+            "Balkendiagramm"
           ]
         }
       ],
@@ -322458,7 +327887,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ce/De-schlank.ogg/De-schlank.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-schlank.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Schlankheit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -323045,7 +328481,9 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Verarschung"
+          ]
         }
       ],
       "verbClass": "weak",
@@ -323321,7 +328759,20 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/51/De-Predigt.ogg/De-Predigt.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Predigt.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "predigen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Moralpredigt"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -323578,7 +329029,21 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/De-Berührung.ogg/De-Berührung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Berührung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Berührungsangst",
+            "Berührungsbildschirm"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "berührungslos"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -323620,7 +329085,14 @@ window.WORTWEG_DATA = {
           "label": "feminine"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Vizefinanzminister"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -323668,6 +329140,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Fortsetzer",
             "Fortsetzung"
           ]
         }
@@ -323858,8 +329331,17 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Absolvent",
+            "Absolventin"
+          ]
+        },
+        {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Absolvierung"
+          ]
         }
       ],
       "verbClass": "weak",
@@ -324207,7 +329689,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/De-at-Fahrbahn.ogg/De-at-Fahrbahn.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Fahrbahn.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Fahrbahnaufweitung",
+            "Fahrbahnbegrenzung",
+            "Fahrbahnbelag",
+            "Fahrbahnbreite",
+            "Fahrbahndecke"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -324297,7 +329790,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Friseur"
+            "Intimfrisur",
+            "Friseur",
+            "frisieren"
           ]
         }
       ],
@@ -324403,7 +329898,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/De-at-leugnen.ogg/De-at-leugnen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-leugnen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "ableugnen",
+            "leugbar",
+            "Leugnung",
+            "verleugnen"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -324577,7 +330082,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/De-Stellenwert.ogg/De-Stellenwert.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Stellenwert.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Stellenwertlogik",
+            "Stellenwertsystem"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -324635,7 +330148,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/LL-Q188_(deu)-Sebastian_Wallroth-Verwirrung.wav/LL-Q188_(deu)-Sebastian_Wallroth-Verwirrung.wav.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:LL-Q188_(deu)-Sebastian_Wallroth-Verwirrung.wav"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Verirrung",
+            "Geschmacksverwirrung",
+            "Gefühlsverwirrung"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -324722,6 +330244,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Optiker",
             "optisch"
           ]
         }
@@ -324858,7 +330381,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/De-Lunge.ogg/De-Lunge.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Lunge.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Lungenemphysem",
+            "lungenkrank",
+            "Lungenkrebs",
+            "Lungenschlagader"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -325215,7 +330748,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d4/De-Dieb.ogg/De-Dieb.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Dieb.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Austerndieb",
+            "Autodieb",
+            "Bücherdieb",
+            "Datendieb",
+            "Einsteigdieb"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Dieberei",
+            "diebisch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -325265,7 +330816,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Wirbelsäule"
+            "Säulenbogen",
+            "Säulendiagramm",
+            "Säulenhalle",
+            "Säulenkopf",
+            "Säulenschaft"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "säulenförmig"
           ]
         }
       ],
@@ -325558,7 +331119,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/De-Kneipe.ogg/De-Kneipe.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Kneipe.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Kneipenkultur",
+            "Kneipensterben",
+            "Studentenkneipe"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -325882,7 +331452,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3e/De-Teich.ogg/De-Teich.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Teich.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Badeteich",
+            "Ententeich",
+            "Fischteich",
+            "Froschteich",
+            "Forellenteich"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -326023,6 +331604,14 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Schluck"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Schlucker",
+            "Schluckspecht",
+            "verschlucken"
           ]
         }
       ],
@@ -326192,7 +331781,11 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Beibehalter",
+            "Beibehaltung",
+            "beibehaltend"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -326340,10 +331933,10 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "Güte",
-            "Verständnis",
-            "Härte",
-            "Strenge",
-            "verfahren"
+            "Sanftheit",
+            "Sanftmut",
+            "Nachgiebigkeit",
+            "Nachsicht"
           ]
         }
       ],
@@ -326353,21 +331946,6 @@ window.WORTWEG_DATA = {
           "word": "Güte",
           "label": "Güte",
           "zh": "商量、好意、亲切、宽容、宽大、慈善"
-        },
-        {
-          "word": "Verständnis",
-          "label": "Verständnis",
-          "zh": "理解，领会，理解力"
-        },
-        {
-          "word": "Härte",
-          "label": "Härte",
-          "zh": "硬度、强度、严重性"
-        },
-        {
-          "word": "Strenge",
-          "label": "Strenge",
-          "zh": "严肃，严厉，迫紧"
         }
       ]
     },
@@ -326448,7 +332026,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3e/De-Abgang.ogg/De-Abgang.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Abgang.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abgangsklasse",
+            "Abgangstreppe",
+            "Abgangszeugnis",
+            "Lawinenabgang",
+            "Schulabgang"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -326594,7 +332183,21 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/De-at-Auslöser.ogg/De-at-Auslöser.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Auslöser.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Auslösemechanismus"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Fernauslöser",
+            "Selbstauslöser"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -326678,7 +332281,28 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/De-Brauerei.ogg/De-Brauerei.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Brauerei.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Bier brauen",
+            "Bierbräuen",
+            "Bierbrauen",
+            "Bierbräuer",
+            "Bierbrauer"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Bierbrauerei",
+            "Brauereiaktie",
+            "Brauereiaktien",
+            "Brauereibesitzer",
+            "Brauereibesitzerin"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -326848,7 +332472,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/72/De-Feuchte.ogg/De-Feuchte.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Feuchte.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Luftfeuchte",
+            "Restfeuchte"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -328088,7 +333720,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/De-at-Dschungel.ogg/De-at-Dschungel.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-Dschungel.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abkürzungsdschungel"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -328342,11 +333981,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "antidemokratisch",
             "Christlich Demokratische Union",
             "CDU",
-            "Deutsche Demokratische Republik",
-            "DDR",
-            "Freie Demokratische Partei"
+            "demokratischer Sozialismus",
+            "Demokratische Volksrepublik Korea"
           ]
         }
       ],
@@ -328673,7 +334312,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Freibad"
+            "Schwimmbecken",
+            "Schwimmflügel",
+            "Schwimmlehrer",
+            "Schwimmmeister",
+            "Brustschwimmen"
           ]
         }
       ],
@@ -328861,7 +334504,26 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/De-Mehl.ogg/De-Mehl.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Mehl.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Mehlkloß",
+            "Mehlsack",
+            "Mehlschwalbe",
+            "Mehlschwitze",
+            "Mehlsorte"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "mehlartig",
+            "mehlen",
+            "mehlig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -329007,7 +334669,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/De-Vernichtung.oga/De-Vernichtung.oga.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Vernichtung.oga"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Vernichtungslager"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -329067,7 +334736,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/De-Volleyball.ogg/De-Volleyball.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Volleyball.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Beachvolleyball"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -329111,7 +334787,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/De-Zunahme.ogg/De-Zunahme.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Zunahme.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Zunahmi"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -329205,9 +334888,19 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "sticheln"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "in See stechen"
+            "Aalstechen",
+            "abstechen",
+            "anstechen",
+            "ausstechen",
+            "bestechen"
           ]
         }
       ],
@@ -329426,7 +335119,24 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/34/De-Deck.ogg/De-Deck.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Deck.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Gedeck"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Achterdeck",
+            "Hinterdeck",
+            "Oberdeck",
+            "Schiffsdeck",
+            "Unterdeck"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -329456,7 +335166,17 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/41/De-Matrix.ogg/De-Matrix.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Matrix.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Matrixmultiplikation",
+            "Matrixprodukt",
+            "Matrizenmultiplikation",
+            "Matrizenprodukt"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -330176,7 +335896,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "blühen",
             "Blume"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Abakusblüte",
+            "Algenblüte",
+            "Antimonblüte",
+            "Apfelblüte",
+            "Arsenblüte"
           ]
         }
       ],
@@ -330397,7 +336128,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ed/De-Entschluss.ogg/De-Entschluss.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Entschluss.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Entschlusskraft",
+            "entschlusslos"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -330451,18 +336190,16 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "verheiratet"
+            "Heiratsantrag",
+            "Heiratsschwindel",
+            "Heiratsschwindler",
+            "Heiratsurkunde",
+            "Heiratsvermittler"
           ]
         }
       ],
       "associationTopic": "关联词与词族",
-      "associations": [
-        {
-          "word": "verheiratet",
-          "label": "verheiratet",
-          "zh": "已婚的"
-        }
-      ]
+      "associations": []
     },
     {
       "id": "förmlich",
@@ -330507,7 +336244,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/De-at-förmlich.ogg/De-at-förmlich.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-förmlich.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Förmlichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -331280,7 +337024,14 @@ window.WORTWEG_DATA = {
           "label": "指小词 中 · 中"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "bissig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -331917,7 +337668,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "durch die Lappen gehen"
+            "durch die Lappen gehen",
+            "Lappengröße",
+            "Lappenstoff",
+            "Lappenzaun",
+            "Lappenzelt"
           ]
         }
       ],
@@ -332483,8 +338238,15 @@ window.WORTWEG_DATA = {
       ],
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Ökonom"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
+            "Sprachökonomie",
             "ökonomisch"
           ]
         }
@@ -333143,7 +338905,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0f/De-Trinkwasser.ogg/De-Trinkwasser.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Trinkwasser.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Leitungswasser",
+            "Hahnenwasser",
+            "Trinkbecher",
+            "Trinkglas",
+            "Trinkgefäß"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -333458,7 +339231,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/De-Abkürzung.ogg/De-Abkürzung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Abkürzung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Abkürzungsdschungel",
+            "Abkürzungslexikon",
+            "Abkürzungsliste",
+            "Abkürzungspunkt",
+            "Abkürzungsverzeichnis"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -333741,15 +339525,18 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "auffassen",
             "befassen",
             "erfassen",
             "umfassen",
-            "verfassen"
+            "unterfassen"
           ]
         },
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Anfasser"
+          ]
         }
       ],
       "verbClass": "weak",
@@ -333952,9 +339739,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Dunst",
             "Nebel",
-            "machen",
-            "unter"
+            "Dampfer",
+            "Dampfbad",
+            "Dampfmaschine"
           ]
         }
       ],
@@ -333964,16 +339753,6 @@ window.WORTWEG_DATA = {
           "word": "Nebel",
           "label": "Nebel",
           "zh": "雾"
-        },
-        {
-          "word": "machen",
-          "label": "machen",
-          "zh": "做；制作"
-        },
-        {
-          "word": "unter",
-          "label": "unter",
-          "zh": "在…下面"
         }
       ]
     },
@@ -334011,6 +339790,8 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "abscheulich",
+            "abstoßend",
             "widerlich"
           ]
         }
@@ -334390,7 +340171,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7d/De-Tuch.ogg/De-Tuch.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Tuch.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "tuchen",
+            "Tuchfabrik",
+            "Tuchfühlung",
+            "Tuchhändler",
+            "Tuchmacher"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -334615,7 +340407,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/De-Abgrund.ogg/De-Abgrund.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Abgrund.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "abgründig"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -334951,7 +340750,18 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Depotbank",
+            "Depotbuch",
+            "Depotfett",
+            "Depotfund",
+            "Depotgebühr"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -336246,7 +342056,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/98/De-Insolvenz.ogg/De-Insolvenz.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Insolvenz.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "insolvent"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -336587,7 +342404,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "rußen"
+            "rußen",
+            "rußig"
           ]
         }
       ],
@@ -336647,7 +342465,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6f/De-Pulver.ogg/De-Pulver.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Pulver.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Brausepulver",
+            "Hustenpulver",
+            "Pulverfass",
+            "Pulverqualm",
+            "Pulverturm"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -336758,6 +342587,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Genus",
             "Geschlecht"
           ]
         }
@@ -336860,7 +342690,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/De-Monarchie.ogg/De-Monarchie.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Monarchie.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Donaumonarchie",
+            "Doppelmonarchie",
+            "Erbmonarchie",
+            "Golfmonarchie",
+            "Habsburgermonarchie"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -337001,8 +342842,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "altchinesisch",
             "China",
-            "chinesische Mauer"
+            "chinesisches Wohnboot",
+            "chinesische Stachelbeere"
           ]
         }
       ],
@@ -337063,7 +342906,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6c/De-erläutern.ogg/De-erläutern.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-erläutern.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Erläuterung"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -337220,7 +343070,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/83/De-außergewöhnlich.ogg/De-außergewöhnlich.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-außergewöhnlich.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Außergewöhnlichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -337310,7 +343167,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/De-Massage.ogg/De-Massage.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Massage.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Masseur",
+            "massieren"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Akupressurmassage",
+            "Ayurveda-Massage",
+            "Brillenträgermassage",
+            "Fußmassage",
+            "Fußreflexzonenmassage"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -337468,7 +343343,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "nahen"
+            "annähern",
+            "nahen",
+            "Näherung"
           ]
         }
       ],
@@ -337650,6 +343527,10 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "drittrangig",
+            "erstrangig",
+            "viertrangig",
+            "vorstehend",
             "vorwärts"
           ]
         }
@@ -339296,7 +345177,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/De-Adel.ogg/De-Adel.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Adel.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Adelshaus",
+            "Adelsprädikat",
+            "Adelstitel",
+            "Adlige",
+            "Adliger"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -339408,9 +345300,18 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "anstoßen",
+            "anstößig"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "Anstoß nehmen"
+            "Anstoß nehmen",
+            "Anstoß erregen",
+            "Stein des Anstoßes"
           ]
         }
       ],
@@ -339740,12 +345641,21 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "dauerhaft"
+            "andauern",
+            "dauerhaft",
+            "überdauern",
+            "Daueraufenthalt",
+            "Dauerlösung"
           ]
         },
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Bedauerer",
+            "Bedauerung",
+            "bedauernd",
+            "bedauert"
+          ]
         }
       ],
       "verbClass": "weak",
@@ -340403,6 +346313,10 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Beinschiene",
+            "Armschiene",
+            "Sammelschiene",
+            "Schienbein",
             "schienen"
           ]
         }
@@ -342407,7 +348321,15 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Hindernislauf",
+            "Hindernisrennen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -342445,7 +348367,17 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Schnapsdrossel",
+            "Schnapsidee",
+            "Schnapsleiche",
+            "Schnapszahl"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -342768,7 +348700,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Räuber"
+            "Bankraub",
+            "Brautraub",
+            "Frauenraub",
+            "Geldraub",
+            "Goldraub"
           ]
         }
       ],
@@ -343734,7 +349670,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Lohn"
+            "belohnen",
+            "Lohn",
+            "verlohnen"
           ]
         }
       ],
@@ -344075,6 +350013,9 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Beklager",
+            "Beklagung",
+            "beklagend",
             "beklagt"
           ]
         }
@@ -344513,6 +350454,8 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "entschleunigen",
+            "Beschleuniger",
             "beschleunigt"
           ]
         }
@@ -345133,7 +351076,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/De-hacken.ogg/De-hacken.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-hacken.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Hacke",
+            "häckseln"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "abhacken",
+            "aufhacken",
+            "auseinanderhacken",
+            "durchhacken",
+            "Hackfleisch"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -345332,7 +351293,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "berühren"
+            "anrühren",
+            "berühren",
+            "durchrühren",
+            "Rührei",
+            "Rührkuchen"
           ]
         }
       ],
@@ -345730,7 +351695,21 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/De-dämlich.wav/De-dämlich.wav.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-dämlich.wav"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "damisch",
+            "Dämlack"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Dämlichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -346333,6 +352312,13 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "schwitzen"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Schweißdrüse",
+            "im Schweiße seines Angesichts"
           ]
         }
       ],
@@ -347267,7 +353253,28 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/De-Kommunismus.ogg/De-Kommunismus.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Kommunismus.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Antikommunist",
+            "antikommunistisch",
+            "Kommi",
+            "Kommunist",
+            "kommunistisch"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Anarchokommunismus",
+            "Antikommunismus",
+            "Gulaschkommunismus",
+            "Kriegskommunismus",
+            "Liebeskommunismus"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -347335,7 +353342,11 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
-            "da lachen ja die Hühner"
+            "Birkhuhn",
+            "da lachen ja die Hühner",
+            "Haselhuhn",
+            "Hühnerdieb",
+            "Hühnerei"
           ]
         }
       ],
@@ -347405,7 +353416,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f7/De-ABC.ogg/De-ABC.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-ABC.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "ABC-Schütze"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -347552,7 +353570,19 @@ window.WORTWEG_DATA = {
           "words": [
             "backen",
             "Backen",
-            "Bäcker"
+            "Bäcker",
+            "Bäckerin",
+            "Backerei"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Brotbäckerei",
+            "Dinkelbäckerei",
+            "Feinbäckerei",
+            "Genossenschaftsbäckerei",
+            "Großbäckerei"
           ]
         }
       ],
@@ -347630,7 +353660,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/De-Dankbarkeit.ogg/De-Dankbarkeit.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Dankbarkeit.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Dankbarkeitsgefühl"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -347757,6 +353794,7 @@ window.WORTWEG_DATA = {
         {
           "label": "词族与派生词",
           "words": [
+            "Kindchenschema",
             "Schema F"
           ]
         }
@@ -347804,7 +353842,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Aufmerksamkeit"
+            "Aufmerksamkeit",
+            "Fragwürdigkeit",
+            "Glaubenskraft",
+            "Glaubensstärke",
+            "Kritikwürdigkeit"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Glaubwürdigkeitsproblem"
           ]
         }
       ],
@@ -347898,7 +353946,15 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Nahrungsmittelkrise",
+            "Nahrungsmittelunverträglichkeit"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -347945,7 +354001,14 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Niederlande"
+            "Niederlande",
+            "niederländisch"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Niederländerin"
           ]
         }
       ],
@@ -348024,9 +354087,22 @@ window.WORTWEG_DATA = {
       },
       "relations": [
         {
+          "label": "关联词",
+          "words": [
+            "Angelpfanne",
+            "Dachpfanne",
+            "Bratpfanne",
+            "Bettpfanne",
+            "Gelenkpfanne"
+          ]
+        },
+        {
           "label": "词族与派生词",
           "words": [
-            "etwas auf der Pfanne haben"
+            "etwas auf der Pfanne haben",
+            "in die Pfanne hauen",
+            "pfannenartig",
+            "pfannenlos"
           ]
         }
       ],
@@ -348086,7 +354162,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e1/De-Montage.ogg/De-Montage.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Montage.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Monteur",
+            "montieren"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -349146,7 +355230,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "Geldbeutel"
+            "Beutelmarder",
+            "Beutelmaulwurf",
+            "Beutelmaus",
+            "Beutelmull",
+            "beuteln"
           ]
         }
       ],
@@ -349248,8 +355336,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "auswickeln",
             "entwickeln",
-            "falten"
+            "aufblühen",
+            "falten",
+            "einwickeln"
           ]
         }
       ],
@@ -349459,7 +355550,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/De-Friseur.ogg/De-Friseur.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Friseur.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Friseur-Berufsfachschule",
+            "Friseur-Franchiseunternehmen",
+            "Friseurakademie",
+            "Friseurausbildung",
+            "Friseurbedarf"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -349661,7 +355763,9 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "kümmern"
+            "Kummerbund",
+            "kümmern",
+            "Kümmernis"
           ]
         }
       ],
@@ -350241,7 +356345,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/64/De-Schere.ogg/De-Schere.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Schere.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Scherenblatt",
+            "Scherengitter",
+            "Scherengriff",
+            "Scherenkrebs",
+            "Scherenschleifer"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -350274,8 +356389,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "metzgen",
             "töten",
-            "Schlacht"
+            "schächten",
+            "abschlachten",
+            "Schlachter"
           ]
         }
       ],
@@ -350398,11 +356516,6 @@ window.WORTWEG_DATA = {
           "word": "töten",
           "label": "töten",
           "zh": "杀，杀害，杀死"
-        },
-        {
-          "word": "Schlacht",
-          "label": "Schlacht",
-          "zh": "打仗，战斗，斗殴"
         }
       ]
     },
@@ -350663,6 +356776,8 @@ window.WORTWEG_DATA = {
           "words": [
             "an den Kragen gehen",
             "den Kragen kosten",
+            "der Kragen platzt",
+            "Hemdkragen",
             "Kopf und Kragen"
           ]
         }
@@ -350780,7 +356895,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/10/De-at-staunen.ogg/De-at-staunen.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-at-staunen.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "erstaunen"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -351057,7 +357179,12 @@ window.WORTWEG_DATA = {
       "relations": [
         {
           "label": "词族与派生词",
-          "words": []
+          "words": [
+            "Mithalter",
+            "Mithaltung",
+            "mithaltend",
+            "mitgehalten"
+          ]
         }
       ],
       "verbClass": "strong",
@@ -351480,7 +357607,25 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/De-Vorlesung.ogg/De-Vorlesung.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Vorlesung.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Antrittsvorlesung",
+            "Buchvorlesung",
+            "Bürgervorlesung",
+            "Gastvorlesung",
+            "Nobelvorlesung"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "vorlesungsartig",
+            "vorlesungslos"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -352212,7 +358357,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/De-Patent.oga/De-Patent.oga.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Patent.oga"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "patentieren",
+            "patentieren lassen"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -352250,7 +358403,26 @@ window.WORTWEG_DATA = {
           "label": "复数"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "globalisieren",
+            "Globalismus",
+            "Globalist",
+            "globalistisch"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Globalisierungsgegner",
+            "Globalisierungskritiker",
+            "Globalisierungsprozess",
+            "globalisierungskritisch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -352320,7 +358492,17 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
-            "einfach"
+            "einfach",
+            "einfältig",
+            "einköpfig",
+            "einminütig",
+            "eintägig"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Einmaligkeit"
           ]
         }
       ],
@@ -352391,6 +358573,7 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "Grieche",
             "Griechenland"
           ]
         }
@@ -352475,6 +358658,14 @@ window.WORTWEG_DATA = {
           "label": "关联词",
           "words": [
             "französisch"
+          ]
+        },
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Französelei",
+            "Franzosenfeind",
+            "Französin"
           ]
         }
       ],
@@ -352732,7 +358923,18 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/De-Chefredakteur.ogg/De-Chefredakteur.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Chefredakteur.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Chefkoch",
+            "Chefterrorist",
+            "Bildredakteur",
+            "Fernsehredakteur",
+            "Zeitungsredakteur"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -352797,7 +358999,14 @@ window.WORTWEG_DATA = {
           "label": "助动词"
         }
       ],
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "Sicherstellung"
+          ]
+        }
+      ],
       "verbClass": "weak",
       "type": "规则变化（弱变化）",
       "conjugation": {
@@ -352995,7 +359204,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/79/De-Orgasmus.ogg/De-Orgasmus.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Orgasmus.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "orgasmisch"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -353075,7 +359291,16 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/De-Wahlkreis.ogg/De-Wahlkreis.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Wahlkreis.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "Wahlkreisabgeordneter",
+            "Wahlkreisbewohner",
+            "Wahlkreisbewohnerin"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -353312,7 +359537,15 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/36/De-Routine.ogg/De-Routine.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-Routine.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "词族与派生词",
+          "words": [
+            "routinemäßig",
+            "routiniert"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -353838,7 +360071,9 @@ window.WORTWEG_DATA = {
           "words": [
             "anerkennen",
             "preisen",
-            "schätzen"
+            "schätzen",
+            "verehren",
+            "hochschätzen"
           ]
         }
       ],
@@ -354217,11 +360452,11 @@ window.WORTWEG_DATA = {
         {
           "label": "关联词",
           "words": [
+            "anzweifeln",
+            "argwöhnen",
+            "beargwöhnen",
             "bedenken",
-            "befürchten",
-            "kein Vertrauen haben",
-            "im Zweifel sein",
-            "zweifeln"
+            "befürchten"
           ]
         }
       ],
@@ -354396,7 +360631,7 @@ window.WORTWEG_DATA = {
             "beobachten",
             "schlafen",
             "aufwachen",
-            "erwachen"
+            "bewachen"
           ]
         }
       ],
@@ -354710,7 +360945,14 @@ window.WORTWEG_DATA = {
         "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/64/De-anderthalb.ogg/De-anderthalb.ogg.mp3",
         "source": "https://commons.wikimedia.org/wiki/File:De-anderthalb.ogg"
       },
-      "relations": [],
+      "relations": [
+        {
+          "label": "关联词",
+          "words": [
+            "dritthalb"
+          ]
+        }
+      ],
       "associationTopic": "关联词与词族",
       "associations": []
     },
@@ -355025,7 +361267,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 动词第二位",
           "paragraphs": [
-            "德语主句的有限动词占第二个句子成分：Ich lerne heute；Heute lerne ich。第一成分可以由多个单词组成。"
+            "主句里的变位动词始终占第二个句子成分。把 heute 或 in Berlin 放到句首时，主语移到动词后：Heute lerne ich Deutsch。"
           ],
           "tables": [],
           "examples": [
@@ -355069,19 +361311,19 @@ window.WORTWEG_DATA = {
           "tables": [],
           "examples": [
             [
-              "Wir gehen in den Park.",
-              "我们去公园。"
+              "Hast du keine Zeit? – Doch, ich habe Zeit.",
+              "你没有时间吗？——不，我有时间。"
             ],
             [
-              "Wir sind im Park.",
-              "我们在公园里。"
+              "Kommst du heute? – Ja, gern.",
+              "你今天来吗？——好的。"
             ]
           ]
         },
         {
           "title": "07 · 基础语序",
           "paragraphs": [
-            "德语主句的有限动词占第二个句子成分：Ich lerne heute；Heute lerne ich。第一成分可以由多个单词组成。"
+            "先搭出“第一成分 + 变位动词 + 其余内容”的骨架。Ich lerne heute 和 Heute lerne ich 都正确，重点是 lerne 仍在第二位。"
           ],
           "tables": [],
           "examples": [
@@ -355834,7 +362076,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · 名词性别",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。"
+            "德语名词有阳性、阴性和中性，词义本身并不能可靠地推出性别。因此要把 der Tisch、die Lampe、das Buch 当成完整词块记忆。"
           ],
           "tables": [],
           "examples": [
@@ -355851,7 +362093,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · der / die / das",
           "paragraphs": [
-            "der/die/das 是定冠词，ein/eine 是不定冠词；形式由名词的性、数和格决定。复数没有不定冠词。"
+            "der、die、das 是定冠词，用在说话双方已知或已经提到的名词前。这三个形式也帮你记住名词的语法性。"
           ],
           "tables": [],
           "examples": [
@@ -355868,24 +362110,24 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · ein / eine",
           "paragraphs": [
-            "der/die/das 是定冠词，ein/eine 是不定冠词；形式由名词的性、数和格决定。复数没有不定冠词。"
+            "ein/eine 是不定冠词，常用于第一次提到的单数可数名词：ein Tisch、eine Lampe。德语没有不定冠词的复数形式。"
           ],
           "tables": [],
           "examples": [
             [
-              "Wir sind im Park.",
-              "我们在公园里。"
+              "Das ist ein Tisch.",
+              "这是一张桌子。"
             ],
             [
-              "Wir gehen in den Park.",
-              "我们去公园。"
+              "Das ist eine Lampe.",
+              "这是一盏灯。"
             ]
           ]
         },
         {
           "title": "04 · 名词复数基础",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。"
+            "复数可能用 -e、-er、-(e)n、-s 或零词尾，有时还会变音。例如 das Buch → die Bücher，所以复数形式要跟单数一起记。"
           ],
           "tables": [
             [
@@ -355946,19 +362188,19 @@ window.WORTWEG_DATA = {
           "tables": [],
           "examples": [
             [
-              "Wir sind im Park.",
-              "我们在公园里。"
+              "Der Mann arbeitet.",
+              "这位男士在工作。"
             ],
             [
-              "Wir gehen in den Park.",
-              "我们去公园。"
+              "Anna ist Lehrerin.",
+              "安娜是老师。"
             ]
           ]
         },
         {
           "title": "06 · 冠词变化",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。",
+            "冠词把名词的性、数和格显示出来。在当前阶段，先对照 der/die/das 和 ein/eine，再根据名词在句中的作用选形式。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -356009,7 +362251,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 名词与冠词一起记忆",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。",
+            "记新名词时写成“冠词 + 单数 + 复数”，例如 der Tisch – die Tische。这样遇到格变化时，才知道该从哪一组冠词形式开始。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -356201,7 +362443,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Akkusativ",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "Akkusativ 常标记动作直接作用的对象：Ich sehe den Mann。找到动词后，问“看见/买/需要什么”，通常就能找到这个宾语。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -356311,7 +362553,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 第一格与第四格区别",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "第一格说明谁做动作，第四格说明动作直接影响谁或什么。Der Mann sieht den Hund 里 der Mann 是主语，den Hund 是直接宾语。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [],
@@ -356325,7 +362567,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 常见第四格动词",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "sehen、haben、brauchen、kaufen、besuchen 等常直接带 Akkusativ 宾语。学动词时把格也写进搭配，例如 jemanden besuchen。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [],
@@ -356339,7 +362581,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 第四格人称代词",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "人称代词做直接宾语时用 mich、dich、ihn、sie、es、uns、euch、sie/Sie。Ich sehe ihn 中 ihn 代替一个阳性人或事物。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -356405,7 +362647,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 直接宾语",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。"
+            "直接宾语不需要介词，直接跟在及物动词的结构中：Ich kaufe das Buch。它通常使用 Akkusativ。"
           ],
           "tables": [],
           "examples": [
@@ -356585,43 +362827,265 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · mein / dein",
           "paragraphs": [
-            "物主词的词干表示拥有者，词尾由后面的名词性、数、格决定：mein Vater、meine Mutter、mein Buch、meinen Bruder。它们按 ein 类变化。"
+            "mein 和 dein 先分别表示“我的”和“你的”，词尾由后面名词决定：mein Buch、meine Tasche、meinen Bruder。"
           ],
-          "tables": [],
-          "examples": [
+          "tables": [
             [
-              "Wir sind im Park.",
-              "我们在公园里。"
+              [
+                "格",
+                "阳性（mein Vater）",
+                "阴性（meine Mutter）",
+                "中性（mein Kind）",
+                "复数（meine Freunde）"
+              ],
+              [
+                "主格",
+                "mein",
+                "meine",
+                "mein",
+                "meine"
+              ],
+              [
+                "宾格",
+                "meinen",
+                "meine",
+                "mein",
+                "meine"
+              ]
             ],
             [
-              "Wir gehen in den Park.",
-              "我们去公园。"
+              [
+                "拥有者",
+                "阳性主格",
+                "阴性主格",
+                "阳性宾格"
+              ],
+              [
+                "我",
+                "mein Vater",
+                "meine Mutter",
+                "meinen Vater"
+              ],
+              [
+                "你",
+                "dein Vater",
+                "deine Mutter",
+                "deinen Vater"
+              ],
+              [
+                "他",
+                "sein Vater",
+                "seine Mutter",
+                "seinen Vater"
+              ],
+              [
+                "她",
+                "ihr Vater",
+                "ihre Mutter",
+                "ihren Vater"
+              ],
+              [
+                "我们",
+                "unser Vater",
+                "unsere Mutter",
+                "unseren Vater"
+              ],
+              [
+                "你们",
+                "euer Vater",
+                "eure Mutter",
+                "euren Vater"
+              ],
+              [
+                "他们/您",
+                "ihr / Ihr Vater",
+                "ihre / Ihre Mutter",
+                "ihren / Ihren Vater"
+              ]
+            ]
+          ],
+          "examples": [
+            [
+              "Das ist mein Buch.",
+              "这是我的书。"
+            ],
+            [
+              "Ist das dein Schlüssel?",
+              "这是你的钥匙吗？"
             ]
           ]
         },
         {
           "title": "02 · sein / ihr",
           "paragraphs": [
-            "sein 的现在时是 bin/bist/ist/sind/seid/sind，过去时是 war/wart/waren，完成时用 ist + gewesen。它还作系动词连接身份、性质或状态：Sie ist Ärztin；Das Wetter ist kalt。"
+            "sein 表示阳性或中性拥有者的“他的/它的”，ihr 表示阴性拥有者的“她的”或复数拥有者的“他们的”：Paul sucht seinen Schlüssel；Anna besucht ihre Schwester。"
           ],
-          "tables": [],
-          "examples": [
+          "tables": [
             [
-              "Wir sind zu Hause.",
-              "我们在家。"
+              [
+                "格",
+                "阳性（mein Vater）",
+                "阴性（meine Mutter）",
+                "中性（mein Kind）",
+                "复数（meine Freunde）"
+              ],
+              [
+                "主格",
+                "mein",
+                "meine",
+                "mein",
+                "meine"
+              ],
+              [
+                "宾格",
+                "meinen",
+                "meine",
+                "mein",
+                "meine"
+              ]
             ],
             [
-              "Ich bin müde.",
-              "我累了。"
+              [
+                "拥有者",
+                "阳性主格",
+                "阴性主格",
+                "阳性宾格"
+              ],
+              [
+                "我",
+                "mein Vater",
+                "meine Mutter",
+                "meinen Vater"
+              ],
+              [
+                "你",
+                "dein Vater",
+                "deine Mutter",
+                "deinen Vater"
+              ],
+              [
+                "他",
+                "sein Vater",
+                "seine Mutter",
+                "seinen Vater"
+              ],
+              [
+                "她",
+                "ihr Vater",
+                "ihre Mutter",
+                "ihren Vater"
+              ],
+              [
+                "我们",
+                "unser Vater",
+                "unsere Mutter",
+                "unseren Vater"
+              ],
+              [
+                "你们",
+                "euer Vater",
+                "eure Mutter",
+                "euren Vater"
+              ],
+              [
+                "他们/您",
+                "ihr / Ihr Vater",
+                "ihre / Ihre Mutter",
+                "ihren / Ihren Vater"
+              ]
+            ]
+          ],
+          "examples": [
+            [
+              "Anna besucht ihre Schwester.",
+              "安娜去看望她的妹妹。"
+            ],
+            [
+              "Paul sucht seinen Schlüssel.",
+              "保罗在找他的钥匙。"
             ]
           ]
         },
         {
           "title": "03 · unser / euer",
           "paragraphs": [
-            "物主词的词干表示拥有者，词尾由后面的名词性、数、格决定：mein Vater、meine Mutter、mein Buch、meinen Bruder。它们按 ein 类变化。"
+            "unser 是“我们的”，euer 是“你们的”。euer 加词尾时常省去中间的 e：eure Wohnung、euren Lehrer。"
           ],
-          "tables": [],
+          "tables": [
+            [
+              [
+                "格",
+                "阳性（mein Vater）",
+                "阴性（meine Mutter）",
+                "中性（mein Kind）",
+                "复数（meine Freunde）"
+              ],
+              [
+                "主格",
+                "mein",
+                "meine",
+                "mein",
+                "meine"
+              ],
+              [
+                "宾格",
+                "meinen",
+                "meine",
+                "mein",
+                "meine"
+              ]
+            ],
+            [
+              [
+                "拥有者",
+                "阳性主格",
+                "阴性主格",
+                "阳性宾格"
+              ],
+              [
+                "我",
+                "mein Vater",
+                "meine Mutter",
+                "meinen Vater"
+              ],
+              [
+                "你",
+                "dein Vater",
+                "deine Mutter",
+                "deinen Vater"
+              ],
+              [
+                "他",
+                "sein Vater",
+                "seine Mutter",
+                "seinen Vater"
+              ],
+              [
+                "她",
+                "ihr Vater",
+                "ihre Mutter",
+                "ihren Vater"
+              ],
+              [
+                "我们",
+                "unser Vater",
+                "unsere Mutter",
+                "unseren Vater"
+              ],
+              [
+                "你们",
+                "euer Vater",
+                "eure Mutter",
+                "euren Vater"
+              ],
+              [
+                "他们/您",
+                "ihr / Ihr Vater",
+                "ihre / Ihre Mutter",
+                "ihren / Ihren Vater"
+              ]
+            ]
+          ],
           "examples": [
             [
               "Ist das eure Wohnung?",
@@ -356636,17 +363100,91 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · Ihr",
           "paragraphs": [
-            "物主词的词干表示拥有者，词尾由后面的名词性、数、格决定：mein Vater、meine Mutter、mein Buch、meinen Bruder。它们按 ein 类变化。"
+            "ihr 可以是“她的”或“他们的”；大写的 Ihr 表示尊称“您的”。判断时同时看上下文和大小写。"
           ],
-          "tables": [],
-          "examples": [
+          "tables": [
             [
-              "Wir besuchen unsere Freunde.",
-              "我们拜访我们的朋友。"
+              [
+                "格",
+                "阳性（mein Vater）",
+                "阴性（meine Mutter）",
+                "中性（mein Kind）",
+                "复数（meine Freunde）"
+              ],
+              [
+                "主格",
+                "mein",
+                "meine",
+                "mein",
+                "meine"
+              ],
+              [
+                "宾格",
+                "meinen",
+                "meine",
+                "mein",
+                "meine"
+              ]
             ],
             [
-              "Ist das eure Wohnung?",
-              "这是你们的住房吗？"
+              [
+                "拥有者",
+                "阳性主格",
+                "阴性主格",
+                "阳性宾格"
+              ],
+              [
+                "我",
+                "mein Vater",
+                "meine Mutter",
+                "meinen Vater"
+              ],
+              [
+                "你",
+                "dein Vater",
+                "deine Mutter",
+                "deinen Vater"
+              ],
+              [
+                "他",
+                "sein Vater",
+                "seine Mutter",
+                "seinen Vater"
+              ],
+              [
+                "她",
+                "ihr Vater",
+                "ihre Mutter",
+                "ihren Vater"
+              ],
+              [
+                "我们",
+                "unser Vater",
+                "unsere Mutter",
+                "unseren Vater"
+              ],
+              [
+                "你们",
+                "euer Vater",
+                "eure Mutter",
+                "euren Vater"
+              ],
+              [
+                "他们/您",
+                "ihr / Ihr Vater",
+                "ihre / Ihre Mutter",
+                "ihren / Ihren Vater"
+              ]
+            ]
+          ],
+          "examples": [
+            [
+              "Anna sucht ihre Tasche.",
+              "安娜在找她的包。"
+            ],
+            [
+              "Ist das Ihr Buch, Frau Müller?",
+              "这是您的书吗，穆勒女士？"
             ]
           ]
         },
@@ -356711,7 +363249,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · kein 与 nicht 的区别",
           "paragraphs": [
-            "kein 否定名词短语，词尾按 ein 类变化：kein Buch、keine Zeit、keinen Mann。它用于“没有一个/任何”的意思。",
+            "kein 否定一个名词短语：Ich habe kein Auto。nicht 否定动作、性质或其他成分：Das Auto ist nicht neu。",
             "运用：否定名词时用 kein，并按阳性、阴性、中性和复数选择词尾。",
             "易错检查：kein 按 ein 类变化；阳性宾格是 keinen。"
           ],
@@ -356742,23 +363280,27 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Ich habe das Buch nicht gelesen.",
-              "我没有读这本书。"
+              "Ich habe kein Auto, aber mein Fahrrad ist nicht neu.",
+              "我没有汽车，但我的自行车并不新。"
             ]
           ]
         },
         {
           "title": "08 · nicht 的基础位置",
           "paragraphs": [
-            "nicht 否定动词、形容词、地点、时间或整句，位置取决于被否定的成分：nicht gut、nicht in Berlin。",
+            "nicht 放在要否定的成分前：nicht heute、nicht in Berlin、nicht gut。否定整个谓语时，它常靠近句框末端。",
             "运用：先确定否定焦点，再把 nicht 放在被否定成分前或句框中的合适位置。",
             "易错检查：先确定否定焦点，不要把 nicht 固定放在句末。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich habe das Buch nicht gelesen.",
-              "我没有读这本书。"
+              "Ich wohne nicht in Berlin.",
+              "我不住在柏林。"
+            ],
+            [
+              "Ich komme nicht heute, sondern morgen.",
+              "我不是今天来，而是明天来。"
             ]
           ]
         }
@@ -356926,7 +363468,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · können",
           "paragraphs": [
-            "情态动词承担人称变化，主要动词用不带 zu 的不定式放句末：Ich kann Deutsch sprechen。",
+            "können 表示能力或客观可能：Ich kann schwimmen。在请求句中 Können Sie …? 也很常见。",
             "运用：情态动词变位，另一个动词以不定式放句末。",
             "易错检查：情态动词变位，另一个动词保持不带 zu 的不定式并放句末。"
           ],
@@ -357016,7 +363558,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · müssen",
           "paragraphs": [
-            "情态动词承担人称变化，主要动词用不带 zu 的不定式放句末：Ich kann Deutsch sprechen。",
+            "müssen 表示必要或强制：Ich muss heute arbeiten。nicht müssen 是“不必”，不等于“不许”。",
             "运用：情态动词变位，另一个动词以不定式放句末。",
             "易错检查：情态动词变位，另一个动词保持不带 zu 的不定式并放句末。"
           ],
@@ -357106,7 +363648,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · wollen",
           "paragraphs": [
-            "情态动词承担人称变化，主要动词用不带 zu 的不定式放句末：Ich kann Deutsch sprechen。",
+            "wollen 表示明确意愿或打算：Wir wollen morgen fahren。语气比 möchten 直接。",
             "运用：情态动词变位，另一个动词以不定式放句末。",
             "易错检查：情态动词变位，另一个动词保持不带 zu 的不定式并放句末。"
           ],
@@ -357196,7 +363738,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · dürfen",
           "paragraphs": [
-            "情态动词承担人称变化，主要动词用不带 zu 的不定式放句末：Ich kann Deutsch sprechen。",
+            "dürfen 表示得到许可：Du darfst hier parken。nicht dürfen 表示禁止：Hier darf man nicht rauchen。",
             "运用：情态动词变位，另一个动词以不定式放句末。",
             "易错检查：情态动词变位，另一个动词保持不带 zu 的不定式并放句末。"
           ],
@@ -357286,7 +363828,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · sollen",
           "paragraphs": [
-            "情态动词承担人称变化，主要动词用不带 zu 的不定式放句末：Ich kann Deutsch sprechen。",
+            "sollen 常转述别人的要求、规定或建议：Der Arzt sagt, ich soll mehr schlafen。",
             "运用：情态动词变位，另一个动词以不定式放句末。",
             "易错检查：情态动词变位，另一个动词保持不带 zu 的不定式并放句末。"
           ],
@@ -357376,7 +363918,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · mögen / möchten",
           "paragraphs": [
-            "情态动词承担人称变化，主要动词用不带 zu 的不定式放句末：Ich kann Deutsch sprechen。",
+            "mögen 常表示喜欢：Ich mag Kaffee。möchte 用来委婉地表达愿望：Ich möchte einen Tee。",
             "运用：情态动词变位，另一个动词以不定式放句末。",
             "易错检查：情态动词变位，另一个动词保持不带 zu 的不定式并放句末。"
           ],
@@ -357466,7 +364008,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 情态动词变位",
           "paragraphs": [
-            "情态动词承担人称变化，主要动词保持不带 zu 的不定式并放在句末：Ich kann Deutsch sprechen。六个情态动词的单数现在时常有词干变化，复数较规则。"
+            "情态动词本身随主语变位。它们的 ich 和 er/sie/es 现在时常同形：ich kann、er kann；ich muss、er muss。"
           ],
           "tables": [
             [
@@ -357554,7 +364096,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · 情态动词句框",
           "paragraphs": [
-            "情态动词承担人称变化，主要动词保持不带 zu 的不定式并放在句末：Ich kann Deutsch sprechen。六个情态动词的单数现在时常有词干变化，复数较规则。"
+            "情态动词在主句左边变位，主要动词以不带 zu 的不定式放在句末：Ich kann heute länger arbeiten。"
           ],
           "tables": [
             [
@@ -357642,7 +364184,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · 第二个动词放句尾",
           "paragraphs": [
-            "情态动词承担人称变化，主要动词保持不带 zu 的不定式并放在句末：Ich kann Deutsch sprechen。六个情态动词的单数现在时常有词干变化，复数较规则。"
+            "句中有情态动词时，承担实际动作的动词放在末尾并保持不定式：Wir müssen heute lernen。"
           ],
           "tables": [],
           "examples": [
@@ -357796,7 +364338,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · 可分前缀",
           "paragraphs": [
-            "可分前缀在主句中与变位动词分开：Ich rufe dich an；不定式和分词保持整体：anzurufen、angerufen。不可分前缀 be-/emp-/ent-/er-/ver- 通常不分开，也通常不加 ge-。"
+            "an-、auf-、ein- 等可分前缀通常重读。在独立主句中，前缀移到句末：Ich rufe dich an。"
           ],
           "tables": [
             [
@@ -357826,7 +364368,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 可分动词现在时",
           "paragraphs": [
-            "可分前缀在主句中与变位动词分开：Ich rufe dich an；不定式和分词保持整体：anzurufen、angerufen。不可分前缀 be-/emp-/ent-/er-/ver- 通常不分开，也通常不加 ge-。"
+            "现在时只有动词词干部分变位，前缀留在句末：aufstehen → Ich stehe um sieben Uhr auf。"
           ],
           "tables": [
             [
@@ -357889,7 +364431,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 前缀位置",
           "paragraphs": [
-            "可分前缀在主句中与变位动词分开：Ich rufe dich an；不定式和分词保持整体：anzurufen、angerufen。不可分前缀 be-/emp-/ent-/er-/ver- 通常不分开，也通常不加 ge-。"
+            "变位主句中可分前缀在句末；不定式中它和动词重新连在一起：anrufen、aufstehen。"
           ],
           "tables": [
             [
@@ -357915,7 +364457,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · Satzklammer",
           "paragraphs": [
-            "可分前缀在主句中与变位动词分开：Ich rufe dich an；不定式和分词保持整体：anzurufen、angerufen。不可分前缀 be-/emp-/ent-/er-/ver- 通常不分开，也通常不加 ge-。"
+            "句框由左边的变位部分和右边的前缀或非变位动词组成：Ich rufe dich heute Abend an。中间可放宾语和状语。"
           ],
           "tables": [],
           "examples": [
@@ -357932,7 +364474,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 常见可分动词",
           "paragraphs": [
-            "可分前缀在主句中与变位动词分开：Ich rufe dich an；不定式和分词保持整体：anzurufen、angerufen。不可分前缀 be-/emp-/ent-/er-/ver- 通常不分开，也通常不加 ge-。"
+            "aufstehen、anrufen、einkaufen、ankommen 等要连同前缀和重音一起记。前缀往往会明显改变词义。"
           ],
           "tables": [
             [
@@ -357958,7 +364500,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 日常作息表达",
           "paragraphs": [
-            "可分前缀在主句中与变位动词分开：Ich rufe dich an；不定式和分词保持整体：anzurufen、angerufen。不可分前缀 be-/emp-/ent-/er-/ver- 通常不分开，也通常不加 ge-。"
+            "描述作息时常用可分动词和时间成分：Ich stehe um sieben Uhr auf und kaufe am Abend ein。"
           ],
           "tables": [],
           "examples": [
@@ -358178,7 +364720,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · und",
           "paragraphs": [
-            "weil/obwohl 引导动词末位从句；denn/aber 连接两个主句；deshalb/trotzdem 是句首成分，后接第二位动词。不同连接词决定不同语序。"
+            "und 连接并列的词、短语或句子，不改变后一主句的语序：Ich lerne Deutsch und meine Schwester lernt Englisch。"
           ],
           "tables": [],
           "examples": [
@@ -358191,7 +364733,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · aber",
           "paragraphs": [
-            "weil/obwohl 引导动词末位从句；denn/aber 连接两个主句；deshalb/trotzdem 是句首成分，后接第二位动词。不同连接词决定不同语序。"
+            "aber 表示转折，连接两个主句时不把动词推到末尾：Ich bin müde, aber ich lerne weiter。"
           ],
           "tables": [],
           "examples": [
@@ -358204,7 +364746,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · oder",
           "paragraphs": [
-            "weil/obwohl 引导动词末位从句；denn/aber 连接两个主句；deshalb/trotzdem 是句首成分，后接第二位动词。不同连接词决定不同语序。"
+            "oder 表示选择，可连接同类成分或两个主句：Möchtest du Tee oder Kaffee?"
           ],
           "tables": [],
           "examples": [
@@ -358217,7 +364759,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · denn",
           "paragraphs": [
-            "weil/obwohl 引导动词末位从句；denn/aber 连接两个主句；deshalb/trotzdem 是句首成分，后接第二位动词。不同连接词决定不同语序。"
+            "denn 说明原因，但连接的仍是主句，所以动词保持第二位：Ich bleibe zu Hause, denn ich bin krank。"
           ],
           "tables": [],
           "examples": [
@@ -358230,7 +364772,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · sondern",
           "paragraphs": [
-            "weil/obwohl 引导动词末位从句；denn/aber 连接两个主句；deshalb/trotzdem 是句首成分，后接第二位动词。不同连接词决定不同语序。"
+            "sondern 用在否定后作替换更正：Ich trinke keinen Tee, sondern Kaffee。前后成分应保持平行。"
           ],
           "tables": [],
           "examples": [
@@ -358243,7 +364785,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 数字",
           "paragraphs": [
-            "数字、日期、星期和时间要和固定表达一起记：am Montag、am 6. September、um neun Uhr；年龄用 sein + Jahre alt。"
+            "基数词表示数量。二十以上的个位数通常放在 und 前：einundzwanzig（21）。"
           ],
           "tables": [],
           "examples": [
@@ -358260,7 +364802,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 时间",
           "paragraphs": [
-            "数字、日期、星期和时间要和固定表达一起记：am Montag、am 6. September、um neun Uhr；年龄用 sein + Jahre alt。"
+            "钟点前常用 um：um neun Uhr。日常口语也常用 halb zehn表示九点半。"
           ],
           "tables": [],
           "examples": [
@@ -358277,7 +364819,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · 日期",
           "paragraphs": [
-            "数字、日期、星期和时间要和固定表达一起记：am Montag、am 6. September、um neun Uhr；年龄用 sein + Jahre alt。"
+            "读日期时使用序数词：Heute ist der sechste September。写在 am 后时用与格词尾：am sechsten September。"
           ],
           "tables": [],
           "examples": [
@@ -358290,7 +364832,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · 星期",
           "paragraphs": [
-            "星期常与 am 连用，月份常与 im 连用；年龄用 sein + 数字 + Jahre alt：Am Montag lerne ich；Im Mai reise ich；Ich bin zwanzig Jahre alt。"
+            "星期名词是阳性，表示“在星期几”常用 am：am Montag。表示每周重复可用 montags。"
           ],
           "tables": [],
           "examples": [
@@ -358307,7 +364849,7 @@ window.WORTWEG_DATA = {
         {
           "title": "10 · 月份",
           "paragraphs": [
-            "星期常与 am 连用，月份常与 im 连用；年龄用 sein + 数字 + Jahre alt：Am Montag lerne ich；Im Mai reise ich；Ich bin zwanzig Jahre alt。"
+            "月份名称前表示“在某月”常用 im：im Mai。说具体日期则用 am：am 6. Mai。"
           ],
           "tables": [],
           "examples": [
@@ -358324,7 +364866,7 @@ window.WORTWEG_DATA = {
         {
           "title": "11 · 年龄与个人信息",
           "paragraphs": [
-            "星期常与 am 连用，月份常与 im 连用；年龄用 sein + 数字 + Jahre alt：Am Montag lerne ich；Im Mai reise ich；Ich bin zwanzig Jahre alt。"
+            "年龄用 sein + 数字 + Jahre alt：Ich bin zwanzig Jahre alt。不使用 haben。"
           ],
           "tables": [],
           "examples": [
@@ -358563,7 +365105,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 第三格冠词",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。",
+            "与格定冠词是 dem、der、dem、den，复数名词还常加 -n：mit den Kindern。不定冠词为 einem、einer、einem。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -358638,7 +365180,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 第三格人称代词",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "与格人称代词是 mir、dir、ihm、ihr、ihm、uns、euch、ihnen/Ihnen。它们常表示接受者：Er gibt mir das Buch。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -358713,7 +365255,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 常见第三格动词",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "helfen、danken、gefallen、gehören、antworten 等动词要求 Dativ 对象：Ich helfe meinem Bruder。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -358764,7 +365306,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · Akkusativ / Dativ 初步区分",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "Akkusativ 常是直接受到动作影响的事物，Dativ 常是接受者或某些动词的固定对象：Ich gebe dem Kind den Ball。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -358843,7 +365385,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 间接宾语",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。"
+            "间接宾语常回答“给谁”，通常用 Dativ：Ich schicke meiner Freundin eine Nachricht。"
           ],
           "tables": [],
           "examples": [
@@ -359011,7 +365553,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Akkusativ 介词",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "durch、für、gegen、ohne、um 等固定支配 Akkusativ：durch den Park、für meinen Vater。",
             "运用：把介词和它支配的格作为一个整体使用。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -359049,19 +365591,19 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Ich sehe den Mann.",
-              "我看见那位男士。"
+              "Wir gehen durch den Park.",
+              "我们穿过公园。"
             ],
             [
-              "Sie kauft ein Buch.",
-              "她买了一本书。"
+              "Das Geschenk ist für meinen Vater.",
+              "这份礼物是给我父亲的。"
             ]
           ]
         },
         {
           "title": "02 · Dativ 介词",
           "paragraphs": [
-            "与格常表示接受者、受益者或固定支配对象：Ich gebe dir das Buch；Ich helfe dir。定冠词为 dem/der/dem/den，复数与格名词通常加 -n。",
+            "aus、außer、bei、mit、nach、seit、von、zu 等固定支配 Dativ：mit dem Bus、bei meiner Freundin。",
             "运用：把介词和它支配的格作为一个整体使用。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -359099,12 +365641,12 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Ich helfe meiner Freundin.",
-              "我帮助我的女朋友。"
+              "Sie kommt aus der Schweiz.",
+              "她来自瑞士。"
             ],
             [
-              "Ich gebe dir das Buch.",
-              "我把书给你。"
+              "Ich fahre mit dem Bus.",
+              "我坐公交车。"
             ]
           ]
         },
@@ -359125,7 +365667,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · wo",
           "paragraphs": [
-            "wo 可引导地点关系从句；正式写作常用介词 + 关系代词：die Stadt, in der ich wohne。"
+            "wo 问静态位置：Wo bist du? – Ich bin in der Schule。空间双向介词回答 wo 时用 Dativ。"
           ],
           "tables": [],
           "examples": [
@@ -359142,7 +365684,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · wohin",
           "paragraphs": [
-            "wohin：介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "wohin 问“去哪里”，答案表示目标：Wohin gehst du? – In die Schule。遇到双向介词时，这种目标方向通常用 Akkusativ。"
           ],
           "tables": [],
           "examples": [
@@ -359159,7 +365701,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · woher",
           "paragraphs": [
-            "woher：介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "woher 问“从哪里来”，常用 aus 或 von 回答：Woher kommst du? – Aus China。 Woher kommst du gerade? – Vom Bahnhof。"
           ],
           "tables": [],
           "examples": [
@@ -359176,7 +365718,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 介词与冠词缩合",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。",
+            "常用介词与定冠词会缩合：in dem → im、an dem → am、zu dem → zum、zu der → zur、in das → ins。",
             "运用：把介词和它支配的格作为一个整体使用。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -359252,7 +365794,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · nach / zu / in 的基础区别",
           "paragraphs": [
-            "nach / zu / in 的基础区别：介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "nach 常接无冠词的城市、国家和 nach Hause；zu 常表示去某人或某机构处；in 强调进入内部：nach Berlin、zum Arzt、in die Schule。"
           ],
           "tables": [],
           "examples": [
@@ -359419,7 +365961,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · an",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "an 常表示紧贴垂直表面或边界。静态用 Dativ：Das Bild hängt an der Wand；放到那里用 Akkusativ。"
           ],
           "tables": [],
           "examples": [
@@ -359436,7 +365978,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · auf",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "auf 常表示在有接触的水平表面上。Das Buch liegt auf dem Tisch 是位置，Ich lege es auf den Tisch 是目标。"
           ],
           "tables": [],
           "examples": [
@@ -359453,7 +365995,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · hinter",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "hinter 表示“在……后面”。位置用 Dativ：Das Fahrrad steht hinter dem Haus；移到后面用 Akkusativ。"
           ],
           "tables": [],
           "examples": [
@@ -359466,7 +366008,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · in",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "in 可表示在内部或进入内部。Wir sind im Park 回答 wo；Wir gehen in den Park 回答 wohin。"
           ],
           "tables": [],
           "examples": [
@@ -359483,7 +366025,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · neben",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "neben 表示“在……旁边”。静态位置用 Dativ：Der Stuhl steht neben dem Tisch。"
           ],
           "tables": [],
           "examples": [
@@ -359496,7 +366038,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · über",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "über 在空间义中可表示“在……上方”。没有位置变化时用 Dativ：Die Lampe hängt über dem Tisch。"
           ],
           "tables": [],
           "examples": [
@@ -359509,7 +366051,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · unter",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "unter 表示“在……下方”。静态用 Dativ：Die Tasche liegt unter dem Stuhl。"
           ],
           "tables": [],
           "examples": [
@@ -359522,7 +366064,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · vor",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "vor 在地点义中是“在……前面”：Wir warten vor dem Kino。它在时间义中还可表示“……以前”。"
           ],
           "tables": [],
           "examples": [
@@ -359535,7 +366077,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · zwischen",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "zwischen 表示位于两个或多个对象之间。静态用 Dativ：Der Tisch steht zwischen den Stühlen。"
           ],
           "tables": [],
           "examples": [
@@ -359548,7 +366090,7 @@ window.WORTWEG_DATA = {
         {
           "title": "10 · 静态 Dativ",
           "paragraphs": [
-            "与格常表示接受者、受益者或固定支配对象：Ich gebe dir das Buch；Ich helfe dir。定冠词为 dem/der/dem/den，复数与格名词通常加 -n。",
+            "双向介词回答 wo、描述已有位置时用 Dativ：Das Buch liegt auf dem Tisch。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -359597,7 +366139,7 @@ window.WORTWEG_DATA = {
         {
           "title": "11 · 方向 Akkusativ",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "双向介词回答 wohin、描述放置或进入的目标时用 Akkusativ：Ich lege das Buch auf den Tisch。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -359646,7 +366188,7 @@ window.WORTWEG_DATA = {
         {
           "title": "12 · wo / wohin 判断",
           "paragraphs": [
-            "wo / wohin 判断：双向介词在空间位置用与格，在目标方向或位置改变用宾格：Das Buch liegt auf dem Tisch；Ich lege das Buch auf den Tisch。"
+            "wo 问所在位置，双向介词后用 Dativ；wohin 问目标或位置变化，用 Akkusativ：Das Buch liegt auf dem Tisch – Ich lege es auf den Tisch。"
           ],
           "tables": [],
           "examples": [
@@ -359838,7 +366380,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 不可分前缀",
           "paragraphs": [
-            "不可分前缀：可分前缀在主句中与变位动词分开：Ich rufe dich an；不定式和分词保持整体：anzurufen、angerufen。不可分前缀 be-/emp-/ent-/er-/ver- 通常不分开，也通常不加 ge-。"
+            "be-、emp-、ent-、er-、ver-、zer- 等前缀通常不重读，动词在主句中不拆开：Ich verstehe dich。它们的 Partizip II 通常也不加 ge-：verstanden。"
           ],
           "tables": [
             [
@@ -359998,7 +366540,7 @@ window.WORTWEG_DATA = {
         {
           "title": "12 · 重音规律",
           "paragraphs": [
-            "über-、unter-、um- 等前缀可能可分也可能不可分；重音和词义共同决定。可分前缀通常重读，不可分前缀通常不重读。"
+            "前缀是否重读会影响可分性：可分用 übersetzen（摆渡）时 über 重读，主句中分开；不可分用 übersetzen（翻译）时重音在词干，主句中不分开。"
           ],
           "tables": [],
           "examples": [
@@ -361009,7 +367551,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · bitte",
           "paragraphs": [
-            "这是日常请求或指令中的固定表达；先确定礼貌程度，再安排动词形式和句框。"
+            "bitte 可放在请求开头、中间或结尾缓和语气：Bitte warten Sie；Warten Sie bitte hier。它不改变动词的命令式形式。"
           ],
           "tables": [],
           "examples": [
@@ -361022,7 +367564,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · können / könnten 基础请求",
           "paragraphs": [
-            "礼貌请求常用 bitte、Können Sie …? 或更委婉的 Könnten Sie …?；Sie 形式的动词按第三人称复数变化。"
+            "Können Sie …? 是普通礼貌请求；Könnten Sie …? 用第二虚拟式，语气更委婉。两者后面的主要动词都以不定式放句末。"
           ],
           "tables": [],
           "examples": [
@@ -361250,7 +367792,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · 比较级",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语用 am + -sten；gut–besser–am besten、hoch–höher–am höchsten 等需单独记。als 表差异，so … wie 表相同。",
+            "大多数形容词的比较级加 -er：schnell → schneller。和不同对象比较时用 als：Anna ist schneller als Tom。",
             "运用：比较不同用 als，相同用 so … wie；最高级注意名词前和表语位置。",
             "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
           ],
@@ -361293,7 +367835,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 最高级基础",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语/状语常用 am + -sten：warm–wärmer–am wärmsten。部分词变音或不规则：groß–größer，gut–besser–am besten。"
+            "最高级作表语或状语时常用 am + -(e)sten：Anna läuft am schnellsten。放在名词前则要加形容词词尾。"
           ],
           "tables": [
             [
@@ -361334,7 +367876,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · wie",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语/状语常用 am + -sten：warm–wärmer–am wärmsten。部分词变音或不规则：groß–größer，gut–besser–am besten。"
+            "wie 用在相同程度的比较中：Er ist so groß wie ich。不同程度的比较不用 wie。"
           ],
           "tables": [],
           "examples": [
@@ -361347,7 +367889,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · als",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语/状语常用 am + -sten：warm–wärmer–am wärmsten。部分词变音或不规则：groß–größer，gut–besser–am besten。"
+            "als 跟在比较级后，表示两者不同：Heute ist es wärmer als gestern。"
           ],
           "tables": [],
           "examples": [
@@ -361360,7 +367902,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · so ... wie",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语/状语常用 am + -sten：warm–wärmer–am wärmsten。部分词变音或不规则：groß–größer，gut–besser–am besten。"
+            "so … wie 表示相同程度：Das Auto ist so schnell wie der Zug。否定时可说 nicht so … wie。"
           ],
           "tables": [],
           "examples": [
@@ -361373,7 +367915,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 常见不规则比较级",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语用 am + -sten；gut–besser–am besten、hoch–höher–am höchsten 等需单独记。als 表差异，so … wie 表相同。",
+            "gut → besser、viel → mehr、gern → lieber 等不能只加 -er，需要把原级和比较级成对记忆。",
             "运用：比较不同用 als，相同用 so … wie；最高级注意名词前和表语位置。",
             "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
           ],
@@ -361416,7 +367958,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 形容词作表语",
           "paragraphs": [
-            "定语形容词的词尾与冠词共同表达性、数、格。定冠词后多为弱变化：der gute Mann、die gute Frau、das gute Buch、die guten Bücher。",
+            "形容词放在 sein、werden、bleiben 后作表语时不加词尾：Das Buch ist interessant；Das Wetter wird kalt。",
             "运用：先看冠词类型，再按名词性、数、格选择形容词词尾。",
             "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
           ],
@@ -361664,7 +368206,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · 时间介词",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "时间介词要和时间类型一起选：um 九点、am 星期一、im 五月、seit 两年。",
             "运用：把介词和它支配的格作为一个整体使用。"
           ],
           "tables": [],
@@ -361682,7 +368224,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · seit",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "seit + Dativ 表示从过去开始并延续到现在：Ich lerne seit einem Jahr Deutsch。德语这时通常用现在时。"
           ],
           "tables": [],
           "examples": [
@@ -361695,7 +368237,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · vor",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "时间表达 vor + Dativ 表示“……以前”：vor zwei Tagen、vor einem Jahr。它从现在或叙述参照点向前回看。"
           ],
           "tables": [],
           "examples": [
@@ -361708,7 +368250,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · für",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "für + Akkusativ 可表示持续时间、用途或受益者：für zwei Tage、für meine Mutter。"
           ],
           "tables": [],
           "examples": [
@@ -361721,7 +368263,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · ab",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "ab 表示从某个时点开始：Ab Montag arbeite ich wieder。它强调起点，不说明终点。"
           ],
           "tables": [],
           "examples": [
@@ -361734,7 +368276,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · bis",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "bis 表示终点：Ich bleibe bis Freitag。如果后面需要冠词，常与另一介词同用：bis zum Freitag。"
           ],
           "tables": [],
           "examples": [
@@ -361760,7 +368302,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · deshalb",
           "paragraphs": [
-            "weil/obwohl 引导动词末位从句；denn/aber 连接两个主句；deshalb/trotzdem 是句首成分，后接第二位动词。不同连接词决定不同语序。"
+            "deshalb 说明前句造成的结果。它是连接副词，放句首时变位动词紧跟：Deshalb bleibe ich zu Hause。"
           ],
           "tables": [],
           "examples": [
@@ -361773,7 +368315,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · deswegen",
           "paragraphs": [
-            "weil/obwohl 引导动词末位从句；denn/aber 连接两个主句；deshalb/trotzdem 是句首成分，后接第二位动词。不同连接词决定不同语序。"
+            "deswegen 表示“因此”，用法和 deshalb 接近：Es regnet. Deswegen nehme ich den Bus。"
           ],
           "tables": [],
           "examples": [
@@ -361786,7 +368328,7 @@ window.WORTWEG_DATA = {
         {
           "title": "10 · darum",
           "paragraphs": [
-            "weil/obwohl 引导动词末位从句；denn/aber 连接两个主句；deshalb/trotzdem 是句首成分，后接第二位动词。不同连接词决定不同语序。"
+            "darum 可在口语中引出结果：Ich bin müde, darum gehe ich früh ins Bett。它占主句第一成分位。"
           ],
           "tables": [],
           "examples": [
@@ -361799,7 +368341,7 @@ window.WORTWEG_DATA = {
         {
           "title": "11 · denn",
           "paragraphs": [
-            "weil/obwohl 引导动词末位从句；denn/aber 连接两个主句；deshalb/trotzdem 是句首成分，后接第二位动词。不同连接词决定不同语序。"
+            "denn 说明原因，但连接的仍是主句，所以动词保持第二位：Ich bleibe zu Hause, denn ich bin krank。"
           ],
           "tables": [],
           "examples": [
@@ -362035,7 +368577,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · Akkusativ",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "Akkusativ 常标记动作直接作用的对象：Ich sehe den Mann。找到动词后，问“看见/买/需要什么”，通常就能找到这个宾语。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -362133,7 +368675,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 三格冠词对比",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。",
+            "把冠词按 Nominativ/Akkusativ/Dativ 横向比较，重点观察阳性 der–den–dem，以及与格阴性 der。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -362208,7 +368750,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 三格人称代词",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "综合三格时，要将 ich/mich/mir、du/dich/dir 成组对照。句中的动词或介词决定选哪一列。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -362399,7 +368941,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 常见 Akkusativ 动词",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "haben、sehen、brauchen、fragen、besuchen 常带 Akkusativ。把动词记成 etwas brauchen 或 jemanden besuchen 会更实用。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -362448,7 +368990,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · 常见 Dativ 动词",
           "paragraphs": [
-            "与格常表示接受者、受益者或固定支配对象：Ich gebe dir das Buch；Ich helfe dir。定冠词为 dem/der/dem/den，复数与格名词通常加 -n。",
+            "helfen、danken、folgen、gefallen、gehören 常带 Dativ。不要根据中文宾语直接猜格。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -362497,7 +369039,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · 格的判断方法",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "先找谓语动词和介词，再问谁是主语、谁是直接对象、谁是接受者。格是由句法作用和固定支配决定的。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [],
@@ -362698,7 +369240,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Dativ + Akkusativ",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "同时出现两个宾语时，Dativ 常是接受者，Akkusativ 是被给出、展示或发送的事物：Ich gebe dem Kind den Ball。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -362777,7 +369319,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 人 + 物结构",
           "paragraphs": [
-            "双宾语常见“接受者（Dativ）+ 事物（Akkusativ）”。代词通常在名词前；两个代词并用时常为 Akkusativ 在前：Ich gebe es ihm。"
+            "“人 + 物”结构的人常用 Dativ，物常用 Akkusativ：Sie zeigt dem Gast das Zimmer。"
           ],
           "tables": [],
           "examples": [
@@ -362790,7 +369332,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · geben 类动词",
           "paragraphs": [
-            "双宾语常见“接受者（Dativ）+ 事物（Akkusativ）”。代词通常在名词前；两个代词并用时常为 Akkusativ 在前：Ich gebe es ihm。"
+            "geben、zeigen、schicken、bringen、erklären 等常可带“给谁 + 什么”两个宾语。"
           ],
           "tables": [],
           "examples": [
@@ -362803,7 +369345,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · zeigen",
           "paragraphs": [
-            "这类动词要连同它支配的宾语一起记；双宾语结构通常是“给谁（与格）+ 什么（宾格）”。"
+            "zeigen 常用 jemandem etwas zeigen：Sie zeigt mir den Weg。人用 Dativ，被展示的内容用 Akkusativ。"
           ],
           "tables": [],
           "examples": [
@@ -362816,7 +369358,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · schicken",
           "paragraphs": [
-            "这类动词要连同它支配的宾语一起记；双宾语结构通常是“给谁（与格）+ 什么（宾格）”。"
+            "schicken 常用 jemandem etwas schicken：Wir schicken dir eine Nachricht。"
           ],
           "tables": [],
           "examples": [
@@ -362829,7 +369371,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · erklären",
           "paragraphs": [
-            "这类动词要连同它支配的宾语一起记；双宾语结构通常是“给谁（与格）+ 什么（宾格）”。"
+            "erklären 可用 jemandem etwas erklären：Der Lehrer erklärt uns die Regel。"
           ],
           "tables": [],
           "examples": [
@@ -362842,7 +369384,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · bringen",
           "paragraphs": [
-            "这类动词要连同它支配的宾语一起记；双宾语结构通常是“给谁（与格）+ 什么（宾格）”。"
+            "bringen 可用 jemandem etwas bringen：Ich bringe dir einen Tee。这里 dir 是接收者。"
           ],
           "tables": [],
           "examples": [
@@ -362855,7 +369397,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · 双名词宾语顺序",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。"
+            "两个宾语都是名词时，中性语序通常是 Dativ 在前、Akkusativ 在后：Ich gebe dem Kind den Ball。"
           ],
           "tables": [],
           "examples": [
@@ -362868,7 +369410,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · 代词 + 名词",
           "paragraphs": [
-            "双宾语常见“接受者（Dativ）+ 事物（Akkusativ）”。代词通常在名词前；两个代词并用时常为 Akkusativ 在前：Ich gebe es ihm。"
+            "一个宾语是代词、另一个是名词时，代词通常在前：Ich gebe ihm das Buch。"
           ],
           "tables": [],
           "examples": [
@@ -362881,7 +369423,7 @@ window.WORTWEG_DATA = {
         {
           "title": "10 · 双代词顺序",
           "paragraphs": [
-            "双宾语常见“接受者（Dativ）+ 事物（Akkusativ）”。代词通常在名词前；两个代词并用时常为 Akkusativ 在前：Ich gebe es ihm。"
+            "两个宾语都是代词时，常用 Akkusativ + Dativ：Ich gebe es ihm。"
           ],
           "tables": [],
           "examples": [
@@ -363081,7 +369623,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Akkusativ 介词完整整理",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "常见 Akkusativ 介词可用 durch–für–gegen–ohne–um 成组整理；每个介词后冠词和代词都用宾格。",
             "运用：把介词和它支配的格作为一个整体使用。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -363119,19 +369661,15 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Ich sehe den Mann.",
-              "我看见那位男士。"
-            ],
-            [
-              "Sie kauft ein Buch.",
-              "她买了一本书。"
+              "Wir gehen ohne Regenschirm durch den Park.",
+              "我们没带伞穿过公园。"
             ]
           ]
         },
         {
           "title": "02 · Dativ 介词完整整理",
           "paragraphs": [
-            "与格常表示接受者、受益者或固定支配对象：Ich gebe dir das Buch；Ich helfe dir。定冠词为 dem/der/dem/den，复数与格名词通常加 -n。",
+            "常见 Dativ 介词包括 aus、außer、bei、mit、nach、seit、von、zu；复数与格名词通常还要加 -n。",
             "运用：把介词和它支配的格作为一个整体使用。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -363169,19 +369707,15 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Ich helfe meiner Freundin.",
-              "我帮助我的女朋友。"
-            ],
-            [
-              "Ich gebe dir das Buch.",
-              "我把书给你。"
+              "Seit dem Kurs spreche ich oft mit meiner Nachbarin.",
+              "自从参加课程后，我常和邻居交谈。"
             ]
           ]
         },
         {
           "title": "03 · Wechselpräpositionen",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "an、auf、hinter、in、neben、über、unter、vor、zwischen 在空间义中可支配 Dativ 或 Akkusativ，格由位置和目标的区别决定。",
             "运用：把介词和它支配的格作为一个整体使用。"
           ],
           "tables": [],
@@ -363195,7 +369729,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 时间介词",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "时间介词要和时间类型一起选：um 九点、am 星期一、im 五月、seit 两年。",
             "运用：把介词和它支配的格作为一个整体使用。"
           ],
           "tables": [],
@@ -363213,7 +369747,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 地点介词",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "地点介词要连同“在哪里”的答案记忆：im Büro、am Bahnhof、bei meiner Freundin。",
             "运用：把介词和它支配的格作为一个整体使用。"
           ],
           "tables": [],
@@ -363227,7 +369761,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 方向介词",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "表示目标时要区分 nach Berlin、zum Arzt、in die Schweiz 和 nach Hause。名词类型和是否进入内部会影响选择。",
             "运用：把介词和它支配的格作为一个整体使用。"
           ],
           "tables": [],
@@ -363241,7 +369775,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 介词缩合",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "常用介词和定冠词会缩合：an dem → am、in dem → im、zu dem → zum、zu der → zur。",
             "运用：把介词和它支配的格作为一个整体使用。"
           ],
           "tables": [],
@@ -363255,7 +369789,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · 格与介词综合判断",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "遇到介词先查它的支配格；如果是双向介词，再判断句子说的是位置还是目标。",
             "运用：把介词和它支配的格作为一个整体使用。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -363419,7 +369953,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · 反身代词",
           "paragraphs": [
-            "反身代词指向主语：ich–mich、du–dich、er/sie–sich、wir–uns、ihr–euch、sie/Sie–sich。若另有宾语，反身代词可能用与格：Ich wasche mir die Hände。",
+            "反身代词指回主语：ich – mich、du – dich、er/sie – sich。动词是否必须带反身代词要按词条记忆。",
             "运用：先判断反身代词的格；有身体部位等其他宾语时常用与格。"
           ],
           "tables": [],
@@ -363437,7 +369971,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · Akkusativ 反身",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "没有另一个直接宾语时，反身代词通常用 Akkusativ：Ich wasche mich；Du erinnerst dich。",
             "运用：先判断反身代词的格；有身体部位等其他宾语时常用与格。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -363475,19 +370009,19 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Sie kauft ein Buch.",
-              "她买了一本书。"
+              "Du erinnerst dich an den Termin.",
+              "你记得那个约定。"
             ],
             [
-              "Ich sehe den Mann.",
-              "我看见那位男士。"
+              "Ich wasche mich.",
+              "我洗漱。"
             ]
           ]
         },
         {
           "title": "03 · Dativ 反身",
           "paragraphs": [
-            "与格常表示接受者、受益者或固定支配对象：Ich gebe dir das Buch；Ich helfe dir。定冠词为 dem/der/dem/den，复数与格名词通常加 -n。",
+            "句中已有另一个 Akkusativ 宾语时，反身代词常用 Dativ：Ich wasche mir die Hände。",
             "运用：先判断反身代词的格；有身体部位等其他宾语时常用与格。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -363537,7 +370071,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 真反身动词",
           "paragraphs": [
-            "反身代词指向主语：ich–mich、du–dich、er/sie–sich、wir–uns、ihr–euch、sie/Sie–sich。若另有宾语，反身代词可能用与格：Ich wasche mir die Hände。",
+            "真反身动词中的反身代词不能省略，例如 sich beeilen、sich erkälten。去掉 sich 后结构会不完整或词义改变。",
             "运用：先判断反身代词的格；有身体部位等其他宾语时常用与格。"
           ],
           "tables": [],
@@ -363551,7 +370085,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 非真反身用法",
           "paragraphs": [
-            "反身代词指向主语：ich–mich、du–dich、er/sie–sich、wir–uns、ihr–euch、sie/Sie–sich。若另有宾语，反身代词可能用与格：Ich wasche mir die Hände。",
+            "有些动词既可作用于别人，也可指回主语：Ich wasche das Kind – Ich wasche mich。这里的反身用法由句意决定。",
             "运用：先判断反身代词的格；有身体部位等其他宾语时常用与格。"
           ],
           "tables": [],
@@ -363565,7 +370099,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 常见反身动词",
           "paragraphs": [
-            "反身代词指向主语：ich–mich、du–dich、er/sie–sich、wir–uns、ihr–euch、sie/Sie–sich。若另有宾语，反身代词可能用与格：Ich wasche mir die Hände。",
+            "常见组合包括 sich erinnern、sich interessieren、sich freuen、sich treffen。有固定介词时要整组记。",
             "运用：先判断反身代词的格；有身体部位等其他宾语时常用与格。"
           ],
           "tables": [],
@@ -363771,7 +370305,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Perfekt 强化",
           "paragraphs": [
-            "完成时由现在时助动词 haben/sein + Partizip II 组成：Ich habe gelernt；Ich bin gekommen。haben 是默认选择：及物动词（Ich habe das Buch gelesen）、反身动词和大多数不表示位置改变的动词用 haben。sein 主要用于不及物的地点移动（gehen, kommen, fahren）、状态变化（aufstehen, einschlafen, werden）以及 bleiben、sein 本身。",
+            "复习 Perfekt 时要同时确认助动词和 Partizip II：Ich habe gelernt，Ich bin gekommen。句首成分改变不会改变句末分词。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -363824,7 +370358,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · Präteritum 基础",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "弱变化动词的过去时常用词干 + -te：lernte。强变化动词常改变词干：kam、sah。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -363877,7 +370411,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · war / hatte",
           "paragraphs": [
-            "Plusquamperfekt = hatte/war + Partizip II，表示过去某一参照点之前已经发生。nachdem 从句常用过去完成时，主句用过去时。"
+            "war 和 hatte 是 sein、haben 的 Präteritum：ich war/hatte，du warst/hattest，wir waren/hatten。口语讲过去时也很常用。"
           ],
           "tables": [],
           "examples": [
@@ -363890,7 +370424,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 情态动词 Präteritum",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "情态动词在口语回顾中也常用 Präteritum：konnte、musste、wollte、durfte、sollte。变音在这些形式中通常消失。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -364017,7 +370551,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 常见 Präteritum 高频形式",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "war、hatte、ging、kam、sagte、wusste 等过去时形式在叙事和报道中很常见，适合与原形成对记。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -364070,7 +370604,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · Perfekt 与 Präteritum 的基础区别",
           "paragraphs": [
-            "完成时由现在时助动词 haben/sein + Partizip II 组成：Ich habe gelernt；Ich bin gekommen。haben 是默认选择：及物动词（Ich habe das Buch gelesen）、反身动词和大多数不表示位置改变的动词用 haben。sein 主要用于不及物的地点移动（gehen, kommen, fahren）、状态变化（aufstehen, einschlafen, werden）以及 bleiben、sein 本身。",
+            "口语回顾动作常用 Perfekt，书面叙事常用 Präteritum。sein、haben 和情态动词即使在口语中也常用 Präteritum。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -364323,7 +370857,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · 主句与从句",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "主句可以独立成句，从句通常依附主句并由连词引出。两者之间用逗号分隔。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -364338,7 +370872,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 从句动词置尾",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "weil、dass、wenn、ob 等引出的从句把变位动词放在末尾：..., weil ich heute arbeite。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -364353,7 +370887,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · weil",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "weil 引出原因从句，动词放末尾：Ich bleibe zu Hause, weil ich krank bin。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -364367,7 +370901,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · dass",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "dass 引出陈述、想法、感受或信息的具体内容：Ich weiß, dass er kommt。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -364381,7 +370915,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · wenn",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "wenn 可表示条件、现在/将来的时间，或过去重复发生的情况。从句动词放末尾。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -364395,7 +370929,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · als",
           "paragraphs": [
-            "als 引导过去一次性发生的时间从句，变位动词放在从句末尾：Als ich klein war, wohnte ich in Bonn。"
+            "als 引导过去一次性事件的时间从句：Als ich klein war, wohnte ich in Bonn。从句动词放末尾。"
           ],
           "tables": [],
           "examples": [
@@ -364408,7 +370942,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · ob",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。"
+            "ob 引出“是否”问题：Ich weiß nicht, ob er kommt。它不表示“如果”。"
           ],
           "tables": [],
           "examples": [
@@ -364421,7 +370955,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · 主句 + 从句",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "主句在前时，主句保持 V2，逗号后的从句动词放末尾：Ich bleibe hier, weil es regnet。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -364436,7 +370970,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · 从句 + 主句",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "从句放在前面时，它整体占主句第一成分位：Wenn es regnet, bleibe ich hier。主句动词紧跟逗号。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -364738,7 +371272,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 最高级",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语/状语常用 am + -sten：warm–wärmer–am wärmsten。部分词变音或不规则：groß–größer，gut–besser–am besten。"
+            "最高级表示一组中程度最高。表语/状语用 am schnellsten，名词前用 der schnellste Zug 这类形式。"
           ],
           "tables": [
             [
@@ -364779,7 +371313,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · als",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语/状语常用 am + -sten：warm–wärmer–am wärmsten。部分词变音或不规则：groß–größer，gut–besser–am besten。"
+            "als 跟在比较级后，表示两者不同：Heute ist es wärmer als gestern。"
           ],
           "tables": [],
           "examples": [
@@ -364792,7 +371326,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · wie",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语/状语常用 am + -sten：warm–wärmer–am wärmsten。部分词变音或不规则：groß–größer，gut–besser–am besten。"
+            "wie 用在相同程度的比较中：Er ist so groß wie ich。不同程度的比较不用 wie。"
           ],
           "tables": [],
           "examples": [
@@ -364805,7 +371339,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · so ... wie",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语/状语常用 am + -sten：warm–wärmer–am wärmsten。部分词变音或不规则：groß–größer，gut–besser–am besten。"
+            "so … wie 表示相同程度：Das Auto ist so schnell wie der Zug。否定时可说 nicht so … wie。"
           ],
           "tables": [],
           "examples": [
@@ -364818,7 +371352,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · immer + 比较级",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语用 am + -sten；gut–besser–am besten、hoch–höher–am höchsten 等需单独记。als 表差异，so … wie 表相同。",
+            "immer + 比较级表示持续变化：Es wird immer kälter。这里不需要 als 比较对象。",
             "运用：比较不同用 als，相同用 so … wie；最高级注意名词前和表语位置。",
             "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
           ],
@@ -364861,7 +371395,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 不规则比较变化",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语/状语常用 am + -sten：warm–wärmer–am wärmsten。部分词变音或不规则：groß–größer，gut–besser–am besten。",
+            "gut – besser – am besten、hoch – höher – am höchsten 等有词干变化，不能完全按 -er/-sten 直接拼。",
             "运用：比较不同用 als，相同用 so … wie；最高级注意名词前和表语位置。",
             "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
           ],
@@ -364904,7 +371438,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · 比较句",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语/状语常用 am + -sten：warm–wärmer–am wärmsten。部分词变音或不规则：groß–größer，gut–besser–am besten。",
+            "比较句要同时说清比较维度和对象：Dieses Buch ist interessanter als das andere。",
             "运用：比较不同用 als，相同用 so … wie；最高级注意名词前和表语位置。",
             "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
           ],
@@ -365104,7 +371638,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · 动词 + Akkusativ",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "sehen、brauchen、besuchen、fragen 等及物动词常带 Akkusativ：Ich besuche meinen Freund。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -365153,7 +371687,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 动词 + Dativ",
           "paragraphs": [
-            "与格常表示接受者、受益者或固定支配对象：Ich gebe dir das Buch；Ich helfe dir。定冠词为 dem/der/dem/den，复数与格名词通常加 -n。",
+            "helfen、danken、folgen、gefallen 等动词固定带 Dativ：Ich helfe dem Kind。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -365202,7 +371736,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 动词 + 固定介词",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "有些动词需要固定介词，介词又决定后面的格：warten auf + Akkusativ、teilnehmen an + Dativ。",
             "运用：把介词和它支配的格作为一个整体使用。"
           ],
           "tables": [],
@@ -365220,7 +371754,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · warten auf",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "warten 与 auf + Akkusativ 搭配：Ich warte auf den Bus。问事物用 Worauf，问人用 Auf wen。"
           ],
           "tables": [],
           "examples": [
@@ -365233,7 +371767,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · denken an",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "denken an + Akkusativ 表示想到或惦记：Ich denke an meine Familie。问事物用 Woran。"
           ],
           "tables": [],
           "examples": [
@@ -365246,7 +371780,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · sprechen über / mit",
           "paragraphs": [
-            "sprechen über / mit：da(r)- + 介词谈事物或内容：daran、darauf、dafür；wo(r)- + 介词构成对应问句：woran、worauf。介词以元音开头时加入 r。"
+            "mit + Dativ 说明和谁交谈，über + Akkusativ 说明谈论什么：Ich spreche mit Anna über die Prüfung。两个介词成分可在同一句中出现。"
           ],
           "tables": [],
           "examples": [
@@ -365259,7 +371793,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · sich interessieren für",
           "paragraphs": [
-            "sich interessieren für：da(r)- + 介词谈事物或内容：daran、darauf、dafür；wo(r)- + 介词构成对应问句：woran、worauf。介词以元音开头时加入 r。"
+            "sich interessieren für + Akkusativ 表示“对……感兴趣”。反身代词随主语变化，介词 für 保持不变：Ich interessiere mich für Musik。"
           ],
           "tables": [
             [
@@ -365300,7 +371834,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · da(r)- 结构入门",
           "paragraphs": [
-            "谈事物用 da(r)- 代副词，问事物用 wo(r)-；谈人用介词 + 代词：Worauf wartest du? – Darauf；Auf wen wartest du?"
+            "da(r)- + 介词代替已知的事物或内容：Ich warte darauf。介词以元音开头时加 r。"
           ],
           "tables": [],
           "examples": [
@@ -365313,7 +371847,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · wo(r)- 结构入门",
           "paragraphs": [
-            "谈事物用 da(r)- 代副词，问事物用 wo(r)-；谈人用介词 + 代词：Worauf wartest du? – Darauf；Auf wen wartest du?"
+            "wo(r)- + 介词用来询问事物或内容：Worauf wartest du? 询问人时改用介词 + wen/wem。"
           ],
           "tables": [],
           "examples": [
@@ -365518,7 +372052,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 第二格冠词",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。",
+            "Genitiv 定冠词是 des/der/des/der，不定冠词是 eines/einer/eines；阳性和中性名词通常再加 -(e)s。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -365637,7 +372171,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 阳性 / 中性名词 -s / -es",
           "paragraphs": [
-            "属格表达所属或正式原因关系：das Buch des Kindes、wegen des Wetters。阳性和中性单数定冠词为 des，名词常加 -(e)s。弱变化阳性名词除主格外常加 -(e)n。"
+            "阳性和中性单数名词在 Genitiv 中通常加 -s 或 -es：des Lehrers、des Kindes。单音节词及以 s 音结尾的词常用 -es。"
           ],
           "tables": [],
           "examples": [
@@ -365650,7 +372184,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 第二格表示所属",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "Genitiv 把所属者放在被所属名词之后：das Auto meines Vaters。人名所属也可前置：Annas Buch。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -365695,7 +372229,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 常见 Genitiv 介词",
           "paragraphs": [
-            "属格表达所属或正式原因关系：das Buch des Kindes、wegen des Wetters。阳性和中性单数定冠词为 des，名词常加 -(e)s。弱变化阳性名词除主格外常加 -(e)n。",
+            "wegen、trotz、während、innerhalb、außerhalb 等在正式标准语中常支配 Genitiv：wegen des Wetters。",
             "运用：把介词和它支配的格作为一个整体使用。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -365741,7 +372275,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 四格对比",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "Nominativ 标主语，Akkusativ 标直接宾语，Dativ 常标接受者，Genitiv 常标所属：Der Vater gibt dem Kind das Buch des Lehrers。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -365783,7 +372317,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · N-Deklination 入门",
           "paragraphs": [
-            "属格表达所属或正式原因关系：das Buch des Kindes、wegen des Wetters。阳性和中性单数定冠词为 des，名词常加 -(e)s。弱变化阳性名词除主格外常加 -(e)n。"
+            "Student、Junge、Kunde 等弱变化阳性名词除 Nominativ 单数外通常加 -(e)n：der Student，den/dem/des Studenten。"
           ],
           "tables": [
             [
@@ -365816,12 +372350,8 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Wir sind im Park.",
-              "我们在公园里。"
-            ],
-            [
-              "Wir gehen in den Park.",
-              "我们去公园。"
+              "Ich spreche mit dem Studenten.",
+              "我和那位大学生交谈。"
             ]
           ]
         }
@@ -365993,39 +372523,19 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "格",
-                "阳性（der gute Mann）",
-                "阴性（die gute Frau）",
-                "中性（das gute Kind）",
-                "复数（die guten Kinder）"
+                "位置",
+                "形式",
+                "例句"
               ],
               [
-                "主格",
-                "-e",
-                "-e",
-                "-e",
-                "-en"
+                "名词前",
+                "冠词 + 形容词词尾 + 名词",
+                "ein gutes Buch"
               ],
               [
-                "宾格",
-                "-en",
-                "-e",
-                "-e",
-                "-en"
-              ],
-              [
-                "与格",
-                "-en",
-                "-en",
-                "-en",
-                "-en"
-              ],
-              [
-                "属格",
-                "-en",
-                "-en",
-                "-en",
-                "-en"
+                "sein 后表语",
+                "形容词无词尾",
+                "Das Buch ist gut."
               ]
             ]
           ],
@@ -366039,13 +372549,13 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 定冠词后变化",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。",
+            "定冠词已经清楚显示性、数、格，形容词采用弱变化：主格单数部分位置用 -e，其余大多用 -en。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
             [
               [
-                "定冠词",
+                "格",
                 "阳性",
                 "阴性",
                 "中性",
@@ -366053,68 +372563,31 @@ window.WORTWEG_DATA = {
               ],
               [
                 "主格",
-                "der",
-                "die",
-                "das",
-                "die"
+                "der gute Mann",
+                "die gute Frau",
+                "das gute Kind",
+                "die guten Kinder"
               ],
               [
                 "宾格",
-                "den",
-                "die",
-                "das",
-                "die"
+                "den guten Mann",
+                "die gute Frau",
+                "das gute Kind",
+                "die guten Kinder"
               ],
               [
                 "与格",
-                "dem",
-                "der",
-                "dem",
-                "den"
+                "dem guten Mann",
+                "der guten Frau",
+                "dem guten Kind",
+                "den guten Kindern"
               ],
               [
                 "属格",
-                "des",
-                "der",
-                "des",
-                "der"
-              ]
-            ],
-            [
-              [
-                "不定冠词",
-                "阳性",
-                "阴性",
-                "中性",
-                "复数"
-              ],
-              [
-                "主格",
-                "ein",
-                "eine",
-                "ein",
-                "—"
-              ],
-              [
-                "宾格",
-                "einen",
-                "eine",
-                "ein",
-                "—"
-              ],
-              [
-                "与格",
-                "einem",
-                "einer",
-                "einem",
-                "—"
-              ],
-              [
-                "属格",
-                "eines",
-                "einer",
-                "eines",
-                "—"
+                "des guten Mannes",
+                "der guten Frau",
+                "des guten Kindes",
+                "der guten Kinder"
               ]
             ]
           ],
@@ -366128,82 +372601,45 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 不定冠词后变化",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。",
+            "ein 类冠词没有显示词尾的地方，形容词补出强词尾：ein guter Mann、ein gutes Buch；其他位置多用 -en。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
             [
               [
-                "定冠词",
+                "格",
                 "阳性",
                 "阴性",
                 "中性",
-                "复数"
+                "复数（物主/kein）"
               ],
               [
                 "主格",
-                "der",
-                "die",
-                "das",
-                "die"
+                "ein guter Mann",
+                "eine gute Frau",
+                "ein gutes Kind",
+                "meine guten Freunde"
               ],
               [
                 "宾格",
-                "den",
-                "die",
-                "das",
-                "die"
+                "einen guten Mann",
+                "eine gute Frau",
+                "ein gutes Kind",
+                "meine guten Freunde"
               ],
               [
                 "与格",
-                "dem",
-                "der",
-                "dem",
-                "den"
+                "einem guten Mann",
+                "einer guten Frau",
+                "einem guten Kind",
+                "meinen guten Freunden"
               ],
               [
                 "属格",
-                "des",
-                "der",
-                "des",
-                "der"
-              ]
-            ],
-            [
-              [
-                "不定冠词",
-                "阳性",
-                "阴性",
-                "中性",
-                "复数"
-              ],
-              [
-                "主格",
-                "ein",
-                "eine",
-                "ein",
-                "—"
-              ],
-              [
-                "宾格",
-                "einen",
-                "eine",
-                "ein",
-                "—"
-              ],
-              [
-                "与格",
-                "einem",
-                "einer",
-                "einem",
-                "—"
-              ],
-              [
-                "属格",
-                "eines",
-                "einer",
-                "eines",
-                "—"
+                "eines guten Mannes",
+                "einer guten Frau",
+                "eines guten Kindes",
+                "meiner guten Freunde"
               ]
             ]
           ],
@@ -366217,13 +372653,13 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 零冠词后变化",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。",
+            "没有冠词时，形容词自己承担性、数、格信息，通常使用强变化词尾：kaltes Wasser、mit kaltem Wasser。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
             [
               [
-                "定冠词",
+                "格",
                 "阳性",
                 "阴性",
                 "中性",
@@ -366231,68 +372667,31 @@ window.WORTWEG_DATA = {
               ],
               [
                 "主格",
-                "der",
-                "die",
-                "das",
-                "die"
+                "guter Wein",
+                "frische Milch",
+                "kaltes Wasser",
+                "gute Bücher"
               ],
               [
                 "宾格",
-                "den",
-                "die",
-                "das",
-                "die"
+                "guten Wein",
+                "frische Milch",
+                "kaltes Wasser",
+                "gute Bücher"
               ],
               [
                 "与格",
-                "dem",
-                "der",
-                "dem",
-                "den"
+                "gutem Wein",
+                "frischer Milch",
+                "kaltem Wasser",
+                "guten Büchern"
               ],
               [
                 "属格",
-                "des",
-                "der",
-                "des",
-                "der"
-              ]
-            ],
-            [
-              [
-                "不定冠词",
-                "阳性",
-                "阴性",
-                "中性",
-                "复数"
-              ],
-              [
-                "主格",
-                "ein",
-                "eine",
-                "ein",
-                "—"
-              ],
-              [
-                "宾格",
-                "einen",
-                "eine",
-                "ein",
-                "—"
-              ],
-              [
-                "与格",
-                "einem",
-                "einer",
-                "einem",
-                "—"
-              ],
-              [
-                "属格",
-                "eines",
-                "einer",
-                "eines",
-                "—"
+                "guten Weines",
+                "frischer Milch",
+                "kalten Wassers",
+                "guter Bücher"
               ]
             ]
           ],
@@ -366306,30 +372705,57 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · Nominativ",
           "paragraphs": [
-            "Nominativ 通常标记主语或系动词后的身份说明：Der Mann arbeitet；Sie ist Ärztin。"
+            "Nominativ 的形容词词尾取决于冠词类型：der gute Mann、ein guter Mann、guter Wein。重点是冠词是否已经显示阳性主格。"
           ],
-          "tables": [],
+          "tables": [
+            [
+              [
+                "冠词类型",
+                "阳性",
+                "阴性",
+                "中性",
+                "复数"
+              ],
+              [
+                "定冠词",
+                "der gute Mann",
+                "die gute Frau",
+                "das gute Kind",
+                "die guten Kinder"
+              ],
+              [
+                "ein 类",
+                "ein guter Mann",
+                "eine gute Frau",
+                "ein gutes Kind",
+                "meine guten Kinder"
+              ],
+              [
+                "零冠词",
+                "guter Wein",
+                "frische Milch",
+                "kaltes Wasser",
+                "gute Bücher"
+              ]
+            ]
+          ],
           "examples": [
             [
-              "Wir sind im Park.",
-              "我们在公园里。"
-            ],
-            [
-              "Wir gehen in den Park.",
-              "我们去公园。"
+              "Der gute Mann hilft. – Ein guter Mann hilft.",
+              "这位好心的男士在帮忙。——一位好心的男士在帮忙。"
             ]
           ]
         },
         {
           "title": "06 · Akkusativ",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "Akkusativ 阳性最容易辨认：den/einen 后形容词用 -en；零冠词时也用 guten。阴性和中性保持各自的 -e/-es。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
             [
               [
-                "宾格（Akkusativ）",
+                "冠词类型",
                 "阳性",
                 "阴性",
                 "中性",
@@ -366337,48 +372763,44 @@ window.WORTWEG_DATA = {
               ],
               [
                 "定冠词",
-                "den",
-                "die",
-                "das",
-                "die"
+                "den guten Mann",
+                "die gute Frau",
+                "das gute Kind",
+                "die guten Kinder"
               ],
               [
-                "不定冠词",
-                "einen",
-                "eine",
-                "ein",
-                "—"
+                "ein 类",
+                "einen guten Mann",
+                "eine gute Frau",
+                "ein gutes Kind",
+                "meine guten Kinder"
               ],
               [
-                "kein",
-                "keinen",
-                "keine",
-                "kein",
-                "keine"
+                "零冠词",
+                "guten Wein",
+                "frische Milch",
+                "kaltes Wasser",
+                "gute Bücher"
               ]
             ]
           ],
           "examples": [
             [
-              "Sie kauft ein Buch.",
-              "她买了一本书。"
-            ],
-            [
-              "Ich sehe den Mann.",
-              "我看见那位男士。"
+              "Ich sehe den guten Mann. – Ich sehe einen guten Mann.",
+              "我看见这位好心的男士。——我看见一位好心的男士。"
             ]
           ]
         },
         {
           "title": "07 · Dativ",
           "paragraphs": [
-            "与格常表示接受者、受益者或固定支配对象：Ich gebe dir das Buch；Ich helfe dir。定冠词为 dem/der/dem/den，复数与格名词通常加 -n。",
+            "Dativ 中定冠词和 ein 类词后，形容词统一用 -en：dem guten Mann、einer guten Frau；零冠词才用 starkem/starker 等强词尾。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
             [
               [
-                "与格（Dativ）",
+                "冠词类型",
                 "阳性",
                 "阴性",
                 "中性",
@@ -366386,48 +372808,44 @@ window.WORTWEG_DATA = {
               ],
               [
                 "定冠词",
-                "dem",
-                "der",
-                "dem",
-                "den (+n)"
+                "dem guten Mann",
+                "der guten Frau",
+                "dem guten Kind",
+                "den guten Kindern"
               ],
               [
-                "不定冠词",
-                "einem",
-                "einer",
-                "einem",
-                "—"
+                "ein 类",
+                "einem guten Mann",
+                "einer guten Frau",
+                "einem guten Kind",
+                "meinen guten Kindern"
               ],
               [
-                "人称代词",
-                "ihm",
-                "ihr",
-                "ihm",
-                "ihnen"
+                "零冠词",
+                "gutem Wein",
+                "frischer Milch",
+                "kaltem Wasser",
+                "guten Büchern"
               ]
             ]
           ],
           "examples": [
             [
-              "Ich gebe dir das Buch.",
-              "我把书给你。"
-            ],
-            [
-              "Ich helfe meiner Freundin.",
-              "我帮助我的女朋友。"
+              "Ich helfe dem guten Mann. – Ich helfe einem guten Mann.",
+              "我帮助这位好心的男士。——我帮助一位好心的男士。"
             ]
           ]
         },
         {
           "title": "08 · Genitiv",
           "paragraphs": [
-            "属格表达所属或正式原因关系：das Buch des Kindes、wegen des Wetters。阳性和中性单数定冠词为 des，名词常加 -(e)s。弱变化阳性名词除主格外常加 -(e)n。",
+            "Genitiv 中定冠词和 ein 类词后形容词通常用 -en：des guten Mannes、einer guten Frau；阳性和中性名词还常加 -(e)s。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
             [
               [
-                "属格（Genitiv）",
+                "冠词类型",
                 "阳性",
                 "阴性",
                 "中性",
@@ -366435,77 +372853,67 @@ window.WORTWEG_DATA = {
               ],
               [
                 "定冠词",
-                "des",
-                "der",
-                "des",
-                "der"
+                "des guten Mannes",
+                "der guten Frau",
+                "des guten Kindes",
+                "der guten Kinder"
               ],
               [
-                "不定冠词",
-                "eines",
-                "einer",
-                "eines",
-                "—"
+                "ein 类",
+                "eines guten Mannes",
+                "einer guten Frau",
+                "eines guten Kindes",
+                "meiner guten Kinder"
               ],
               [
-                "名词示例",
-                "des Kindes",
-                "der Frau",
-                "des Buches",
-                "der Kinder"
+                "零冠词",
+                "guten Weines",
+                "frischer Milch",
+                "kalten Wassers",
+                "guter Bücher"
               ]
             ]
           ],
           "examples": [
             [
-              "Das ist das Auto meines Vaters.",
-              "这是我父亲的汽车。"
+              "Wegen des schlechten Wetters bleiben wir zu Hause.",
+              "由于天气不好，我们待在家里。"
             ]
           ]
         },
         {
           "title": "09 · 形容词变化判断流程",
           "paragraphs": [
-            "定语形容词的词尾与冠词共同表达性、数、格。定冠词后多为弱变化：der gute Mann、die gute Frau、das gute Buch、die guten Bücher。",
+            "先判格，再看名词性数，最后看冠词是否已经显示格信息：冠词清楚时形容词多用弱词尾，否则用强词尾补足信息。",
             "运用：先看冠词类型，再按名词性、数、格选择形容词词尾。",
             "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
           ],
           "tables": [
             [
               [
-                "格",
-                "阳性（der gute Mann）",
-                "阴性（die gute Frau）",
-                "中性（das gute Kind）",
-                "复数（die guten Kinder）"
+                "步骤",
+                "判断",
+                "示例"
               ],
               [
-                "主格",
-                "-e",
-                "-e",
-                "-e",
-                "-en"
+                "1",
+                "确定格",
+                "mit → Dativ"
               ],
               [
-                "宾格",
-                "-en",
-                "-e",
-                "-e",
-                "-en"
+                "2",
+                "确定性和数",
+                "das Kind → 中性单数"
               ],
               [
-                "与格",
-                "-en",
-                "-en",
-                "-en",
-                "-en"
+                "3",
+                "看冠词是否显示格",
+                "mit einem → 冠词已显示"
               ],
               [
-                "属格",
-                "-en",
-                "-en",
-                "-en",
-                "-en"
+                "4",
+                "选择形容词词尾",
+                "mit einem guten Kind"
               ]
             ]
           ],
@@ -366703,19 +373111,15 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Wir sind im Park.",
-              "我们在公园里。"
-            ],
-            [
-              "Wir gehen in den Park.",
-              "我们去公园。"
+              "Ich versuche, jeden Tag Deutsch zu lernen.",
+              "我努力每天学德语。"
             ]
           ]
         },
         {
           "title": "02 · 动词 + zu",
           "paragraphs": [
-            "zu 不定式常接在尝试、计划、希望、重要等结构后。um … zu 表目的，ohne … zu 表没有做某事，statt … zu 表代替。可分动词把 zu 放在前缀后。"
+            "versuchen、hoffen、planen、vergessen 等动词可接 zu + Infinitiv：Ich versuche, täglich zu lernen。"
           ],
           "tables": [],
           "examples": [
@@ -366728,50 +373132,46 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · um ... zu",
           "paragraphs": [
-            "zu 不定式常接在尝试、计划、希望、重要等结构后。um … zu 表目的，ohne … zu 表没有做某事，statt … zu 表代替。可分动词把 zu 放在前缀后。"
+            "um … zu 表示目的，主句和不定式结构的逻辑主语必须相同：Ich lerne, um die Prüfung zu bestehen。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich versuche, Deutsch zu lernen.",
-              "我尝试学习德语。"
+              "Ich lerne jeden Tag, um die Prüfung zu bestehen.",
+              "我每天学习，为了通过考试。"
             ]
           ]
         },
         {
           "title": "04 · ohne ... zu",
           "paragraphs": [
-            "zu 不定式常接在尝试、计划、希望、重要等结构后。um … zu 表目的，ohne … zu 表没有做某事，statt … zu 表代替。可分动词把 zu 放在前缀后。"
+            "ohne … zu 表示“没有做某事”，逻辑主语与主句相同：Er ging, ohne sich zu verabschieden。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich versuche, Deutsch zu lernen.",
-              "我尝试学习德语。"
+              "Er ging, ohne sich zu verabschieden.",
+              "他没有道别就走了。"
             ]
           ]
         },
         {
           "title": "05 · statt / anstatt ... zu",
           "paragraphs": [
-            "zu 不定式常接在尝试、计划、希望、重要等结构后。um … zu 表目的，ohne … zu 表没有做某事，statt … zu 表代替。可分动词把 zu 放在前缀后。"
+            "statt/anstatt … zu 表示用一个动作替代另一个动作：Sie liest, statt fernzusehen。两部分逻辑主语相同。"
           ],
           "tables": [],
           "examples": [
             [
-              "Das Bild hängt an der Wand.",
-              "画挂在墙上。"
-            ],
-            [
-              "Ich hänge das Bild an die Wand.",
-              "我把画挂到墙上。"
+              "Sie liest, statt fernzusehen.",
+              "她读书，而不是看电视。"
             ]
           ]
         },
         {
           "title": "06 · zu 在可分动词中的位置",
           "paragraphs": [
-            "zu 不定式常接在尝试、计划、希望、重要等结构后。um … zu 表目的，ohne … zu 表没有做某事，statt … zu 表代替。可分动词把 zu 放在前缀后。"
+            "可分动词的 zu 放在前缀和词干之间：aufstehen → aufzustehen，einkaufen → einzukaufen。"
           ],
           "tables": [
             [
@@ -366799,21 +373199,25 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Ich versuche, Deutsch zu lernen.",
-              "我尝试学习德语。"
+              "Ich versuche, morgen früh aufzustehen.",
+              "我努力明天早起。"
             ]
           ]
         },
         {
           "title": "07 · 不使用 zu 的情况",
           "paragraphs": [
-            "zu 不定式常接在尝试、计划、希望、重要等结构后。um … zu 表目的，ohne … zu 表没有做某事，statt … zu 表代替。可分动词把 zu 放在前缀后。"
+            "情态动词以及 sehen、hören、lassen 后通常直接接不带 zu 的不定式：Ich muss arbeiten；Ich höre ihn singen。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich versuche, Deutsch zu lernen.",
-              "我尝试学习德语。"
+              "Ich muss morgen arbeiten.",
+              "我明天必须工作。"
+            ],
+            [
+              "Ich höre ihn singen.",
+              "我听见他唱歌。"
             ]
           ]
         }
@@ -366990,7 +373394,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · obwohl",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "obwohl 引出让步从句，说明障碍存在但结果仍发生：Obwohl ich müde bin, lerne ich weiter。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -367004,7 +373408,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · bevor",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "bevor 引出较早发生的动作：Bevor ich schlafe, lese ich。从句本身不要求特定时态，时态由时间关系决定。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -367018,7 +373422,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · nachdem",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "nachdem 引出先发生的事件。过去叙事中常用 Plusquamperfekt + Präteritum：Nachdem ich gegessen hatte, ging ich spazieren。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -367032,7 +373436,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · während",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。"
+            "während 表示两个过程同时发生，也可形成对比：Während ich koche, hört er Musik。"
           ],
           "tables": [],
           "examples": [
@@ -367045,7 +373449,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · seitdem",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。"
+            "seitdem 表示从过去某点开始并持续到参照时刻：Seitdem ich hier wohne, fahre ich mit dem Rad。"
           ],
           "tables": [],
           "examples": [
@@ -367058,7 +373462,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · bis",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "bis 表示终点：Ich bleibe bis Freitag。如果后面需要冠词，常与另一介词同用：bis zum Freitag。"
           ],
           "tables": [],
           "examples": [
@@ -367071,7 +373475,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · damit",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。"
+            "damit 引出目的从句，主语可以和主句不同：Ich spreche langsam, damit du mich verstehst。"
           ],
           "tables": [],
           "examples": [
@@ -367084,7 +373488,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · falls",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。"
+            "falls 表示不确定条件，接近“万一/如果”：Falls du Zeit hast, ruf mich an。从句动词放末尾。"
           ],
           "tables": [],
           "examples": [
@@ -367097,7 +373501,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · sodass / so dass",
           "paragraphs": [
-            "sodass / so dass：weil/obwohl 引导动词末位从句；denn/aber 连接两个主句；deshalb/trotzdem 是句首成分，后接第二位动词。不同连接词决定不同语序。",
+            "sodass 和 so dass 都引出结果，变位动词放在从句末尾：Es regnete stark, sodass wir zu Hause blieben。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -367124,7 +373528,7 @@ window.WORTWEG_DATA = {
         {
           "title": "11 · 时间",
           "paragraphs": [
-            "数字、日期、星期和时间要和固定表达一起记：am Montag、am 6. September、um neun Uhr；年龄用 sein + Jahre alt。"
+            "钟点前常用 um：um neun Uhr。日常口语也常用 halb zehn表示九点半。"
           ],
           "tables": [],
           "examples": [
@@ -367141,7 +373545,7 @@ window.WORTWEG_DATA = {
         {
           "title": "12 · 条件",
           "paragraphs": [
-            "先按逻辑选择结构：weil 表原因，wenn/falls 表条件，obwohl 表让步，damit/um … zu 表目的，sodass 表结果；连接词类别决定动词位置。"
+            "条件关系说明什么前提下结果成立。常用 wenn、falls、sofern 或 vorausgesetzt, dass；选择取决于条件的确定程度和语体。"
           ],
           "tables": [],
           "examples": [
@@ -367154,7 +373558,7 @@ window.WORTWEG_DATA = {
         {
           "title": "13 · 让步",
           "paragraphs": [
-            "先按逻辑选择结构：weil 表原因，wenn/falls 表条件，obwohl 表让步，damit/um … zu 表目的，sodass 表结果；连接词类别决定动词位置。"
+            "让步关系说明结果在障碍存在时仍成立：Obwohl er müde ist, arbeitet er weiter；也可用 trotzdem 接主句。"
           ],
           "tables": [],
           "examples": [
@@ -367167,7 +373571,7 @@ window.WORTWEG_DATA = {
         {
           "title": "14 · 目的",
           "paragraphs": [
-            "先按逻辑选择结构：weil 表原因，wenn/falls 表条件，obwohl 表让步，damit/um … zu 表目的，sodass 表结果；连接词类别决定动词位置。"
+            "目的关系回答“为了什么”。同一主语常用 um … zu，不同主语或需完整分句时用 damit。"
           ],
           "tables": [],
           "examples": [
@@ -367180,7 +373584,7 @@ window.WORTWEG_DATA = {
         {
           "title": "15 · 结果",
           "paragraphs": [
-            "先按逻辑选择结构：weil 表原因，wenn/falls 表条件，obwohl 表让步，damit/um … zu 表目的，sodass 表结果；连接词类别决定动词位置。"
+            "结果关系说明前面的情况造成什么后果。sodass 引出动词末位从句，deshalb/daher 则引出 V2 主句。"
           ],
           "tables": [],
           "examples": [
@@ -367380,7 +373784,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · Nominativ 关系代词",
           "paragraphs": [
-            "性和数跟先行词，格由关系从句中的动词或介词决定。Der Mann, den ich sehe：先行词阳性，但 sehen 的宾语位置要求 den。",
+            "关系代词在从句中作主语时用 Nominativ：der Mann, der wartet。它的性和数由先行词决定。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。"
           ],
           "tables": [
@@ -367410,15 +373814,15 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Das ist der Mann, den ich sehe.",
-              "这就是我看见的那位男士。"
+              "Der Mann, der dort wartet, ist mein Lehrer.",
+              "在那里等待的男士是我的老师。"
             ]
           ]
         },
         {
           "title": "03 · Akkusativ 关系代词",
           "paragraphs": [
-            "性和数跟先行词，格由关系从句中的动词或介词决定。Der Mann, den ich sehe：先行词阳性，但 sehen 的宾语位置要求 den。",
+            "关系代词在从句中作直接宾语时用 Akkusativ：der Mann, den ich sehe。阳性单数最容易看出 der → den。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -367479,12 +373883,8 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Ich sehe den Mann.",
-              "我看见那位男士。"
-            ],
-            [
-              "Sie kauft ein Buch.",
-              "她买了一本书。"
+              "Der Mann, den ich dort sehe, ist mein Lehrer.",
+              "我在那里看到的男士是我的老师。"
             ]
           ]
         },
@@ -367504,22 +373904,22 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 关系从句语序",
           "paragraphs": [
-            "关系代词的性数跟先行词，格跟它在从句中的作用。关系从句用逗号隔开，变位动词放末尾：Der Mann, den ich sehe, …",
+            "关系从句用逗号隔开，变位动词放在末尾：Das Buch, das ich gekauft habe, ist spannend。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich weiß, dass sie kommt.",
-              "我知道她会来。"
+              "Das Buch, das ich gestern gekauft habe, ist spannend.",
+              "我昨天买的那本书很精彩。"
             ]
           ]
         },
         {
           "title": "06 · 关系代词性数格判断",
           "paragraphs": [
-            "性和数跟先行词，格由关系从句中的动词或介词决定。Der Mann, den ich sehe：先行词阳性，但 sehen 的宾语位置要求 den。",
+            "关系代词的性、数来自先行词，格则由它在从句中的作用决定。先看先行词，再在从句里判断主语、宾语或介词支配。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -367892,7 +374292,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 推测基础",
           "paragraphs": [
-            "推测基础：könnte、hätte、wäre 和 würde + 不定式表达委婉请求或非现实愿望。Futur I 是 werden + 不定式，但有明确时间时现在时也自然。"
+            "werden + Infinitiv 除了表示将来，还能根据当前情况作推测：Er wird jetzt zu Hause sein 表示“他现在大概在家”。"
           ],
           "tables": [],
           "examples": [
@@ -367905,7 +374305,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · werden + 形容词",
           "paragraphs": [
-            "werden + 不定式构成 Futur I，也可表达推测；werden + 形容词表示变化；werden + Partizip II 构成过程被动。要结合句型判断功能。",
+            "werden + 形容词表示状态发生变化：Es wird dunkel；Das Kind wird müde。这里 werden 是“变得”。",
             "运用：先看冠词类型，再按名词性、数、格选择形容词词尾。",
             "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
           ],
@@ -367950,38 +374350,34 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "ein gutes Buch",
-              "一本好书"
+              "Es wird dunkel.",
+              "天渐渐黑了。"
             ]
           ]
         },
         {
           "title": "06 · werden 与 sein 区别",
           "paragraphs": [
-            "werden + 不定式构成 Futur I，也可表达推测；werden + 形容词表示变化；werden + Partizip II 构成过程被动。要结合句型判断功能。"
+            "werden + 形容词强调变化过程，sein + 形容词描述已有状态：Es wird kalt（变冷）和 Es ist kalt（很冷）。"
           ],
           "tables": [],
           "examples": [
             [
-              "Wir sind zu Hause.",
-              "我们在家。"
-            ],
-            [
-              "Ich bin müde.",
-              "我累了。"
+              "Es wird kalt. – Es ist kalt.",
+              "天气变冷了。——天气很冷。"
             ]
           ]
         },
         {
           "title": "07 · werden 的不同功能预览",
           "paragraphs": [
-            "werden + 不定式构成 Futur I，也可表达推测；werden + 形容词表示变化；werden + Partizip II 构成过程被动。要结合句型判断功能。"
+            "werden 可作实义动词表示“变得”，可与不定式构成 Futur I，也可与 Partizip II 构成过程被动。要看句末成分判断功能。"
           ],
           "tables": [],
           "examples": [
             [
-              "Wer regelmäßig übt, macht Fortschritte.",
-              "经常练习的人会进步。"
+              "Er wird Arzt. – Er wird kommen. – Die Tür wird geöffnet.",
+              "他成为医生。——他会来。——门被打开。"
             ]
           ]
         }
@@ -368252,7 +374648,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 使某事发生",
           "paragraphs": [
-            "lassen + Akkusativ + Infinitiv 可表示让某人做某事；lassen + 事物 + Infinitiv 常表示安排别人处理：Ich lasse mein Fahrrad reparieren。"
+            "lassen + 宾语 + 不定式可表示使某人做某事：Der Lehrer lässt die Schüler den Satz wiederholen。"
           ],
           "tables": [],
           "examples": [
@@ -368265,7 +374661,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 不亲自做某事",
           "paragraphs": [
-            "lassen + Akkusativ + Infinitiv 可表示让某人做某事；lassen + 事物 + Infinitiv 常表示安排别人处理：Ich lasse mein Fahrrad reparieren。"
+            "lassen + 事物 + 不定式常表示安排别人完成：Ich lasse mein Fahrrad reparieren，重点是自己不亲自修。"
           ],
           "tables": [],
           "examples": [
@@ -368278,7 +374674,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · sich lassen 基础",
           "paragraphs": [
-            "lassen + 不定式表示让别人做或安排某事；sich lassen + 不定式表示“可以被……”。完成时和从句中的句末动词群要整体处理。"
+            "sich lassen + Infinitiv 表示某事可以做到：Der Text lässt sich leicht verstehen，相当于“这篇文章容易理解”。"
           ],
           "tables": [
             [
@@ -368329,7 +374725,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 常见 lassen 表达",
           "paragraphs": [
-            "lassen + 不定式表示让别人做或安排某事；sich lassen + 不定式表示“可以被……”。完成时和从句中的句末动词群要整体处理。"
+            "lassen 既可表示让、使、留下，也可构成 etwas machen lassen 和 sich machen lassen。具体意义由宾语和不定式决定。"
           ],
           "tables": [
             [
@@ -368601,7 +374997,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 时间 / 原因 / 方式 / 地点",
           "paragraphs": [
-            "时间 / 原因 / 方式 / 地点：主句的有限动词占第二成分位（V2）：第一成分可以是主语、时间、地点或宾语。第一成分换了，动词仍保持第二位：Heute lerne ich；In Berlin arbeitet sie。"
+            "中场里几个状语都是中性信息时，常用 TeKaMoLo：时间—原因—方式—地点。例如 Ich fahre morgen wegen des Termins mit dem Zug nach Berlin。"
           ],
           "tables": [],
           "examples": [
@@ -368633,7 +375029,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 宾语位置",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。"
+            "宾语位置受格、代词和信息重点影响。代词通常先于名词；两个名词中常是 Dativ 在前、Akkusativ 在后。"
           ],
           "tables": [],
           "examples": [
@@ -368646,7 +375042,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 代词位置",
           "paragraphs": [
-            "代词位置：主句的有限动词占第二成分位（V2）：第一成分可以是主语、时间、地点或宾语。第一成分换了，动词仍保持第二位：Heute lerne ich；In Berlin arbeitet sie。"
+            "人称代词通常比名词短，在中场里也常靠前：Ich gebe ihm das Buch。两个代词同时出现时，通常是 Akkusativ 在前：Ich gebe es ihm。"
           ],
           "tables": [
             [
@@ -368729,7 +375125,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 多成分句子",
           "paragraphs": [
-            "先找有限动词和句框末端，再分析中场的代词、宾语和状语；长句按主句、从句和定语边界逐层拆开。"
+            "先固定主句 V2 和句框，再安排中场。中性顺序常是时间—原因—方式—地点，但代词、强调和已知信息会改变排列。"
           ],
           "tables": [],
           "examples": [
@@ -368935,7 +375331,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · 四格功能",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "四个格分工不同：Nominativ 标主语，Akkusativ 标直接对象，Dativ 常标接受者，Genitiv 常表达所属。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -368977,7 +375373,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 四格冠词完整表",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。",
+            "冠词表要同时按性、数和四个格读取。先确定名词，再看它在句中的作用，最后选对应格的一格。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -369093,7 +375489,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 四格人称代词",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "人称代词要按格成组比较：ich–mich–mir，du–dich–dir，er–ihn–ihm。Genitiv 人称代词在日常表达中很少使用。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -369279,8 +375675,8 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Ich sehe den Mann.",
-              "我看见那位男士。"
+              "Ich gebe meinem Bruder sein Buch.",
+              "我把哥哥的书给他。"
             ]
           ]
         },
@@ -369332,7 +375728,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · N-Deklination",
           "paragraphs": [
-            "属格表达所属或正式原因关系：das Buch des Kindes、wegen des Wetters。阳性和中性单数定冠词为 des，名词常加 -(e)s。弱变化阳性名词除主格外常加 -(e)n。"
+            "弱变化阳性名词除主格单数外都带 -(e)n：der Student，den/dem/des Studenten；复数也为 die Studenten。"
           ],
           "tables": [
             [
@@ -369365,19 +375761,15 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Wir gehen in den Park.",
-              "我们去公园。"
-            ],
-            [
-              "Wir sind im Park.",
-              "我们在公园里。"
+              "Der Student hilft dem Kunden.",
+              "那位大学生帮助顾客。"
             ]
           ]
         },
         {
           "title": "07 · 弱变化阳性名词",
           "paragraphs": [
-            "属格表达所属或正式原因关系：das Buch des Kindes、wegen des Wetters。阳性和中性单数定冠词为 des，名词常加 -(e)s。弱变化阳性名词除主格外常加 -(e)n。"
+            "常见弱变化阳性名词包括 Student、Junge、Kunde、Kollege、Mensch。判断依据是词条类型，不是所有阳性名词都这样变化。"
           ],
           "tables": [
             [
@@ -369418,7 +375810,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · 格综合判断",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "不要只凭词序猜格。先看介词和动词支配，再判断主语、直接宾语、接受者和所属关系。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [],
@@ -369626,143 +376018,152 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "原形",
-                "du",
-                "er/sie/es",
-                "变化"
+                "格",
+                "阳性",
+                "阴性",
+                "中性",
+                "复数"
               ],
               [
-                "fahren",
-                "fährst",
-                "fährt",
-                "a → ä"
+                "主格",
+                "guter",
+                "gute",
+                "gutes",
+                "gute"
               ],
               [
-                "lesen",
-                "liest",
-                "liest",
-                "e → ie"
+                "宾格",
+                "guten",
+                "gute",
+                "gutes",
+                "gute"
               ],
               [
-                "nehmen",
-                "nimmst",
-                "nimmt",
-                "e → i"
+                "与格",
+                "gutem",
+                "guter",
+                "gutem",
+                "guten"
               ],
               [
-                "sprechen",
-                "sprichst",
-                "spricht",
-                "e → i"
+                "属格",
+                "guten",
+                "guter",
+                "guten",
+                "guter"
               ]
             ]
           ],
           "examples": [
             [
-              "Ein guter Freund hilft einer alten Frau.",
-              "一位好朋友帮助一位年长的女士。"
+              "Guter Kaffee ist nicht billig.",
+              "好咖啡并不便宜。"
+            ],
+            [
+              "Mit kaltem Wasser geht es schneller.",
+              "用冷水会更快。"
             ]
           ]
         },
         {
           "title": "02 · 弱变化",
           "paragraphs": [
-            "定冠词类后形容词多弱变化，零冠词时形容词承担格信息：kaltes Wasser、gute Bücher。复数中 keine/meine 等词后通常是 -en。"
+            "定冠词、dieser、jeder 等已明确显示性数格时，形容词主要用 -e 或 -en：der gute Mann、mit dem guten Mann。"
           ],
           "tables": [
             [
               [
                 "格",
-                "弱变化：定冠词后",
-                "混合变化：ein 类词后"
+                "阳性",
+                "阴性",
+                "中性",
+                "复数"
               ],
               [
-                "主格阳性",
-                "der gute Mann",
-                "ein guter Mann"
+                "主格",
+                "der gute",
+                "die gute",
+                "das gute",
+                "die guten"
               ],
               [
-                "主格阴性",
-                "die gute Frau",
-                "eine gute Frau"
-              ],
-              [
-                "主格中性",
-                "das gute Kind",
-                "ein gutes Kind"
-              ],
-              [
-                "宾格阳性",
-                "den guten Mann",
-                "einen guten Mann"
+                "宾格",
+                "den guten",
+                "die gute",
+                "das gute",
+                "die guten"
               ],
               [
                 "与格",
-                "dem guten Mann",
-                "einem guten Mann"
+                "dem guten",
+                "der guten",
+                "dem guten",
+                "den guten"
               ],
               [
-                "复数",
-                "die guten Kinder",
-                "meine guten Kinder"
+                "属格",
+                "des guten",
+                "der guten",
+                "des guten",
+                "der guten"
               ]
             ]
           ],
           "examples": [
             [
-              "Ein guter Freund hilft einer alten Frau.",
-              "一位好朋友帮助一位年长的女士。"
+              "Der gute Kaffee kommt aus Brasilien.",
+              "这种好咖啡来自巴西。"
             ]
           ]
         },
         {
           "title": "03 · 混合变化",
           "paragraphs": [
-            "定冠词类后形容词多弱变化，零冠词时形容词承担格信息：kaltes Wasser、gute Bücher。复数中 keine/meine 等词后通常是 -en。"
+            "ein、kein、mein 等有些形式没有词尾，形容词在这些位置补出强词尾：ein guter Mann；其余位置多用 -en。"
           ],
           "tables": [
             [
               [
                 "格",
-                "弱变化：定冠词后",
-                "混合变化：ein 类词后"
+                "阳性",
+                "阴性",
+                "中性",
+                "复数（物主/kein）"
               ],
               [
-                "主格阳性",
-                "der gute Mann",
-                "ein guter Mann"
+                "主格",
+                "ein guter",
+                "eine gute",
+                "ein gutes",
+                "meine guten"
               ],
               [
-                "主格阴性",
-                "die gute Frau",
-                "eine gute Frau"
-              ],
-              [
-                "主格中性",
-                "das gute Kind",
-                "ein gutes Kind"
-              ],
-              [
-                "宾格阳性",
-                "den guten Mann",
-                "einen guten Mann"
+                "宾格",
+                "einen guten",
+                "eine gute",
+                "ein gutes",
+                "meine guten"
               ],
               [
                 "与格",
-                "dem guten Mann",
-                "einem guten Mann"
+                "einem guten",
+                "einer guten",
+                "einem guten",
+                "meinen guten"
               ],
               [
-                "复数",
-                "die guten Kinder",
-                "meine guten Kinder"
+                "属格",
+                "eines guten",
+                "einer guten",
+                "eines guten",
+                "meiner guten"
               ]
             ]
           ],
           "examples": [
             [
-              "Ein guter Freund hilft einer alten Frau.",
-              "一位好朋友帮助一位年长的女士。"
+              "Ein guter Kaffee hilft am Morgen.",
+              "一杯好咖啡在早晨很提神。"
             ]
           ]
         },
@@ -369776,28 +376177,33 @@ window.WORTWEG_DATA = {
             [
               [
                 "格",
-                "问题",
-                "阳性定冠词示例"
+                "定冠词后",
+                "ein 类后",
+                "零冠词"
               ],
               [
-                "主格",
-                "谁/什么？",
-                "der Mann"
+                "主格阳性",
+                "der gute Mann",
+                "ein guter Mann",
+                "guter Wein"
               ],
               [
-                "宾格",
-                "谁/什么被作用？",
-                "den Mann"
+                "宾格阳性",
+                "den guten Mann",
+                "einen guten Mann",
+                "guten Wein"
               ],
               [
-                "与格",
-                "给谁/对谁？",
-                "dem Mann"
+                "与格阳性",
+                "dem guten Mann",
+                "einem guten Mann",
+                "gutem Wein"
               ],
               [
-                "属格",
-                "谁的？",
-                "des Mannes"
+                "属格阳性",
+                "des guten Mannes",
+                "eines guten Mannes",
+                "guten Weines"
               ]
             ]
           ],
@@ -369818,7 +376224,7 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "kein",
+                "格",
                 "阳性",
                 "阴性",
                 "中性",
@@ -369826,31 +376232,24 @@ window.WORTWEG_DATA = {
               ],
               [
                 "主格",
-                "kein",
-                "keine",
-                "kein",
-                "keine"
+                "kein guter Mann",
+                "keine gute Frau",
+                "kein gutes Kind",
+                "keine guten Kinder"
               ],
               [
                 "宾格",
-                "keinen",
-                "keine",
-                "kein",
-                "keine"
+                "keinen guten Mann",
+                "keine gute Frau",
+                "kein gutes Kind",
+                "keine guten Kinder"
               ],
               [
                 "与格",
-                "keinem",
-                "keiner",
-                "keinem",
-                "keinen"
-              ],
-              [
-                "属格",
-                "keines",
-                "keiner",
-                "keines",
-                "keiner"
+                "keinem guten Mann",
+                "keiner guten Frau",
+                "keinem guten Kind",
+                "keinen guten Kindern"
               ]
             ]
           ],
@@ -369876,104 +376275,31 @@ window.WORTWEG_DATA = {
             [
               [
                 "格",
-                "阳性（mein Vater）",
-                "阴性（meine Mutter）",
-                "中性（mein Kind）",
-                "复数（meine Freunde）"
+                "阳性",
+                "阴性",
+                "中性",
+                "复数"
               ],
               [
                 "主格",
-                "mein",
-                "meine",
-                "mein",
-                "meine"
+                "mein guter Freund",
+                "meine gute Freundin",
+                "mein gutes Buch",
+                "meine guten Freunde"
               ],
               [
                 "宾格",
-                "meinen",
-                "meine",
-                "mein",
-                "meine"
+                "meinen guten Freund",
+                "meine gute Freundin",
+                "mein gutes Buch",
+                "meine guten Freunde"
               ],
               [
                 "与格",
-                "meinem",
-                "meiner",
-                "meinem",
-                "meinen"
-              ],
-              [
-                "属格",
-                "meines",
-                "meiner",
-                "meines",
-                "meiner"
-              ]
-            ],
-            [
-              [
-                "拥有者",
-                "阳性主格",
-                "阴性主格",
-                "阳性宾格",
-                "阳性与格",
-                "复数与格"
-              ],
-              [
-                "我",
-                "mein Vater",
-                "meine Mutter",
-                "meinen Vater",
-                "meinem Vater",
-                "meinen Freunden"
-              ],
-              [
-                "你",
-                "dein Vater",
-                "deine Mutter",
-                "deinen Vater",
-                "deinem Vater",
-                "deinen Freunden"
-              ],
-              [
-                "他",
-                "sein Vater",
-                "seine Mutter",
-                "seinen Vater",
-                "seinem Vater",
-                "seinen Freunden"
-              ],
-              [
-                "她",
-                "ihr Vater",
-                "ihre Mutter",
-                "ihren Vater",
-                "ihrem Vater",
-                "ihren Freunden"
-              ],
-              [
-                "我们",
-                "unser Vater",
-                "unsere Mutter",
-                "unseren Vater",
-                "unserem Vater",
-                "unseren Freunden"
-              ],
-              [
-                "你们",
-                "euer Vater",
-                "eure Mutter",
-                "euren Vater",
-                "eurem Vater",
-                "euren Freunden"
-              ],
-              [
-                "他们/您",
-                "ihr / Ihr Vater",
-                "ihre / Ihre Mutter",
-                "ihren / Ihren Vater",
-                "ihrem / Ihrem Vater",
-                "ihren / Ihren Freunden"
+                "meinem guten Freund",
+                "meiner guten Freundin",
+                "meinem guten Buch",
+                "meinen guten Freunden"
               ]
             ]
           ],
@@ -369991,13 +376317,13 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 零冠词",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。",
+            "零冠词时形容词要承担格标记，使用强变化词尾：guter Wein、kaltes Wasser、mit frischem Brot。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
             [
               [
-                "定冠词",
+                "格",
                 "阳性",
                 "阴性",
                 "中性",
@@ -370005,68 +376331,31 @@ window.WORTWEG_DATA = {
               ],
               [
                 "主格",
-                "der",
-                "die",
-                "das",
-                "die"
+                "guter Wein",
+                "frische Milch",
+                "kaltes Wasser",
+                "gute Bücher"
               ],
               [
                 "宾格",
-                "den",
-                "die",
-                "das",
-                "die"
+                "guten Wein",
+                "frische Milch",
+                "kaltes Wasser",
+                "gute Bücher"
               ],
               [
                 "与格",
-                "dem",
-                "der",
-                "dem",
-                "den"
+                "gutem Wein",
+                "frischer Milch",
+                "kaltem Wasser",
+                "guten Büchern"
               ],
               [
                 "属格",
-                "des",
-                "der",
-                "des",
-                "der"
-              ]
-            ],
-            [
-              [
-                "不定冠词",
-                "阳性",
-                "阴性",
-                "中性",
-                "复数"
-              ],
-              [
-                "主格",
-                "ein",
-                "eine",
-                "ein",
-                "—"
-              ],
-              [
-                "宾格",
-                "einen",
-                "eine",
-                "ein",
-                "—"
-              ],
-              [
-                "与格",
-                "einem",
-                "einer",
-                "einem",
-                "—"
-              ],
-              [
-                "属格",
-                "eines",
-                "einer",
-                "eines",
-                "—"
+                "guten Weines",
+                "frischer Milch",
+                "kalten Wassers",
+                "guter Bücher"
               ]
             ]
           ],
@@ -370080,96 +376369,80 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · 比较级作定语",
           "paragraphs": [
-            "比较级通常加 -er，最高级作表语用 am + -sten；gut–besser–am besten、hoch–höher–am höchsten 等需单独记。als 表差异，so … wie 表相同。",
+            "比较级放在名词前仍要加形容词词尾：der größere Tisch、mit einer besseren Lösung。-er 是比较级，后面还要再接变格词尾。",
             "运用：比较不同用 als，相同用 so … wie；最高级注意名词前和表语位置。",
             "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
           ],
           "tables": [
             [
               [
-                "原级",
-                "比较级",
-                "最高级"
+                "格/冠词",
+                "形式",
+                "例句"
               ],
               [
-                "gut",
-                "besser",
-                "am besten"
+                "主格定冠词",
+                "der größere",
+                "Der größere Tisch ist frei."
               ],
               [
-                "groß",
-                "größer",
-                "am größten"
+                "宾格不定冠词",
+                "einen besseren",
+                "Ich brauche einen besseren Plan."
               ],
               [
-                "hoch",
-                "höher",
-                "am höchsten"
-              ],
-              [
-                "schnell",
-                "schneller",
-                "am schnellsten"
+                "与格定冠词",
+                "mit der neueren",
+                "mit der neueren Methode"
               ]
             ]
           ],
           "examples": [
             [
-              "Anna ist größer als Tom.",
-              "安娜比汤姆高。"
+              "Der größere Tisch steht am Fenster.",
+              "较大的那张桌子在窗边。"
             ]
           ]
         },
         {
           "title": "09 · 名词化形容词入门",
           "paragraphs": [
-            "动词或形容词名词化后大写并按名词处理：das Lesen、beim Lernen。介词、冠词和格仍然需要变化，正式文本中要避免过度堆叠。",
+            "形容词省略后面的名词后要大写，并保留形容词词尾：der Alte、eine Deutsche、etwas Neues。",
             "运用：先看冠词类型，再按名词性、数、格选择形容词词尾。",
             "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
           ],
           "tables": [
             [
               [
-                "格",
-                "阳性（der gute Mann）",
-                "阴性（die gute Frau）",
-                "中性（das gute Kind）",
-                "复数（die guten Kinder）"
+                "类型",
+                "形式",
+                "例句"
               ],
               [
-                "主格",
-                "-e",
-                "-e",
-                "-e",
-                "-en"
+                "人",
+                "der/die Alte",
+                "Der Alte wartet."
               ],
               [
-                "宾格",
-                "-en",
-                "-e",
-                "-e",
-                "-en"
+                "国籍/群体",
+                "ein Deutscher / eine Deutsche",
+                "Sie spricht mit einer Deutschen."
               ],
               [
-                "与格",
-                "-en",
-                "-en",
-                "-en",
-                "-en"
-              ],
-              [
-                "属格",
-                "-en",
-                "-en",
-                "-en",
-                "-en"
+                "抽象事物",
+                "etwas Neues / nichts Wichtiges",
+                "Ich habe etwas Neues gelernt."
               ]
             ]
           ],
           "examples": [
             [
-              "Das Lernen macht Spaß.",
-              "学习很有趣。"
+              "Der Alte liest die Zeitung.",
+              "那位老人正在读报纸。"
+            ],
+            [
+              "Ich wünsche dir alles Gute.",
+              "祝你一切顺利。"
             ]
           ]
         }
@@ -370332,7 +376605,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Nominativ 关系代词",
           "paragraphs": [
-            "性和数跟先行词，格由关系从句中的动词或介词决定。Der Mann, den ich sehe：先行词阳性，但 sehen 的宾语位置要求 den。",
+            "关系代词在从句中作主语时用 Nominativ：der Mann, der wartet。它的性和数由先行词决定。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。"
           ],
           "tables": [
@@ -370376,15 +376649,15 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Das ist der Mann, den ich sehe.",
-              "这就是我看见的那位男士。"
+              "Der Mann, der dort wartet, ist mein Lehrer.",
+              "在那里等待的男士是我的老师。"
             ]
           ]
         },
         {
           "title": "02 · Akkusativ 关系代词",
           "paragraphs": [
-            "性和数跟先行词，格由关系从句中的动词或介词决定。Der Mann, den ich sehe：先行词阳性，但 sehen 的宾语位置要求 den。",
+            "关系代词在从句中作直接宾语时用 Akkusativ：der Mann, den ich sehe。阳性单数最容易看出 der → den。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -370459,19 +376732,15 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Sie kauft ein Buch.",
-              "她买了一本书。"
-            ],
-            [
-              "Ich sehe den Mann.",
-              "我看见那位男士。"
+              "Der Mann, den ich dort sehe, ist mein Lehrer.",
+              "我在那里看到的男士是我的老师。"
             ]
           ]
         },
         {
           "title": "03 · Dativ 关系代词",
           "paragraphs": [
-            "性和数跟先行词，格由关系从句中的动词或介词决定。Der Mann, den ich sehe：先行词阳性，但 sehen 的宾语位置要求 den。",
+            "关系代词受与格动词或介词支配时用 Dativ：der Mann, dem ich helfe；die Frau, mit der ich spreche。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -370546,19 +376815,15 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Ich gebe dir das Buch.",
-              "我把书给你。"
-            ],
-            [
-              "Ich helfe meiner Freundin.",
-              "我帮助我的女朋友。"
+              "Der Mann, dem ich helfe, ist mein Nachbar.",
+              "我帮助的男士是我的邻居。"
             ]
           ]
         },
         {
           "title": "04 · Genitiv 关系代词入门",
           "paragraphs": [
-            "性和数跟先行词，格由关系从句中的动词或介词决定。Der Mann, den ich sehe：先行词阳性，但 sehen 的宾语位置要求 den。",
+            "Genitiv 关系代词表达从属关系：die Frau, deren Sohn Arzt ist；阳/中性用 dessen，阴性/复数用 deren。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -370633,8 +376898,8 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Das ist die Frau, deren Bruder Arzt ist.",
-              "这就是那位女士，她的哥哥是医生。"
+              "Die Frau, deren Sohn hier arbeitet, ist Ärztin.",
+              "儿子在这里工作的女士是医生。"
             ]
           ]
         },
@@ -370940,7 +377205,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · als",
           "paragraphs": [
-            "als 引导过去一次性发生的时间从句，变位动词放在从句末尾：Als ich klein war, wohnte ich in Bonn。"
+            "时间连词 als 只用于过去一次性阶段或事件；过去重复发生的情况用 wenn。"
           ],
           "tables": [],
           "examples": [
@@ -370953,7 +377218,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · wenn",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "wenn 可表示条件、现在/将来的时间，或过去重复发生的情况。从句动词放末尾。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -370967,7 +377232,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · während",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。"
+            "während 表示两个过程同时发生，也可形成对比：Während ich koche, hört er Musik。"
           ],
           "tables": [],
           "examples": [
@@ -370980,7 +377245,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · bevor",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "bevor 引出较早发生的动作：Bevor ich schlafe, lese ich。从句本身不要求特定时态，时态由时间关系决定。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -370994,7 +377259,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · nachdem",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "nachdem 引出先发生的事件。过去叙事中常用 Plusquamperfekt + Präteritum：Nachdem ich gegessen hatte, ging ich spazieren。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -371008,7 +377273,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · seitdem",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。"
+            "seitdem 表示从过去某点开始并持续到参照时刻：Seitdem ich hier wohne, fahre ich mit dem Rad。"
           ],
           "tables": [],
           "examples": [
@@ -371021,7 +377286,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · bis",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。"
+            "bis 表示终点：Ich bleibe bis Freitag。如果后面需要冠词，常与另一介词同用：bis zum Freitag。"
           ],
           "tables": [],
           "examples": [
@@ -371034,7 +377299,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · sobald",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。"
+            "sobald 表示前一事件一发生，后一事件立刻开始：Sobald er kommt, beginnen wir。"
           ],
           "tables": [],
           "examples": [
@@ -371047,7 +377312,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · solange",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。"
+            "solange 表示某状态持续的整个期间，或“只要”某条件仍成立：Solange du lernst, helfe ich dir。"
           ],
           "tables": [],
           "examples": [
@@ -371060,7 +377325,7 @@ window.WORTWEG_DATA = {
         {
           "title": "10 · 时间关系与时态搭配",
           "paragraphs": [
-            "关系代词的性数跟先行词，格跟它在从句中的作用。关系从句用逗号隔开，变位动词放末尾：Der Mann, den ich sehe, …",
+            "时间连词先说明两个事件的先后或同时关系。过去的先行动作常用 Plusquamperfekt，随后事件常用 Präteritum。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。"
           ],
           "tables": [
@@ -371099,12 +377364,8 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Ich lerne am Abend.",
-              "我晚上学习。"
-            ],
-            [
-              "Der Kurs beginnt um neun Uhr.",
-              "课程九点开始。"
+              "Nachdem ich gegessen hatte, ging ich spazieren.",
+              "吃过饭后，我去散步。"
             ]
           ]
         }
@@ -371292,7 +377553,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · hatte / war + Partizip II",
           "paragraphs": [
-            "Partizip I = 不定式 + d，常表示主动进行：der lernende Student。Partizip II 常表示完成、结果或被动：die geöffnete Tür。前置分词像形容词一样变格。"
+            "Plusquamperfekt 用 hatte + Partizip II；移动、状态变化及 sein 等用 war + Partizip II：Ich hatte gegessen；Er war gegangen。"
           ],
           "tables": [
             [
@@ -371346,7 +377607,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · nachdem",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "nachdem 引出先发生的事件。过去叙事中常用 Plusquamperfekt + Präteritum：Nachdem ich gegessen hatte, ging ich spazieren。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -371360,7 +377621,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · bevor",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "bevor 引出较早发生的动作：Bevor ich schlafe, lese ich。从句本身不要求特定时态，时态由时间关系决定。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -371374,7 +377635,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 事件先后顺序",
           "paragraphs": [
-            "Plusquamperfekt = hatte/war + Partizip II，表示过去某一参照点之前已经发生。nachdem 从句常用过去完成时，主句用过去时。"
+            "用 Plusquamperfekt 标出较早的过去事件，用 Präteritum 或 Perfekt 表示随后事件：Nachdem ich gegessen hatte, ging ich spazieren。"
           ],
           "tables": [],
           "examples": [
@@ -371387,7 +377648,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · Perfekt / Präteritum / Plusquamperfekt 对比",
           "paragraphs": [
-            "Plusquamperfekt = hatte/war + Partizip II，表示过去某一参照点之前已经发生。nachdem 从句常用过去完成时，主句用过去时。",
+            "Perfekt 常用于口语回顾，Präteritum 常推进书面叙事，Plusquamperfekt 则把视线退到另一过去事件之前。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -371681,184 +377942,171 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Aktiv / Passiv",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "主动句强调谁做事；过程被动强调事情本身。主动句的宾格宾语通常成为被动句主语：Die Firma baut das Haus → Das Haus wird gebaut。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "时态",
-                "过程被动",
+                "视角",
+                "结构",
                 "例句"
               ],
               [
-                "现在时",
-                "wird + Partizip II",
-                "Die Tür wird geöffnet."
+                "Aktiv",
+                "执行者 + 动词 + 宾语",
+                "Die Firma baut das Haus."
               ],
               [
-                "过去时",
-                "wurde + Partizip II",
-                "Die Tür wurde geöffnet."
+                "Passiv",
+                "原宾语 + werden + Partizip II",
+                "Das Haus wird gebaut."
               ]
             ]
           ],
           "examples": [
             [
-              "Die Firma baut das Haus; das Haus wird gebaut.",
-              "公司建造房子；房子正在被建造。"
+              "Die Firma baut das Haus. → Das Haus wird von der Firma gebaut.",
+              "公司建造房子。→ 房子由公司建造。"
             ]
           ]
         },
         {
           "title": "02 · werden + Partizip II",
           "paragraphs": [
-            "werden + 不定式构成 Futur I，也可表达推测；werden + 形容词表示变化；werden + Partizip II 构成过程被动。要结合句型判断功能。"
+            "过程被动的核心是 werden + Partizip II。werden 按主语和时态变化，Partizip II 留在句末：Die Tür wird geöffnet。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "形式",
-                "构成",
-                "示例"
+                "人称",
+                "werden",
+                "Partizip II"
               ],
               [
-                "Partizip I",
-                "不定式 + d",
-                "lernend"
+                "ich",
+                "werde",
+                "gefragt"
               ],
               [
-                "弱变化 Partizip II",
-                "ge- + 词干 + -t",
-                "gelernt"
+                "du",
+                "wirst",
+                "gefragt"
               ],
               [
-                "强变化 Partizip II",
-                "ge- + 词干 + -en",
-                "gegangen"
+                "er/sie/es",
+                "wird",
+                "gefragt"
               ],
               [
-                "-ieren",
-                "词干 + -t（无 ge）",
-                "studiert"
+                "wir",
+                "werden",
+                "gefragt"
+              ],
+              [
+                "ihr",
+                "werdet",
+                "gefragt"
+              ],
+              [
+                "sie/Sie",
+                "werden",
+                "gefragt"
               ]
             ]
           ],
           "examples": [
             [
-              "Die Tür wird geöffnet.",
-              "门正在被打开。"
+              "Die Tür wird um acht Uhr geöffnet.",
+              "门八点被打开。"
             ]
           ]
         },
         {
           "title": "03 · Präsens Passiv",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "现在时过程被动用 wird/werden + Partizip II，表示动作现在发生、反复发生或作为一般规则：Die Post wird morgens gebracht。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "时态",
-                "过程被动",
+                "人称/数",
+                "形式",
                 "例句"
               ],
               [
-                "现在时",
+                "单数",
                 "wird + Partizip II",
                 "Die Tür wird geöffnet."
               ],
               [
-                "过去时",
-                "wurde + Partizip II",
-                "Die Tür wurde geöffnet."
+                "复数",
+                "werden + Partizip II",
+                "Die Türen werden geöffnet."
               ]
             ]
           ],
           "examples": [
             [
-              "Ich arbeite heute.",
-              "我今天工作。"
+              "Die Tür wird gerade geöffnet.",
+              "门正在被打开。"
             ]
           ]
         },
         {
           "title": "04 · Präteritum Passiv",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "过去时过程被动用 wurde/wurden + Partizip II，讲过去发生的动作：Die Straße wurde gestern gesperrt。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "类型",
-                "现在时词干",
-                "Präteritum 示例",
-                "Partizip II"
-              ],
-              [
-                "弱变化",
-                "lern-",
-                "lernte",
-                "gelernt"
-              ],
-              [
-                "强变化",
-                "komm-",
-                "kam",
-                "gekommen"
-              ],
-              [
-                "混合变化",
-                "denk-",
-                "dachte",
-                "gedacht"
-              ],
-              [
-                "sein",
-                "sei-",
-                "war",
-                "gewesen"
-              ],
-              [
-                "haben",
-                "hab-",
-                "hatte",
-                "gehabt"
-              ]
-            ],
-            [
-              [
-                "时态",
-                "过程被动",
+                "人称/数",
+                "形式",
                 "例句"
               ],
               [
-                "现在时",
-                "wird + Partizip II",
-                "Die Tür wird geöffnet."
-              ],
-              [
-                "过去时",
+                "单数",
                 "wurde + Partizip II",
                 "Die Tür wurde geöffnet."
+              ],
+              [
+                "复数",
+                "wurden + Partizip II",
+                "Die Türen wurden geöffnet."
               ]
             ]
           ],
           "examples": [
             [
-              "Gestern arbeitete ich.",
-              "昨天我工作了。"
+              "Die Tür wurde gestern geöffnet.",
+              "门昨天被打开了。"
             ]
           ]
         },
         {
           "title": "05 · von",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。"
+            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
-          "tables": [],
+          "tables": [
+            [
+              [
+                "成分",
+                "格",
+                "例句"
+              ],
+              [
+                "人或机构执行者",
+                "Dativ",
+                "Der Brief wird von Anna geschrieben."
+              ]
+            ]
+          ],
           "examples": [
             [
               "Der Brief wird von Anna geschrieben.",
@@ -371869,9 +378117,23 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · durch",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。"
+            "被动句中 durch + Akkusativ 常说明媒介、手段或非人的原因：Die Straße wurde durch den Sturm gesperrt。执行者通常用 von + Dativ。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
-          "tables": [],
+          "tables": [
+            [
+              [
+                "成分",
+                "格",
+                "例句"
+              ],
+              [
+                "手段、途径或原因",
+                "Akkusativ",
+                "Die Straße wurde durch den Sturm gesperrt."
+              ]
+            ]
+          ],
           "examples": [
             [
               "Die Straße wurde durch den Sturm gesperrt.",
@@ -371882,64 +378144,57 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 主动句转被动句",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "转换时先找主动句宾格宾语，把它变成被动句主语；原主语需要保留时常用 von + Dativ：Anna schreibt den Brief → Der Brief wird von Anna geschrieben。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "时态",
-                "过程被动",
-                "例句"
+                "步骤",
+                "Aktiv",
+                "Passiv"
               ],
               [
-                "现在时",
-                "wird + Partizip II",
-                "Die Tür wird geöffnet."
+                "宾语变主语",
+                "Anna schreibt den Brief.",
+                "Der Brief wird geschrieben."
               ],
               [
-                "过去时",
-                "wurde + Partizip II",
-                "Die Tür wurde geöffnet."
+                "保留执行者",
+                "Anna schreibt den Brief.",
+                "Der Brief wird von Anna geschrieben."
               ]
             ]
           ],
           "examples": [
             [
-              "Das Problem wird heute gelöst.",
-              "这个问题今天会被解决。"
+              "Man repariert die Straße. → Die Straße wird repariert.",
+              "人们维修道路。→ 道路正在维修。"
             ]
           ]
         },
         {
           "title": "08 · 无主语被动基础",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "不及物动词也能构成无主语被动：Hier wird gearbeitet。动词保持第三人称单数，重点是活动本身。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "时态",
-                "过程被动",
+                "结构",
                 "例句"
               ],
               [
-                "现在时",
-                "wird + Partizip II",
-                "Die Tür wird geöffnet."
-              ],
-              [
-                "过去时",
-                "wurde + Partizip II",
-                "Die Tür wurde geöffnet."
+                "地点 + wird + Partizip II",
+                "Hier wird gearbeitet."
               ]
             ]
           ],
           "examples": [
             [
-              "Hier wird gearbeitet.",
-              "这里正在施工/工作。"
+              "Hier wird heute gearbeitet.",
+              "今天这里有人工作。"
             ]
           ]
         }
@@ -372116,7 +378371,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · würde + Infinitiv",
           "paragraphs": [
-            "zu 不定式常接在尝试、计划、希望、重要等结构后。um … zu 表目的，ohne … zu 表没有做某事，statt … zu 表代替。可分动词把 zu 放在前缀后。",
+            "würde + Infinitiv 是常用 Konjunktiv II 构式：Ich würde gern reisen。sein、haben 和情态动词通常优先用 wäre、hätte、könnte 等。",
             "运用：主语相同时用 um … zu、ohne … zu 或 statt … zu；情态动词后不用 zu。"
           ],
           "tables": [
@@ -372158,7 +378413,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · wäre",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "wäre 是 sein 的 Konjunktiv II：Wenn ich frei wäre, käme ich mit；Ich wäre gern dort 可表达愿望。"
           ],
           "tables": [],
           "examples": [
@@ -372171,7 +378426,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · hätte",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "hätte 是 haben 的 Konjunktiv II：Wenn ich Zeit hätte …；它也用于委婉愿望 Ich hätte gern einen Tee。"
           ],
           "tables": [],
           "examples": [
@@ -372184,7 +378439,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · könnte",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "könnte 表示非现实可能或礼貌请求：Ich könnte kommen；Könnten Sie das wiederholen?"
           ],
           "tables": [],
           "examples": [
@@ -372197,7 +378452,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · müsste",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "müsste 表示假设条件下的必要或较委婉的判断：Ich müsste jetzt gehen，语气通常弱于直陈式 muss。"
           ],
           "tables": [],
           "examples": [
@@ -372210,7 +378465,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · sollte",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "sollte 常用于建议：Du solltest mehr schlafen，也可表示某事按预期应该发生。"
           ],
           "tables": [],
           "examples": [
@@ -372223,7 +378478,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · dürfte",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "dürfte 常表示谨慎推测：Er dürfte schon zu Hause sein；表达许可的非现实形式需结合条件语境。"
           ],
           "tables": [],
           "examples": [
@@ -372236,7 +378491,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · 愿望",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "现在愿望常用 wäre、hätte 或 würde：Ich wäre gern dort。无法实现或很难实现的愿望可用 wenn doch 或 ich wünschte。"
           ],
           "tables": [],
           "examples": [
@@ -372249,7 +378504,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · 建议",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "建议常用 sollte/könnte：Du solltest früher anfangen；Du könntest den Bus nehmen。前者更直接，后者更像提供选择。"
           ],
           "tables": [],
           "examples": [
@@ -372275,7 +378530,7 @@ window.WORTWEG_DATA = {
         {
           "title": "11 · 非现实假设",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "现在非现实常用 wenn + Konjunktiv II，结果句用 würde 或直接虚拟式：Wenn ich Zeit hätte, würde ich reisen。"
           ],
           "tables": [],
           "examples": [
@@ -372466,7 +378721,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · obwohl",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "obwohl 引出让步从句，说明障碍存在但结果仍发生：Obwohl ich müde bin, lerne ich weiter。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -372493,7 +378748,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · deshalb",
           "paragraphs": [
-            "weil/obwohl 引导动词末位从句；denn/aber 连接两个主句；deshalb/trotzdem 是句首成分，后接第二位动词。不同连接词决定不同语序。"
+            "deshalb 说明前句造成的结果。它是连接副词，放句首时变位动词紧跟：Deshalb bleibe ich zu Hause。"
           ],
           "tables": [],
           "examples": [
@@ -372506,7 +378761,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · daher",
           "paragraphs": [
-            "weil/obwohl 引导动词末位从句；denn/aber 连接两个主句；deshalb/trotzdem 是句首成分，后接第二位动词。不同连接词决定不同语序。"
+            "daher 是连接副词，承接前句原因并引出结果；置于句首时动词紧跟：Es regnet, daher bleibe ich zu Hause。"
           ],
           "tables": [],
           "examples": [
@@ -372519,7 +378774,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · damit",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。"
+            "damit 引出目的从句，主语可以和主句不同：Ich spreche langsam, damit du mich verstehst。"
           ],
           "tables": [],
           "examples": [
@@ -372532,20 +378787,20 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · um ... zu",
           "paragraphs": [
-            "zu 不定式常接在尝试、计划、希望、重要等结构后。um … zu 表目的，ohne … zu 表没有做某事，statt … zu 表代替。可分动词把 zu 放在前缀后。"
+            "um … zu 表示目的，主句和不定式结构的逻辑主语必须相同：Ich lerne, um die Prüfung zu bestehen。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich versuche, Deutsch zu lernen.",
-              "我尝试学习德语。"
+              "Ich lerne jeden Tag, um die Prüfung zu bestehen.",
+              "我每天学习，为了通过考试。"
             ]
           ]
         },
         {
           "title": "07 · falls",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。"
+            "falls 表示不确定条件，接近“万一/如果”：Falls du Zeit hast, ruf mich an。从句动词放末尾。"
           ],
           "tables": [],
           "examples": [
@@ -372558,7 +378813,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · sodass",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "sodass 引出实际发生的结果：Es regnete stark, sodass wir zu Hause blieben。它不同于表示目的的 damit。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -372779,383 +379034,170 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Präsens Passiv",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "现在时过程被动用 wird/werden + Partizip II，表示动作现在发生、反复发生或作为一般规则：Die Post wird morgens gebracht。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "时态/类型",
+                "人称/数",
                 "形式",
                 "例句"
               ],
               [
-                "现在时过程被动",
+                "单数",
                 "wird + Partizip II",
                 "Die Tür wird geöffnet."
               ],
               [
-                "过去时过程被动",
-                "wurde + Partizip II",
-                "Die Tür wurde geöffnet."
-              ],
-              [
-                "完成时过程被动",
-                "ist + Partizip II + worden",
-                "Die Tür ist geöffnet worden."
-              ],
-              [
-                "将来时过程被动",
-                "wird + Partizip II + werden",
-                "Die Tür wird geöffnet werden."
-              ],
-              [
-                "状态被动",
-                "sein + Partizip II",
-                "Die Tür ist geöffnet."
+                "复数",
+                "werden + Partizip II",
+                "Die Türen werden geöffnet."
               ]
             ]
           ],
           "examples": [
             [
-              "Ich arbeite heute.",
-              "我今天工作。"
+              "Die Tür wird gerade geöffnet.",
+              "门正在被打开。"
             ]
           ]
         },
         {
           "title": "02 · Präteritum Passiv",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "过去时过程被动用 wurde/wurden + Partizip II，讲过去发生的动作：Die Straße wurde gestern gesperrt。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "类型",
-                "现在时词干",
-                "Präteritum 示例",
-                "Partizip II"
-              ],
-              [
-                "弱变化",
-                "lern-",
-                "lernte",
-                "gelernt"
-              ],
-              [
-                "强变化",
-                "komm-",
-                "kam",
-                "gekommen"
-              ],
-              [
-                "混合变化",
-                "denk-",
-                "dachte",
-                "gedacht"
-              ],
-              [
-                "sein",
-                "sei-",
-                "war",
-                "gewesen"
-              ],
-              [
-                "haben",
-                "hab-",
-                "hatte",
-                "gehabt"
-              ]
-            ],
-            [
-              [
-                "时态/类型",
+                "人称/数",
                 "形式",
                 "例句"
               ],
               [
-                "现在时过程被动",
-                "wird + Partizip II",
-                "Die Tür wird geöffnet."
-              ],
-              [
-                "过去时过程被动",
+                "单数",
                 "wurde + Partizip II",
                 "Die Tür wurde geöffnet."
               ],
               [
-                "完成时过程被动",
-                "ist + Partizip II + worden",
-                "Die Tür ist geöffnet worden."
-              ],
-              [
-                "将来时过程被动",
-                "wird + Partizip II + werden",
-                "Die Tür wird geöffnet werden."
-              ],
-              [
-                "状态被动",
-                "sein + Partizip II",
-                "Die Tür ist geöffnet."
+                "复数",
+                "wurden + Partizip II",
+                "Die Türen wurden geöffnet."
               ]
             ]
           ],
           "examples": [
             [
-              "Gestern arbeitete ich.",
-              "昨天我工作了。"
+              "Die Tür wurde gestern geöffnet.",
+              "门昨天被打开了。"
             ]
           ]
         },
         {
           "title": "03 · Perfekt Passiv",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "过程被动的完成时用 sein + Partizip II + worden。注意这里是 worden，不是表示“变成”的 geworden：Die Tür ist geöffnet worden。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "类型",
-                "Partizip II",
-                "助动词",
-                "例句（ich）"
-              ],
-              [
-                "规则弱变化",
-                "ge-…-t",
-                "haben",
-                "Ich habe gelernt."
-              ],
-              [
-                "强变化",
-                "ge-…-en",
-                "haben/sein",
-                "Ich habe gelesen. / Ich bin gegangen."
-              ],
-              [
-                "混合变化",
-                "ge-…-t",
-                "haben",
-                "Ich habe gedacht."
-              ],
-              [
-                "不可分前缀",
-                "前缀 + 词干",
-                "haben/sein",
-                "Ich habe verstanden."
-              ],
-              [
-                "-ieren",
-                "-iert（无 ge）",
-                "haben",
-                "Ich habe studiert."
-              ]
-            ],
-            [
-              [
-                "时态/类型",
+                "人称/数",
                 "形式",
                 "例句"
               ],
               [
-                "现在时过程被动",
-                "wird + Partizip II",
-                "Die Tür wird geöffnet."
-              ],
-              [
-                "过去时过程被动",
-                "wurde + Partizip II",
-                "Die Tür wurde geöffnet."
-              ],
-              [
-                "完成时过程被动",
+                "单数",
                 "ist + Partizip II + worden",
                 "Die Tür ist geöffnet worden."
               ],
               [
-                "将来时过程被动",
-                "wird + Partizip II + werden",
-                "Die Tür wird geöffnet werden."
-              ],
-              [
-                "状态被动",
-                "sein + Partizip II",
-                "Die Tür ist geöffnet."
+                "复数",
+                "sind + Partizip II + worden",
+                "Die Türen sind geöffnet worden."
               ]
             ]
           ],
           "examples": [
             [
-              "Ich habe heute gearbeitet.",
-              "我今天工作过了。"
+              "Die Tür ist bereits geöffnet worden.",
+              "门已经被打开了。"
             ]
           ]
         },
         {
           "title": "04 · Futur Passiv 基础",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "过程被动的将来时用 werden + Partizip II + werden：Die Brücke wird nächstes Jahr gebaut werden。明确的计划也常直接用现在时被动。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "时态/类型",
+                "人称/数",
                 "形式",
                 "例句"
               ],
               [
-                "现在时过程被动",
-                "wird + Partizip II",
-                "Die Tür wird geöffnet."
-              ],
-              [
-                "过去时过程被动",
-                "wurde + Partizip II",
-                "Die Tür wurde geöffnet."
-              ],
-              [
-                "完成时过程被动",
-                "ist + Partizip II + worden",
-                "Die Tür ist geöffnet worden."
-              ],
-              [
-                "将来时过程被动",
+                "单数",
                 "wird + Partizip II + werden",
                 "Die Tür wird geöffnet werden."
               ],
               [
-                "状态被动",
-                "sein + Partizip II",
-                "Die Tür ist geöffnet."
-              ]
-            ],
-            [
-              [
-                "人称",
-                "werden（现在时）",
-                "Futur I 示例"
-              ],
-              [
-                "ich",
-                "werde",
-                "ich werde lernen"
-              ],
-              [
-                "du",
-                "wirst",
-                "du wirst lernen"
-              ],
-              [
-                "er/sie/es",
-                "wird",
-                "er wird lernen"
-              ],
-              [
-                "wir",
-                "werden",
-                "wir werden lernen"
-              ],
-              [
-                "ihr",
-                "werdet",
-                "ihr werdet lernen"
-              ],
-              [
-                "sie/Sie",
-                "werden",
-                "sie werden lernen"
+                "复数",
+                "werden + Partizip II + werden",
+                "Die Türen werden geöffnet werden."
               ]
             ]
           ],
           "examples": [
             [
-              "Morgen werde ich arbeiten.",
-              "明天我会工作。"
+              "Die Tür wird morgen geöffnet werden.",
+              "门明天将被打开。"
             ]
           ]
         },
         {
           "title": "05 · Vorgangspassiv",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "Vorgangspassiv 用 werden + Partizip II，回答“发生了什么”，重点在动作过程：Die Tür wird geöffnet。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "时态/类型",
-                "形式",
+                "类型",
+                "核心",
                 "例句"
               ],
               [
-                "现在时过程被动",
-                "wird + Partizip II",
+                "过程被动",
+                "werden + Partizip II",
                 "Die Tür wird geöffnet."
-              ],
-              [
-                "过去时过程被动",
-                "wurde + Partizip II",
-                "Die Tür wurde geöffnet."
-              ],
-              [
-                "完成时过程被动",
-                "ist + Partizip II + worden",
-                "Die Tür ist geöffnet worden."
-              ],
-              [
-                "将来时过程被动",
-                "wird + Partizip II + werden",
-                "Die Tür wird geöffnet werden."
-              ],
-              [
-                "状态被动",
-                "sein + Partizip II",
-                "Die Tür ist geöffnet."
               ]
             ]
           ],
           "examples": [
             [
-              "Vor zwei Tagen war ich in Berlin.",
-              "两天前我在柏林。"
+              "Die Tür wird geöffnet.",
+              "门正在被打开。"
             ]
           ]
         },
         {
           "title": "06 · Zustandspassiv",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "Zustandspassiv 用 sein + Partizip II，回答“现在是什么状态”：Die Tür ist geöffnet。它描述动作造成的结果。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "时态/类型",
-                "形式",
+                "类型",
+                "核心",
                 "例句"
-              ],
-              [
-                "现在时过程被动",
-                "wird + Partizip II",
-                "Die Tür wird geöffnet."
-              ],
-              [
-                "过去时过程被动",
-                "wurde + Partizip II",
-                "Die Tür wurde geöffnet."
-              ],
-              [
-                "完成时过程被动",
-                "ist + Partizip II + worden",
-                "Die Tür ist geöffnet worden."
-              ],
-              [
-                "将来时过程被动",
-                "wird + Partizip II + werden",
-                "Die Tür wird geöffnet werden."
               ],
               [
                 "状态被动",
@@ -373166,114 +379208,77 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Ich hänge das Bild an die Wand.",
-              "我把画挂到墙上。"
-            ],
-            [
-              "Das Bild hängt an der Wand.",
-              "画挂在墙上。"
+              "Die Tür ist geöffnet.",
+              "门处于打开状态。"
             ]
           ]
         },
         {
           "title": "07 · sein + Partizip II",
           "paragraphs": [
-            "sein 的现在时是 bin/bist/ist/sind/seid/sind，过去时是 war/wart/waren，完成时用 ist + gewesen。它还作系动词连接身份、性质或状态：Sie ist Ärztin；Das Wetter ist kalt。"
+            "sein + Partizip II 常表示结果状态：Das Fenster ist geschlossen。要结合语境判断它是状态被动，还是普通形容词表语。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "人称",
-                "现在时",
-                "过去时",
-                "完成时"
-              ],
-              [
-                "ich",
-                "bin",
-                "war",
-                "bin gewesen"
-              ],
-              [
-                "du",
-                "bist",
-                "warst",
-                "bist gewesen"
-              ],
-              [
-                "er/sie/es",
-                "ist",
-                "war",
-                "ist gewesen"
-              ],
-              [
-                "wir",
-                "sind",
-                "waren",
-                "sind gewesen"
-              ],
-              [
-                "ihr",
-                "seid",
-                "wart",
-                "seid gewesen"
-              ],
-              [
-                "sie/Sie",
-                "sind",
-                "waren",
-                "sind gewesen"
-              ]
-            ],
-            [
-              [
+                "时间",
                 "形式",
-                "构成",
-                "示例"
+                "例句"
               ],
               [
-                "Partizip I",
-                "不定式 + d",
-                "lernend"
+                "现在状态",
+                "ist/sind + Partizip II",
+                "Das Fenster ist geschlossen."
               ],
               [
-                "弱变化 Partizip II",
-                "ge- + 词干 + -t",
-                "gelernt"
-              ],
-              [
-                "强变化 Partizip II",
-                "ge- + 词干 + -en",
-                "gegangen"
-              ],
-              [
-                "-ieren",
-                "词干 + -t（无 ge）",
-                "studiert"
+                "过去状态",
+                "war/waren + Partizip II",
+                "Das Fenster war geschlossen."
               ]
             ]
           ],
           "examples": [
             [
-              "Ich bin müde.",
-              "我累了。"
-            ],
-            [
-              "Wir sind zu Hause.",
-              "我们在家。"
+              "Das Fenster ist geschlossen.",
+              "窗户处于关闭状态。"
             ]
           ]
         },
         {
           "title": "08 · Aktiv / Vorgang / Zustand 对比",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。"
+            "Aktiv 说谁执行动作，Vorgangspassiv 说动作正在发生，Zustandspassiv 说动作留下的状态：Anna öffnet die Tür → Die Tür wird geöffnet → Die Tür ist geöffnet。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
-          "tables": [],
+          "tables": [
+            [
+              [
+                "结构",
+                "重点",
+                "例句"
+              ],
+              [
+                "Aktiv",
+                "执行者",
+                "Anna öffnet die Tür."
+              ],
+              [
+                "Vorgangspassiv",
+                "动作过程",
+                "Die Tür wird geöffnet."
+              ],
+              [
+                "Zustandspassiv",
+                "结果状态",
+                "Die Tür ist geöffnet."
+              ]
+            ]
+          ],
           "examples": [
             [
-              "Vor zwei Tagen war ich in Berlin.",
-              "两天前我在柏林。"
+              "Anna öffnet die Tür. → Die Tür wird geöffnet. → Die Tür ist geöffnet.",
+              "安娜打开门。→ 门正在被打开。→ 门已经处于打开状态。"
             ]
           ]
         }
@@ -373458,7 +379463,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 过去非现实入门",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "过去非现实用 hätte/wäre + Partizip II：Wenn ich früher gekommen wäre, hätte ich ihn gesehen。"
           ],
           "tables": [
             [
@@ -373509,7 +379514,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · wenn 条件句",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。",
+            "真实或可能条件常用直陈式，非现实条件用 Konjunktiv II：Wenn ich Zeit habe, komme ich；Wenn ich Zeit hätte, käme ich。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -373523,7 +379528,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · wäre / hätte + Partizip II",
           "paragraphs": [
-            "Partizip I = 不定式 + d，常表示主动进行：der lernende Student。Partizip II 常表示完成、结果或被动：die geöffnete Tür。前置分词像形容词一样变格。"
+            "过去非现实用 hätte + Partizip II；使用 sein 构成完成时的动词改用 wäre + Partizip II：Ich hätte gelernt；Ich wäre gekommen。"
           ],
           "tables": [
             [
@@ -373564,7 +379569,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · hätte / wäre / würde 区别",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "hätte 和 wäre 是 haben/sein 的直接虚拟式；其他动词常用 würde + Infinitiv。过去非现实则用 hätte/wäre + Partizip II。"
           ],
           "tables": [],
           "examples": [
@@ -373577,7 +379582,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 建议与愿望",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "建议常用 sollte/könnte，愿望常用 hätte gern、wäre gern 或 würde gern。选词取决于是在劝别人还是表达自己的愿望。"
           ],
           "tables": [],
           "examples": [
@@ -373590,7 +379595,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 客气与间接表达",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "Könnten/Würden Sie …? 比 Können/Wollen Sie …? 更委婉。Konjunktiv II 在这里表示礼貌距离，不一定表示事实不真实。"
           ],
           "tables": [],
           "examples": [
@@ -373795,7 +379800,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · Adjektiv + Präposition",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "形容词也可固定支配介词和格：zufrieden mit + Dativ、stolz auf + Akkusativ。应把完整搭配一起记。",
             "运用：把介词和它支配的格作为一个整体使用。"
           ],
           "tables": [
@@ -373847,7 +379852,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · Nomen + Präposition",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "名词常有固定介词搭配：das Interesse an + Dativ、die Angst vor + Dativ。相关动词或形容词的介词不一定完全相同。",
             "运用：把介词和它支配的格作为一个整体使用。"
           ],
           "tables": [],
@@ -373861,7 +379866,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 固定格",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "动词、形容词、名词和介词都可能固定要求某个格。应把 warten auf + Akk、helfen + Dat 作为完整结构记忆。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [],
@@ -373888,7 +379893,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · wo(r)- 复合代词",
           "paragraphs": [
-            "谈事物用 da(r)- 代副词，问事物用 wo(r)-；谈人用介词 + 代词：Worauf wartest du? – Darauf；Auf wen wartest du?"
+            "询问事物用 wo(r)- + 介词：Worauf wartest du? 介词以元音开头时插入 r；询问人不用这种形式。"
           ],
           "tables": [],
           "examples": [
@@ -373905,7 +379910,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 人与物的不同问法",
           "paragraphs": [
-            "谈事物用 da(r)- 代副词，问事物用 wo(r)-；谈人用介词 + 代词：Worauf wartest du? – Darauf；Auf wen wartest du?"
+            "问事物用 Worauf/Womit 等，问人用介词 + wen/wem：Auf wen wartest du? – Auf meinen Bruder。"
           ],
           "tables": [],
           "examples": [
@@ -374074,7 +380079,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Dativ 关系代词",
           "paragraphs": [
-            "性和数跟先行词，格由关系从句中的动词或介词决定。Der Mann, den ich sehe：先行词阳性，但 sehen 的宾语位置要求 den。",
+            "关系代词受与格动词或介词支配时用 Dativ：der Mann, dem ich helfe；die Frau, mit der ich spreche。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
@@ -374149,12 +380154,8 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Ich gebe dir das Buch.",
-              "我把书给你。"
-            ],
-            [
-              "Ich helfe meiner Freundin.",
-              "我帮助我的女朋友。"
+              "Der Mann, dem ich helfe, ist mein Nachbar.",
+              "我帮助的男士是我的邻居。"
             ]
           ]
         },
@@ -374236,15 +380237,15 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Das ist die Frau, deren Bruder Arzt ist.",
-              "这就是那位女士，她的哥哥是医生。"
+              "Die Frau, deren Sohn hier arbeitet, ist Ärztin.",
+              "儿子在这里工作的女士是医生。"
             ]
           ]
         },
         {
           "title": "03 · 介词 + der / die / das",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "关系从句中的介词放在关系代词前并决定格：die Frau, mit der ich spreche；das Thema, über das wir reden。",
             "运用：把介词和它支配的格作为一个整体使用。"
           ],
           "tables": [],
@@ -374288,30 +380289,30 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 不定代词后的关系从句",
           "paragraphs": [
-            "关系代词的性数跟先行词，格跟它在从句中的作用。关系从句用逗号隔开，变位动词放末尾：Der Mann, den ich sehe, …",
+            "alles、etwas、nichts、das 等中性概括词后常用 was：Alles, was er sagt, ist wichtig。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich weiß, dass sie kommt.",
-              "我知道她会来。"
+              "Alles, was er sagt, ist wichtig.",
+              "他说的一切都很重要。"
             ]
           ]
         },
         {
           "title": "07 · 复杂关系从句",
           "paragraphs": [
-            "关系代词的性数跟先行词，格跟它在从句中的作用。关系从句用逗号隔开，变位动词放末尾：Der Mann, den ich sehe, …",
+            "介词必须放在关系代词前并决定格：der Kollege, mit dem ich arbeite。长关系从句仍把变位动词放末尾。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich weiß, dass sie kommt.",
-              "我知道她会来。"
+              "Das ist der Kollege, mit dem ich an dem Projekt arbeite.",
+              "这就是和我一起做该项目的同事。"
             ]
           ]
         }
@@ -374538,19 +380539,15 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Wir sind im Park.",
-              "我们在公园里。"
-            ],
-            [
-              "Wir gehen in den Park.",
-              "我们去公园。"
+              "Sie hofft, die Prüfung zu bestehen.",
+              "她希望通过考试。"
             ]
           ]
         },
         {
           "title": "02 · brauchen + zu",
           "paragraphs": [
-            "brauchen + zu：zu 不定式常接在尝试、计划、希望、重要等结构后。um … zu 表目的，ohne … zu 表没有做某事，statt … zu 表代替。可分动词把 zu 放在前缀后。"
+            "brauchen + zu + Infinitiv 最常见于否定句，表示“不必……”：Du brauchst heute nicht zu kommen。在标准书面语中保留 zu。"
           ],
           "tables": [],
           "examples": [
@@ -374563,7 +380560,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · scheinen + zu",
           "paragraphs": [
-            "scheinen + zu：zu 不定式常接在尝试、计划、希望、重要等结构后。um … zu 表目的，ohne … zu 表没有做某事，statt … zu 表代替。可分动词把 zu 放在前缀后。"
+            "scheinen + zu + Infinitiv 表示根据表象作出判断：Er scheint müde zu sein。若表达已发生的事，可用完成不定式：Sie scheint gegangen zu sein。"
           ],
           "tables": [],
           "examples": [
@@ -374906,7 +380903,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Satzklammer",
           "paragraphs": [
-            "可分前缀在主句中与变位动词分开：Ich rufe dich an；不定式和分词保持整体：anzurufen、angerufen。不可分前缀 be-/emp-/ent-/er-/ver- 通常不分开，也通常不加 ge-。"
+            "句框由左边的变位部分和右边的前缀或非变位动词组成：Ich rufe dich heute Abend an。中间可放宾语和状语。"
           ],
           "tables": [],
           "examples": [
@@ -374975,7 +380972,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · Dativ / Akkusativ 顺序",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "两个名词宾语常用 Dativ 在前、Akkusativ 在后；出现代词时通常代词在前，两个代词则常 Akkusativ 在前。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -375054,7 +381051,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 名词与代词顺序",
           "paragraphs": [
-            "名词与代词顺序：主句的有限动词占第二成分位（V2）：第一成分可以是主语、时间、地点或宾语。第一成分换了，动词仍保持第二位：Heute lerne ich；In Berlin arbeitet sie。"
+            "代词宾语通常放在名词宾语前：Ich gebe ihm das Buch。如果两个宾语都是代词，常用 Akkusativ + Dativ：Ich gebe es ihm。"
           ],
           "tables": [
             [
@@ -375373,7 +381370,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · 主句 + 从句",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "主句在前时，主句保持 V2，逗号后的从句动词放末尾：Ich bleibe hier, weil es regnet。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -375388,7 +381385,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 从句 + 从句",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "两个从句可以并列或互相依存。每个从句都要有自己的动词末位结构，并用连接词和逗号标清关系。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -375403,7 +381400,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 嵌套从句",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "嵌套从句是一个从句内部再含从句。先逐层找连接词和对应的句末动词：Ich weiß, dass er kommt, weil du ihn eingeladen hast。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -375418,7 +381415,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 多个从句连接",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "并列从句可以用 und/aber 连接，共享主句也要保持各自的动词末位结构。写作时用逗号清楚标出边界。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -375433,7 +381430,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 从句中的情态动词",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "普通从句里主要动词不定式在前，变位情态动词最后：..., weil er heute arbeiten muss。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -375523,7 +381520,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · Perfekt 从句语序",
           "paragraphs": [
-            "完成时由现在时助动词 haben/sein + Partizip II 组成：Ich habe gelernt；Ich bin gekommen。haben 是默认选择：及物动词（Ich habe das Buch gelesen）、反身动词和大多数不表示位置改变的动词用 haben。sein 主要用于不及物的地点移动（gehen, kommen, fahren）、状态变化（aufstehen, einschlafen, werden）以及 bleiben、sein 本身。",
+            "Perfekt 从句中 Partizip II 位于助动词之前，变位的 haben/sein 最后：..., weil ich lange gearbeitet habe。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -375577,7 +381574,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 双重不定式基础",
           "paragraphs": [
-            "zu 不定式常接在尝试、计划、希望、重要等结构后。um … zu 表目的，ohne … zu 表没有做某事，statt … zu 表代替。可分动词把 zu 放在前缀后。",
+            "情态动词与完成时组合时用 Ersatzinfinitiv：Er hat arbeiten müssen，而不是 gemusst。",
             "运用：主语相同时用 um … zu、ohne … zu 或 statt … zu；情态动词后不用 zu。"
           ],
           "tables": [
@@ -376047,7 +382044,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 叙事时态",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "书面叙事以 Präteritum 推进主要事件，Plusquamperfekt 回退到更早事件；口语回顾通常更多使用 Perfekt。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -376094,7 +382091,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 书面语与口语时态区别",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。",
+            "口语回顾多数动作常用 Perfekt，sein、haben 和情态动词常用 Präteritum；书面叙事则常以 Präteritum 为主线。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -376133,15 +382130,15 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Gestern habe ich gearbeitet. Heute lerne ich.",
-              "昨天我工作了，今天我学习。"
+              "Gestern habe ich ihn getroffen. – Gestern traf ich ihn.",
+              "我昨天见到了他。（口语常用完成时；书面叙事常用过去时。）"
             ]
           ]
         },
         {
           "title": "08 · 时间线表达",
           "paragraphs": [
-            "Plusquamperfekt = hatte/war + Partizip II，表示过去某一参照点之前已经发生。nachdem 从句常用过去完成时，主句用过去时。"
+            "zuerst、dann、danach、vorher、später、schließlich 能标出事件顺序；时态还要说明事件与参照点的先后。"
           ],
           "tables": [],
           "examples": [
@@ -376520,7 +382517,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 陈述转述",
           "paragraphs": [
-            "第一虚拟式用于正式转述：Er sagt, er sei krank。过去内容用 habe/sei + Partizip II。若第一虚拟式与直陈式同形，可用第二虚拟式或 würde 形式区别。"
+            "转述陈述时，正式文体用 Konjunktiv I 与说话者保持距离：Er sagt, er sei krank。主句时态不强迫转述内容改时态。"
           ],
           "tables": [],
           "examples": [
@@ -376582,7 +382579,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · Konjunktiv I 与 II 替换",
           "paragraphs": [
-            "正式转述常用 sei、habe、werde 等第一虚拟式。若形式与直陈式相同，可用第二虚拟式或 würde 形式保持转述标记。"
+            "如果 Konjunktiv I 与直陈式同形，常改用 Konjunktiv II 让转述标记清楚：Sie sagen, sie hätten keine Zeit。"
           ],
           "tables": [
             [
@@ -376842,7 +382839,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 过去非现实",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "过去非现实谈未发生的过去条件或结果，用 hätte/wäre + Partizip II；主句和从句都要标出虚拟过去。"
           ],
           "tables": [
             [
@@ -376893,7 +382890,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · hätte / wäre + Partizip II",
           "paragraphs": [
-            "Partizip I = 不定式 + d，常表示主动进行：der lernende Student。Partizip II 常表示完成、结果或被动：die geöffnete Tür。前置分词像形容词一样变格。"
+            "过去未实现的条件和结果都用虚拟过去：Wenn ich früher gekommen wäre, hätte ich ihn gesehen。"
           ],
           "tables": [
             [
@@ -376934,7 +382931,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 非现实条件句",
           "paragraphs": [
-            "非现实条件句：第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "非现实条件用 Konjunktiv II：Wenn ich mehr Zeit hätte, würde ich reisen。wenn 从句提出假设，主句说这个假设下的结果。"
           ],
           "tables": [],
           "examples": [
@@ -376947,7 +382944,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 遗憾",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "对过去的遗憾用 hätte/wäre + Partizip II：Hätte ich doch früher angefangen! 对现在状态的遗憾常用 wäre/hätte。"
           ],
           "tables": [],
           "examples": [
@@ -376960,7 +382957,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 假设",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "假设并不一定成真。现在用 hätte/wäre/würde，过去用 hätte/wäre + Partizip II，并让条件和结果的时间关系一致。"
           ],
           "tables": [],
           "examples": [
@@ -376973,7 +382970,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 建议",
           "paragraphs": [
-            "第二虚拟式表达现在/将来的假设、愿望和委婉语气：Wenn ich Zeit hätte, würde ich lernen。非现实过去用 hätte/wäre + Partizip II。"
+            "建议常用 sollte/könnte：Du solltest früher anfangen；Du könntest den Bus nehmen。前者更直接，后者更像提供选择。"
           ],
           "tables": [],
           "examples": [
@@ -377220,450 +383217,241 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · 全时态被动",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "被动的时态由 werden 的形式和外层助动词共同表达。先保留 Partizip II + werden 这个核心，再按现在、过去、完成或将来搭建句框。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
                 "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "核心形式",
+                "例句"
               ],
               [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "Präsens",
+                "wird + Partizip II",
+                "Es wird gebaut."
               ],
               [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
+                "Präteritum",
+                "wurde + Partizip II",
+                "Es wurde gebaut."
               ],
               [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "Perfekt",
+                "ist + Partizip II + worden",
+                "Es ist gebaut worden."
+              ],
+              [
+                "Plusquamperfekt",
+                "war + Partizip II + worden",
+                "Es war gebaut worden."
+              ],
+              [
+                "Futur I",
+                "wird + Partizip II + werden",
+                "Es wird gebaut werden."
               ]
             ]
           ],
           "examples": [
             [
-              "Die Tür wird geöffnet.",
-              "门正在被打开。"
-            ],
-            [
-              "Die Tür ist geöffnet worden.",
-              "门已经被打开了。"
+              "Die Brücke wird gebaut; sie ist im letzten Jahr geplant worden.",
+              "桥正在建设；它在去年已经完成规划。"
             ]
           ]
         },
         {
           "title": "02 · 情态动词 + Passiv",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "情态动词被动用 Modalverb + Partizip II + werden：Das Problem muss gelöst werden。情态动词占变位位置，werden 留在句末。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "动词",
-                "ich",
-                "du",
-                "er/sie/es",
-                "wir",
-                "ihr",
-                "sie/Sie"
-              ],
-              [
-                "können",
-                "kann",
-                "kannst",
-                "kann",
-                "können",
-                "könnt",
-                "können"
-              ],
-              [
-                "müssen",
-                "muss",
-                "musst",
-                "muss",
-                "müssen",
-                "müsst",
-                "müssen"
-              ],
-              [
-                "wollen",
-                "will",
-                "willst",
-                "will",
-                "wollen",
-                "wollt",
-                "wollen"
-              ],
-              [
-                "dürfen",
-                "darf",
-                "darfst",
-                "darf",
-                "dürfen",
-                "dürft",
-                "dürfen"
-              ],
-              [
-                "sollen",
-                "soll",
-                "sollst",
-                "soll",
-                "sollen",
-                "sollt",
-                "sollen"
-              ],
-              [
-                "mögen",
-                "mag",
-                "magst",
-                "mag",
-                "mögen",
-                "mögt",
-                "mögen"
-              ],
-              [
-                "möchten",
-                "möchte",
-                "möchtest",
-                "möchte",
-                "möchten",
-                "möchtet",
-                "möchten"
-              ]
-            ],
-            [
-              [
                 "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "形式",
+                "例句"
               ],
               [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "Präsens",
+                "Modalverb + Partizip II + werden",
+                "Das Problem muss gelöst werden."
               ],
               [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
+                "Präteritum",
+                "Modalverb Präteritum + Partizip II + werden",
+                "Das Problem musste gelöst werden."
               ],
               [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "Perfekt",
+                "hat + Partizip II + werden + Modalinfinitiv",
+                "Das Problem hat gelöst werden müssen."
               ]
             ]
           ],
           "examples": [
             [
-              "Er muss heute arbeiten.",
-              "他今天必须工作。"
+              "Das Problem muss heute gelöst werden.",
+              "这个问题今天必须解决。"
             ]
           ]
         },
         {
           "title": "03 · Perfekt Passiv",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "过程被动的完成时用 sein + Partizip II + worden。注意这里是 worden，不是表示“变成”的 geworden：Die Tür ist geöffnet worden。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "类型",
-                "Partizip II",
-                "助动词",
-                "例句（ich）"
+                "人称/数",
+                "形式",
+                "例句"
               ],
               [
-                "规则弱变化",
-                "ge-…-t",
-                "haben",
-                "Ich habe gelernt."
+                "单数",
+                "ist + Partizip II + worden",
+                "Die Tür ist geöffnet worden."
               ],
               [
-                "强变化",
-                "ge-…-en",
-                "haben/sein",
-                "Ich habe gelesen. / Ich bin gegangen."
-              ],
-              [
-                "混合变化",
-                "ge-…-t",
-                "haben",
-                "Ich habe gedacht."
-              ],
-              [
-                "不可分前缀",
-                "前缀 + 词干",
-                "haben/sein",
-                "Ich habe verstanden."
-              ],
-              [
-                "-ieren",
-                "-iert（无 ge）",
-                "haben",
-                "Ich habe studiert."
-              ]
-            ],
-            [
-              [
-                "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
-              ],
-              [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
-              ],
-              [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
-              ],
-              [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "复数",
+                "sind + Partizip II + worden",
+                "Die Türen sind geöffnet worden."
               ]
             ]
           ],
           "examples": [
             [
-              "Ich habe heute gearbeitet.",
-              "我今天工作过了。"
+              "Die Tür ist bereits geöffnet worden.",
+              "门已经被打开了。"
             ]
           ]
         },
         {
           "title": "04 · Plusquamperfekt Passiv",
           "paragraphs": [
-            "Plusquamperfekt = hatte/war + Partizip II，表示过去某一参照点之前已经发生。nachdem 从句常用过去完成时，主句用过去时。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "过程被动的过去完成时用 war/waren + Partizip II + worden，表示在另一个过去事件前已经完成：Die Tür war geöffnet worden, bevor die Gäste kamen。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "类型",
-                "Partizip II",
-                "助动词",
-                "例句（ich）"
+                "人称/数",
+                "形式",
+                "例句"
               ],
               [
-                "规则弱变化",
-                "ge-…-t",
-                "haben",
-                "Ich habe gelernt."
+                "单数",
+                "war + Partizip II + worden",
+                "Die Tür war geöffnet worden."
               ],
               [
-                "强变化",
-                "ge-…-en",
-                "haben/sein",
-                "Ich habe gelesen. / Ich bin gegangen."
-              ],
-              [
-                "混合变化",
-                "ge-…-t",
-                "haben",
-                "Ich habe gedacht."
-              ],
-              [
-                "不可分前缀",
-                "前缀 + 词干",
-                "haben/sein",
-                "Ich habe verstanden."
-              ],
-              [
-                "-ieren",
-                "-iert（无 ge）",
-                "haben",
-                "Ich habe studiert."
-              ]
-            ],
-            [
-              [
-                "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
-              ],
-              [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
-              ],
-              [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
-              ],
-              [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "复数",
+                "waren + Partizip II + worden",
+                "Die Türen waren geöffnet worden."
               ]
             ]
           ],
           "examples": [
             [
-              "Vor dem Kurs hatte ich gegessen.",
-              "上课前我已经吃过饭。"
+              "Die Tür war geöffnet worden, bevor die Gäste kamen.",
+              "客人到来前，门已经被打开了。"
             ]
           ]
         },
         {
           "title": "05 · Futur Passiv",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "过程被动的将来时用 werden + Partizip II + werden：Die Brücke wird nächstes Jahr gebaut werden。第一个 werden 变位，句末 werden 保持不定式。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "人称/数",
+                "形式",
+                "例句"
               ],
               [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "单数",
+                "wird + Partizip II + werden",
+                "Die Tür wird geöffnet werden."
               ],
               [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
-              ],
-              [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
-              ]
-            ],
-            [
-              [
-                "人称",
-                "werden（现在时）",
-                "Futur I 示例"
-              ],
-              [
-                "ich",
-                "werde",
-                "ich werde lernen"
-              ],
-              [
-                "du",
-                "wirst",
-                "du wirst lernen"
-              ],
-              [
-                "er/sie/es",
-                "wird",
-                "er wird lernen"
-              ],
-              [
-                "wir",
-                "werden",
-                "wir werden lernen"
-              ],
-              [
-                "ihr",
-                "werdet",
-                "ihr werdet lernen"
-              ],
-              [
-                "sie/Sie",
-                "werden",
-                "sie werden lernen"
+                "复数",
+                "werden + Partizip II + werden",
+                "Die Türen werden geöffnet werden."
               ]
             ]
           ],
           "examples": [
             [
-              "Morgen werde ich arbeiten.",
-              "明天我会工作。"
+              "Die Tür wird morgen geöffnet werden.",
+              "门明天将被打开。"
             ]
           ]
         },
         {
           "title": "06 · 无主语被动",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "没有合适宾格宾语时也能用被动。句首可用占位 es，但换成其他成分后 es 消失：Es wird heute getanzt → Heute wird getanzt。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "位置",
+                "例句"
               ],
               [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "es 在句首",
+                "Es wird heute getanzt."
               ],
               [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
-              ],
-              [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "其他成分在句首",
+                "Heute wird getanzt."
               ]
             ]
           ],
           "examples": [
             [
-              "Hier wird gearbeitet.",
-              "这里正在施工/工作。"
+              "Hier wird nicht geraucht.",
+              "这里禁止吸烟。"
             ]
           ]
         },
         {
           "title": "07 · 被动语序",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "主句中变位成分在第二位，Partizip II 和句末不定式构成句框；从句中整个动词群移到末尾。",
+            "用法：先确定要强调动作还是结果，再选时态；Partizip II 保持在句框末端。"
           ],
           "tables": [
             [
               [
-                "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "句型",
+                "左句框",
+                "句末动词群"
               ],
               [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "主句",
+                "Das Problem muss",
+                "gelöst werden."
               ],
               [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
-              ],
-              [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "从句",
+                "..., weil das Problem",
+                "gelöst werden muss."
               ]
             ]
           ],
           "examples": [
             [
-              "Das Problem wird heute gelöst.",
-              "这个问题今天会被解决。"
+              "Weil die Straße repariert werden muss, bleibt sie gesperrt.",
+              "因为道路必须维修，所以仍然封闭。"
             ]
           ]
         }
@@ -377834,114 +383622,47 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · sich lassen + Infinitiv",
           "paragraphs": [
-            "lassen + 不定式表示让别人做或安排某事；sich lassen + 不定式表示“可以被……”。完成时和从句中的句末动词群要整体处理。",
-            "运用：主语相同时用 um … zu、ohne … zu 或 statt … zu；情态动词后不用 zu。"
+            "sich lassen + Infinitiv 表示某事可以做到：Der Text lässt sich leicht verstehen。它常比“可以被……”的被动句更自然。",
+            "用法：先判断句子要表达可能、必要、接受者还是不明确的执行者，再选择对应结构。"
           ],
           "tables": [
             [
               [
-                "结构",
-                "功能",
-                "示例"
+                "形式",
+                "意思",
+                "例句"
               ],
               [
-                "zu + Infinitiv",
-                "计划/尝试/希望",
-                "Ich hoffe, Deutsch zu lernen."
-              ],
-              [
-                "um … zu",
-                "目的",
-                "Ich lerne, um die Prüfung zu bestehen."
-              ],
-              [
-                "ohne … zu",
-                "没有做某事",
-                "Er ging, ohne sich zu verabschieden."
-              ],
-              [
-                "statt … zu",
-                "代替",
-                "Sie liest, statt fernzusehen."
-              ]
-            ],
-            [
-              [
-                "人称",
-                "现在时 lassen",
-                "示例"
-              ],
-              [
-                "ich",
-                "lasse",
-                "Ich lasse das reparieren."
-              ],
-              [
-                "du",
-                "lässt",
-                "Du lässt das reparieren."
-              ],
-              [
-                "er/sie/es",
-                "lässt",
-                "Er lässt das reparieren."
-              ],
-              [
-                "wir",
-                "lassen",
-                "Wir lassen das reparieren."
-              ],
-              [
-                "ihr",
-                "lasst",
-                "Ihr lasst das reparieren."
-              ],
-              [
-                "sie/Sie",
-                "lassen",
-                "Sie lassen das reparieren."
+                "sich lassen + Infinitiv",
+                "可以被……",
+                "Der Text lässt sich verstehen."
               ]
             ]
           ],
           "examples": [
             [
-              "Ich lasse mein Fahrrad reparieren.",
-              "我让人修我的自行车。"
+              "Der Text lässt sich leicht verstehen.",
+              "这篇文章很容易理解。"
             ]
           ]
         },
         {
           "title": "02 · sein + zu + Infinitiv",
           "paragraphs": [
-            "sein 的现在时是 bin/bist/ist/sind/seid/sind，过去时是 war/wart/waren，完成时用 ist + gewesen。它还作系动词连接身份、性质或状态：Sie ist Ärztin；Das Wetter ist kalt。",
-            "运用：主语相同时用 um … zu、ohne … zu 或 statt … zu；情态动词后不用 zu。"
+            "sein + zu + Infinitiv 根据语境表示必要或可能：Die Aufgabe ist heute zu erledigen 通常表示“今天必须完成”。",
+            "用法：先判断句子要表达可能、必要、接受者还是不明确的执行者，再选择对应结构。"
           ],
           "tables": [
             [
               [
-                "结构",
-                "功能",
-                "示例"
+                "形式",
+                "常见意思",
+                "例句"
               ],
               [
-                "zu + Infinitiv",
-                "计划/尝试/希望",
-                "Ich hoffe, Deutsch zu lernen."
-              ],
-              [
-                "um … zu",
-                "目的",
-                "Ich lerne, um die Prüfung zu bestehen."
-              ],
-              [
-                "ohne … zu",
-                "没有做某事",
-                "Er ging, ohne sich zu verabschieden."
-              ],
-              [
-                "statt … zu",
-                "代替",
-                "Sie liest, statt fernzusehen."
+                "sein + zu + Infinitiv",
+                "必须/可以被……",
+                "Die Aufgabe ist zu erledigen."
               ]
             ]
           ],
@@ -377955,157 +383676,162 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · -bar 形容词",
           "paragraphs": [
-            "定语形容词的词尾与冠词共同表达性、数、格。定冠词后多为弱变化：der gute Mann、die gute Frau、das gute Buch、die guten Bücher。",
-            "运用：先看冠词类型，再按名词性、数、格选择形容词词尾。",
-            "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
+            "部分动词可以构成 -bar 形容词，表示“可被……”：lesen → lesbar。它属于词汇构词，不能给所有动词机械添加 -bar。",
+            "用法：先判断句子要表达可能、必要、接受者还是不明确的执行者，再选择对应结构。",
+            "易错检查：-bar 是构词后缀，先查词典确认该形式确实存在。"
           ],
           "tables": [
             [
               [
-                "格",
-                "阳性（der gute Mann）",
-                "阴性（die gute Frau）",
-                "中性（das gute Kind）",
-                "复数（die guten Kinder）"
+                "动词",
+                "-bar 形式",
+                "意思"
               ],
               [
-                "主格",
-                "-e",
-                "-e",
-                "-e",
-                "-en"
+                "lesen",
+                "lesbar",
+                "可读的"
               ],
               [
-                "宾格",
-                "-en",
-                "-e",
-                "-e",
-                "-en"
+                "lösen",
+                "lösbar",
+                "可解决的"
               ],
               [
-                "与格",
-                "-en",
-                "-en",
-                "-en",
-                "-en"
-              ],
-              [
-                "属格",
-                "-en",
-                "-en",
-                "-en",
-                "-en"
+                "vergleichen",
+                "vergleichbar",
+                "可比较的"
               ]
             ]
           ],
           "examples": [
             [
-              "Die Tür ist abschließbar.",
-              "这扇门可以锁上。"
+              "Die Datei ist nicht lesbar.",
+              "这个文件无法读取。"
             ]
           ]
         },
         {
           "title": "04 · bekommen / erhalten Passiv 入门",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "bekommen/erhalten + Partizip II 把接受者放在主语位置：Sie bekam den Preis überreicht。它常用于“某人得到、获准或被给予某物”。",
+            "用法：先判断句子要表达可能、必要、接受者还是不明确的执行者，再选择对应结构。",
+            "易错检查：确认改写后句子的信息重点和原句一致。"
           ],
           "tables": [
             [
               [
-                "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "Aktiv",
+                "bekommen-Passiv"
               ],
               [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
-              ],
-              [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
-              ],
-              [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "Man überreicht ihr den Preis.",
+                "Sie bekommt den Preis überreicht."
               ]
             ]
           ],
           "examples": [
             [
-              "Er kommt morgen.",
-              "他明天来。"
+              "Die Gewinnerin bekam den Preis überreicht.",
+              "获奖者被授予了奖品。"
             ]
           ]
         },
         {
           "title": "05 · man 结构",
           "paragraphs": [
-            "man 结构：情态被动是 Modalverb + Partizip II + werden：Das Problem muss gelöst werden。sich lassen + 不定式表示可实现性，sein + zu + 不定式依语境表示必要或可能。"
+            "man + 主动句在不需要说明具体执行者时很自然：Man repariert die Straße。它和 Die Straße wird repariert 的信息重点不同。",
+            "用法：先判断句子要表达可能、必要、接受者还是不明确的执行者，再选择对应结构。",
+            "易错检查：确认改写后句子的信息重点和原句一致。"
           ],
-          "tables": [],
+          "tables": [
+            [
+              [
+                "结构",
+                "例句"
+              ],
+              [
+                "man + Aktiv",
+                "Man repariert die Straße."
+              ],
+              [
+                "werden-Passiv",
+                "Die Straße wird repariert."
+              ]
+            ]
+          ],
           "examples": [
             [
-              "Das Bild hängt an der Wand.",
-              "画挂在墙上。"
-            ],
-            [
-              "Ich hänge das Bild an die Wand.",
-              "我把画挂到墙上。"
+              "Man repariert die Straße.",
+              "人们正在维修道路。"
             ]
           ]
         },
         {
           "title": "06 · 主动结构代替被动",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
-            "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
+            "有些主动形式本身可以表达可行性，例如 Die Tür öffnet sich leicht。选择这种形式时要确认动词确实有相应用法。",
+            "用法：先判断句子要表达可能、必要、接受者还是不明确的执行者，再选择对应结构。",
+            "易错检查：确认改写后句子的信息重点和原句一致。"
           ],
           "tables": [
             [
               [
-                "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "结构",
+                "例句"
               ],
               [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "反身主动形式",
+                "Die Tür öffnet sich leicht."
               ],
               [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
-              ],
-              [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "sich lassen",
+                "Die Tür lässt sich leicht öffnen."
               ]
             ]
           ],
           "examples": [
             [
-              "Das Problem wird heute gelöst.",
-              "这个问题今天会被解决。"
+              "Die Tür öffnet sich leicht.",
+              "这扇门很容易打开。"
             ]
           ]
         },
         {
           "title": "07 · 不同结构语体差异",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "werden 被动语气中性；sich lassen 和 -bar 常突出可行性；sein + zu 常带必要性；man 结构更直接。根据句子的重点选择。",
+            "用法：先判断句子要表达可能、必要、接受者还是不明确的执行者，再选择对应结构。",
+            "易错检查：确认改写后句子的信息重点和原句一致。"
           ],
-          "tables": [],
+          "tables": [
+            [
+              [
+                "结构",
+                "信息重点"
+              ],
+              [
+                "werden + Partizip II",
+                "中性描述动作"
+              ],
+              [
+                "sich lassen / -bar",
+                "可行性"
+              ],
+              [
+                "sein + zu",
+                "必要或可能"
+              ],
+              [
+                "man + Aktiv",
+                "不说明具体执行者"
+              ]
+            ]
+          ],
           "examples": [
             [
-              "Das Problem lässt sich lösen.",
-              "这个问题可以解决。"
+              "Das Problem kann gelöst werden. – Das Problem lässt sich lösen.",
+              "这个问题可以解决。（中性被动 / 更自然的可行性表达）"
             ]
           ]
         }
@@ -378267,7 +383993,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Partizip I",
           "paragraphs": [
-            "Partizip I = 不定式 + d，常表示主动进行：der lernende Student。Partizip II 常表示完成、结果或被动：die geöffnete Tür。前置分词像形容词一样变格。"
+            "Partizip I 由不定式 + d 构成，表示主动、同时进行：warten → wartend，der wartende Gast。作定语时还要加形容词词尾。"
           ],
           "tables": [
             [
@@ -378308,7 +384034,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · Partizip II",
           "paragraphs": [
-            "Partizip I = 不定式 + d，常表示主动进行：der lernende Student。Partizip II 常表示完成、结果或被动：die geöffnete Tür。前置分词像形容词一样变格。"
+            "Partizip II 作定语时常带完成或被动含义：die geschlossene Tür、der gestern geschriebene Brief，并像形容词一样加词尾。"
           ],
           "tables": [
             [
@@ -378349,7 +384075,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 分词作形容词",
           "paragraphs": [
-            "定语形容词的词尾与冠词共同表达性、数、格。定冠词后多为弱变化：der gute Mann、die gute Frau、das gute Buch、die guten Bücher。",
+            "Partizip I/II 可像形容词一样作表语或定语；放在名词前时按冠词、性数格添加词尾。",
             "运用：先看冠词类型，再按名词性、数、格选择形容词词尾。",
             "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
           ],
@@ -378429,7 +384155,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 扩展形容词定语",
           "paragraphs": [
-            "定语形容词的词尾与冠词共同表达性、数、格。定冠词后多为弱变化：der gute Mann、die gute Frau、das gute Buch、die guten Bücher。",
+            "扩展定语把补语和状语放在分词或形容词前，整体位于冠词与名词之间：der gestern veröffentlichte Bericht。",
             "运用：先看冠词类型，再按名词性、数、格选择形容词词尾。",
             "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
           ],
@@ -378482,7 +384208,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · Partizipialattribut",
           "paragraphs": [
-            "Partizip I = 不定式 + d，常表示主动进行：der lernende Student。Partizip II 常表示完成、结果或被动：die geöffnete Tür。前置分词像形容词一样变格。"
+            "Partizipialattribut 压缩关系从句：die gestern eingereichten Anträge = die Anträge, die gestern eingereicht wurden。"
           ],
           "tables": [
             [
@@ -378523,7 +384249,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 定语从句与分词结构转换",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "关系从句可压缩为分词定语：die Anträge, die gestern eingereicht wurden → die gestern eingereichten Anträge。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -378797,8 +384523,8 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Das ist die Frau, deren Bruder Arzt ist.",
-              "这就是那位女士，她的哥哥是医生。"
+              "Die Frau, deren Sohn hier arbeitet, ist Ärztin.",
+              "儿子在这里工作的女士是医生。"
             ]
           ]
         },
@@ -378904,7 +384630,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 关系副词",
           "paragraphs": [
-            "关系代词的性数跟先行词，格跟它在从句中的作用。关系从句用逗号隔开，变位动词放末尾：Der Mann, den ich sehe, …",
+            "wo、wohin、woher、warum 可在合适的地点或原因先行词后连接关系从句；正式地点表达常优先用介词 + 关系代词。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。"
           ],
           "tables": [],
@@ -378918,15 +384644,15 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 多层关系从句",
           "paragraphs": [
-            "关系代词的性数跟先行词，格跟它在从句中的作用。关系从句用逗号隔开，变位动词放末尾：Der Mann, den ich sehe, …",
+            "多层关系从句要从最内层开始配对先行词和动词。每层用逗号划出边界，避免关系代词指向不清。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich weiß, dass sie kommt.",
-              "我知道她会来。"
+              "Der Bericht, den die Expertin, die wir eingeladen haben, geschrieben hat, ist erschienen.",
+              "我们邀请的专家撰写的报告已经发表。"
             ]
           ]
         }
@@ -379121,7 +384847,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · sodass",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "sodass 引出实际发生的结果：Es regnete stark, sodass wir zu Hause blieben。它不同于表示目的的 damit。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -379135,7 +384861,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · sofern",
           "paragraphs": [
-            "indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。"
+            "sofern 表示“只要/在……条件下”，语体比 wenn 稍正式：Sofern alle zustimmen, beginnen wir。"
           ],
           "tables": [],
           "examples": [
@@ -379148,21 +384874,21 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · vorausgesetzt, dass",
           "paragraphs": [
-            "vorausgesetzt, dass：indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。",
+            "vorausgesetzt, dass 表示“前提是……”，比 wenn 更明确地强调条件：Wir fahren, vorausgesetzt, dass das Wetter gut ist。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich weiß, dass er kommt.",
-              "我知道他会来。"
+              "Wir setzen den Plan um, vorausgesetzt, dass alle zustimmen.",
+              "只要所有人都同意，我们就执行计划。"
             ]
           ]
         },
         {
           "title": "05 · ohne dass",
           "paragraphs": [
-            "indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。",
+            "主从句主语不同或需要完整时态时用 ohne dass：Er ging, ohne dass ich ihn sah；同一主语常可用 ohne … zu。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
@@ -379176,21 +384902,21 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · anstatt dass",
           "paragraphs": [
-            "anstatt dass：indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。",
+            "anstatt dass 连接两个主语可以不同的分句，表示“而不是……”：Er arbeitet, anstatt dass er sich ausruht。从句动词放末尾。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich weiß, dass er kommt.",
-              "我知道他会来。"
+              "Er arbeitet weiter, anstatt dass er sich ausruht.",
+              "他继续工作，而不是休息。"
             ]
           ]
         },
         {
           "title": "07 · je ... desto / umso",
           "paragraphs": [
-            "indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。"
+            "je 从句使用比较级并把动词放末尾，desto/umso 主句以比较级开头并保持 V2：Je mehr ich übe, desto sicherer spreche ich。"
           ],
           "tables": [],
           "examples": [
@@ -379203,7 +384929,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · als ob",
           "paragraphs": [
-            "indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。"
+            "als ob 引出与现实有距离的比较，通常用 Konjunktiv II：Er tut so, als ob er alles wüsste。"
           ],
           "tables": [],
           "examples": [
@@ -379216,28 +384942,28 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · als wenn",
           "paragraphs": [
-            "als wenn：indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。",
+            "als wenn 和 als ob 都可引出与事实不一致的比较：Er tut so, als wenn er alles wüsste。这种情况通常用 Konjunktiv II。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
           "tables": [],
           "examples": [
             [
-              "Wenn ich Zeit habe, lese ich.",
-              "如果我有时间，我就读书。"
+              "Er tut so, als wenn er alles wüsste.",
+              "他表现得好像什么都知道。"
             ]
           ]
         },
         {
           "title": "10 · 复杂逻辑关系",
           "paragraphs": [
-            "关系代词的性数跟先行词，格跟它在从句中的作用。关系从句用逗号隔开，变位动词放末尾：Der Mann, den ich sehe, …",
+            "复杂逻辑关系要区分手段、结果、条件、替代和非现实比较；连接词决定从句边界和动词末位。",
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。"
           ],
           "tables": [],
           "examples": [
             [
-              "Sofern alle zustimmen, wird der Plan umgesetzt.",
-              "只要所有人同意，计划就会实施。"
+              "Sofern alle zustimmen, wird der Plan umgesetzt, ohne dass weitere Änderungen nötig sind.",
+              "只要所有人同意，计划就会实施，无需进一步修改。"
             ]
           ]
         }
@@ -379440,87 +385166,87 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · sowohl ... als auch",
           "paragraphs": [
-            "indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。"
+            "sowohl … als auch 肯定两个平行成分：Sie spricht sowohl Deutsch als auch Englisch。它本身不改变主句语序。"
           ],
           "tables": [],
           "examples": [
             [
-              "Als ich klein war, wohnte ich in Bonn.",
-              "我小时候住在波恩。"
+              "Sie spricht sowohl Deutsch als auch Englisch.",
+              "她既说德语，也说英语。"
             ]
           ]
         },
         {
           "title": "02 · weder ... noch",
           "paragraphs": [
-            "indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。"
+            "weder … noch 同时否定两个平行成分：Er trinkt weder Kaffee noch Tee。若连接两个分句，语序仍按各自句型决定。"
           ],
           "tables": [],
           "examples": [
             [
               "Er trinkt weder Kaffee noch Tee.",
-              "他既不喝咖啡也不喝茶。"
+              "他既不喝咖啡，也不喝茶。"
             ]
           ]
         },
         {
           "title": "03 · entweder ... oder",
           "paragraphs": [
-            "indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。"
+            "entweder … oder 表示两个选择，连接的成分应保持平行：Entweder fahren wir mit dem Bus oder wir gehen zu Fuß。"
           ],
           "tables": [],
           "examples": [
             [
-              "Möchtest du Tee oder Kaffee?",
-              "你想要茶还是咖啡？"
+              "Entweder fahren wir mit dem Bus oder wir gehen zu Fuß.",
+              "我们要么乘公交车，要么步行。"
             ]
           ]
         },
         {
           "title": "04 · nicht nur ... sondern auch",
           "paragraphs": [
-            "nicht 否定动词、形容词、地点、时间或整句，位置取决于被否定的成分：nicht gut、nicht in Berlin。",
+            "nicht nur … sondern auch 同时强调两个平行成分：Er spricht nicht nur Deutsch, sondern auch Englisch。",
             "运用：先确定否定焦点，再把 nicht 放在被否定成分前或句框中的合适位置。",
             "易错检查：先确定否定焦点，不要把 nicht 固定放在句末。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich trinke keinen Tee, sondern Kaffee.",
-              "我不喝茶，而是喝咖啡。"
+              "Er spricht nicht nur Deutsch, sondern auch Englisch.",
+              "他不仅说德语，也说英语。"
             ]
           ]
         },
         {
           "title": "05 · einerseits ... andererseits",
           "paragraphs": [
-            "indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。"
+            "einerseits … andererseits 从两个角度组织论证：Einerseits ist es billig, andererseits dauert es lange。两部分常各自形成 V2 主句。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich lerne seit einem Jahr Deutsch.",
-              "我学德语已经一年了。"
+              "Einerseits ist es billig, andererseits dauert es lange.",
+              "一方面它便宜，另一方面很耗时。"
             ]
           ]
         },
         {
           "title": "06 · zwar ... aber",
           "paragraphs": [
-            "indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。"
+            "zwar … aber 先承认一点，再提出更重要的限制或转折：Das Buch ist zwar alt, aber interessant。"
           ],
           "tables": [],
           "examples": [
             [
-              "Ich bin müde, aber ich lerne weiter.",
-              "我很累，但我继续学习。"
+              "Das Buch ist zwar alt, aber interessant.",
+              "这本书虽然旧，但很有趣。"
             ]
           ]
         },
         {
           "title": "07 · je ... desto",
           "paragraphs": [
-            "indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。"
+            "je … desto 表示两个变化同步：Je länger ich lerne, desto leichter wird es。je 引从句，desto 引主句。"
           ],
           "tables": [],
           "examples": [
@@ -379533,7 +385259,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · teils ... teils",
           "paragraphs": [
-            "indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。"
+            "teils … teils 表示同一整体中不同部分或反应：Die Meinungen waren teils positiv, teils kritisch。"
           ],
           "tables": [],
           "examples": [
@@ -379702,7 +385428,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 形容词名词化",
           "paragraphs": [
-            "动词或形容词名词化后大写并按名词处理：das Lesen、beim Lernen。介词、冠词和格仍然需要变化，正式文本中要避免过度堆叠。",
+            "形容词名词化后大写，并保留形容词式词尾：der Alte、eine Deutsche、etwas Neues。冠词和语境决定性数格。",
             "运用：先看冠词类型，再按名词性、数、格选择形容词词尾。",
             "易错检查：先判断比较对象或冠词类型，再选择比较级或形容词词尾。"
           ],
@@ -379755,7 +385481,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 从句名词化",
           "paragraphs": [
-            "动词或形容词名词化后大写并按名词处理：das Lesen、beim Lernen。介词、冠词和格仍然需要变化，正式文本中要避免过度堆叠。",
+            "从句可压缩为名词结构：Weil die Kosten steigen → wegen des Kostenanstiegs。转换时要保留原有逻辑关系。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -379770,25 +385496,21 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · Nominalisierung mit Präposition",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "从句可用带介词的名词结构压缩：weil die Kosten steigen → wegen des Kostenanstiegs。介词会决定名词短语的格。",
             "运用：把介词和它支配的格作为一个整体使用。"
           ],
           "tables": [],
           "examples": [
             [
-              "Wir gehen in den Park.",
-              "我们去公园。"
-            ],
-            [
-              "Wir sind im Park.",
-              "我们在公园里。"
+              "Wegen des Kostenanstiegs ändern wir den Plan.",
+              "由于成本上涨，我们修改计划。"
             ]
           ]
         },
         {
           "title": "05 · 正式书面表达",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "名词化常见于正式文本，但应保留清楚的动作关系：die Durchführung der Prüfung 对应 die Prüfung durchführen。"
           ],
           "tables": [],
           "examples": [
@@ -379801,7 +385523,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 去除重复主语",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "主从句主语相同时，可用不定式、分词或名词结构减少重复：Nachdem sie die Arbeit beendet hatte → Nach Abschluss der Arbeit。"
           ],
           "tables": [],
           "examples": [
@@ -380020,7 +385742,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 两种结构转换",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "Verbalstil 用动词清楚展示参与者和动作；Nominalstil 用名词和介词压缩信息。转换时必须保留主语、时间和因果关系。"
           ],
           "tables": [],
           "examples": [
@@ -380033,7 +385755,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 正式语体",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "正式语体常用准确的名词结构、被动式和中性措辞，但仍应保持句子清楚，避免连续堆叠抽象名词。"
           ],
           "tables": [],
           "examples": [
@@ -380059,7 +385781,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 新闻与报告语言",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "新闻和报告常用间接引语、被动、来源短语及名词化：Laut der Behörde …；Es wurde mitgeteilt, dass …。"
           ],
           "tables": [],
           "examples": [
@@ -380072,7 +385794,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 信息压缩",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "名词化、分词定语和介词短语可以压缩信息，但必须保留逻辑关系：nach der Prüfung statt nachdem man geprüft hatte。"
           ],
           "tables": [],
           "examples": [
@@ -380269,7 +385991,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · stellen",
           "paragraphs": [
-            "功能动词结构把主要意义放在名词上：eine Entscheidung treffen、eine Frage stellen、zur Verfügung stellen。冠词、介词和格是固定搭配的一部分。"
+            "stellen 在功能动词结构中常见于 eine Frage stellen、einen Antrag stellen、etwas zur Verfügung stellen。整体意义由名词决定。"
           ],
           "tables": [],
           "examples": [
@@ -380282,7 +386004,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · bringen",
           "paragraphs": [
-            "在功能动词章节中，bringen 常与名词构成固定结构：Vorteile mit sich bringen、Ideen hervorbringen。"
+            "bringen 可用 jemandem etwas bringen：Ich bringe dir einen Tee。这里 dir 是接收者。"
           ],
           "tables": [],
           "examples": [
@@ -380333,7 +386055,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · führen",
           "paragraphs": [
-            "功能动词结构把主要意义放在名词上：eine Entscheidung treffen、eine Frage stellen、zur Verfügung stellen。冠词、介词和格是固定搭配的一部分。"
+            "führen 常构成 ein Gespräch führen、Verhandlungen führen、zu einem Ergebnis führen。它不总是按“带领”直译。"
           ],
           "tables": [],
           "examples": [
@@ -380346,7 +386068,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · geraten",
           "paragraphs": [
-            "功能动词结构把主要意义放在名词上：eine Entscheidung treffen、eine Frage stellen、zur Verfügung stellen。冠词、介词和格是固定搭配的一部分。"
+            "geraten 常与 in/unter + Akkusativ 构成进入某状态：in Schwierigkeiten geraten、unter Druck geraten。"
           ],
           "tables": [],
           "examples": [
@@ -380359,7 +386081,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · 固定名词 + 动词结构",
           "paragraphs": [
-            "功能动词结构把主要意义放在名词上：eine Entscheidung treffen、eine Frage stellen、zur Verfügung stellen。冠词、介词和格是固定搭配的一部分。"
+            "功能动词结构由名词承担核心意义，动词提供语法信息：eine Entscheidung treffen、in Betracht ziehen。整组按搭配记忆。"
           ],
           "tables": [],
           "examples": [
@@ -380372,7 +386094,7 @@ window.WORTWEG_DATA = {
         {
           "title": "10 · 普通动词与功能动词转换",
           "paragraphs": [
-            "功能动词结构把主要意义放在名词上：eine Entscheidung treffen、eine Frage stellen、zur Verfügung stellen。冠词、介词和格是固定搭配的一部分。"
+            "简单动词和功能动词结构可表达相近内容：entscheiden ↔ eine Entscheidung treffen。后者常更正式，也可能改变信息重点。"
           ],
           "tables": [],
           "examples": [
@@ -380610,7 +386332,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · Nomen + Präposition",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "名词常有固定介词搭配：das Interesse an + Dativ、die Angst vor + Dativ。相关动词或形容词的介词不一定完全相同。",
             "运用：把介词和它支配的格作为一个整体使用。"
           ],
           "tables": [],
@@ -380624,7 +386346,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · Adjektiv + Präposition",
           "paragraphs": [
-            "介词与格一起记。aus、bei、mit、nach、seit、von、zu 常支配与格；durch、für、gegen、ohne、um 常支配宾格。in/an 与缩合形式要熟悉：im、am、zum、zur。",
+            "形容词也可固定支配介词和格：zufrieden mit + Dativ、stolz auf + Akkusativ。应把完整搭配一起记。",
             "运用：把介词和它支配的格作为一个整体使用。"
           ],
           "tables": [
@@ -380676,7 +386398,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 固定格",
           "paragraphs": [
-            "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
+            "动词、形容词、名词和介词都可能固定要求某个格。应把 warten auf + Akk、helfen + Dat 作为完整结构记忆。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [],
@@ -380703,7 +386425,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 高频书面搭配",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "书面语常用 Stellung nehmen、in Betracht ziehen、zur Verfügung stehen 等固定搭配。冠词、介词和格都属于搭配的一部分。"
           ],
           "tables": [],
           "examples": [
@@ -380910,7 +386632,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Vorfeld 变化",
           "paragraphs": [
-            "Vorfeld 变化：正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "Vorfeld 是主句变位动词前的第一个成分。主语、时间、地点、宾语或整个从句都可以占这个位置，但变位动词仍在第二成分位。"
           ],
           "tables": [
             [
@@ -380977,7 +386699,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · Satzklammer",
           "paragraphs": [
-            "可分前缀在主句中与变位动词分开：Ich rufe dich an；不定式和分词保持整体：anzurufen、angerufen。不可分前缀 be-/emp-/ent-/er-/ver- 通常不分开，也通常不加 ge-。"
+            "句框由左边的变位部分和右边的前缀或非变位动词组成：Ich rufe dich heute Abend an。中间可放宾语和状语。"
           ],
           "tables": [],
           "examples": [
@@ -380994,7 +386716,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 多层从句",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "多层从句要按连接词逐层配对动词。先找外层主句，再处理每个从句和关系从句的边界。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -381009,7 +386731,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 插入结构",
           "paragraphs": [
-            "主句的有限动词占第二成分位（V2）：第一成分可以是主语、时间、地点或宾语。第一成分换了，动词仍保持第二位：Heute lerne ich；In Berlin arbeitet sie。"
+            "插入说明用逗号、括号或破折号与主句分开，不改变主句骨架：Berlin, die Hauptstadt Deutschlands, ist groß。"
           ],
           "tables": [],
           "examples": [
@@ -381035,7 +386757,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · 多个状语",
           "paragraphs": [
-            "先找有限动词和句框末端，再分析中场的代词、宾语和状语；长句按主句、从句和定语边界逐层拆开。"
+            "多个状语的中性次序常参考 TeKaMoLo，但代词、已知信息和强调会改变位置。先保证句框和动词支配正确。"
           ],
           "tables": [],
           "examples": [
@@ -381048,7 +386770,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · 长句拆解",
           "paragraphs": [
-            "先找有限动词和句框末端，再分析中场的代词、宾语和状语；长句按主句、从句和定语边界逐层拆开。"
+            "拆长句先圈出所有变位动词，再按逗号和连接词分出主句、从句、关系从句，最后把代词还原到对应先行词。"
           ],
           "tables": [],
           "examples": [
@@ -381061,7 +386783,7 @@ window.WORTWEG_DATA = {
         {
           "title": "10 · 长句重组",
           "paragraphs": [
-            "先找有限动词和句框末端，再分析中场的代词、宾语和状语；长句按主句、从句和定语边界逐层拆开。"
+            "重组时先决定主要信息放主句，原因、条件或限制放从句；再检查每层动词位置、指代和逗号。"
           ],
           "tables": [],
           "examples": [
@@ -381255,7 +386977,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · 因果",
           "paragraphs": [
-            "因果：indem 表手段，während 表同时或对照，sofern 表条件；je + 比较级 … desto/umso + 比较级 表比例关系。第一部分从句动词末位，第二部分遵守主句语序。"
+            "原因关系可用 weil/da 从句、deshalb/daher 连接副词或 wegen/aufgrund 介词短语表达。意思接近，但动词位置和后接格不同。"
           ],
           "tables": [],
           "examples": [
@@ -381268,7 +386990,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 条件",
           "paragraphs": [
-            "先按逻辑选择结构：weil 表原因，wenn/falls 表条件，obwohl 表让步，damit/um … zu 表目的，sodass 表结果；连接词类别决定动词位置。"
+            "条件关系说明什么前提下结果成立。常用 wenn、falls、sofern 或 vorausgesetzt, dass；选择取决于条件的确定程度和语体。"
           ],
           "tables": [],
           "examples": [
@@ -381281,7 +387003,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 让步",
           "paragraphs": [
-            "先按逻辑选择结构：weil 表原因，wenn/falls 表条件，obwohl 表让步，damit/um … zu 表目的，sodass 表结果；连接词类别决定动词位置。"
+            "让步关系说明结果在障碍存在时仍成立：Obwohl er müde ist, arbeitet er weiter；也可用 trotzdem 接主句。"
           ],
           "tables": [],
           "examples": [
@@ -381294,7 +387016,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 对比",
           "paragraphs": [
-            "先按逻辑选择结构：weil 表原因，wenn/falls 表条件，obwohl 表让步，damit/um … zu 表目的，sodass 表结果；连接词类别决定动词位置。"
+            "对比可用 während 从句、hingegen/dagegen 连接副词或 im Gegensatz zu 介词结构。三种形式的动词位置不同。"
           ],
           "tables": [],
           "examples": [
@@ -381307,7 +387029,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 结果",
           "paragraphs": [
-            "先按逻辑选择结构：weil 表原因，wenn/falls 表条件，obwohl 表让步，damit/um … zu 表目的，sodass 表结果；连接词类别决定动词位置。"
+            "结果关系说明前面的情况造成什么后果。sodass 引出动词末位从句，deshalb/daher 则引出 V2 主句。"
           ],
           "tables": [],
           "examples": [
@@ -381320,7 +387042,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 目的",
           "paragraphs": [
-            "先按逻辑选择结构：weil 表原因，wenn/falls 表条件，obwohl 表让步，damit/um … zu 表目的，sodass 表结果；连接词类别决定动词位置。"
+            "目的关系回答“为了什么”。同一主语常用 um … zu，不同主语或需完整分句时用 damit。"
           ],
           "tables": [],
           "examples": [
@@ -381333,24 +387055,20 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 时间",
           "paragraphs": [
-            "数字、日期、星期和时间要和固定表达一起记：am Montag、am 6. September、um neun Uhr；年龄用 sein + Jahre alt。"
+            "B2 书面表达中的时间关系可用 während、bevor、nachdem、seitdem 等从句，也可改写为 während、vor、nach、seit + 名词结构。"
           ],
           "tables": [],
           "examples": [
             [
-              "Der Kurs beginnt um neun Uhr.",
-              "课程九点开始。"
-            ],
-            [
-              "Ich lerne am Abend.",
-              "我晚上学习。"
+              "Nachdem die Prüfung beendet worden war, wurden die Ergebnisse veröffentlicht.",
+              "考试结束后，结果被公布。"
             ]
           ]
         },
         {
           "title": "08 · 限制",
           "paragraphs": [
-            "先按逻辑选择结构：weil 表原因，wenn/falls 表条件，obwohl 表让步，damit/um … zu 表目的，sodass 表结果；连接词类别决定动词位置。"
+            "限制观点可用 soweit、sofern、allerdings、nur 等：Soweit ich weiß …；Das gilt allerdings nur für …。"
           ],
           "tables": [],
           "examples": [
@@ -381363,7 +387081,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · 补充",
           "paragraphs": [
-            "先按逻辑选择结构：weil 表原因，wenn/falls 表条件，obwohl 表让步，damit/um … zu 表目的，sodass 表结果；连接词类别决定动词位置。"
+            "补充并列信息常用 außerdem、zudem、darüber hinaus。连接副词位于句首时，有限动词紧跟其后。"
           ],
           "tables": [],
           "examples": [
@@ -381376,7 +387094,7 @@ window.WORTWEG_DATA = {
         {
           "title": "10 · 转折",
           "paragraphs": [
-            "先按逻辑选择结构：weil 表原因，wenn/falls 表条件，obwohl 表让步，damit/um … zu 表目的，sodass 表结果；连接词类别决定动词位置。"
+            "aber、jedoch、allerdings、dennoch 都能表达转折，但词类和位置不同：jedoch/allerdings 可灵活放在中场。"
           ],
           "tables": [],
           "examples": [
@@ -381583,7 +387301,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · 客观表达",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "客观表达把证据或来源放在前面：Die Daten zeigen …、Laut dem Bericht …，避免把个人看法写成事实。"
           ],
           "tables": [],
           "examples": [
@@ -381596,7 +387314,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 主观表达",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "主观判断应明确标记来源：Meiner Ansicht nach …、Ich halte … für …、Ich bin der Auffassung, dass …。"
           ],
           "tables": [],
           "examples": [
@@ -381622,7 +387340,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · 评价",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "评价可用 ich finde/halte für、es ist + 形容词 + dass/zu 或 zu bewerten sein。选择取决于正式程度。"
           ],
           "tables": [],
           "examples": [
@@ -381635,7 +387353,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 强调",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "vor allem、insbesondere、gerade、entscheidend ist 等可突出信息。句首成分变化后仍要保持主句 V2。"
           ],
           "tables": [],
           "examples": [
@@ -381648,7 +387366,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 限制",
           "paragraphs": [
-            "先按逻辑选择结构：weil 表原因，wenn/falls 表条件，obwohl 表让步，damit/um … zu 表目的，sodass 表结果；连接词类别决定动词位置。"
+            "限制观点可用 soweit、sofern、allerdings、nur 等：Soweit ich weiß …；Das gilt allerdings nur für …。"
           ],
           "tables": [],
           "examples": [
@@ -381661,7 +387379,7 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 保留意见",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "委婉限制判断可用 grundsätzlich、allerdings、zum Teil、soweit ich sehe：Das ist grundsätzlich richtig, allerdings …。"
           ],
           "tables": [],
           "examples": [
@@ -381674,7 +387392,7 @@ window.WORTWEG_DATA = {
         {
           "title": "08 · 同意 / 反对",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "同意常用 jemandem/einem Vorschlag zustimmen + Dativ；反对可用 widersprechen + Dativ 或 gegen + Akkusativ sein。"
           ],
           "tables": [],
           "examples": [
@@ -381687,7 +387405,7 @@ window.WORTWEG_DATA = {
         {
           "title": "09 · 举例",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "举例常用 zum Beispiel、beispielsweise、etwa。插入句中的补充例子通常用逗号与主体分开。"
           ],
           "tables": [],
           "examples": [
@@ -381700,7 +387418,7 @@ window.WORTWEG_DATA = {
         {
           "title": "10 · 引用",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "引用来源可用 laut + Dativ/Genitiv、nach Angaben + Genitiv 或 Konjunktiv I 间接转述，并清楚区分来源与自己的判断。"
           ],
           "tables": [],
           "examples": [
@@ -381713,7 +387431,7 @@ window.WORTWEG_DATA = {
         {
           "title": "11 · 总结",
           "paragraphs": [
-            "正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "总结可用 zusammenfassend、abschließend、insgesamt 或 Daraus lässt sich schließen, dass …，应回到前文结论而不加入新论据。"
           ],
           "tables": [],
           "examples": [
@@ -382205,7 +387923,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · Konjunktiv II",
           "paragraphs": [
-            "würde + 不定式是规则动词常用形式；sein/haben/情态动词常用 wäre/hätte/könnte 等直接形式。过去非现实用 hätte/wäre + Partizip II。"
+            "Konjunktiv II 表示假设、愿望、建议和礼貌距离：Wenn ich Zeit hätte, würde ich kommen。过去非现实用 hätte/wäre + Partizip II。"
           ],
           "tables": [
             [
@@ -382351,8 +388069,8 @@ window.WORTWEG_DATA = {
           "tables": [],
           "examples": [
             [
-              "Ich weiß, dass sie kommt.",
-              "我知道她会来。"
+              "Das Buch, das ich gestern gekauft habe, ist spannend.",
+              "我昨天买的那本书很精彩。"
             ]
           ]
         },
@@ -382468,7 +388186,7 @@ window.WORTWEG_DATA = {
         {
           "title": "13 · 综合句型转换",
           "paragraphs": [
-            "综合句型转换：正式论证常用明确连接框架：Meiner Meinung nach、einerseits … andererseits、zwar … aber、daraus folgt, dass。前置成分占一个位置，变位动词仍在第二位。"
+            "转换句型时先保留原句的时间、逻辑和信息重点，再同步调整动词位置、格和连接词；不要只替换表面词形。"
           ],
           "tables": [],
           "examples": [
