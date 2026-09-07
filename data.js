@@ -354958,68 +354958,50 @@ window.WORTWEG_DATA = {
             [
               [
                 "人称",
-                "主格",
-                "宾格",
-                "与格"
+                "主格"
               ],
               [
                 "ich",
-                "ich",
-                "mich",
-                "mir"
+                "ich"
               ],
               [
                 "du",
-                "du",
-                "dich",
-                "dir"
+                "du"
               ],
               [
                 "er",
-                "er",
-                "ihn",
-                "ihm"
+                "er"
               ],
               [
                 "sie（她）",
-                "sie",
-                "sie",
+                "sie"
+              ],
+              [
+                "es",
+                "es"
+              ],
+              [
+                "wir",
+                "wir"
+              ],
+              [
+                "ihr",
                 "ihr"
               ],
               [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
                 "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
+                "sie/Sie"
               ]
             ]
           ],
           "examples": [
             [
-              "Ich sehe ihn.",
-              "我看见他。"
+              "Ich lerne Deutsch.",
+              "我学习德语。"
             ],
             [
-              "Wir helfen ihnen.",
-              "我们帮助他们。"
+              "Sie wohnt in Berlin.",
+              "她住在柏林。"
             ]
           ]
         },
@@ -355994,27 +355976,6 @@ window.WORTWEG_DATA = {
                 "die",
                 "das",
                 "die"
-              ],
-              [
-                "宾格",
-                "den",
-                "die",
-                "das",
-                "die"
-              ],
-              [
-                "与格",
-                "dem",
-                "der",
-                "dem",
-                "den"
-              ],
-              [
-                "属格",
-                "des",
-                "der",
-                "des",
-                "der"
               ]
             ],
             [
@@ -356030,27 +355991,6 @@ window.WORTWEG_DATA = {
                 "ein",
                 "eine",
                 "ein",
-                "—"
-              ],
-              [
-                "宾格",
-                "einen",
-                "eine",
-                "ein",
-                "—"
-              ],
-              [
-                "与格",
-                "einem",
-                "einer",
-                "einem",
-                "—"
-              ],
-              [
-                "属格",
-                "eines",
-                "einer",
-                "eines",
                 "—"
               ]
             ]
@@ -356087,27 +356027,6 @@ window.WORTWEG_DATA = {
                 "die",
                 "das",
                 "die"
-              ],
-              [
-                "宾格",
-                "den",
-                "die",
-                "das",
-                "die"
-              ],
-              [
-                "与格",
-                "dem",
-                "der",
-                "dem",
-                "den"
-              ],
-              [
-                "属格",
-                "des",
-                "der",
-                "des",
-                "der"
               ]
             ],
             [
@@ -356123,27 +356042,6 @@ window.WORTWEG_DATA = {
                 "ein",
                 "eine",
                 "ein",
-                "—"
-              ],
-              [
-                "宾格",
-                "einen",
-                "eine",
-                "ein",
-                "—"
-              ],
-              [
-                "与格",
-                "einem",
-                "einer",
-                "einem",
-                "—"
-              ],
-              [
-                "属格",
-                "eines",
-                "einer",
-                "eines",
                 "—"
               ]
             ]
@@ -356352,7 +356250,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · 第四格冠词",
           "paragraphs": [
-            "名词要连同冠词和复数一起记：der Tisch–die Tische、die Frage–die Fragen、das Buch–die Bücher。冠词表示语法性，复数定冠词统一是 die；不定冠词没有复数形式。",
+            "第四格中只有阳性单数冠词明显变化：der → den，ein → einen，kein → keinen。阴性、中性和复数形式与第一格相同。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
@@ -356377,20 +356275,6 @@ window.WORTWEG_DATA = {
                 "die",
                 "das",
                 "die"
-              ],
-              [
-                "与格",
-                "dem",
-                "der",
-                "dem",
-                "den"
-              ],
-              [
-                "属格",
-                "des",
-                "der",
-                "des",
-                "der"
               ]
             ],
             [
@@ -356414,47 +356298,6 @@ window.WORTWEG_DATA = {
                 "eine",
                 "ein",
                 "—"
-              ],
-              [
-                "与格",
-                "einem",
-                "einer",
-                "einem",
-                "—"
-              ],
-              [
-                "属格",
-                "eines",
-                "einer",
-                "eines",
-                "—"
-              ]
-            ],
-            [
-              [
-                "格",
-                "问题",
-                "阳性定冠词示例"
-              ],
-              [
-                "主格",
-                "谁/什么？",
-                "der Mann"
-              ],
-              [
-                "宾格",
-                "谁/什么被作用？",
-                "den Mann"
-              ],
-              [
-                "与格",
-                "给谁/对谁？",
-                "dem Mann"
-              ],
-              [
-                "属格",
-                "谁的？",
-                "des Mannes"
               ]
             ]
           ],
@@ -356471,35 +356314,7 @@ window.WORTWEG_DATA = {
             "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
-          "tables": [
-            [
-              [
-                "格",
-                "问题",
-                "阳性定冠词示例"
-              ],
-              [
-                "主格",
-                "谁/什么？",
-                "der Mann"
-              ],
-              [
-                "宾格",
-                "谁/什么被作用？",
-                "den Mann"
-              ],
-              [
-                "与格",
-                "给谁/对谁？",
-                "dem Mann"
-              ],
-              [
-                "属格",
-                "谁的？",
-                "des Mannes"
-              ]
-            ]
-          ],
+          "tables": [],
           "examples": [
             [
               "Ich sehe den Mann.",
@@ -356513,35 +356328,7 @@ window.WORTWEG_DATA = {
             "主语通常是主格，直接承受动作的对象是宾格。阳性定冠词 der → den，不定冠词 ein → einen；阴性、中性和复数在主宾格中冠词不变。",
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
-          "tables": [
-            [
-              [
-                "格",
-                "问题",
-                "阳性定冠词示例"
-              ],
-              [
-                "主格",
-                "谁/什么？",
-                "der Mann"
-              ],
-              [
-                "宾格",
-                "谁/什么被作用？",
-                "den Mann"
-              ],
-              [
-                "与格",
-                "给谁/对谁？",
-                "dem Mann"
-              ],
-              [
-                "属格",
-                "谁的？",
-                "des Mannes"
-              ]
-            ]
-          ],
+          "tables": [],
           "examples": [
             [
               "Ich sehe den Mann.",
@@ -356560,83 +356347,47 @@ window.WORTWEG_DATA = {
               [
                 "人称",
                 "主格",
-                "宾格",
-                "与格"
+                "宾格"
               ],
               [
                 "ich",
                 "ich",
-                "mich",
-                "mir"
+                "mich"
               ],
               [
                 "du",
                 "du",
-                "dich",
-                "dir"
+                "dich"
               ],
               [
                 "er",
                 "er",
-                "ihn",
-                "ihm"
+                "ihn"
               ],
               [
                 "sie（她）",
                 "sie",
-                "sie",
-                "ihr"
+                "sie"
               ],
               [
                 "es",
                 "es",
-                "es",
-                "ihm"
+                "es"
               ],
               [
                 "wir",
                 "wir",
-                "uns",
                 "uns"
               ],
               [
                 "ihr",
                 "ihr",
-                "euch",
                 "euch"
               ],
               [
                 "sie/Sie",
                 "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
-            [
-              [
-                "格",
-                "问题",
-                "阳性定冠词示例"
-              ],
-              [
-                "主格",
-                "谁/什么？",
-                "der Mann"
-              ],
-              [
-                "宾格",
-                "谁/什么被作用？",
-                "den Mann"
-              ],
-              [
-                "与格",
-                "给谁/对谁？",
-                "dem Mann"
-              ],
-              [
-                "属格",
-                "谁的？",
-                "des Mannes"
+                "sie/Sie"
               ]
             ]
           ],
@@ -356646,8 +356397,8 @@ window.WORTWEG_DATA = {
               "我看见他。"
             ],
             [
-              "Wir helfen ihnen.",
-              "我们帮助他们。"
+              "Sie besucht uns.",
+              "她拜访我们。"
             ]
           ]
         },
@@ -356659,8 +356410,12 @@ window.WORTWEG_DATA = {
           "tables": [],
           "examples": [
             [
-              "Ich gebe dem Kind den Ball.",
-              "我把球给孩子。"
+              "Sie sieht den Mann.",
+              "她看见那位男士。"
+            ],
+            [
+              "Ich kaufe das Buch.",
+              "我买这本书。"
             ]
           ]
         }
@@ -356849,52 +356604,7 @@ window.WORTWEG_DATA = {
           "paragraphs": [
             "sein 的现在时是 bin/bist/ist/sind/seid/sind，过去时是 war/wart/waren，完成时用 ist + gewesen。它还作系动词连接身份、性质或状态：Sie ist Ärztin；Das Wetter ist kalt。"
           ],
-          "tables": [
-            [
-              [
-                "人称",
-                "现在时",
-                "过去时",
-                "完成时"
-              ],
-              [
-                "ich",
-                "bin",
-                "war",
-                "bin gewesen"
-              ],
-              [
-                "du",
-                "bist",
-                "warst",
-                "bist gewesen"
-              ],
-              [
-                "er/sie/es",
-                "ist",
-                "war",
-                "ist gewesen"
-              ],
-              [
-                "wir",
-                "sind",
-                "waren",
-                "sind gewesen"
-              ],
-              [
-                "ihr",
-                "seid",
-                "wart",
-                "seid gewesen"
-              ],
-              [
-                "sie/Sie",
-                "sind",
-                "waren",
-                "sind gewesen"
-              ]
-            ]
-          ],
+          "tables": [],
           "examples": [
             [
               "Wir sind zu Hause.",
@@ -356969,20 +356679,6 @@ window.WORTWEG_DATA = {
                 "keine",
                 "kein",
                 "keine"
-              ],
-              [
-                "与格",
-                "keinem",
-                "keiner",
-                "keinem",
-                "keinen"
-              ],
-              [
-                "属格",
-                "keines",
-                "keiner",
-                "keines",
-                "keiner"
               ]
             ]
           ],
@@ -357041,20 +356737,6 @@ window.WORTWEG_DATA = {
                 "keine",
                 "kein",
                 "keine"
-              ],
-              [
-                "与格",
-                "keinem",
-                "keiner",
-                "keinem",
-                "keinen"
-              ],
-              [
-                "属格",
-                "keines",
-                "keiner",
-                "keines",
-                "keiner"
               ]
             ]
           ],
@@ -357312,6 +356994,15 @@ window.WORTWEG_DATA = {
                 "mögen",
                 "mögt",
                 "mögen"
+              ],
+              [
+                "möchten",
+                "möchte",
+                "möchtest",
+                "möchte",
+                "möchten",
+                "möchtet",
+                "möchten"
               ]
             ]
           ],
@@ -357393,6 +357084,15 @@ window.WORTWEG_DATA = {
                 "mögen",
                 "mögt",
                 "mögen"
+              ],
+              [
+                "möchten",
+                "möchte",
+                "möchtest",
+                "möchte",
+                "möchten",
+                "möchtet",
+                "möchten"
               ]
             ]
           ],
@@ -357474,6 +357174,15 @@ window.WORTWEG_DATA = {
                 "mögen",
                 "mögt",
                 "mögen"
+              ],
+              [
+                "möchten",
+                "möchte",
+                "möchtest",
+                "möchte",
+                "möchten",
+                "möchtet",
+                "möchten"
               ]
             ]
           ],
@@ -357555,6 +357264,15 @@ window.WORTWEG_DATA = {
                 "mögen",
                 "mögt",
                 "mögen"
+              ],
+              [
+                "möchten",
+                "möchte",
+                "möchtest",
+                "möchte",
+                "möchten",
+                "möchtet",
+                "möchten"
               ]
             ]
           ],
@@ -357636,6 +357354,15 @@ window.WORTWEG_DATA = {
                 "mögen",
                 "mögt",
                 "mögen"
+              ],
+              [
+                "möchten",
+                "möchte",
+                "möchtest",
+                "möchte",
+                "möchten",
+                "möchtet",
+                "möchten"
               ]
             ]
           ],
@@ -357717,6 +357444,15 @@ window.WORTWEG_DATA = {
                 "mögen",
                 "mögt",
                 "mögen"
+              ],
+              [
+                "möchten",
+                "möchte",
+                "möchtest",
+                "möchte",
+                "möchten",
+                "möchtet",
+                "möchten"
               ]
             ]
           ],
@@ -357796,6 +357532,15 @@ window.WORTWEG_DATA = {
                 "mögen",
                 "mögt",
                 "mögen"
+              ],
+              [
+                "möchten",
+                "möchte",
+                "möchtest",
+                "möchte",
+                "möchten",
+                "möchtet",
+                "möchten"
               ]
             ]
           ],
@@ -357875,6 +357620,15 @@ window.WORTWEG_DATA = {
                 "mögen",
                 "mögt",
                 "mögen"
+              ],
+              [
+                "möchten",
+                "möchte",
+                "möchtest",
+                "möchte",
+                "möchten",
+                "möchtet",
+                "möchten"
               ]
             ]
           ],
@@ -358052,19 +357806,9 @@ window.WORTWEG_DATA = {
                 "不可分动词 verstehen"
               ],
               [
-                "主句",
+                "现在时主句",
                 "Ich stehe auf.",
                 "Ich verstehe dich."
-              ],
-              [
-                "zu 不定式",
-                "aufzustehen",
-                "zu verstehen"
-              ],
-              [
-                "Partizip II",
-                "aufgestanden",
-                "verstanden"
               ]
             ]
           ],
@@ -358129,19 +357873,9 @@ window.WORTWEG_DATA = {
                 "不可分动词 verstehen"
               ],
               [
-                "主句",
+                "现在时主句",
                 "Ich stehe auf.",
                 "Ich verstehe dich."
-              ],
-              [
-                "zu 不定式",
-                "aufzustehen",
-                "zu verstehen"
-              ],
-              [
-                "Partizip II",
-                "aufgestanden",
-                "verstanden"
               ]
             ]
           ],
@@ -358165,19 +357899,9 @@ window.WORTWEG_DATA = {
                 "不可分动词 verstehen"
               ],
               [
-                "主句",
+                "现在时主句",
                 "Ich stehe auf.",
                 "Ich verstehe dich."
-              ],
-              [
-                "zu 不定式",
-                "aufzustehen",
-                "zu verstehen"
-              ],
-              [
-                "Partizip II",
-                "aufgestanden",
-                "verstanden"
               ]
             ]
           ],
@@ -358218,19 +357942,9 @@ window.WORTWEG_DATA = {
                 "不可分动词 verstehen"
               ],
               [
-                "主句",
+                "现在时主句",
                 "Ich stehe auf.",
                 "Ich verstehe dich."
-              ],
-              [
-                "zu 不定式",
-                "aufzustehen",
-                "zu verstehen"
-              ],
-              [
-                "Partizip II",
-                "aufgestanden",
-                "verstanden"
               ]
             ]
           ],
@@ -358318,48 +358032,92 @@ window.WORTWEG_DATA = {
       "detail_id": "connectors",
       "examples": [
         {
-          "prompt": "Ich bin müde. Trotzdem ___ ich.",
-          "answer": "lerne",
+          "prompt": "Ich bin müde, ___ ich lerne weiter.",
+          "answer": "aber",
           "choices": [
-            "ich lerne",
-            "lernen",
-            "lernt"
+            "oder",
+            "denn",
+            "sondern"
           ],
-          "translation": "我很累，尽管如此仍学习。",
-          "explanation": "trotzdem 占第一位，动词第二位。"
+          "translation": "我累了，但我继续学习。",
+          "explanation": "aber 连接转折关系，不改变主句语序。"
         },
         {
-          "prompt": "Obwohl ich müde ___, lerne ich.",
+          "prompt": "Möchtest du Tee ___ Kaffee?",
+          "answer": "oder",
+          "choices": [
+            "aber",
+            "denn",
+            "sondern"
+          ],
+          "translation": "你想要茶还是咖啡？",
+          "explanation": "oder 表示选择。"
+        },
+        {
+          "prompt": "Ich bleibe zu Hause, ___ ich bin krank.",
+          "answer": "denn",
+          "choices": [
+            "aber",
+            "oder",
+            "sondern"
+          ],
+          "translation": "我待在家，因为我生病了。",
+          "explanation": "denn 表原因，后面仍是主句语序。"
+        },
+        {
+          "prompt": "Ich trinke keinen Tee, ___ Kaffee.",
+          "answer": "sondern",
+          "choices": [
+            "aber",
+            "oder",
+            "denn"
+          ],
+          "translation": "我不喝茶，而喝咖啡。",
+          "explanation": "sondern 在前面有否定时表示纠正。"
+        },
+        {
+          "prompt": "Der Kurs beginnt ___ neun Uhr.",
+          "answer": "um",
+          "choices": [
+            "am",
+            "im",
+            "von"
+          ],
+          "translation": "课程九点开始。",
+          "explanation": "明确钟点用 um。"
+        },
+        {
+          "prompt": "Wir treffen uns ___ Montag.",
+          "answer": "am",
+          "choices": [
+            "um",
+            "im",
+            "nach"
+          ],
+          "translation": "我们星期一见面。",
+          "explanation": "星期通常用 am。"
+        },
+        {
+          "prompt": "Mein Geburtstag ist ___ Mai.",
+          "answer": "im",
+          "choices": [
+            "am",
+            "um",
+            "zu"
+          ],
+          "translation": "我的生日在五月。",
+          "explanation": "月份通常用 im。"
+        },
+        {
+          "prompt": "Ich ___ 25 Jahre alt.",
           "answer": "bin",
           "choices": [
-            "bist",
-            "sein",
+            "habe",
+            "werde",
             "ist"
           ],
-          "translation": "尽管我累了，我仍学习。",
-          "explanation": "obwohl 从句动词在末位。"
-        },
-        {
-          "prompt": "Ich lerne, denn ich ___ Zeit.",
-          "answer": "habe",
-          "choices": [
-            "haben",
-            "hat",
-            "hast"
-          ],
-          "translation": "我学习，因为我有时间。",
-          "explanation": "denn 后保持主句语序。"
-        },
-        {
-          "prompt": "Ich bin krank. ___ bleibe ich zu Hause.",
-          "answer": "Deshalb",
-          "choices": [
-            "Obwohl",
-            "Weil",
-            "Denn"
-          ],
-          "translation": "我病了，因此待在家。",
-          "explanation": "结果连接副词 deshalb 可在句首。"
+          "translation": "我二十五岁。",
+          "explanation": "年龄用 sein + Jahre alt。"
         }
       ],
       "table": null,
@@ -358837,13 +358595,6 @@ window.WORTWEG_DATA = {
                 "der",
                 "dem",
                 "den"
-              ],
-              [
-                "属格",
-                "des",
-                "der",
-                "des",
-                "der"
               ]
             ],
             [
@@ -358873,13 +358624,6 @@ window.WORTWEG_DATA = {
                 "einem",
                 "einer",
                 "einem",
-                "—"
-              ],
-              [
-                "属格",
-                "eines",
-                "einer",
-                "eines",
                 "—"
               ]
             ]
@@ -359465,13 +359209,6 @@ window.WORTWEG_DATA = {
                 "der",
                 "dem",
                 "den"
-              ],
-              [
-                "属格",
-                "des",
-                "der",
-                "des",
-                "der"
               ]
             ],
             [
@@ -359501,13 +359238,6 @@ window.WORTWEG_DATA = {
                 "einem",
                 "einer",
                 "einem",
-                "—"
-              ],
-              [
-                "属格",
-                "eines",
-                "einer",
-                "eines",
                 "—"
               ]
             ]
@@ -360092,19 +359822,9 @@ window.WORTWEG_DATA = {
                 "不可分动词 verstehen"
               ],
               [
-                "主句",
+                "现在时主句",
                 "Ich stehe auf.",
                 "Ich verstehe dich."
-              ],
-              [
-                "zu 不定式",
-                "aufzustehen",
-                "zu verstehen"
-              ],
-              [
-                "Partizip II",
-                "aufgestanden",
-                "verstanden"
               ]
             ]
           ],
@@ -360128,19 +359848,9 @@ window.WORTWEG_DATA = {
                 "不可分动词 verstehen"
               ],
               [
-                "主句",
+                "现在时主句",
                 "Ich stehe auf.",
                 "Ich verstehe dich."
-              ],
-              [
-                "zu 不定式",
-                "aufzustehen",
-                "zu verstehen"
-              ],
-              [
-                "Partizip II",
-                "aufgestanden",
-                "verstanden"
               ]
             ]
           ],
@@ -360272,19 +359982,9 @@ window.WORTWEG_DATA = {
                 "不可分动词 verstehen"
               ],
               [
-                "主句",
+                "现在时主句",
                 "Ich stehe auf.",
                 "Ich verstehe dich."
-              ],
-              [
-                "zu 不定式",
-                "aufzustehen",
-                "zu verstehen"
-              ],
-              [
-                "Partizip II",
-                "aufgestanden",
-                "verstanden"
               ]
             ]
           ],
@@ -360497,7 +360197,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Perfekt 句型",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "完成时由现在时助动词 haben/sein + Partizip II 组成：Ich habe gelernt；Ich bin gekommen。haben 是默认选择：及物动词（Ich habe das Buch gelesen）、反身动词和大多数不表示位置改变的动词用 haben。sein 主要用于不及物的地点移动（gehen, kommen, fahren）、状态变化（aufstehen, einschlafen, werden）以及 bleiben、sein 本身。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -360550,51 +360250,44 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · haben + Partizip II",
           "paragraphs": [
-            "haben 的现在时是 habe/hast/hat/haben/habt/haben，过去时是 hatte/hatten，完成时用 hat + gehabt。它既表示“拥有”，也常作完成时助动词。"
+            "大多数动词用 haben 构成完成时。助动词按主语变位，Partizip II 放句末：Ich habe gelernt；Du hast gelernt；Sie hat gelernt。"
           ],
           "tables": [
             [
               [
                 "人称",
-                "现在时",
-                "过去时",
-                "完成时"
+                "haben 现在时",
+                "Perfekt 示例"
               ],
               [
                 "ich",
                 "habe",
-                "hatte",
-                "habe gehabt"
+                "ich habe gelernt"
               ],
               [
                 "du",
                 "hast",
-                "hattest",
-                "hast gehabt"
+                "du hast gelernt"
               ],
               [
                 "er/sie/es",
                 "hat",
-                "hatte",
-                "hat gehabt"
+                "er hat gelernt"
               ],
               [
                 "wir",
                 "haben",
-                "hatten",
-                "haben gehabt"
+                "wir haben gelernt"
               ],
               [
                 "ihr",
                 "habt",
-                "hattet",
-                "habt gehabt"
+                "ihr habt gelernt"
               ],
               [
                 "sie/Sie",
                 "haben",
-                "hatten",
-                "haben gehabt"
+                "sie haben gelernt"
               ]
             ],
             [
@@ -360602,11 +360295,6 @@ window.WORTWEG_DATA = {
                 "形式",
                 "构成",
                 "示例"
-              ],
-              [
-                "Partizip I",
-                "不定式 + d",
-                "lernend"
               ],
               [
                 "弱变化 Partizip II",
@@ -360627,63 +360315,56 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Wir haben eine Frage.",
-              "我们有一个问题。"
+              "Sie hat das Buch gelesen.",
+              "她读过这本书。"
             ],
             [
-              "Ich habe heute Zeit.",
-              "我今天有时间。"
+              "Ich habe Deutsch gelernt.",
+              "我学了德语。"
             ]
           ]
         },
         {
           "title": "03 · sein + Partizip II",
           "paragraphs": [
-            "sein 的现在时是 bin/bist/ist/sind/seid/sind，过去时是 war/wart/waren，完成时用 ist + gewesen。它还作系动词连接身份、性质或状态：Sie ist Ärztin；Das Wetter ist kalt。"
+            "不及物的地点移动、状态变化以及 bleiben、sein、werden 通常用 sein：Er ist gekommen；Wir sind geblieben。助动词按六个人称变化。"
           ],
           "tables": [
             [
               [
                 "人称",
-                "现在时",
-                "过去时",
-                "完成时"
+                "sein 现在时",
+                "Perfekt 示例"
               ],
               [
                 "ich",
                 "bin",
-                "war",
-                "bin gewesen"
+                "ich bin gegangen"
               ],
               [
                 "du",
                 "bist",
-                "warst",
-                "bist gewesen"
+                "du bist gegangen"
               ],
               [
                 "er/sie/es",
                 "ist",
-                "war",
-                "ist gewesen"
+                "er ist gegangen"
               ],
               [
                 "wir",
                 "sind",
-                "waren",
-                "sind gewesen"
+                "wir sind gegangen"
               ],
               [
                 "ihr",
                 "seid",
-                "wart",
-                "seid gewesen"
+                "ihr seid gegangen"
               ],
               [
                 "sie/Sie",
                 "sind",
-                "waren",
-                "sind gewesen"
+                "sie sind gegangen"
               ]
             ],
             [
@@ -360691,11 +360372,6 @@ window.WORTWEG_DATA = {
                 "形式",
                 "构成",
                 "示例"
-              ],
-              [
-                "Partizip I",
-                "不定式 + d",
-                "lernend"
               ],
               [
                 "弱变化 Partizip II",
@@ -360716,19 +360392,19 @@ window.WORTWEG_DATA = {
           ],
           "examples": [
             [
-              "Ich bin müde.",
-              "我累了。"
+              "Er ist früh aufgestanden.",
+              "他很早就起床了。"
             ],
             [
-              "Wir sind zu Hause.",
-              "我们在家。"
+              "Wir sind nach Hause gegangen.",
+              "我们回家了。"
             ]
           ]
         },
         {
           "title": "04 · 规则过去分词",
           "paragraphs": [
-            "Partizip I = 不定式 + d，常表示主动进行：der lernende Student。Partizip II 常表示完成、结果或被动：die geöffnete Tür。前置分词像形容词一样变格。"
+            "弱变化动词通常构成 ge- + 词干 + -(e)t：lernen → gelernt，arbeiten → gearbeitet。词干以 -t/-d 结尾时常加连接 e。"
           ],
           "tables": [
             [
@@ -360736,11 +360412,6 @@ window.WORTWEG_DATA = {
                 "形式",
                 "构成",
                 "示例"
-              ],
-              [
-                "Partizip I",
-                "不定式 + d",
-                "lernend"
               ],
               [
                 "弱变化 Partizip II",
@@ -360769,7 +360440,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 不规则过去分词",
           "paragraphs": [
-            "Partizip I = 不定式 + d，常表示主动进行：der lernende Student。Partizip II 常表示完成、结果或被动：die geöffnete Tür。前置分词像形容词一样变格。"
+            "强变化动词的 Partizip II 多以 -en 结尾，词干可能改变：gehen → gegangen，lesen → gelesen，schreiben → geschrieben。具体形式需要逐词记忆。"
           ],
           "tables": [
             [
@@ -360777,11 +360448,6 @@ window.WORTWEG_DATA = {
                 "形式",
                 "构成",
                 "示例"
-              ],
-              [
-                "Partizip I",
-                "不定式 + d",
-                "lernend"
               ],
               [
                 "弱变化 Partizip II",
@@ -360810,29 +360476,24 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 可分动词过去分词",
           "paragraphs": [
-            "Partizip I = 不定式 + d，常表示主动进行：der lernende Student。Partizip II 常表示完成、结果或被动：die geöffnete Tür。前置分词像形容词一样变格。"
+            "可分动词把 ge- 放在前缀和词干之间：aufstehen → aufgestanden，anrufen → angerufen，einkaufen → eingekauft。"
           ],
           "tables": [
             [
               [
-                "形式",
-                "可分动词 aufstehen",
-                "不可分动词 verstehen"
+                "类型",
+                "构成",
+                "示例"
               ],
               [
-                "主句",
-                "Ich stehe auf.",
-                "Ich verstehe dich."
+                "可分动词",
+                "前缀 + ge + 词干 + 词尾",
+                "aufgestanden / angerufen"
               ],
               [
-                "zu 不定式",
-                "aufzustehen",
-                "zu verstehen"
-              ],
-              [
-                "Partizip II",
-                "aufgestanden",
-                "verstanden"
+                "不可分动词",
+                "不加 ge-",
+                "verstanden / besucht"
               ]
             ],
             [
@@ -360840,11 +360501,6 @@ window.WORTWEG_DATA = {
                 "形式",
                 "构成",
                 "示例"
-              ],
-              [
-                "Partizip I",
-                "不定式 + d",
-                "lernend"
               ],
               [
                 "弱变化 Partizip II",
@@ -360873,29 +360529,24 @@ window.WORTWEG_DATA = {
         {
           "title": "07 · 不可分动词过去分词",
           "paragraphs": [
-            "Partizip I = 不定式 + d，常表示主动进行：der lernende Student。Partizip II 常表示完成、结果或被动：die geöffnete Tür。前置分词像形容词一样变格。"
+            "be-、emp-、ent-、er-、ver-、zer- 等不可分前缀的过去分词不再加 ge-：besucht、verstanden、erzählt。"
           ],
           "tables": [
             [
               [
-                "形式",
-                "可分动词 aufstehen",
-                "不可分动词 verstehen"
+                "类型",
+                "构成",
+                "示例"
               ],
               [
-                "主句",
-                "Ich stehe auf.",
-                "Ich verstehe dich."
+                "可分动词",
+                "前缀 + ge + 词干 + 词尾",
+                "aufgestanden / angerufen"
               ],
               [
-                "zu 不定式",
-                "aufzustehen",
-                "zu verstehen"
-              ],
-              [
-                "Partizip II",
-                "aufgestanden",
-                "verstanden"
+                "不可分动词",
+                "不加 ge-",
+                "verstanden / besucht"
               ]
             ],
             [
@@ -360903,11 +360554,6 @@ window.WORTWEG_DATA = {
                 "形式",
                 "构成",
                 "示例"
-              ],
-              [
-                "Partizip I",
-                "不定式 + d",
-                "lernend"
               ],
               [
                 "弱变化 Partizip II",
@@ -360944,11 +360590,6 @@ window.WORTWEG_DATA = {
                 "形式",
                 "构成",
                 "示例"
-              ],
-              [
-                "Partizip I",
-                "不定式 + d",
-                "lernend"
               ],
               [
                 "弱变化 Partizip II",
@@ -361061,37 +360702,26 @@ window.WORTWEG_DATA = {
       "detail_id": "time-imperative",
       "examples": [
         {
-          "prompt": "Der Kurs beginnt ___ neun Uhr.",
-          "answer": "um",
-          "choices": [
-            "am",
-            "im",
-            "in"
-          ],
-          "translation": "课程九点开始。",
-          "explanation": "明确钟点用 um。"
-        },
-        {
-          "prompt": "Wir treffen uns ___ Montag.",
-          "answer": "am",
-          "choices": [
-            "um",
-            "im",
-            "nach"
-          ],
-          "translation": "我们星期一见面。",
-          "explanation": "星期用 am。"
-        },
-        {
-          "prompt": "___ bitte den Text! (du)",
+          "prompt": "___ bitte den Text! (du, lesen)",
           "answer": "Lies",
           "choices": [
-            "Liest",
+            "Lest",
             "Lesen",
-            "Lest"
+            "Liest"
           ],
           "translation": "请读这篇文章！",
-          "explanation": "lesen 的 du 祈使式为 lies。"
+          "explanation": "lesen 的 du 命令式是 Lies!。"
+        },
+        {
+          "prompt": "___ bitte herein! (ihr, kommen)",
+          "answer": "Kommt",
+          "choices": [
+            "Komm",
+            "Kommen",
+            "Kommt ihr"
+          ],
+          "translation": "请你们进来！",
+          "explanation": "ihr 命令式采用 ihr 现在时形式并省略 ihr。"
         },
         {
           "prompt": "___ Sie bitte langsam!",
@@ -361102,7 +360732,40 @@ window.WORTWEG_DATA = {
             "Spricht"
           ],
           "translation": "请您慢一点说！",
-          "explanation": "礼貌祈使式：不定式形态 + Sie。"
+          "explanation": "Sie 命令式是不定式形式 + Sie。"
+        },
+        {
+          "prompt": "___ bitte vorsichtig! (du, sein)",
+          "answer": "Sei",
+          "choices": [
+            "Bist",
+            "Seid",
+            "Seien"
+          ],
+          "translation": "请小心！",
+          "explanation": "sein 的 du 命令式是 Sei!。"
+        },
+        {
+          "prompt": "___ Sie mir bitte helfen?",
+          "answer": "Können",
+          "choices": [
+            "Kann",
+            "Könnt",
+            "Konnte"
+          ],
+          "translation": "您能帮我一下吗？",
+          "explanation": "正式请求使用 Können Sie …?。"
+        },
+        {
+          "prompt": "___ Sie das bitte wiederholen? (更委婉)",
+          "answer": "Könnten",
+          "choices": [
+            "Können",
+            "Konnten",
+            "Könntet"
+          ],
+          "translation": "您能再说一遍吗？",
+          "explanation": "Könnten Sie …? 比 Können Sie …? 更委婉。"
         }
       ],
       "table": null,
@@ -361164,193 +360827,154 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · du 命令式",
           "paragraphs": [
-            "du 常去掉 -st（Komm!），ihr 使用 -t（Kommt!），Sie 使用不定式 + Sie（Kommen Sie!）。sein 的 du 形式是 Sei!，正式请求可加 bitte 或 Könnten Sie …?。"
+            "对熟悉的一个人使用 du 命令式。通常去掉 du 和 -st：du kommst → Komm!；e → i/ie 的强变化一般保留（Lies!），a → ä 的变音通常取消（Fahr!）。"
           ],
           "tables": [
             [
               [
-                "对象",
-                "形式（kommen）",
+                "动词类型",
+                "du 形式",
                 "例句"
               ],
               [
-                "du",
-                "Komm!",
-                "Komm bitte herein!"
+                "规则动词",
+                "词干",
+                "Mach die Tür zu!"
               ],
               [
-                "ihr",
-                "Kommt!",
-                "Kommt bitte herein!"
+                "e → i/ie 强变化",
+                "保留元音变化",
+                "Lies den Text!"
               ],
               [
-                "Sie",
-                "Kommen Sie!",
-                "Kommen Sie bitte herein!"
+                "a → ä 强变化",
+                "通常不保留变音",
+                "Fahr langsam!"
+              ],
+              [
+                "可分动词",
+                "前缀放句末",
+                "Ruf mich an!"
               ]
             ]
           ],
           "examples": [
             [
-              "Komm bitte herein!",
-              "请进来！"
+              "Lies bitte den Text!",
+              "请读这篇文章！"
             ],
             [
-              "Kommen Sie bitte herein!",
-              "请您进来！"
+              "Ruf mich bitte an!",
+              "请给我打电话！"
             ]
           ]
         },
         {
           "title": "02 · ihr 命令式",
           "paragraphs": [
-            "du 常去掉 -st（Komm!），ihr 使用 -t（Kommt!），Sie 使用不定式 + Sie（Kommen Sie!）。sein 的 du 形式是 Sei!，正式请求可加 bitte 或 Könnten Sie …?。"
+            "对熟悉的多个人使用 ihr 命令式：直接采用 ihr 的现在时动词形式并省略 ihr，例如 ihr kommt → Kommt!，ihr steht auf → Steht auf!"
           ],
           "tables": [
             [
               [
-                "对象",
-                "形式（kommen）",
-                "例句"
+                "原形",
+                "ihr 现在时",
+                "ihr 命令式"
               ],
               [
-                "du",
-                "Komm!",
-                "Komm bitte herein!"
+                "kommen",
+                "ihr kommt",
+                "Kommt!"
               ],
               [
-                "ihr",
-                "Kommt!",
-                "Kommt bitte herein!"
+                "lesen",
+                "ihr lest",
+                "Lest!"
               ],
               [
-                "Sie",
-                "Kommen Sie!",
-                "Kommen Sie bitte herein!"
+                "aufstehen",
+                "ihr steht auf",
+                "Steht auf!"
               ]
             ]
           ],
           "examples": [
             [
-              "Kommen Sie bitte herein!",
-              "请您进来！"
+              "Steht bitte auf!",
+              "请你们起立！"
             ],
             [
-              "Komm bitte herein!",
-              "请进来！"
+              "Kommt bitte herein!",
+              "请你们进来！"
             ]
           ]
         },
         {
           "title": "03 · Sie 命令式",
           "paragraphs": [
-            "du 常去掉 -st（Komm!），ihr 使用 -t（Kommt!），Sie 使用不定式 + Sie（Kommen Sie!）。sein 的 du 形式是 Sei!，正式请求可加 bitte 或 Könnten Sie …?。"
+            "正式称呼一个人或多个人时，用不定式形式 + Sie：Kommen Sie! 可分前缀仍放句末：Rufen Sie mich bitte an!"
           ],
           "tables": [
             [
               [
-                "对象",
-                "形式（kommen）",
+                "结构",
+                "形式",
                 "例句"
               ],
               [
-                "du",
-                "Komm!",
-                "Komm bitte herein!"
-              ],
-              [
-                "ihr",
-                "Kommt!",
-                "Kommt bitte herein!"
-              ],
-              [
-                "Sie",
+                "不定式 + Sie",
                 "Kommen Sie!",
                 "Kommen Sie bitte herein!"
+              ],
+              [
+                "可分动词",
+                "Rufen Sie … an!",
+                "Rufen Sie mich bitte an!"
+              ],
+              [
+                "sein",
+                "Seien Sie!",
+                "Seien Sie bitte vorsichtig!"
               ]
             ]
           ],
           "examples": [
             [
-              "Komm bitte herein!",
-              "请进来！"
+              "Öffnen Sie bitte das Fenster!",
+              "请您打开窗户！"
             ],
             [
-              "Kommen Sie bitte herein!",
-              "请您进来！"
+              "Warten Sie bitte hier!",
+              "请您在这里等候！"
             ]
           ]
         },
         {
           "title": "04 · sein 命令式",
           "paragraphs": [
-            "sein 的现在时是 bin/bist/ist/sind/seid/sind，过去时是 war/wart/waren，完成时用 ist + gewesen。它还作系动词连接身份、性质或状态：Sie ist Ärztin；Das Wetter ist kalt。"
+            "sein 的命令式必须单独记：du 用 Sei!，ihr 用 Seid!，正式的 Sie 用 Seien Sie!；可以加 bitte 缓和语气：Seien Sie bitte vorsichtig!"
           ],
           "tables": [
             [
               [
-                "人称",
-                "现在时",
-                "过去时",
-                "完成时"
-              ],
-              [
-                "ich",
-                "bin",
-                "war",
-                "bin gewesen"
-              ],
-              [
-                "du",
-                "bist",
-                "warst",
-                "bist gewesen"
-              ],
-              [
-                "er/sie/es",
-                "ist",
-                "war",
-                "ist gewesen"
-              ],
-              [
-                "wir",
-                "sind",
-                "waren",
-                "sind gewesen"
-              ],
-              [
-                "ihr",
-                "seid",
-                "wart",
-                "seid gewesen"
-              ],
-              [
-                "sie/Sie",
-                "sind",
-                "waren",
-                "sind gewesen"
-              ]
-            ],
-            [
-              [
                 "对象",
-                "形式（kommen）",
+                "sein 命令式",
                 "例句"
               ],
               [
                 "du",
-                "Komm!",
-                "Komm bitte herein!"
+                "Sei!",
+                "Sei bitte vorsichtig!"
               ],
               [
                 "ihr",
-                "Kommt!",
-                "Kommt bitte herein!"
+                "Seid!",
+                "Seid bitte leise!"
               ],
               [
                 "Sie",
-                "Kommen Sie!",
-                "Kommen Sie bitte herein!"
+                "Seien Sie!",
+                "Seien Sie bitte vorsichtig!"
               ]
             ]
           ],
@@ -361373,8 +360997,12 @@ window.WORTWEG_DATA = {
           "tables": [],
           "examples": [
             [
-              "Bitte öffnen Sie das Fenster.",
-              "请打开窗户。"
+              "Können Sie das bitte wiederholen?",
+              "您能再说一遍吗？"
+            ],
+            [
+              "Könnten Sie mir bitte helfen?",
+              "您能帮我一下吗？"
             ]
           ]
         },
@@ -361399,8 +361027,12 @@ window.WORTWEG_DATA = {
           "tables": [],
           "examples": [
             [
-              "Ich kann Deutsch sprechen.",
-              "我会说德语。"
+              "Können Sie das bitte wiederholen?",
+              "您能再说一遍吗？"
+            ],
+            [
+              "Könnten Sie mir bitte helfen?",
+              "您能帮我一下吗？"
             ]
           ]
         }
@@ -361903,48 +361535,70 @@ window.WORTWEG_DATA = {
       "detail_id": "prepositions",
       "examples": [
         {
-          "prompt": "Ich fahre mit ___ Zug.",
-          "answer": "dem",
-          "choices": [
-            "den",
-            "der",
-            "des"
-          ],
-          "translation": "我乘火车。",
-          "explanation": "mit 始终支配与格。"
-        },
-        {
-          "prompt": "Das Geschenk ist für ___ Freund.",
-          "answer": "meinen",
-          "choices": [
-            "meinem",
-            "meiner",
-            "mein"
-          ],
-          "translation": "礼物是给我朋友的。",
-          "explanation": "für 支配宾格。"
-        },
-        {
           "prompt": "Ich lerne ___ einem Jahr Deutsch.",
           "answer": "seit",
           "choices": [
+            "vor",
             "für",
-            "um",
-            "gegen"
+            "ab"
           ],
-          "translation": "我学德语已有一年。",
-          "explanation": "seit + 与格，持续至今通常用现在时。"
+          "translation": "我学德语已经一年了。",
+          "explanation": "seit 表示从过去持续到现在。"
         },
         {
-          "prompt": "Sie geht ___ Schule.",
-          "answer": "zur",
+          "prompt": "___ zwei Tagen war ich in Berlin.",
+          "answer": "Vor",
           "choices": [
-            "nach der",
-            "zu die",
-            "zum"
+            "Seit",
+            "Für",
+            "Ab"
           ],
-          "translation": "她去学校。",
-          "explanation": "zu der Schule 缩合为 zur Schule。"
+          "translation": "两天前我在柏林。",
+          "explanation": "vor + 时间段表示“……之前”。"
+        },
+        {
+          "prompt": "Der Kurs dauert ___ neun ___ zwölf Uhr.",
+          "answer": "von … bis",
+          "choices": [
+            "seit … für",
+            "ab … vor",
+            "um … am"
+          ],
+          "translation": "课程从九点持续到十二点。",
+          "explanation": "von … bis 表示起点到终点。"
+        },
+        {
+          "prompt": "Ich bin krank, ___ bleibe ich zu Hause.",
+          "answer": "deshalb",
+          "choices": [
+            "denn",
+            "aber",
+            "obwohl"
+          ],
+          "translation": "我生病了，所以待在家。",
+          "explanation": "deshalb 是连接副词，后面有限动词仍在第二位。"
+        },
+        {
+          "prompt": "Es regnet, ___ nehme ich den Bus.",
+          "answer": "deswegen",
+          "choices": [
+            "denn",
+            "oder",
+            "sondern"
+          ],
+          "translation": "下雨了，所以我乘公交车。",
+          "explanation": "deswegen 表示结果，后接倒装主句。"
+        },
+        {
+          "prompt": "Ich gehe früh ins Bett, ___ ich bin müde.",
+          "answer": "denn",
+          "choices": [
+            "darum",
+            "deshalb",
+            "trotzdem"
+          ],
+          "translation": "我早点睡，因为我累了。",
+          "explanation": "denn 表原因且保持主句语序。"
         }
       ],
       "table": null,
@@ -362511,13 +362165,6 @@ window.WORTWEG_DATA = {
                 "der",
                 "dem",
                 "den"
-              ],
-              [
-                "属格",
-                "des",
-                "der",
-                "des",
-                "der"
               ]
             ],
             [
@@ -362547,13 +362194,6 @@ window.WORTWEG_DATA = {
                 "einem",
                 "einer",
                 "einem",
-                "—"
-              ],
-              [
-                "属格",
-                "eines",
-                "einer",
-                "eines",
                 "—"
               ]
             ]
@@ -362676,13 +362316,6 @@ window.WORTWEG_DATA = {
                 "meiner",
                 "meinem",
                 "meinen"
-              ],
-              [
-                "属格",
-                "meines",
-                "meiner",
-                "meines",
-                "meiner"
               ]
             ],
             [
@@ -362744,11 +362377,11 @@ window.WORTWEG_DATA = {
               ],
               [
                 "他们/您",
-                "ihr/Ihr Vater",
-                "ihre/Ihre Mutter",
-                "ihren/Ihren Vater",
-                "ihrem/Ihrem Vater",
-                "ihren/Ihren Freunden"
+                "ihr / Ihr Vater",
+                "ihre / Ihre Mutter",
+                "ihren / Ihren Vater",
+                "ihrem / Ihrem Vater",
+                "ihren / Ihren Freunden"
               ]
             ]
           ],
@@ -363237,64 +362870,7 @@ window.WORTWEG_DATA = {
           "paragraphs": [
             "双宾语常见“接受者（Dativ）+ 事物（Akkusativ）”。代词通常在名词前；两个代词并用时常为 Akkusativ 在前：Ich gebe es ihm。"
           ],
-          "tables": [
-            [
-              [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ]
-          ],
+          "tables": [],
           "examples": [
             [
               "Ich gebe es ihm.",
@@ -363307,64 +362883,7 @@ window.WORTWEG_DATA = {
           "paragraphs": [
             "双宾语常见“接受者（Dativ）+ 事物（Akkusativ）”。代词通常在名词前；两个代词并用时常为 Akkusativ 在前：Ich gebe es ihm。"
           ],
-          "tables": [
-            [
-              [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ]
-          ],
+          "tables": [],
           "examples": [
             [
               "Ich gebe es ihm.",
@@ -363903,64 +363422,7 @@ window.WORTWEG_DATA = {
             "反身代词指向主语：ich–mich、du–dich、er/sie–sich、wir–uns、ihr–euch、sie/Sie–sich。若另有宾语，反身代词可能用与格：Ich wasche mir die Hände。",
             "运用：先判断反身代词的格；有身体部位等其他宾语时常用与格。"
           ],
-          "tables": [
-            [
-              [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ]
-          ],
+          "tables": [],
           "examples": [
             [
               "Ich wasche mich.",
@@ -364309,7 +363771,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Perfekt 强化",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "完成时由现在时助动词 haben/sein + Partizip II 组成：Ich habe gelernt；Ich bin gekommen。haben 是默认选择：及物动词（Ich habe das Buch gelesen）、反身动词和大多数不表示位置改变的动词用 haben。sein 主要用于不及物的地点移动（gehen, kommen, fahren）、状态变化（aufstehen, einschlafen, werden）以及 bleiben、sein 本身。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -364495,6 +363957,15 @@ window.WORTWEG_DATA = {
                 "mögen",
                 "mögt",
                 "mögen"
+              ],
+              [
+                "möchten",
+                "möchte",
+                "möchtest",
+                "möchte",
+                "möchten",
+                "möchtet",
+                "möchten"
               ]
             ],
             [
@@ -364599,7 +364070,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · Perfekt 与 Präteritum 的基础区别",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "完成时由现在时助动词 haben/sein + Partizip II 组成：Ich habe gelernt；Ich bin gekommen。haben 是默认选择：及物动词（Ich habe das Buch gelesen）、反身动词和大多数不表示位置改变的动词用 haben。sein 主要用于不及物的地点移动（gehen, kommen, fahren）、状态变化（aufstehen, einschlafen, werden）以及 bleiben、sein 本身。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -367310,7 +366781,7 @@ window.WORTWEG_DATA = {
                 "不可分动词 verstehen"
               ],
               [
-                "主句",
+                "现在时主句",
                 "Ich stehe auf.",
                 "Ich verstehe dich."
               ],
@@ -367877,62 +367348,6 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
-            [
-              [
                 "格",
                 "阳性",
                 "阴性",
@@ -367952,20 +367367,6 @@ window.WORTWEG_DATA = {
                 "die",
                 "das",
                 "die"
-              ],
-              [
-                "与格",
-                "dem",
-                "der",
-                "dem",
-                "denen"
-              ],
-              [
-                "属格",
-                "dessen",
-                "deren",
-                "dessen",
-                "deren"
               ]
             ]
           ],
@@ -367985,62 +367386,6 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
-            [
-              [
                 "格",
                 "阳性",
                 "阴性",
@@ -368060,20 +367405,6 @@ window.WORTWEG_DATA = {
                 "die",
                 "das",
                 "die"
-              ],
-              [
-                "与格",
-                "dem",
-                "der",
-                "dem",
-                "denen"
-              ],
-              [
-                "属格",
-                "dessen",
-                "deren",
-                "dessen",
-                "deren"
               ]
             ]
           ],
@@ -368092,62 +367423,6 @@ window.WORTWEG_DATA = {
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
-            [
-              [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
             [
               [
                 "宾格（Akkusativ）",
@@ -368199,20 +367474,6 @@ window.WORTWEG_DATA = {
                 "die",
                 "das",
                 "die"
-              ],
-              [
-                "与格",
-                "dem",
-                "der",
-                "dem",
-                "denen"
-              ],
-              [
-                "属格",
-                "dessen",
-                "deren",
-                "dessen",
-                "deren"
               ]
             ]
           ],
@@ -368265,62 +367526,6 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
-            [
-              [
                 "格",
                 "阳性",
                 "阴性",
@@ -368340,20 +367545,6 @@ window.WORTWEG_DATA = {
                 "die",
                 "das",
                 "die"
-              ],
-              [
-                "与格",
-                "dem",
-                "der",
-                "dem",
-                "denen"
-              ],
-              [
-                "属格",
-                "dessen",
-                "deren",
-                "dessen",
-                "deren"
               ]
             ]
           ],
@@ -368432,48 +367623,70 @@ window.WORTWEG_DATA = {
       "detail_id": "polite-future",
       "examples": [
         {
-          "prompt": "___ Sie mir bitte helfen?",
-          "answer": "Könnten",
+          "prompt": "Ich ___ morgen anrufen.",
+          "answer": "werde",
           "choices": [
-            "Konnte",
-            "Könnt",
-            "Kannst"
+            "würde",
+            "wurde",
+            "bin"
           ],
-          "translation": "您能帮我一下吗？",
-          "explanation": "礼貌请求用 könnten + Sie。"
+          "translation": "我明天会打电话。",
+          "explanation": "Futur I 用 werden 的现在时 + 不定式。"
         },
         {
-          "prompt": "Ich ___ gern einen Tee.",
-          "answer": "hätte",
+          "prompt": "Du ___ die Prüfung bestehen.",
+          "answer": "wirst",
           "choices": [
-            "hatte",
-            "habe gehabt",
-            "hätten"
+            "werdest",
+            "würdest",
+            "bist"
           ],
-          "translation": "我想要一杯茶。",
-          "explanation": "hätte gern 表礼貌愿望，注意变音。"
+          "translation": "你会通过考试。",
+          "explanation": "werden 的 du 形式是 wirst。"
         },
         {
-          "prompt": "Ich werde dich morgen ___.",
-          "answer": "anrufen",
+          "prompt": "Er ___ jetzt zu Hause sein. (推测)",
+          "answer": "wird",
           "choices": [
-            "angerufen",
-            "anzurufen",
-            "rufe an"
+            "ist",
+            "hat",
+            "war"
           ],
-          "translation": "我明天会给你打电话。",
-          "explanation": "Futur I：werden + 不定式。"
+          "translation": "他现在大概在家。",
+          "explanation": "Futur I 也可以表达对现在的推测。"
         },
         {
-          "prompt": "Ich würde gern nach Berlin ___.",
-          "answer": "fahren",
+          "prompt": "Es ___ langsam dunkel.",
+          "answer": "wird",
           "choices": [
+            "ist",
+            "hat",
+            "wurde"
+          ],
+          "translation": "天渐渐黑了。",
+          "explanation": "werden + 形容词表示状态变化。"
+        },
+        {
+          "prompt": "Morgen ___ ich nach Berlin. (已有明确安排)",
+          "answer": "fahre",
+          "choices": [
+            "fuhr",
             "gefahren",
-            "fahre",
-            "zu fahren"
+            "würde fahren"
           ],
-          "translation": "我很想去柏林。",
-          "explanation": "würde 后接不带 zu 的不定式。"
+          "translation": "我明天去柏林。",
+          "explanation": "有明确时间词时，Präsens 也自然地表达近期安排。"
+        },
+        {
+          "prompt": "Das Wetter ___ kalt, aber jetzt wird es wärmer.",
+          "answer": "ist",
+          "choices": [
+            "wird",
+            "hat",
+            "werde"
+          ],
+          "translation": "天气很冷，但现在正在变暖。",
+          "explanation": "sein 表状态，werden 表变化。"
         }
       ],
       "table": null,
@@ -368576,7 +367789,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · Futur I",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "Futur I 用 werden 的现在时 + 不定式：Ich werde morgen arbeiten。明确的近期安排也常直接用 Präsens。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -368628,7 +367841,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 将来表达",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。"
+            "有明确时间词时可用 Präsens 表将来；Futur I 还可表示推测：Morgen fahre ich nach Berlin；Er wird jetzt zu Hause sein。"
           ],
           "tables": [
             [
@@ -368833,48 +368046,70 @@ window.WORTWEG_DATA = {
       "detail_id": "passive-advanced",
       "examples": [
         {
-          "prompt": "Das Problem muss gelöst ___.",
-          "answer": "werden",
+          "prompt": "Ich lasse mein Fahrrad ___.",
+          "answer": "reparieren",
           "choices": [
-            "worden",
-            "geworden",
-            "sein geworden"
+            "zu reparieren",
+            "repariert",
+            "repariere"
           ],
-          "translation": "这个问题必须被解决。",
-          "explanation": "情态被动末尾是 werden 不定式。"
+          "translation": "我让人修自行车。",
+          "explanation": "lassen 后接不带 zu 的不定式。"
+        },
+        {
+          "prompt": "Die Lehrerin lässt die Schüler den Text ___.",
+          "answer": "lesen",
+          "choices": [
+            "zu lesen",
+            "gelesen",
+            "liest"
+          ],
+          "translation": "老师让学生读课文。",
+          "explanation": "lassen + Akkusativ + Infinitiv 表示让某人做事。"
+        },
+        {
+          "prompt": "Lass die Tür bitte ___.",
+          "answer": "offen",
+          "choices": [
+            "öffnet",
+            "zu öffnen",
+            "geöffnet"
+          ],
+          "translation": "请让门开着。",
+          "explanation": "lassen 也可以表示让某物保持某状态。"
         },
         {
           "prompt": "Das Problem lässt ___ lösen.",
           "answer": "sich",
           "choices": [
+            "mich",
             "es",
-            "ihm",
-            "ihn"
+            "ihm"
           ],
           "translation": "这个问题可以解决。",
-          "explanation": "被动替代结构 sich lassen + Infinitiv。"
+          "explanation": "sich lassen + Infinitiv 表示可实现性。"
         },
         {
-          "prompt": "Der Text ist leicht ___ verstehen.",
-          "answer": "zu",
+          "prompt": "Wir lassen das Essen ___.",
+          "answer": "bringen",
           "choices": [
-            "um",
-            "für",
-            "damit"
+            "zu bringen",
+            "gebracht",
+            "bringt"
           ],
-          "translation": "这篇文章容易理解。",
-          "explanation": "sein + zu 不定式，此处表达可理解性。"
+          "translation": "我们让人把饭送来。",
+          "explanation": "安排别人处理某事时也用 lassen + Infinitiv。"
         },
         {
-          "prompt": "Das Fenster kann geöffnet ___.",
-          "answer": "werden",
+          "prompt": "___ mich bitte in Ruhe!",
+          "answer": "Lass",
           "choices": [
-            "worden",
-            "geworden",
-            "wurde"
+            "Lässt",
+            "Lassen",
+            "Ließ"
           ],
-          "translation": "窗户可以被打开。",
-          "explanation": "kann + geöffnet + werden。"
+          "translation": "请别打扰我！",
+          "explanation": "对 du 的 lassen 命令式是 Lass!。"
         }
       ],
       "table": null,
@@ -369213,48 +368448,70 @@ window.WORTWEG_DATA = {
       "detail_id": "word-order",
       "examples": [
         {
-          "prompt": "Heute ___ ich Deutsch.",
-          "answer": "lerne",
+          "prompt": "Ich lerne ___ wegen der Prüfung ___ zu Hause.",
+          "answer": "heute … ruhig",
           "choices": [
-            "ich lerne",
-            "lernen",
-            "lernt"
+            "ruhig … heute",
+            "zu Hause … heute",
+            "wegen … Prüfung"
           ],
-          "translation": "今天我学德语。",
-          "explanation": "时间成分在句首，变位动词仍在第二位。"
+          "translation": "我今天因为考试在家安静地学习。",
+          "explanation": "中性语序常按时间—原因—方式—地点排列。"
         },
         {
-          "prompt": "___ du in Berlin?",
-          "answer": "Wohnst",
+          "prompt": "Ich habe das Buch ___.",
+          "answer": "nicht gelesen",
           "choices": [
-            "Wohnen",
-            "Wohnt",
-            "Wohne"
+            "gelesen nicht",
+            "nicht gelest",
+            "kein gelesen"
           ],
-          "translation": "你住在柏林吗？",
-          "explanation": "一般疑问句以变位动词开头。"
+          "translation": "我没有读这本书。",
+          "explanation": "完成时中 nicht 位于被否定的核心成分之前。"
         },
         {
-          "prompt": "Woher ___ du?",
-          "answer": "kommst",
+          "prompt": "Ich gebe ___ morgen das Buch. (er)",
+          "answer": "ihm",
           "choices": [
-            "kommt",
-            "kommen",
-            "komme"
+            "ihn",
+            "er",
+            "seinen"
           ],
-          "translation": "你从哪里来？",
-          "explanation": "W-问句中动词紧跟疑问词。"
+          "translation": "我明天把书给他。",
+          "explanation": "代词通常位于名词宾语之前；er 的与格是 ihm。"
         },
         {
-          "prompt": "Wie ___ Sie?",
-          "answer": "heißen",
+          "prompt": "Ich gebe ___. (das Buch / er)",
+          "answer": "es ihm",
           "choices": [
-            "heißt",
-            "heiße",
-            "heißest"
+            "ihm es",
+            "das ihm",
+            "ihn es"
           ],
-          "translation": "您叫什么名字？",
-          "explanation": "礼貌形式 Sie 使用 heißen。"
+          "translation": "我把它给他。",
+          "explanation": "两个代词连用时通常宾格在前、与格在后。"
+        },
+        {
+          "prompt": "Heute ___ ich meiner Freundin das Buch.",
+          "answer": "gebe",
+          "choices": [
+            "ich gebe",
+            "geben",
+            "gibt"
+          ],
+          "translation": "今天我把书给朋友。",
+          "explanation": "时间占第一成分时，有限动词仍在第二位。"
+        },
+        {
+          "prompt": "Ich rufe meine Mutter heute Abend ___.",
+          "answer": "an",
+          "choices": [
+            "auf",
+            "ein",
+            "zu"
+          ],
+          "translation": "我今晚给妈妈打电话。",
+          "explanation": "可分前缀位于句框末端。"
         }
       ],
       "table": null,
@@ -369895,33 +369152,6 @@ window.WORTWEG_DATA = {
                 "sie/Sie",
                 "ihnen/Ihnen"
               ]
-            ],
-            [
-              [
-                "格",
-                "问题",
-                "阳性定冠词示例"
-              ],
-              [
-                "主格",
-                "谁/什么？",
-                "der Mann"
-              ],
-              [
-                "宾格",
-                "谁/什么被作用？",
-                "den Mann"
-              ],
-              [
-                "与格",
-                "给谁/对谁？",
-                "dem Mann"
-              ],
-              [
-                "属格",
-                "谁的？",
-                "des Mannes"
-              ]
             ]
           ],
           "examples": [
@@ -370039,38 +369269,11 @@ window.WORTWEG_DATA = {
               ],
               [
                 "他们/您",
-                "ihr/Ihr Vater",
-                "ihre/Ihre Mutter",
-                "ihren/Ihren Vater",
-                "ihrem/Ihrem Vater",
-                "ihren/Ihren Freunden"
-              ]
-            ],
-            [
-              [
-                "格",
-                "问题",
-                "阳性定冠词示例"
-              ],
-              [
-                "主格",
-                "谁/什么？",
-                "der Mann"
-              ],
-              [
-                "宾格",
-                "谁/什么被作用？",
-                "den Mann"
-              ],
-              [
-                "与格",
-                "给谁/对谁？",
-                "dem Mann"
-              ],
-              [
-                "属格",
-                "谁的？",
-                "des Mannes"
+                "ihr / Ihr Vater",
+                "ihre / Ihre Mutter",
+                "ihren / Ihren Vater",
+                "ihrem / Ihrem Vater",
+                "ihren / Ihren Freunden"
               ]
             ]
           ],
@@ -370766,11 +369969,11 @@ window.WORTWEG_DATA = {
               ],
               [
                 "他们/您",
-                "ihr/Ihr Vater",
-                "ihre/Ihre Mutter",
-                "ihren/Ihren Vater",
-                "ihrem/Ihrem Vater",
-                "ihren/Ihren Freunden"
+                "ihr / Ihr Vater",
+                "ihre / Ihre Mutter",
+                "ihren / Ihren Vater",
+                "ihrem / Ihrem Vater",
+                "ihren / Ihren Freunden"
               ]
             ]
           ],
@@ -371135,62 +370338,6 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
-            [
-              [
                 "格",
                 "阳性",
                 "阴性",
@@ -371242,62 +370389,6 @@ window.WORTWEG_DATA = {
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
-            [
-              [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
             [
               [
                 "宾格（Akkusativ）",
@@ -371387,62 +370478,6 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
-            [
-              [
                 "与格（Dativ）",
                 "阳性",
                 "阴性",
@@ -371530,62 +370565,6 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
-            [
-              [
                 "属格（Genitiv）",
                 "阳性",
                 "阴性",
@@ -371668,62 +370647,6 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
-            [
-              [
                 "格",
                 "阳性",
                 "阴性",
@@ -371778,62 +370701,6 @@ window.WORTWEG_DATA = {
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。"
           ],
           "tables": [
-            [
-              [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
             [
               [
                 "格",
@@ -372520,7 +371387,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · Perfekt / Präteritum / Plusquamperfekt 对比",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "Plusquamperfekt = hatte/war + Partizip II，表示过去某一参照点之前已经发生。nachdem 从句常用过去完成时，主句用过去时。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -372682,45 +371549,67 @@ window.WORTWEG_DATA = {
           "prompt": "Die Tür ___ gerade geöffnet.",
           "answer": "wird",
           "choices": [
-            "hat",
-            "werden",
-            "ist geworden"
+            "ist",
+            "wurde",
+            "hat"
           ],
           "translation": "门正在被打开。",
-          "explanation": "进行的过程用 werden + Partizip II。"
+          "explanation": "现在时过程被动用 wird + Partizip II。"
         },
         {
-          "prompt": "Die Tür ist ___.",
-          "answer": "geschlossen",
+          "prompt": "Die Tür ___ gestern geöffnet.",
+          "answer": "wurde",
           "choices": [
-            "schließen",
-            "geschließt",
-            "geschlossen worden werden"
+            "wird",
+            "ist",
+            "war"
           ],
-          "translation": "门处于关闭状态。",
-          "explanation": "sein + Partizip II 可表达结果状态。"
+          "translation": "门昨天被打开了。",
+          "explanation": "过去时过程被动用 wurde + Partizip II。"
         },
         {
-          "prompt": "Die Regel ist erklärt ___.",
-          "answer": "worden",
+          "prompt": "Man repariert die Straße. → Die Straße ___.",
+          "answer": "wird repariert",
           "choices": [
-            "geworden",
-            "werden",
-            "wurde"
+            "ist repariert worden",
+            "repariert sich",
+            "hat repariert"
           ],
-          "translation": "规则已经被解释了。",
-          "explanation": "过程被动完成时使用特殊形式 worden。"
+          "translation": "有人在修路。→ 路正在被修。",
+          "explanation": "主动句的宾格宾语成为被动句主语。"
         },
         {
-          "prompt": "Dem Kind ___ geholfen.",
+          "prompt": "Das Haus wird ___ einer Firma gebaut.",
+          "answer": "von",
+          "choices": [
+            "durch",
+            "mit",
+            "aus"
+          ],
+          "translation": "这栋房子由一家公司建造。",
+          "explanation": "动作执行者通常用 von + Dativ。"
+        },
+        {
+          "prompt": "Die Tür wurde ___ den Wind geöffnet.",
+          "answer": "durch",
+          "choices": [
+            "von",
+            "bei",
+            "zu"
+          ],
+          "translation": "门被风吹开了。",
+          "explanation": "手段或非人的原因常用 durch + Akkusativ。"
+        },
+        {
+          "prompt": "Hier ___ nicht geraucht.",
           "answer": "wird",
           "choices": [
-            "werden",
+            "ist",
             "hat",
-            "ist"
+            "wurde worden"
           ],
-          "translation": "有人在帮助这个孩子。",
-          "explanation": "helfen 支配与格；无人称被动使用单数 wird。"
+          "translation": "这里禁止吸烟。",
+          "explanation": "无主语被动仍可使用形式主语位置或地点前置。"
         }
       ],
       "table": [
@@ -372799,23 +371688,18 @@ window.WORTWEG_DATA = {
             [
               [
                 "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "过程被动",
+                "例句"
               ],
               [
                 "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "wird + Partizip II",
+                "Die Tür wird geöffnet."
               ],
               [
                 "过去时",
-                "wurde gemacht",
-                "war gemacht"
-              ],
-              [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "wurde + Partizip II",
+                "Die Tür wurde geöffnet."
               ]
             ]
           ],
@@ -372877,23 +371761,18 @@ window.WORTWEG_DATA = {
             [
               [
                 "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "过程被动",
+                "例句"
               ],
               [
                 "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "wird + Partizip II",
+                "Die Tür wird geöffnet."
               ],
               [
                 "过去时",
-                "wurde gemacht",
-                "war gemacht"
-              ],
-              [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "wurde + Partizip II",
+                "Die Tür wurde geöffnet."
               ]
             ]
           ],
@@ -372907,7 +371786,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · Präteritum Passiv",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
+            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
             "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
           ],
           "tables": [
@@ -372952,23 +371831,18 @@ window.WORTWEG_DATA = {
             [
               [
                 "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "过程被动",
+                "例句"
               ],
               [
                 "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "wird + Partizip II",
+                "Die Tür wird geöffnet."
               ],
               [
                 "过去时",
-                "wurde gemacht",
-                "war gemacht"
-              ],
-              [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "wurde + Partizip II",
+                "Die Tür wurde geöffnet."
               ]
             ]
           ],
@@ -373015,23 +371889,18 @@ window.WORTWEG_DATA = {
             [
               [
                 "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "过程被动",
+                "例句"
               ],
               [
                 "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "wird + Partizip II",
+                "Die Tür wird geöffnet."
               ],
               [
                 "过去时",
-                "wurde gemacht",
-                "war gemacht"
-              ],
-              [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "wurde + Partizip II",
+                "Die Tür wurde geöffnet."
               ]
             ]
           ],
@@ -373052,23 +371921,18 @@ window.WORTWEG_DATA = {
             [
               [
                 "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "过程被动",
+                "例句"
               ],
               [
                 "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "wird + Partizip II",
+                "Die Tür wird geöffnet."
               ],
               [
                 "过去时",
-                "wurde gemacht",
-                "war gemacht"
-              ],
-              [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "wurde + Partizip II",
+                "Die Tür wurde geöffnet."
               ]
             ]
           ],
@@ -373921,24 +372785,34 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "时态/类型",
+                "形式",
+                "例句"
               ],
               [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "现在时过程被动",
+                "wird + Partizip II",
+                "Die Tür wird geöffnet."
               ],
               [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
+                "过去时过程被动",
+                "wurde + Partizip II",
+                "Die Tür wurde geöffnet."
               ],
               [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "完成时过程被动",
+                "ist + Partizip II + worden",
+                "Die Tür ist geöffnet worden."
+              ],
+              [
+                "将来时过程被动",
+                "wird + Partizip II + werden",
+                "Die Tür wird geöffnet werden."
+              ],
+              [
+                "状态被动",
+                "sein + Partizip II",
+                "Die Tür ist geöffnet."
               ]
             ]
           ],
@@ -373952,7 +372826,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · Präteritum Passiv",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
+            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
             "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
           ],
           "tables": [
@@ -373996,24 +372870,34 @@ window.WORTWEG_DATA = {
             ],
             [
               [
-                "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "时态/类型",
+                "形式",
+                "例句"
               ],
               [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "现在时过程被动",
+                "wird + Partizip II",
+                "Die Tür wird geöffnet."
               ],
               [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
+                "过去时过程被动",
+                "wurde + Partizip II",
+                "Die Tür wurde geöffnet."
               ],
               [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "完成时过程被动",
+                "ist + Partizip II + worden",
+                "Die Tür ist geöffnet worden."
+              ],
+              [
+                "将来时过程被动",
+                "wird + Partizip II + werden",
+                "Die Tür wird geöffnet werden."
+              ],
+              [
+                "状态被动",
+                "sein + Partizip II",
+                "Die Tür ist geöffnet."
               ]
             ]
           ],
@@ -374071,24 +372955,34 @@ window.WORTWEG_DATA = {
             ],
             [
               [
-                "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "时态/类型",
+                "形式",
+                "例句"
               ],
               [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "现在时过程被动",
+                "wird + Partizip II",
+                "Die Tür wird geöffnet."
               ],
               [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
+                "过去时过程被动",
+                "wurde + Partizip II",
+                "Die Tür wurde geöffnet."
               ],
               [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "完成时过程被动",
+                "ist + Partizip II + worden",
+                "Die Tür ist geöffnet worden."
+              ],
+              [
+                "将来时过程被动",
+                "wird + Partizip II + werden",
+                "Die Tür wird geöffnet werden."
+              ],
+              [
+                "状态被动",
+                "sein + Partizip II",
+                "Die Tür ist geöffnet."
               ]
             ]
           ],
@@ -374108,24 +373002,34 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "时态/类型",
+                "形式",
+                "例句"
               ],
               [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "现在时过程被动",
+                "wird + Partizip II",
+                "Die Tür wird geöffnet."
               ],
               [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
+                "过去时过程被动",
+                "wurde + Partizip II",
+                "Die Tür wurde geöffnet."
               ],
               [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "完成时过程被动",
+                "ist + Partizip II + worden",
+                "Die Tür ist geöffnet worden."
+              ],
+              [
+                "将来时过程被动",
+                "wird + Partizip II + werden",
+                "Die Tür wird geöffnet werden."
+              ],
+              [
+                "状态被动",
+                "sein + Partizip II",
+                "Die Tür ist geöffnet."
               ]
             ],
             [
@@ -374182,24 +373086,34 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "时态/类型",
+                "形式",
+                "例句"
               ],
               [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "现在时过程被动",
+                "wird + Partizip II",
+                "Die Tür wird geöffnet."
               ],
               [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
+                "过去时过程被动",
+                "wurde + Partizip II",
+                "Die Tür wurde geöffnet."
               ],
               [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "完成时过程被动",
+                "ist + Partizip II + worden",
+                "Die Tür ist geöffnet worden."
+              ],
+              [
+                "将来时过程被动",
+                "wird + Partizip II + werden",
+                "Die Tür wird geöffnet werden."
+              ],
+              [
+                "状态被动",
+                "sein + Partizip II",
+                "Die Tür ist geöffnet."
               ]
             ]
           ],
@@ -374219,24 +373133,34 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "时态",
-                "过程被动（werden）",
-                "状态被动（sein）"
+                "时态/类型",
+                "形式",
+                "例句"
               ],
               [
-                "现在时",
-                "wird gemacht",
-                "ist gemacht"
+                "现在时过程被动",
+                "wird + Partizip II",
+                "Die Tür wird geöffnet."
               ],
               [
-                "过去时",
-                "wurde gemacht",
-                "war gemacht"
+                "过去时过程被动",
+                "wurde + Partizip II",
+                "Die Tür wurde geöffnet."
               ],
               [
-                "完成时",
-                "ist gemacht worden",
-                "ist gemacht gewesen"
+                "完成时过程被动",
+                "ist + Partizip II + worden",
+                "Die Tür ist geöffnet worden."
+              ],
+              [
+                "将来时过程被动",
+                "wird + Partizip II + werden",
+                "Die Tür wird geöffnet werden."
+              ],
+              [
+                "状态被动",
+                "sein + Partizip II",
+                "Die Tür ist geöffnet."
               ]
             ]
           ],
@@ -374953,64 +373877,7 @@ window.WORTWEG_DATA = {
           "paragraphs": [
             "谈事物用 da(r)- 代副词，问事物用 wo(r)-；谈人用介词 + 代词：Worauf wartest du? – Darauf；Auf wen wartest du?"
           ],
-          "tables": [
-            [
-              [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ]
-          ],
+          "tables": [],
           "examples": [
             [
               "Ich gebe es ihm.",
@@ -375023,64 +373890,7 @@ window.WORTWEG_DATA = {
           "paragraphs": [
             "谈事物用 da(r)- 代副词，问事物用 wo(r)-；谈人用介词 + 代词：Worauf wartest du? – Darauf；Auf wen wartest du?"
           ],
-          "tables": [
-            [
-              [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ]
-          ],
+          "tables": [],
           "examples": [
             [
               "口语中也常说：Das ist die Stadt, wo ich wohne.",
@@ -375271,62 +374081,6 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
-            [
-              [
                 "与格（Dativ）",
                 "阳性",
                 "阴性",
@@ -375412,62 +374166,6 @@ window.WORTWEG_DATA = {
             "易错检查：先判断名词的性、数和格，再检查冠词和词尾。"
           ],
           "tables": [
-            [
-              [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
             [
               [
                 "属格（Genitiv）",
@@ -375594,64 +374292,7 @@ window.WORTWEG_DATA = {
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
-          "tables": [
-            [
-              [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ]
-          ],
+          "tables": [],
           "examples": [
             [
               "Ich weiß, dass sie kommt.",
@@ -375931,7 +374572,7 @@ window.WORTWEG_DATA = {
               "他今天似乎很累。"
             ],
             [
-              "Es scheint, dass sie Recht hat.",
+              "Es scheint, dass sie recht hat.",
               "看来她是对的。"
             ]
           ]
@@ -375941,52 +374582,7 @@ window.WORTWEG_DATA = {
           "paragraphs": [
             "haben + zu + 不定式表示有义务或有事情要做：Ich habe heute viel zu erledigen。"
           ],
-          "tables": [
-            [
-              [
-                "人称",
-                "现在时",
-                "过去时",
-                "完成时"
-              ],
-              [
-                "ich",
-                "habe",
-                "hatte",
-                "habe gehabt"
-              ],
-              [
-                "du",
-                "hast",
-                "hattest",
-                "hast gehabt"
-              ],
-              [
-                "er/sie/es",
-                "hat",
-                "hatte",
-                "hat gehabt"
-              ],
-              [
-                "wir",
-                "haben",
-                "hatten",
-                "haben gehabt"
-              ],
-              [
-                "ihr",
-                "habt",
-                "hattet",
-                "habt gehabt"
-              ],
-              [
-                "sie/Sie",
-                "haben",
-                "hatten",
-                "haben gehabt"
-              ]
-            ]
-          ],
+          "tables": [],
           "examples": [
             [
               "Ich habe heute viel zu erledigen.",
@@ -375999,52 +374595,7 @@ window.WORTWEG_DATA = {
           "paragraphs": [
             "sein + zu + 不定式表示必须或可以被做：Die Aufgabe ist bis morgen zu erledigen。"
           ],
-          "tables": [
-            [
-              [
-                "人称",
-                "现在时",
-                "过去时",
-                "完成时"
-              ],
-              [
-                "ich",
-                "bin",
-                "war",
-                "bin gewesen"
-              ],
-              [
-                "du",
-                "bist",
-                "warst",
-                "bist gewesen"
-              ],
-              [
-                "er/sie/es",
-                "ist",
-                "war",
-                "ist gewesen"
-              ],
-              [
-                "wir",
-                "sind",
-                "waren",
-                "sind gewesen"
-              ],
-              [
-                "ihr",
-                "seid",
-                "wart",
-                "seid gewesen"
-              ],
-              [
-                "sie/Sie",
-                "sind",
-                "waren",
-                "sind gewesen"
-              ]
-            ]
-          ],
+          "tables": [],
           "examples": [
             [
               "Die Aufgabe ist bis morgen zu erledigen.",
@@ -376217,48 +374768,70 @@ window.WORTWEG_DATA = {
       "detail_id": "word-order",
       "examples": [
         {
-          "prompt": "Heute ___ ich Deutsch.",
-          "answer": "lerne",
+          "prompt": "Gestern ___ ich meiner Schwester das Buch gegeben.",
+          "answer": "habe",
           "choices": [
-            "ich lerne",
-            "lernen",
-            "lernt"
+            "ich habe",
+            "hatte ich",
+            "bin"
           ],
-          "translation": "今天我学德语。",
-          "explanation": "时间成分在句首，变位动词仍在第二位。"
+          "translation": "昨天我把书给了妹妹。",
+          "explanation": "Vorfeld 后有限动词保持第二位。"
         },
         {
-          "prompt": "___ du in Berlin?",
-          "answer": "Wohnst",
+          "prompt": "Ich habe ___ gegeben. (das Buch / sie)",
+          "answer": "es ihr",
           "choices": [
-            "Wohnen",
-            "Wohnt",
-            "Wohne"
+            "ihr es",
+            "sie es",
+            "ihm sie"
           ],
-          "translation": "你住在柏林吗？",
-          "explanation": "一般疑问句以变位动词开头。"
+          "translation": "我把它给了她。",
+          "explanation": "两个代词并用时通常宾格在前、与格在后。"
         },
         {
-          "prompt": "Woher ___ du?",
-          "answer": "kommst",
+          "prompt": "Ich habe ___ gegeben. (meiner Schwester / es)",
+          "answer": "es meiner Schwester",
           "choices": [
-            "kommt",
-            "kommen",
-            "komme"
+            "meiner Schwester es",
+            "ihr das",
+            "sie es"
           ],
-          "translation": "你从哪里来？",
-          "explanation": "W-问句中动词紧跟疑问词。"
+          "translation": "我把它给了妹妹。",
+          "explanation": "代词通常放在名词宾语前。"
         },
         {
-          "prompt": "Wie ___ Sie?",
-          "answer": "heißen",
+          "prompt": "Ich fahre morgen wegen des Termins mit dem Zug ___.",
+          "answer": "nach Berlin",
           "choices": [
-            "heißt",
-            "heiße",
-            "heißest"
+            "mit dem Zug",
+            "wegen des Termins",
+            "morgen"
           ],
-          "translation": "您叫什么名字？",
-          "explanation": "礼貌形式 Sie 使用 heißen。"
+          "translation": "我明天因为预约乘火车去柏林。",
+          "explanation": "中性状语顺序常为时间—原因—方式—地点。"
+        },
+        {
+          "prompt": "Ich habe das Buch ___.",
+          "answer": "nicht gelesen",
+          "choices": [
+            "gelesen nicht",
+            "kein gelesen",
+            "nicht gelest"
+          ],
+          "translation": "我没有读这本书。",
+          "explanation": "nicht 应放在被否定的内容之前，并留在句框内。"
+        },
+        {
+          "prompt": "Dass er heute kommt, ___ mich.",
+          "answer": "freut",
+          "choices": [
+            "mich freut",
+            "freuen",
+            "hat gefreut"
+          ],
+          "translation": "他今天来这件事让我高兴。",
+          "explanation": "前置从句占据 Vorfeld，主句有限动词紧随其后。"
         }
       ],
       "table": null,
@@ -376569,64 +375142,7 @@ window.WORTWEG_DATA = {
             "反身代词指向主语：ich–mich、du–dich、er/sie–sich、wir–uns、ihr–euch、sie/Sie–sich。若另有宾语，反身代词可能用与格：Ich wasche mir die Hände。",
             "运用：先判断反身代词的格；有身体部位等其他宾语时常用与格。"
           ],
-          "tables": [
-            [
-              [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ]
-          ],
+          "tables": [],
           "examples": [
             [
               "Ich wasche mich.",
@@ -376725,48 +375241,70 @@ window.WORTWEG_DATA = {
       "detail_id": "subordinate",
       "examples": [
         {
-          "prompt": "Ich lerne, weil ich Zeit ___.",
-          "answer": "habe",
+          "prompt": "Ich weiß, dass er kommt, weil er mir ___.",
+          "answer": "helfen will",
           "choices": [
-            "haben",
-            "hat",
-            "hast"
+            "will helfen",
+            "geholfen will",
+            "helfen wollte hat"
           ],
-          "translation": "因为有时间，所以我学习。",
-          "explanation": "weil 从句变位动词末位。"
+          "translation": "我知道他会来，因为他想帮我。",
+          "explanation": "每个从句都各自保持动词末位。"
         },
         {
-          "prompt": "Ich weiß, dass er heute ___.",
-          "answer": "kommt",
+          "prompt": "Obwohl sie müde war, sagte sie, dass sie weiter ___.",
+          "answer": "arbeiten müsse",
           "choices": [
-            "kommen",
-            "komme",
-            "kommst"
+            "müsse arbeiten",
+            "gearbeitet muss",
+            "arbeiten musste hat"
           ],
-          "translation": "我知道他今天来。",
-          "explanation": "dass 引导内容从句，kommt 在末尾。"
+          "translation": "尽管她累了，她说自己必须继续工作。",
+          "explanation": "嵌套从句中的变位动词放在各自从句末尾。"
         },
         {
-          "prompt": "Wenn ich Zeit habe, ___ ich Deutsch.",
-          "answer": "lerne",
+          "prompt": "Er ist müde, weil er lange ___.",
+          "answer": "hat arbeiten müssen",
           "choices": [
-            "ich lerne",
-            "lernen",
-            "lernt"
+            "arbeiten gemusst hat",
+            "musste gearbeitet haben",
+            "hat gemusst arbeiten"
           ],
-          "translation": "如果有时间，我就学德语。",
-          "explanation": "前置从句之后主句动词紧接着出现。"
+          "translation": "他很累，因为他不得不工作很久。",
+          "explanation": "双不定式从句中，有限助动词常放在不定式群之前。"
         },
         {
-          "prompt": "Ich bleibe zu Hause, ___ ich müde bin.",
-          "answer": "weil",
+          "prompt": "Ich glaube, dass sie das Buch ___.",
+          "answer": "gelesen hat",
           "choices": [
-            "denn",
-            "deshalb",
-            "aber"
+            "hat gelesen",
+            "gelesen haben",
+            "las hat"
           ],
-          "translation": "我待在家，因为累了。",
-          "explanation": "bin 在末位，匹配 weil 从句。"
+          "translation": "我相信她读过这本书。",
+          "explanation": "普通完成时从句把 Partizip II 放在有限助动词前。"
+        },
+        {
+          "prompt": "Wenn ich Zeit habe, lerne ich, ___ ich die Prüfung bestehe.",
+          "answer": "damit",
+          "choices": [
+            "weil",
+            "obwohl",
+            "denn"
+          ],
+          "translation": "如果有时间我就学习，以便通过考试。",
+          "explanation": "damit 引导目的从句。"
+        },
+        {
+          "prompt": "Er fragt, ob ich weiß, wann der Kurs ___.",
+          "answer": "beginnt",
+          "choices": [
+            "beginnen",
+            "beginnt er",
+            "hat beginnen"
+          ],
+          "translation": "他问我是否知道课程何时开始。",
+          "explanation": "多层从句中每一层的有限动词都要放到该从句末尾。"
         }
       ],
       "table": null,
@@ -376963,6 +375501,15 @@ window.WORTWEG_DATA = {
                 "mögen",
                 "mögt",
                 "mögen"
+              ],
+              [
+                "möchten",
+                "möchte",
+                "möchtest",
+                "möchte",
+                "möchten",
+                "möchtet",
+                "möchten"
               ]
             ]
           ],
@@ -376976,7 +375523,7 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · Perfekt 从句语序",
           "paragraphs": [
-            "weil、dass、wenn、ob 等从句把变位动词放到末尾，并用逗号分隔。当前置从句占主句第一成分时，主句动词紧跟其后：Wenn ich Zeit habe, lerne ich。",
+            "完成时由现在时助动词 haben/sein + Partizip II 组成：Ich habe gelernt；Ich bin gekommen。haben 是默认选择：及物动词（Ich habe das Buch gelesen）、反身动词和大多数不表示位置改变的动词用 haben。sein 主要用于不及物的地点移动（gehen, kommen, fahren）、状态变化（aufstehen, einschlafen, werden）以及 bleiben、sein 本身。",
             "运用：先确定连接词表达的逻辑关系，再把变位动词放到相应位置。",
             "易错检查：从句用逗号隔开，变位动词放在从句末尾。"
           ],
@@ -377157,48 +375704,70 @@ window.WORTWEG_DATA = {
       "detail_id": "perfect",
       "examples": [
         {
-          "prompt": "Ich habe Deutsch ___.",
-          "answer": "gelernt",
+          "prompt": "Jeden Tag ___ ich eine Stunde Deutsch.",
+          "answer": "lerne",
           "choices": [
-            "gelernen",
-            "lernt",
-            "lernen"
+            "habe gelernt",
+            "lernte",
+            "werde lernen"
           ],
-          "translation": "我学了德语。",
-          "explanation": "弱变化 lernen → gelernt。"
+          "translation": "我每天学一小时德语。",
+          "explanation": "习惯动作通常用 Präsens。"
         },
         {
-          "prompt": "Sie ___ nach Berlin gefahren.",
-          "answer": "ist",
+          "prompt": "Gestern ___ ich zwei Stunden Deutsch gelernt.",
+          "answer": "habe",
+          "choices": [
+            "bin",
+            "hatte",
+            "werde"
+          ],
+          "translation": "我昨天学了两小时德语。",
+          "explanation": "口语回顾常用 Perfekt。"
+        },
+        {
+          "prompt": "Früher ___ ich in Bonn.",
+          "answer": "wohnte",
+          "choices": [
+            "habe gewohnt",
+            "wohne",
+            "werde wohnen"
+          ],
+          "translation": "以前我住在波恩。",
+          "explanation": "书面叙述过去背景常用 Präteritum。"
+        },
+        {
+          "prompt": "Nachdem ich gegessen hatte, ___ ich spazieren.",
+          "answer": "ging",
+          "choices": [
+            "gehe",
+            "bin gegangen",
+            "werde gehen"
+          ],
+          "translation": "吃过饭后，我去散步了。",
+          "explanation": "先发生的动作使用 Plusquamperfekt，后发生的过去动作可用 Präteritum。"
+        },
+        {
+          "prompt": "Nächste Woche ___ ich nach Wien fahren.",
+          "answer": "werde",
+          "choices": [
+            "würde",
+            "wurde",
+            "bin"
+          ],
+          "translation": "下周我会去维也纳。",
+          "explanation": "明确表达将来可用 Futur I。"
+        },
+        {
+          "prompt": "Als ich ankam, ___ der Kurs schon begonnen.",
+          "answer": "hatte",
           "choices": [
             "hat",
-            "wird",
-            "sein"
+            "ist",
+            "wurde"
           ],
-          "translation": "她乘车去了柏林。",
-          "explanation": "这里是不及物地点移动，用 sein。"
-        },
-        {
-          "prompt": "Wir sind zu Hause ___.",
-          "answer": "geblieben",
-          "choices": [
-            "gebleibt",
-            "bleiben",
-            "blieben"
-          ],
-          "translation": "我们待在家了。",
-          "explanation": "bleiben 的 Partizip II 是 geblieben。"
-        },
-        {
-          "prompt": "Ich habe die Frage ___.",
-          "answer": "verstanden",
-          "choices": [
-            "geverstanden",
-            "versteht",
-            "verstehen"
-          ],
-          "translation": "我理解了这个问题。",
-          "explanation": "ver- 不可分，没有额外 ge-。"
+          "translation": "我到达时，课程已经开始了。",
+          "explanation": "相对于过去参照点更早的动作使用 Plusquamperfekt。"
         }
       ],
       "table": null,
@@ -377253,7 +375822,7 @@ window.WORTWEG_DATA = {
         {
           "title": "01 · Präsens",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "Präsens 表示现在、习惯或有明确时间词的近期安排：Ich lerne jeden Tag；Morgen fahre ich nach Berlin。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [],
@@ -377267,7 +375836,7 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · Perfekt",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "完成时由现在时助动词 haben/sein + Partizip II 组成：Ich habe gelernt；Ich bin gekommen。haben 是默认选择：及物动词（Ich habe das Buch gelesen）、反身动词和大多数不表示位置改变的动词用 haben。sein 主要用于不及物的地点移动（gehen, kommen, fahren）、状态变化（aufstehen, einschlafen, werden）以及 bleiben、sein 本身。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -377373,7 +375942,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · Plusquamperfekt",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "Plusquamperfekt = hatte/war + Partizip II，表示过去某一参照点之前已经发生。nachdem 从句常用过去完成时，主句用过去时。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -377426,7 +375995,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · Futur I",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "Futur I 用 werden 的现在时 + 不定式：Ich werde morgen arbeiten。明确的近期安排也常直接用 Präsens。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -377872,62 +376441,66 @@ window.WORTWEG_DATA = {
         {
           "title": "02 · sein / haben / werden",
           "paragraphs": [
-            "werden + 不定式构成 Futur I，也可表达推测；werden + 形容词表示变化；werden + Partizip II 构成过程被动。要结合句型判断功能。"
+            "间接引语中最常见的第一虚拟式核心形式是 sei、habe、werde：Er sagt, er sei krank；Sie erklärt, sie habe keine Zeit；Er meint, er werde kommen。"
           ],
           "tables": [
             [
               [
                 "人称",
-                "现在时",
-                "过去时",
-                "完成时"
+                "sein · Konjunktiv I",
+                "haben · Konjunktiv I",
+                "werden · Konjunktiv I"
               ],
               [
                 "ich",
-                "bin",
-                "war",
-                "bin gewesen"
+                "sei",
+                "habe",
+                "werde"
               ],
               [
                 "du",
-                "bist",
-                "warst",
-                "bist gewesen"
+                "sei(e)st",
+                "habest",
+                "werdest"
               ],
               [
                 "er/sie/es",
-                "ist",
-                "war",
-                "ist gewesen"
+                "sei",
+                "habe",
+                "werde"
               ],
               [
                 "wir",
-                "sind",
-                "waren",
-                "sind gewesen"
+                "seien",
+                "haben",
+                "werden"
               ],
               [
                 "ihr",
-                "seid",
-                "wart",
-                "seid gewesen"
+                "seiet",
+                "habet",
+                "werdet"
               ],
               [
                 "sie/Sie",
-                "sind",
-                "waren",
-                "sind gewesen"
+                "seien",
+                "haben",
+                "werden"
               ]
             ]
           ],
           "examples": [
             [
-              "Wir haben eine Frage.",
-              "我们有一个问题。"
+              "Sie erklärt, sie habe keine Zeit.",
+              "她解释说自己没有时间。"
             ],
             [
-              "Ich habe heute Zeit.",
-              "我今天有时间。"
+              "Er meint, er werde morgen kommen.",
+              "他说自己明天会来。"
+            ],
+            [
+              "Er sagt, er sei krank.",
+              "他说他病了。"
             ]
           ]
         },
@@ -377960,7 +376533,7 @@ window.WORTWEG_DATA = {
         {
           "title": "05 · 间接疑问",
           "paragraphs": [
-            "第一虚拟式用于正式转述：Er sagt, er sei krank。过去内容用 habe/sei + Partizip II。若第一虚拟式与直陈式同形，可用第二虚拟式或 würde 形式区别。"
+            "间接疑问保留原来的 W-疑问词；一般疑问用 ob。整个疑问内容成为动词末位从句：Sie fragt, wann der Kurs beginnt；Er fragt, ob ich komme。"
           ],
           "tables": [],
           "examples": [
@@ -377973,29 +376546,29 @@ window.WORTWEG_DATA = {
         {
           "title": "06 · 间接命令",
           "paragraphs": [
-            "第一虚拟式用于正式转述：Er sagt, er sei krank。过去内容用 habe/sei + Partizip II。若第一虚拟式与直陈式同形，可用第二虚拟式或 würde 形式区别。"
+            "转述命令或要求时不保留原来的命令式，常用 sollen 的虚拟式或 bitten + zu 不定式：Er sagt, ich solle warten；Sie bittet mich, leise zu sein。"
           ],
           "tables": [
             [
               [
-                "对象",
-                "形式（kommen）",
-                "例句"
+                "直接命令/请求",
+                "间接转述",
+                "说明"
               ],
               [
-                "du",
-                "Komm!",
-                "Komm bitte herein!"
+                "Komm morgen!",
+                "Er sagt, ich solle morgen kommen.",
+                "常用 sollen 转述要求"
               ],
               [
-                "ihr",
-                "Kommt!",
-                "Kommt bitte herein!"
+                "Seien Sie pünktlich!",
+                "Er bittet uns, pünktlich zu sein.",
+                "bitten 常接 zu 不定式"
               ],
               [
-                "Sie",
-                "Kommen Sie!",
-                "Kommen Sie bitte herein!"
+                "Hilf mir!",
+                "Sie bittet ihn, ihr zu helfen.",
+                "代词随新句法关系变化"
               ]
             ]
           ],
@@ -378054,6 +376627,28 @@ window.WORTWEG_DATA = {
                 "seien",
                 "haben",
                 "werden"
+              ]
+            ],
+            [
+              [
+                "情况",
+                "优先形式",
+                "示例"
+              ],
+              [
+                "Konjunktiv I 与直陈式不同",
+                "Konjunktiv I",
+                "Er sagt, er sei krank."
+              ],
+              [
+                "Konjunktiv I 与直陈式同形",
+                "常用 Konjunktiv II 区分",
+                "Sie sagten, sie hätten keine Zeit."
+              ],
+              [
+                "Konjunktiv II 也不清楚或很生硬",
+                "würde + Infinitiv",
+                "Sie sagten, sie würden später kommen."
               ]
             ]
           ],
@@ -378505,48 +377100,70 @@ window.WORTWEG_DATA = {
       "detail_id": "passive-advanced",
       "examples": [
         {
-          "prompt": "Das Problem muss gelöst ___.",
+          "prompt": "Das Problem muss heute gelöst ___.",
           "answer": "werden",
           "choices": [
             "worden",
+            "sein",
+            "wird"
+          ],
+          "translation": "这个问题今天必须解决。",
+          "explanation": "情态动词被动使用 Partizip II + werden。"
+        },
+        {
+          "prompt": "Das Problem ist gestern gelöst ___.",
+          "answer": "worden",
+          "choices": [
+            "werden",
             "geworden",
-            "sein geworden"
+            "gewesen"
           ],
-          "translation": "这个问题必须被解决。",
-          "explanation": "情态被动末尾是 werden 不定式。"
+          "translation": "这个问题昨天已经解决了。",
+          "explanation": "过程被动的 Perfekt 使用 ist + Partizip II + worden。"
         },
         {
-          "prompt": "Das Problem lässt ___ lösen.",
-          "answer": "sich",
+          "prompt": "Das Problem war bereits gelöst ___.",
+          "answer": "worden",
           "choices": [
-            "es",
-            "ihm",
-            "ihn"
+            "werden",
+            "geworden",
+            "wird"
           ],
-          "translation": "这个问题可以解决。",
-          "explanation": "被动替代结构 sich lassen + Infinitiv。"
+          "translation": "这个问题当时已经解决了。",
+          "explanation": "过程被动的 Plusquamperfekt 使用 war + Partizip II + worden。"
         },
         {
-          "prompt": "Der Text ist leicht ___ verstehen.",
-          "answer": "zu",
-          "choices": [
-            "um",
-            "für",
-            "damit"
-          ],
-          "translation": "这篇文章容易理解。",
-          "explanation": "sein + zu 不定式，此处表达可理解性。"
-        },
-        {
-          "prompt": "Das Fenster kann geöffnet ___.",
+          "prompt": "Das Problem wird morgen gelöst ___.",
           "answer": "werden",
           "choices": [
             "worden",
-            "geworden",
-            "wurde"
+            "sein",
+            "geworden"
           ],
-          "translation": "窗户可以被打开。",
-          "explanation": "kann + geöffnet + werden。"
+          "translation": "这个问题明天将得到解决。",
+          "explanation": "Futur Passiv 使用 wird + Partizip II + werden。"
+        },
+        {
+          "prompt": "Hier ___ seit Stunden gearbeitet.",
+          "answer": "wird",
+          "choices": [
+            "ist",
+            "hat",
+            "wurde worden"
+          ],
+          "translation": "这里已经连续工作了几个小时。",
+          "explanation": "无主语被动可用地点或其他成分占据句首。"
+        },
+        {
+          "prompt": "Die Regeln haben geändert werden ___.",
+          "answer": "müssen",
+          "choices": [
+            "gemusst",
+            "musste",
+            "müssten sein"
+          ],
+          "translation": "这些规则不得不被修改。",
+          "explanation": "情态动词被动的完成时使用双不定式结构。"
         }
       ],
       "table": null,
@@ -378711,6 +377328,15 @@ window.WORTWEG_DATA = {
                 "mögen",
                 "mögt",
                 "mögen"
+              ],
+              [
+                "möchten",
+                "möchte",
+                "möchtest",
+                "möchte",
+                "möchten",
+                "möchtet",
+                "möchten"
               ]
             ],
             [
@@ -378821,7 +377447,7 @@ window.WORTWEG_DATA = {
         {
           "title": "04 · Plusquamperfekt Passiv",
           "paragraphs": [
-            "过程被动用 werden + Partizip II，强调动作正在发生；状态被动用 sein + Partizip II，强调结果。主动句宾格宾语通常变成被动句主语，执行者可用 von + 与格。",
+            "Plusquamperfekt = hatte/war + Partizip II，表示过去某一参照点之前已经发生。nachdem 从句常用过去完成时，主句用过去时。",
             "运用：先确定时态，再变位 werden/sein，Partizip II 放在句框末端。"
           ],
           "tables": [
@@ -379291,50 +377917,6 @@ window.WORTWEG_DATA = {
             "运用：主语相同时用 um … zu、ohne … zu 或 statt … zu；情态动词后不用 zu。"
           ],
           "tables": [
-            [
-              [
-                "人称",
-                "现在时",
-                "过去时",
-                "完成时"
-              ],
-              [
-                "ich",
-                "bin",
-                "war",
-                "bin gewesen"
-              ],
-              [
-                "du",
-                "bist",
-                "warst",
-                "bist gewesen"
-              ],
-              [
-                "er/sie/es",
-                "ist",
-                "war",
-                "ist gewesen"
-              ],
-              [
-                "wir",
-                "sind",
-                "waren",
-                "sind gewesen"
-              ],
-              [
-                "ihr",
-                "seid",
-                "wart",
-                "seid gewesen"
-              ],
-              [
-                "sie/Sie",
-                "sind",
-                "waren",
-                "sind gewesen"
-              ]
-            ],
             [
               [
                 "结构",
@@ -380147,62 +378729,6 @@ window.WORTWEG_DATA = {
           "tables": [
             [
               [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
-            [
-              [
                 "属格（Genitiv）",
                 "阳性",
                 "阴性",
@@ -380283,62 +378809,6 @@ window.WORTWEG_DATA = {
             "运用：性数看先行词，格看关系从句中的动词或介词，变位动词放句末。"
           ],
           "tables": [
-            [
-              [
-                "人称",
-                "主格",
-                "宾格",
-                "与格"
-              ],
-              [
-                "ich",
-                "ich",
-                "mich",
-                "mir"
-              ],
-              [
-                "du",
-                "du",
-                "dich",
-                "dir"
-              ],
-              [
-                "er",
-                "er",
-                "ihn",
-                "ihm"
-              ],
-              [
-                "sie（她）",
-                "sie",
-                "sie",
-                "ihr"
-              ],
-              [
-                "es",
-                "es",
-                "es",
-                "ihm"
-              ],
-              [
-                "wir",
-                "wir",
-                "uns",
-                "uns"
-              ],
-              [
-                "ihr",
-                "ihr",
-                "euch",
-                "euch"
-              ],
-              [
-                "sie/Sie",
-                "sie/Sie",
-                "sie/Sie",
-                "ihnen/Ihnen"
-              ]
-            ],
             [
               [
                 "格",
@@ -380836,37 +379306,15 @@ window.WORTWEG_DATA = {
       "detail_id": "indirect-questions",
       "examples": [
         {
-          "prompt": "Weißt du, ___ er kommt?",
-          "answer": "ob",
-          "choices": [
-            "wenn",
-            "als",
-            "weil"
-          ],
-          "translation": "你知道他是否来吗？",
-          "explanation": "间接一般疑问使用 ob。"
-        },
-        {
-          "prompt": "Können Sie mir sagen, wo der Bahnhof ___?",
-          "answer": "ist",
-          "choices": [
-            "sein",
-            "sind",
-            "bist"
-          ],
-          "translation": "您能告诉我火车站在哪里吗？",
-          "explanation": "间接疑问从句动词末位。"
-        },
-        {
           "prompt": "Sie spricht sowohl Deutsch ___ auch Englisch.",
           "answer": "als",
           "choices": [
-            "wie",
             "oder",
-            "noch"
+            "noch",
+            "aber"
           ],
-          "translation": "她既说德语也说英语。",
-          "explanation": "固定关联 sowohl … als auch。"
+          "translation": "她既说德语，也说英语。",
+          "explanation": "sowohl … als auch 连接并列成分。"
         },
         {
           "prompt": "Er trinkt weder Kaffee ___ Tee.",
@@ -380874,10 +379322,54 @@ window.WORTWEG_DATA = {
           "choices": [
             "oder",
             "als",
-            "und"
+            "aber"
           ],
-          "translation": "他既不喝咖啡也不喝茶。",
-          "explanation": "weder … noch 表两者均否定。"
+          "translation": "他既不喝咖啡，也不喝茶。",
+          "explanation": "weder … noch 表示两项都否定。"
+        },
+        {
+          "prompt": "Wir fahren entweder heute ___ morgen.",
+          "answer": "oder",
+          "choices": [
+            "noch",
+            "als auch",
+            "aber"
+          ],
+          "translation": "我们今天或明天出发。",
+          "explanation": "entweder … oder 表示二选一。"
+        },
+        {
+          "prompt": "Sie ist nicht nur freundlich, ___ auch zuverlässig.",
+          "answer": "sondern",
+          "choices": [
+            "aber",
+            "oder",
+            "noch"
+          ],
+          "translation": "她不仅友好，而且可靠。",
+          "explanation": "nicht nur … sondern auch 表示递进。"
+        },
+        {
+          "prompt": "Einerseits spart der Plan Zeit, ___ kostet er viel Geld.",
+          "answer": "andererseits",
+          "choices": [
+            "trotzdem",
+            "deshalb",
+            "sondern"
+          ],
+          "translation": "这个计划一方面省时间，另一方面花很多钱。",
+          "explanation": "einerseits … andererseits 对照两个方面。"
+        },
+        {
+          "prompt": "Die Wohnung ist zwar klein, ___ sehr hell.",
+          "answer": "aber",
+          "choices": [
+            "sondern",
+            "oder",
+            "noch"
+          ],
+          "translation": "这套公寓虽然小，却很明亮。",
+          "explanation": "zwar … aber 表示让步转折。"
         }
       ],
       "table": null,
@@ -381385,48 +379877,72 @@ window.WORTWEG_DATA = {
       "detail_id": "nominalization",
       "examples": [
         {
-          "prompt": "Das regelmäßige ___ hilft mir.",
-          "answer": "Lernen",
+          "prompt": "Weil die Kosten steigen, ändern wir den Plan. → Aufgrund ___ ändern wir den Plan.",
+          "answer": "steigender Kosten",
           "choices": [
-            "lernen",
-            "Lernt",
-            "Gelernt"
+            "die Kosten steigen",
+            "von steigenden Kosten",
+            "der Kosten steigen"
           ],
-          "translation": "规律的学习帮助了我。",
-          "explanation": "名词化不定式大写，语法性为中性。"
+          "translation": "由于成本上升，我们修改计划。",
+          "explanation": "名词风格用 aufgrund + Genitiv 压缩原因从句。"
         },
         {
-          "prompt": "Nach der ___ des Kurses suche ich Arbeit. (结束：Beendigung)",
-          "answer": "Beendigung",
+          "prompt": "Nach der Durchführung der Prüfung werden die Ergebnisse veröffentlicht. → Nachdem die Prüfung ___, werden die Ergebnisse veröffentlicht.",
+          "answer": "durchgeführt worden ist",
           "choices": [
-            "beenden",
-            "beendet",
-            "beendende"
+            "durchführt",
+            "durchgeführt hat",
+            "worden durchführen"
           ],
-          "translation": "结束课程后，我找工作。",
-          "explanation": "冠词后需要名词，Beendigung 首字母大写。"
+          "translation": "考试实施后将公布结果。",
+          "explanation": "动词风格把名词结构恢复为从句。"
         },
         {
-          "prompt": "Weil es regnet, bleiben wir hier. → Wegen ___ Regens bleiben wir hier.",
-          "answer": "des",
+          "prompt": "Die Entscheidung über den Antrag erfolgt morgen. → Morgen ___ wir über den Antrag.",
+          "answer": "entscheiden",
           "choices": [
-            "dem",
-            "den",
-            "der"
+            "Entscheidung",
+            "wird Entscheidung",
+            "haben entschieden worden"
           ],
-          "translation": "由于下雨，我们待在这里。",
-          "explanation": "原因从句名词化：wegen + 属格。"
+          "translation": "关于申请的决定明天作出。",
+          "explanation": "Verbalstil 用明确动词表达动作。"
         },
         {
-          "prompt": "Beim ___ höre ich Musik. (lernen)",
-          "answer": "Lernen",
+          "prompt": "Die Regierung überprüft die Maßnahme. → die ___ der Maßnahme",
+          "answer": "Überprüfung",
           "choices": [
-            "lernen",
-            "lerne",
-            "gelernt"
+            "überprüfen",
+            "überprüfte",
+            "Überprüfenen"
           ],
-          "translation": "学习时我听音乐。",
-          "explanation": "beim = bei dem，后接名词化不定式。"
+          "translation": "政府审查该措施。→ 对该措施的审查",
+          "explanation": "动词 überprüfen 的名词形式是 die Überprüfung。"
+        },
+        {
+          "prompt": "Welcher Stil verdichtet Informationen stärker?",
+          "answer": "Nominalstil",
+          "choices": [
+            "Verbalstil",
+            "Umgangssprache",
+            "Imperativ"
+          ],
+          "translation": "哪种风格更强地压缩信息？",
+          "explanation": "Nominalstil 常把动作和逻辑关系压缩进名词结构。",
+          "kind": "choice"
+        },
+        {
+          "prompt": "Welcher Satz ist im Verbalstil formuliert?",
+          "answer": "Die Firma prüft den Antrag.",
+          "choices": [
+            "Die Prüfung des Antrags erfolgt.",
+            "Nach der Prüfung des Antrags …",
+            "Aufgrund der Prüfung …"
+          ],
+          "translation": "哪一个句子采用动词风格？",
+          "explanation": "Verbalstil 以明确的动词和动作主体组织句子。",
+          "kind": "choice"
         }
       ],
       "table": null,
@@ -381648,7 +380164,7 @@ window.WORTWEG_DATA = {
           "explanation": "固定搭配 eine Entscheidung treffen。"
         },
         {
-          "prompt": "Die Schule stellt Bücher zur ___ .",
+          "prompt": "Die Schule stellt Bücher zur ___.",
           "answer": "Verfügung",
           "choices": [
             "Entscheidung",
@@ -381945,48 +380461,70 @@ window.WORTWEG_DATA = {
       "detail_id": "pronominal-adverbs",
       "examples": [
         {
-          "prompt": "___ wartest du? – Auf den Bus.",
-          "answer": "Worauf",
+          "prompt": "Die Maßnahme trägt ___ Verbesserung der Lage bei.",
+          "answer": "zur",
           "choices": [
-            "Woran",
-            "Womit",
-            "Wofür"
+            "für die",
+            "an der",
+            "auf die"
           ],
-          "translation": "你在等什么？——公交车。",
-          "explanation": "warten auf，问事物用 worauf。"
+          "translation": "这项措施有助于改善状况。",
+          "explanation": "beitragen zu 支配 Dativ：zu der → zur。"
         },
         {
-          "prompt": "Ich denke oft ___. (an den Urlaub)",
-          "answer": "daran",
+          "prompt": "Wir müssen ___ den neuen Bedingungen Rücksicht nehmen.",
+          "answer": "auf",
           "choices": [
-            "darauf",
-            "dafür",
-            "damit"
+            "an",
+            "für",
+            "über"
           ],
-          "translation": "我常常想到这件事（假期）。",
-          "explanation": "denken an → daran。"
+          "translation": "我们必须顾及新的条件。",
+          "explanation": "Rücksicht nehmen auf + Akkusativ 是固定搭配。"
         },
         {
-          "prompt": "Auf ___ wartest du? – Auf meinen Bruder.",
-          "answer": "wen",
+          "prompt": "Die Entscheidung hängt ___ den Kosten ab.",
+          "answer": "von",
           "choices": [
-            "wem",
-            "wer",
-            "wessen"
+            "auf",
+            "für",
+            "über"
           ],
-          "translation": "你在等谁？——我的兄弟。",
-          "explanation": "问人用 auf + Akk.，wen。"
+          "translation": "这个决定取决于成本。",
+          "explanation": "abhängen von + Dativ 是固定搭配。"
         },
         {
-          "prompt": "Ich freue mich ___, dass du kommst.",
-          "answer": "darüber",
+          "prompt": "Sie ist ___ dem Ergebnis überzeugt.",
+          "answer": "von",
           "choices": [
-            "dafür",
-            "daran",
-            "damit"
+            "über",
+            "auf",
+            "an"
           ],
-          "translation": "你要来，我很高兴。",
-          "explanation": "对已知事实高兴：sich freuen darüber, dass …。"
+          "translation": "她确信这个结果。",
+          "explanation": "überzeugt sein von + Dativ。"
+        },
+        {
+          "prompt": "Die Daten stehen uns zur ___.",
+          "answer": "Verfügung",
+          "choices": [
+            "Entscheidung",
+            "Betracht",
+            "Frage"
+          ],
+          "translation": "这些数据可供我们使用。",
+          "explanation": "jdm. zur Verfügung stehen 是高频书面搭配。"
+        },
+        {
+          "prompt": "Die Änderung bringt erhebliche Vorteile mit ___.",
+          "answer": "sich",
+          "choices": [
+            "ihm",
+            "es",
+            "selbst"
+          ],
+          "translation": "这项变化带来显著好处。",
+          "explanation": "etw. bringt etw. mit sich 是固定功能表达。"
         }
       ],
       "table": null,
@@ -383071,7 +381609,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 推测",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。"
+            "有明确时间词时可用 Präsens 表将来；Futur I 还可表示推测：Morgen fahre ich nach Berlin；Er wird jetzt zu Hause sein。"
           ],
           "tables": [],
           "examples": [
@@ -383269,48 +381807,92 @@ window.WORTWEG_DATA = {
       "detail_id": "formal-writing",
       "examples": [
         {
-          "prompt": "Meiner Meinung nach ___ diese Maßnahme sinnvoll.",
-          "answer": "ist",
+          "prompt": "Wegen ___ Wetters wurde die Veranstaltung abgesagt.",
+          "answer": "des schlechten",
           "choices": [
-            "sie ist",
-            "sein",
-            "sind"
+            "dem schlechten",
+            "das schlechte",
+            "schlechtes"
           ],
-          "translation": "在我看来，这项措施是合理的。",
-          "explanation": "前置介词短语占第一成分，动词第二位。"
+          "translation": "由于天气恶劣，活动被取消了。",
+          "explanation": "wegen 在正式标准语中常支配 Genitiv，形容词用弱变化。"
         },
         {
-          "prompt": "Die Lösung ist zwar teuer, ___ sie ist nachhaltig.",
-          "answer": "aber",
+          "prompt": "Das Problem hätte früher gelöst werden ___.",
+          "answer": "müssen",
           "choices": [
-            "sondern",
-            "denn",
-            "oder"
+            "gemusst",
+            "musste",
+            "worden"
           ],
-          "translation": "方案虽然昂贵，但具有可持续性。",
-          "explanation": "zwar … aber 构成让步对比。"
+          "translation": "这个问题本应更早解决。",
+          "explanation": "过去非现实情态被动使用 hätte + Partizip II + werden + Ersatzinfinitiv。"
         },
         {
-          "prompt": "Daraus folgt, ___ wir mehr Zeit brauchen.",
-          "answer": "dass",
+          "prompt": "Er sagt, die Maßnahme ___ notwendig.",
+          "answer": "sei",
           "choices": [
-            "ob",
-            "wenn",
-            "als"
+            "wäre",
+            "ist gewesen",
+            "wird"
           ],
-          "translation": "由此可知，我们需要更多时间。",
-          "explanation": "dass 引导结论的内容从句。"
+          "translation": "他说这项措施是必要的。",
+          "explanation": "正式转述使用 Konjunktiv I：sei。"
         },
         {
-          "prompt": "Einerseits spart es Zeit, ___ kostet es Geld.",
-          "answer": "andererseits",
+          "prompt": "Die gestern ___ Ergebnisse werden heute veröffentlicht.",
+          "answer": "ausgewerteten",
           "choices": [
-            "obwohl",
-            "weil",
-            "während"
+            "auswertenden",
+            "auswertete",
+            "ausgewertet worden"
           ],
-          "translation": "一方面它节省时间，另一方面它花钱。",
-          "explanation": "einerseits … andererseits，第二分句保持动词第二位。"
+          "translation": "昨天评估出的结果今天公布。",
+          "explanation": "完成或被动意义的扩展定语使用 Partizip II 并按形容词变格。"
+        },
+        {
+          "prompt": "Obwohl die Kosten hoch sind, ___ der Plan umgesetzt.",
+          "answer": "wird",
+          "choices": [
+            "ist",
+            "hat",
+            "würde sein"
+          ],
+          "translation": "尽管成本很高，计划仍会实施。",
+          "explanation": "obwohl 从句动词末位；主句使用过程被动。"
+        },
+        {
+          "prompt": "Je genauer wir planen, desto weniger Fehler ___.",
+          "answer": "machen wir",
+          "choices": [
+            "wir machen",
+            "gemacht werden wir",
+            "wir machten haben"
+          ],
+          "translation": "我们计划得越细致，犯的错误就越少。",
+          "explanation": "desto 成分占主句第一位，有限动词随后。"
+        },
+        {
+          "prompt": "Die Firma führt die Prüfung durch. → die ___ der Prüfung",
+          "answer": "Durchführung",
+          "choices": [
+            "durchführen",
+            "durchgeführte",
+            "Führung durch"
+          ],
+          "translation": "公司实施检查。→ 检查的实施",
+          "explanation": "动词短语可名词化为 die Durchführung。"
+        },
+        {
+          "prompt": "Das ist die Kollegin, mit ___ ich das Projekt leite.",
+          "answer": "der",
+          "choices": [
+            "die",
+            "deren",
+            "denen"
+          ],
+          "translation": "这就是和我一起负责项目的女同事。",
+          "explanation": "介词 mit 支配 Dativ，阴性关系代词是 der。"
         }
       ],
       "table": null,
@@ -383481,7 +382063,7 @@ window.WORTWEG_DATA = {
         {
           "title": "03 · 时态",
           "paragraphs": [
-            "弱变化过去时使用词干 + -te：lernte；强变化改变词干元音：kam；混合变化既改变词干又有 -te：dachte、brachte。ich/er 强变化常没有额外词尾。",
+            "时态要配合时间关系和语体选择：Präsens 讲现在或安排，Perfekt 常用于口语回顾，Präteritum 常用于书面叙事，Plusquamperfekt 表示过去的过去。",
             "运用：先确定时间参照和语体，再选择对应时态形式。"
           ],
           "tables": [
@@ -383712,6 +382294,28 @@ window.WORTWEG_DATA = {
                 "seien",
                 "haben",
                 "werden"
+              ]
+            ],
+            [
+              [
+                "情况",
+                "优先形式",
+                "示例"
+              ],
+              [
+                "Konjunktiv I 与直陈式不同",
+                "Konjunktiv I",
+                "Er sagt, er sei krank."
+              ],
+              [
+                "Konjunktiv I 与直陈式同形",
+                "常用 Konjunktiv II 区分",
+                "Sie sagten, sie hätten keine Zeit."
+              ],
+              [
+                "Konjunktiv II 也不清楚或很生硬",
+                "würde + Infinitiv",
+                "Sie sagten, sie würden später kommen."
               ]
             ]
           ],

@@ -98,26 +98,32 @@ function perfectAuxiliaryPanel(u){
  return `<section class="perfect-guide"><h3>haben 和 sein：按动词用法判断</h3><div class="auxiliary-grid"><div><b>haben</b><p>及物动词、反身动词和大多数动作使用 <span lang="de">haben</span>：<span lang="de">Ich habe das Buch gelesen.</span></p></div><div><b>sein</b><p>表示位置移动或状态变化的不及物用法，以及 <span lang="de">bleiben、sein、werden</span>，通常使用 <span lang="de">sein</span>：<span lang="de">Ich bin nach Hause gegangen.</span></p></div></div><p class="small muted">同一个动词在不同义项中可能选择不同助动词，应按词条搭配判断。助动词按六个人称变化，Partizip II 放在句框末端。</p><h3>本章常见动词的完成时</h3>${table([['动词','助动词','Partizip II','ich 形式','中文提示'],...rows])}</section>`;
 }
 function verbClassPanel(u){
- const presentOnly=u.id==='A1.1-02'||u.id==='A1.1-06';
- const rules=presentOnly?{weak:'规则现在时：去掉 -en，再按六个人称添加 -e、-st、-t、-en、-t、-en。',mixed:'本章只观察这些动词的现在时人称形式。',strong:'部分强变化动词在 du 与 er/sie/es 现在时改变词干元音，其他人称通常保留原词干。',irregular:'sein、haben、werden 和情态动词的现在时需要按六个人称整组记忆。'}:{weak:'规则变化：现在时使用固定人称词尾；Präteritum 通常为词干 + -te，Partizip II 通常为 ge-…-t。',mixed:'混合变化：词干变化，同时保留弱变化的 -te / -t，如 denken–dachte–gedacht。',strong:'强变化：过去时改变词干，Partizip II 多为 ge-…-en；部分动词在 du 与 er/sie/es 现在时也换元音。',irregular:'特殊不规则：sein、haben、werden 和情态动词需要整组记忆。'};
+ const presentOnly=['A1.1-02','A1.1-06','A1.1-07','A1.2-04','A1.2-06'].includes(u.id);
+ const presentRules={weak:'规则现在时：去掉 -en，再按六个人称添加 -e、-st、-t、-en、-t、-en。',mixed:'本章只观察这些动词的现在时人称形式；过去形式留到过去时章节。',strong:'部分强变化动词在 du 与 er/sie/es 现在时改变词干元音，其他人称通常保留原词干。',irregular:'sein、haben、werden 和情态动词的现在时需要按六个人称整组记忆。'};
+ const perfectRules={weak:'弱变化动词的 Partizip II 通常为 ge- + 词干 + -(e)t，例如 gelernt、gearbeitet。',mixed:'混合变化的 Partizip II 会改变词干并以 -t 结尾，例如 gedacht、gebracht。',strong:'强变化动词的 Partizip II 多以 -en 结尾且可能改变词干，例如 gelesen、gegangen。',irregular:'sein、haben、werden 的 Partizip II 和助动词选择需要单独记忆。'};
+ const fullRules={weak:'规则变化：现在时使用固定人称词尾；Präteritum 通常为词干 + -te，Partizip II 通常为 ge-…-t。',mixed:'混合变化：词干变化，同时保留弱变化的 -te / -t，如 denken–dachte–gedacht。',strong:'强变化：过去时改变词干，Partizip II 多为 ge-…-en；部分动词在 du 与 er/sie/es 现在时也换元音。',irregular:'特殊不规则：sein、haben、werden 和情态动词需要整组记忆。'};
+ const rules=presentOnly?presentRules:u.id==='A1.2-05'?perfectRules:fullRules;
  const labels={weak:'规则变化 · 弱变化',mixed:'半规则变化 · 混合变化',strong:'不规则变化 · 强变化',irregular:'特殊不规则'};
  const people=['ich','du','er / sie / es','wir','ihr','sie / Sie'],stage=u.id;
  const forms={
-  'A1.1-02':['present'],'A1.1-06':['present'],'A1.1-07':['present','participle'],'A1.2-04':['present','participle'],'A1.2-05':['present','participle','perfect'],'A1.2-06':['present'],
+  'A1.1-02':['present'],'A1.1-06':['present'],'A1.1-07':['present'],'A1.2-04':['present'],'A1.2-05':['present','participle','perfect'],'A1.2-06':['imperative'],
   'A2.1-05':['present','past','participle','perfect'],'A2.2-06':['present','future'],'A2.2-07':['present','participle'],
   'B1.1-05':['past','perfect','pluperfect'],'B1.1-06':['present','past','passive'],'B1.1-07':['present','kii'],
   'B1.2-01':['present','past','perfect','passive'],'B1.2-02':['present','kii','kiiPast'],'B1.2-08':['present','past','perfect','pluperfect','future'],'B2.1-01':['present','ki'],
-  'B2.1-02':['present','kii','kiiPast'],'B2.1-03':['present','past','perfect','pluperfect','future','passive'],'B2.1-04':['present','infinitive'],
-  'B2.1-05':['present','participle']
+  'B2.1-02':['present','kii','kiiPast'],'B2.1-03':['present','past','perfect','pluperfect','future','passive'],'B2.1-04':['present','infinitive']
  };
- const names={present:'Präsens 现在时',past:'Präteritum 过去时',participle:'Partizip II',perfect:'Perfekt 完成时',pluperfect:'Plusquamperfekt 过去完成时',future:'Futur I 将来时',ki:'Konjunktiv I 第一虚拟式',kii:'Konjunktiv II 第二虚拟式',kiiPast:'Konjunktiv II 过去非现实',passive:'Passiv 被动态',infinitive:'不定式结构'};
+ const names={present:'Präsens 现在时',past:'Präteritum 过去时',participle:'Partizip II',perfect:'Perfekt 完成时',pluperfect:'Plusquamperfekt 过去完成时',future:'Futur I 将来时',ki:'Konjunktiv I 第一虚拟式',kii:'Konjunktiv II 第二虚拟式',kiiPast:'Konjunktiv II 过去非现实',passive:'Passiv 被动态',infinitive:'不定式结构',imperative:'Imperativ 命令式'};
  const keys=forms[stage]||['present'],passiveAux=['werde','wirst','wird','werden','werdet','werden'];
- const cell=(w,key,i)=>{const c=w.conjugation||{};if(key==='participle')return w.participle||'—';if(key==='passive')return `${passiveAux[i]} ${w.participle||'Partizip II'}`;if(key==='infinitive')return w.pattern||`zu + ${w.lemma}`;return c[key]?.[i]||w[key]?.[i]||'—';};
+ if(stage==='A1.2-06'){
+  const fixed={sein:['Sei!','Seid!','Seien Sie!'],haben:['Hab!','Habt!','Haben Sie!'],kommen:['Komm!','Kommt!','Kommen Sie!'],gehen:['Geh!','Geht!','Gehen Sie!'],lesen:['Lies!','Lest!','Lesen Sie!'],nehmen:['Nimm!','Nehmt!','Nehmen Sie!'],geben:['Gib!','Gebt!','Geben Sie!']};
+  const ws=(u.focus||[]).map(id=>C.words[id]).filter(Boolean);return `<section class="verb-class"><h3>du、ihr 与 Sie 命令式</h3><p>du 形式省略主语和 -st；ihr 形式等于现在时 ihr 形式但省略 ihr；Sie 形式使用不定式词形 + Sie。sein 及部分强变化动词需要单独记忆。</p>${table([['动词','du','ihr','Sie'],...ws.map(w=>[w.lemma,...(fixed[w.id]||['—','—',w.lemma[0].toUpperCase()+w.lemma.slice(1)+' Sie!'])])])}</section>`;
+ }
+ const cell=(w,key,i)=>{const c=w.conjugation||{};if(key==='participle')return w.participle||'—';if(key==='passive'){if(['sein','haben','werden','bleiben','kommen','gehen','fahren'].includes(w.id)||w.type==='情态动词')return '—';return `${passiveAux[i]} ${w.participle||'Partizip II'}`;}if(key==='infinitive')return w.pattern||`zu + ${w.lemma}`;return c[key]?.[i]||w[key]?.[i]||'—';};
  return Object.keys(labels).map(cls=>{const ws=(u.focus||[]).map(id=>C.words[id]).filter(w=>w?.verbClass===cls);if(!ws.length)return '';return `<section class="verb-class"><h3>${labels[cls]}</h3><p>${rules[cls]}</p>${ws.slice(0,12).map(w=>{const preview=keys.map(k=>k==='present'?(w.conjugation?.present?.[2]||w.present?.[2]):k==='participle'?w.participle:null).filter(Boolean).join(' · ');return `<details class="verb-entry"><summary><span lang="de">${E(w.lemma)}</span><span class="small muted">${E(preview)}</span></summary>${table([['人称',...keys.map(k=>names[k])],...people.map((p,i)=>[p,...keys.map(k=>cell(w,k,i))])])}<p class="small muted">${link('#/word/'+enc(w.id),'打开完整词条与全部时态 →','text-link')}</p></details>`;}).join('')}</section>`;}).join('');
 }
 function injectVerbClassPanel(u){
  if(!route.startsWith('/grammar/')||!u)return;
- const verbUnits=['A1.1-02','A1.1-06','A1.1-07','A1.2-04','A1.2-05','A1.2-06','A2.1-05','A2.2-06','A2.2-07','B1.1-05','B1.1-06','B1.1-07','B1.2-01','B1.2-02','B1.2-08','B2.1-01','B2.1-02','B2.1-03','B2.1-04','B2.1-05'];
+ const verbUnits=['A1.1-02','A1.1-06','A1.1-07','A1.2-04','A1.2-05','A1.2-06','A2.1-05','A2.2-06','A2.2-07','B1.1-05','B1.1-06','B1.1-07','B1.2-01','B1.2-02','B1.2-08','B2.1-01','B2.1-02','B2.1-03','B2.1-04'];
  if(!verbUnits.includes(u.id))return;
  const target=document.querySelector('.grammar-feature');if(!target)return;
  const focus=(u.verbFocus||[]).filter(id=>C.words[id]?.pos==='动词' || C.words[id]?.type==='情态动词');
